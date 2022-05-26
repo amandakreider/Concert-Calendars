@@ -94,7 +94,7 @@ for i in range(len(json_object['result'])):
 		# Adding events to calendar
 		cal.add_component(event)
 
-directory = str(Path(__file__).parent) + "/"
+directory = str(Path(__file__).parent.parent) + "/calendars/"
 print("ics file will be generated at ", directory)
 f = open(os.path.join(directory, 'fillmore_events.ics'), 'wb')
 f.write(cal.to_ical())
