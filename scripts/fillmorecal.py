@@ -38,7 +38,7 @@ cal = Calendar()
 # Loop through shows and add details to calendar
 for i in range(len(json_object['result'])):
 
-	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S').astimezone(eastern)
+	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S').astimezone()
 	end_time = start_time + timedelta(hours=2)
 
 	event = Event()
