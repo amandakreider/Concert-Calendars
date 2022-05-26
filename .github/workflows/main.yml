@@ -36,7 +36,8 @@ jobs:
       # Push changes
       - name: push changes to remote
         run: |
-          git add ./calendars/fillmore_events.ics git commit -m "Update Fillmore calendar"
+          git add ./calendars/fillmore_events.ics 
+          git commit -m "Update Fillmore calendar"
           git push
 
 
