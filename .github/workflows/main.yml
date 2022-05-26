@@ -31,4 +31,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: execute py script
         run: |
-          python fillmorecal.py
+          python ./././fillmorecal.py
