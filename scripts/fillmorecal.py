@@ -10,9 +10,9 @@ import os
 from pathlib import Path
 
 # Define start and end date parameters to insert into URL
-d1 = date.today().strftime("%#m/%#d/%Y")
+d1 = '{dt.month}/{dt.day}/{dt.year}/'.format(dt = date(today))
 d2 = date.today() + timedelta(days=365)
-d2 = d2.strftime("%#m/%#d/%Y")
+d2 = '{dt.month}/{dt.day}/{dt.year}/'.format(dt = d2)
 
 # Define json url for Fillmore events
 url = "https://www.thefillmorephilly.com/api/EventCalendar/GetEvents?startDate="+d1+"&endDate="+d2+"&venueIds=17019,17012&limit=200&offset=1&genre=&artist=&priceLevel=&offerType=STANDARD"
