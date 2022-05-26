@@ -16,7 +16,6 @@ d2 = '{dt.month}/{dt.day}/{dt.year}/'.format(dt = d2)
 
 # Define json url for Fillmore events
 url = "https://www.thefillmorephilly.com/api/EventCalendar/GetEvents?startDate="+d1+"&endDate="+d2+"&venueIds=17019,17012&limit=200&offset=1&genre=&artist=&priceLevel=&offerType=STANDARD"
-eastern = timezone('US/Eastern')
 
 # Pull in json data from url
 r = requests.get(url)
@@ -38,7 +37,7 @@ cal = Calendar()
 # Loop through shows and add details to calendar
 for i in range(len(json_object['result'])):
 
-	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S').astimezone()
+	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S')
 	end_time = start_time + timedelta(hours=2)
 
 	event = Event()
