@@ -10,7 +10,7 @@ import os
 from pathlib import Path
 
 # Define start and end date parameters to insert into URL
-d1 = '{dt.month}/{dt.day}/{dt.year}/'.format(dt = datetime.datetime.now())
+d1 = '{dt.month}/{dt.day}/{dt.year}/'.format(dt = datetime.now())
 d2 = date.today() + timedelta(days=365)
 d2 = '{dt.month}/{dt.day}/{dt.year}/'.format(dt = d2)
 
