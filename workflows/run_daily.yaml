@@ -1,0 +1,21 @@
+name: run_daily
+    
+    on: 
+      workflow_dispatch:
+      schedule:
+        - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+    
+    jobs:
+      pyrun:
+        runs-on: ubuntu-latest
+    
+        steps:
+          - name: checkout repo content
+            uses: actions/checkout@v3 # checkout the repository content to github runner.
+          - name: setup python
+            uses: actions/setup-python@v2
+            with:
+              python-version: 3.8 #install the python needed
+          - name: execute py script 
+            run: |
+              py ./scripts/fillmorecal.py
