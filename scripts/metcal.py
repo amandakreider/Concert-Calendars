@@ -8,6 +8,7 @@ from datetime import date, datetime, timedelta
 import os
 from pathlib import Path
 from dateutil.parser import parse
+import string
 
 #Create soup of events page
 url = 'https://themetphilly.com/events/'
@@ -66,12 +67,18 @@ for elem in myevents:
 		title = cont.find('h1').text
 		titles.append(cont.find('h1').text)
 
+	printable = set(string.printable)
+	title = ''.join(filter(lambda x: x in printable, title))
+
 	#Show date
 	date=cont.find('h3').text
 	dates.append(date)
 
 	#Grab showtimes
 	timedets = eventsoup.find_all('div', {'class': 'event-detail-block'})
+
+	showtime = ''
+	doortime = ''
 
 	for det in timedets:
 		timetypes=det.find_all('h2')
@@ -82,6 +89,11 @@ for elem in myevents:
 			elif 'Event' in type.text:
 				showtime = type.find('span').string
 				showtimes.append(showtime)
+
+	if showtime == '':
+		showtimes.append(showtime)
+	if doortime == '':
+		doortimes.append(doortime)
 
 	#Grab event descriptions
 	eventdesc=eventsoup.find('div', {'class': 'event-description'}).text
@@ -124,6 +136,8 @@ for elem in myevents:
 	cal.add_component(event)	
 
 # Create a csv file with event info
+df = pd.DataFrame()
+
 df['Show'] = titles
 df['Date'] = dates
 df['Doors'] = doortimes
@@ -133,9 +147,7 @@ df['Link'] = links
 
 directory = str(Path(__file__).parent.parent) + "/csv/"
 print("csv file will be generated at ", directory)
-f = open(os.path.join(directory, 'concerts.csv'), 'wb')
-f.write(df.to_csv())
-f.close()
+df.to_csv(directory+'met_events.csv')
 
 # Save .ics file
 directory = str(Path(__file__).parent.parent) + "/calendars/"
