@@ -134,9 +134,14 @@ for i in range(len(json_object['result'])):
 	# Add artists, on-sale date, ticket url, and genre
 	artist_str = ""
 	for j in range(len(json_object['result'][i]['artists'])):
-		new_artist = json_object['result'][i]['artists'][j]['name'].encode('ascii', 'ignore')
-		new_artist = new_artist.decode('ascii')
-		artist_str = "%s\n%s" % (artist_str, new_artist)
+		if j == 0:
+			new_artist = json_object['result'][i]['artists'][j]['name'].encode('ascii', 'ignore')
+			new_artist = new_artist.decode('ascii')
+			artist_str = new_artist
+		elif j!= 0:
+			new_artist = json_object['result'][i]['artists'][j]['name'].encode('ascii', 'ignore')
+			new_artist = new_artist.decode('ascii')
+			artist_str = "%s\n%s" % (artist_str, new_artist)
 	artistinfo = "%s\n%s" % ("Artists:", artist_str)	
 
 	sale = "On Sale on"
