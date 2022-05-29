@@ -64,8 +64,12 @@ for elem in myevents:
 			title = cont.find('h1').text+": "+cont.find('h2').text
 			titles.append(cont.find('h1').text+": "+cont.find('h2').text)
 	except AttributeError as e:
-		title = cont.find('h1').text
-		titles.append(cont.find('h1').text)
+		if post == 1:
+			title = "POSTPONED: "+cont.find('h1').text
+			titles.append("POSTPONED: "+cont.find('h1').text)
+		elif post == 0:
+			title = cont.find('h1').text
+			titles.append(cont.find('h1').text)
 
 	#printable = set(string.printable)
 	#title = ''.join(filter(lambda x: x in printable, title))
@@ -105,11 +109,16 @@ for elem in myevents:
 	timefull = date+" at "+showtime
 	start_time = eastern.localize(parse(timefull))
 	end_time = start_time + timedelta(hours=2)	
-	event.add('dtstart', start_time)
-	event.add('dtend', end_time)
-
 	print(title)
 	print(start_time)
+
+	utcstart = start_time.astimezone(pytz.utc)
+	utcend = end_time.astimezone(pytz.utc)
+	print(utcstart)
+	print(utcend)	
+
+	event.add('dtstart', utcstart)
+	event.add('dtend', utcend)
 
 	# Add timestamp
 	event.add('dtstamp', datetime.now())
