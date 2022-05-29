@@ -62,52 +62,34 @@ for i in range(len(json_object['result'])):
 	utcend = end_time.astimezone(pytz.utc)	
 
 	# Grab title
-	if json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['soldOut'] == False & json_object['result'][i]['isCancelled'] == False:
+	if json_object['result'][i]['isCancelled'] == True:
+		title = "CANCELED: "+json_object['result'][i]['title']
+		postponed.append('N/A')
+		canceled.append('Canceled')
+		soldout.append('N/A')
+		titles.append(title)	
+	elif json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['soldOut'] == False:
 		title = json_object['result'][i]['title']
 		postponed.append('')
 		canceled.append('')
 		soldout.append('Tickets Available')
 		titles.append(title)
-	elif json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['soldOut'] == False & json_object['result'][i]['isCancelled'] == False:
+	elif json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['soldOut'] == False:
 		title = "Postponed: "+json_object['result'][i]['title']
 		postponed.append('Postponed')
 		canceled.append('')
 		soldout.append('Tickets Available')
 		titles.append(title)
-	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['isCancelled'] == False:
+	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == False:
 		title = "SOLD OUT: "+json_object['result'][i]['title']
 		postponed.append('')	
 		canceled.append('')
 		soldout.append('Sold Out')
 		titles.append(title)
-	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['isCancelled'] == False:
+	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == True:
 		title = "Postponed: "+json_object['result'][i]['title']
 		postponed.append('Postponed')		
 		canceled.append('')
-		soldout.append('Sold Out')
-		titles.append(title)
-	elif json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['soldOut'] == False & json_object['result'][i]['isCancelled'] == True:
-		title = "CANCELED: "+json_object['result'][i]['title']
-		postponed.append('')
-		canceled.append('Canceled')
-		soldout.append('Tickets Available')
-		titles.append(title)
-	elif json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['soldOut'] == False & json_object['result'][i]['isCancelled'] == True:
-		title = "CANCELED: "+json_object['result'][i]['title']
-		postponed.append('Postponed')
-		canceled.append('Canceled')
-		soldout.append('Tickets Available')
-		titles.append(title)
-	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['isCancelled'] == True:
-		title = "CANCELED: "+json_object['result'][i]['title']
-		postponed.append('')	
-		canceled.append('Canceled')
-		soldout.append('Sold Out')
-		titles.append(title)
-	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['isCancelled'] == True:
-		title = "CANCELED: "+json_object['result'][i]['title']
-		postponed.append('Postponed')		
-		canceled.append('Canceled')
 		soldout.append('Sold Out')
 		titles.append(title)
 
