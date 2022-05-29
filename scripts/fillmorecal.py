@@ -10,12 +10,14 @@ import os
 from pathlib import Path
 
 # Define start and end date parameters to insert into URL (today + 365 days)
-d1 = '{dt.month}/{dt.day}/{dt.year}/'.format(dt = datetime.now())
-d2 = date.today() + timedelta(days=365)
-d2 = '{dt.month}/{dt.day}/{dt.year}/'.format(dt = d2)
+d1 = '{dt.month}/{dt.day}/{dt.year}'.format(dt = date.today()-timedelta(days=3))
+d2 = '{dt.month}/{dt.day}/{dt.year}'.format(dt = date.today() + timedelta(days=365))
 
 # Define json url for Fillmore events
 url = "https://www.thefillmorephilly.com/api/EventCalendar/GetEvents?startDate="+d1+"&endDate="+d2+"&venueIds=17019,17012&limit=200&offset=1&genre=&artist=&priceLevel=&offerType=STANDARD"
+
+# Define timezone
+eastern = pytz.timezone("America/New_York")
 
 # Pull in json data from url
 r = requests.get(url)
@@ -37,10 +39,11 @@ cal = Calendar()
 # Loop through shows and add details to calendar
 for i in range(len(json_object['result'])):
 
-	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S')
-	end_time = start_time + timedelta(hours=2)
+	event=Event()
 
-	event = Event()
+	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S')
+	start_time = eastern.localize(start_time)
+	end_time = start_time + timedelta(hours=2)
 
 	# Show titles
 	if json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['soldOut'] == False:
@@ -54,6 +57,10 @@ for i in range(len(json_object['result'])):
 
 	if json_object['result'][i]['isCancelled'] == True:	
 		title = "CANCELLED: "+json_object['result'][i]['title']
+
+	print(title)
+	print(start_time)
+	print(end_time)
 
 	event.add('summary', title)
 
