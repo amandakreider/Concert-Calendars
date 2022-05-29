@@ -1,25 +1,26 @@
+import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
-from urllib.request import Request, urlopen
 from icalendar import Calendar, Event, vCalAddress, vText
 import pytz
-from pytz import timezone
 from datetime import date, datetime, timedelta
 import os
 from pathlib import Path
 from dateutil.parser import parse
-import string
 
-#Create soup of events page
+# Define url for Met events
 url = 'https://themetphilly.com/events/'
-hdr = {'User-Agent': 'Mozilla/5.0'}
-req = Request(url,headers=hdr)
-page = urlopen(req)
-soup = bs(page, 'html.parser')
 
+# Define timezone
+eastern = pytz.timezone("America/New_York")
+
+# Pull in the html data from url
+hdr = {'User-Agent': 'Mozilla/5.0'}
+r = requests.get(url, headers=hdr)
+soup = bs(r.content, "html.parser")
 myevents = soup.find_all('div', {'class': 'event-item'})
 
-#Initiate lists
+# Initiate lists
 links = []
 titles = []
 postponed = []
@@ -33,21 +34,20 @@ cal = Calendar()
 # Uncomment to add attendees
 #cal.add('Attendee 1', 'MAILTO:attendee1@gmail.com')
 
+# Loop through shows and add details to calendar
 for elem in myevents:
 
-	cont = elem.find('div', {'class': 'event-link-container'})
+	# Initiate event
+	event = Event()
 
-	#Grab links
+	# Grab link to individual show
+	cont = elem.find('div', {'class': 'event-link-container'})
 	eventurl=cont.find('a').get('href')
 	links.append(cont.find('a').get('href'))
+	eventreq = requests.get(eventurl,headers=hdr)
+	eventsoup = bs(eventreq.content, 'html.parser')
 
-	#Create soup of event link
-	eventhdr = {'User-Agent': 'Mozilla/5.0'}
-	eventreq = Request(eventurl,headers=hdr)
-	eventpage = urlopen(eventreq)
-	eventsoup = bs(eventpage, 'html.parser')
-
-	#Check if postponed
+	# Check if postponed
 	if 'Postponed' in elem.find('a', {'class': 'event-btn btn-accent right-btn'}).text:
 		postponed.append('Postponed')
 		post = 1
@@ -55,7 +55,7 @@ for elem in myevents:
 		postponed.append('')
 		post = 0
 
-	#Grab titles
+	# Grab title
 	try:
 		if post == 1:
 			title = "POSTPONED: "+cont.find('h1').text+": "+cont.find('h2').text
@@ -67,14 +67,14 @@ for elem in myevents:
 		title = cont.find('h1').text
 		titles.append(cont.find('h1').text)
 
-	printable = set(string.printable)
-	title = ''.join(filter(lambda x: x in printable, title))
+	#printable = set(string.printable)
+	#title = ''.join(filter(lambda x: x in printable, title))
 
-	#Show date
+	# Grab date
 	date=cont.find('h3').text
 	dates.append(date)
 
-	#Grab showtimes
+	# Grab showtime
 	timedets = eventsoup.find_all('div', {'class': 'event-detail-block'})
 
 	showtime = ''
@@ -95,26 +95,26 @@ for elem in myevents:
 	if doortime == '':
 		doortimes.append(doortime)
 
-	#Grab event descriptions
-	eventdesc=eventsoup.find('div', {'class': 'event-description'}).text
+	# Grab event description
+	eventdesc=eventsoup.find('div', {'class': 'event-description'}).text	
 
-	#Initiate event
-	event = Event()
-
-	# Show titles
+	# Add title to calendar event
 	event.add('summary', title)
 
-	# Showtimes
+	# Add showtimes to calendar event
 	timefull = date+" at "+showtime
-	start_time = parse(timefull)
+	start_time = eastern.localize(parse(timefull))
 	end_time = start_time + timedelta(hours=2)	
 	event.add('dtstart', start_time)
 	event.add('dtend', end_time)
 
-	# Timestamp - cal creation
+	print(title)
+	print(start_time)
+
+	# Add timestamp
 	event.add('dtstamp', datetime.now())
 
-	# Location
+	# Add location
 	location = 'The Met, 858 N Broad St, Philadelphia, PA 19130'
 	event['location'] = vText(location)
 
