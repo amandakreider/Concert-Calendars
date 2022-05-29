@@ -7,6 +7,7 @@ import pytz
 from datetime import date, datetime, timedelta
 import os
 from pathlib import Path
+from dateutil.parser import parse
 
 # Define start and end date parameters to insert into URL (today + 365 days)
 d1 = '{dt.month}/{dt.day}/{dt.year}'.format(dt = date.today()-timedelta(days=3))
@@ -25,10 +26,6 @@ json_data = soup.text
 data = json.loads(json_data)
 json_object = json.loads(data)
 
-# Uncomment to create a .csv file with all event data
-#df = pd.DataFrame(json_object['result'])
-#df.to_csv('concerts_fillmore.csv')
-
 # Initiate calendar
 cal = Calendar()
 
@@ -42,6 +39,7 @@ soldout = []
 postponed = []
 canceled = []
 showtimes = []
+showdates = []
 
 # Loop through shows and add details to calendar
 for i in range(len(json_object['result'])):
@@ -53,7 +51,12 @@ for i in range(len(json_object['result'])):
 	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S')
 	start_time = eastern.localize(start_time)
 	end_time = start_time + timedelta(hours=2)
-	showtimes.append(json_object['result'][i]['eventTime'])
+
+	showdate = '{dt.month}/{dt.day}/{dt.year}'.format(dt=start_time)
+	timestr = start_time.strftime('%I:%M %p')
+
+	showtimes.append(timestr)
+	showdates.append(showdate)
 
 	utcstart = start_time.astimezone(pytz.utc)
 	utcend = end_time.astimezone(pytz.utc)	
@@ -144,9 +147,10 @@ for i in range(len(json_object['result'])):
 			artist_str = "%s\n%s" % (artist_str, new_artist)
 	artistinfo = "%s\n%s" % ("Artists:", artist_str)	
 
-	sale = "On Sale on"
-	saledate = json_object['result'][i]['onsaleOnDate']
-	saleinfo = "%s %s" % (sale, saledate)
+	sdate = parse(json_object['result'][i]['onsaleOnDate'])
+	saledate = '{dt.month}/{dt.day}/{dt.year}'.format(dt=sdate)
+	saletime = sdate.strftime('%I:%M %p')
+	saleinfo = "On sale on %s at %s" % (saledate, saletime)
 
 	url = "Tickets:"
 	ticketurl = json_object['result'][i]['ticketUrl']
@@ -168,6 +172,7 @@ for i in range(len(json_object['result'])):
 df = pd.DataFrame()
 
 df['Show'] = titles
+df['Date'] = showdates
 df['Showtime'] = showtimes
 df['Sold Out?'] = soldout
 df['Canceled?'] = canceled
