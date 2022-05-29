@@ -35,44 +35,90 @@ cal = Calendar()
 # Uncomment to add attendees
 #cal.add('Attendee 1', 'MAILTO:attendee1@gmail.com')
 
+# Initiate lists
+links = []
+titles = []
+soldout = []
+postponed = []
+canceled = []
+showtimes = []
+
 # Loop through shows and add details to calendar
 for i in range(len(json_object['result'])):
 
 	# Initiate event
 	event=Event()
 
-	# Set start and end times
+	# Grab start and end time
 	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S')
 	start_time = eastern.localize(start_time)
 	end_time = start_time + timedelta(hours=2)
+	showtimes.append(json_object['result'][i]['eventTime'])
 
-	# Grab titles
-	if json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['soldOut'] == False:
+	utcstart = start_time.astimezone(pytz.utc)
+	utcend = end_time.astimezone(pytz.utc)	
+
+	# Grab title
+	if json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['soldOut'] == False & json_object['result'][i]['isCancelled'] == False:
 		title = json_object['result'][i]['title']
-	elif json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['soldOut'] == False:
+		postponed.append('')
+		canceled.append('')
+		soldout.append('Tickets Available')
+		titles.append(title)
+	elif json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['soldOut'] == False & json_object['result'][i]['isCancelled'] == False:
 		title = "Postponed: "+json_object['result'][i]['title']
-	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == False:
+		postponed.append('Postponed')
+		canceled.append('')
+		soldout.append('Tickets Available')
+		titles.append(title)
+	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['isCancelled'] == False:
 		title = "SOLD OUT: "+json_object['result'][i]['title']
-	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == True:
+		postponed.append('')	
+		canceled.append('')
+		soldout.append('Sold Out')
+		titles.append(title)
+	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['isCancelled'] == False:
 		title = "Postponed: "+json_object['result'][i]['title']
+		postponed.append('Postponed')		
+		canceled.append('')
+		soldout.append('Sold Out')
+		titles.append(title)
+	elif json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['soldOut'] == False & json_object['result'][i]['isCancelled'] == True:
+		title = "CANCELED: "+json_object['result'][i]['title']
+		postponed.append('')
+		canceled.append('Canceled')
+		soldout.append('Tickets Available')
+		titles.append(title)
+	elif json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['soldOut'] == False & json_object['result'][i]['isCancelled'] == True:
+		title = "CANCELED: "+json_object['result'][i]['title']
+		postponed.append('Postponed')
+		canceled.append('Canceled')
+		soldout.append('Tickets Available')
+		titles.append(title)
+	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['isCancelled'] == True:
+		title = "CANCELED: "+json_object['result'][i]['title']
+		postponed.append('')	
+		canceled.append('Canceled')
+		soldout.append('Sold Out')
+		titles.append(title)
+	elif json_object['result'][i]['soldOut'] == True & json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['isCancelled'] == True:
+		title = "CANCELED: "+json_object['result'][i]['title']
+		postponed.append('Postponed')		
+		canceled.append('Canceled')
+		soldout.append('Sold Out')
+		titles.append(title)
 
-	if json_object['result'][i]['isCancelled'] == True:	
-		title = "CANCELLED: "+json_object['result'][i]['title']
-
-	print(title)
-	print(start_time)
-	print(end_time)
-
+	# Add title to iCal
 	event.add('summary', title)
 
-	# Showtimes
-	event.add('dtstart', start_time)
-	event.add('dtend', end_time)
+	# Add showtimes to iCal
+	event.add('dtstart', utcstart)
+	event.add('dtend', utcend)
 
-	# Timestamp - cal creation
+	# Add timestamp to iCal
 	event.add('dtstamp', datetime.now())
 
-	# Location
+	# Add location to iCal
 	ven = json_object['result'][i]['venueName']
 	city = json_object['result'][i]['city']
 	state = json_object['result'][i]['stateName']
@@ -85,7 +131,7 @@ for i in range(len(json_object['result'])):
 	#organizer.params['role'] = vText('CEO')
 	#event['organizer'] = organizer
 
-	# Add artists, on-sale date, ticket url, and genre to event description
+	# Add artists, on-sale date, ticket url, and genre
 	artist_str = ""
 	for j in range(len(json_object['result'][i]['artists'])):
 		new_artist = json_object['result'][i]['artists'][j]['name'].encode('ascii', 'ignore')
@@ -100,6 +146,7 @@ for i in range(len(json_object['result'])):
 	url = "Tickets:"
 	ticketurl = json_object['result'][i]['ticketUrl']
 	urlinfo = "%s %s" % (url, ticketurl)
+	links.append(ticketurl)
 
 	genretext = "Genre:"
 	genre = json_object['result'][i]['genre']
@@ -111,6 +158,20 @@ for i in range(len(json_object['result'])):
 
 	# Add event to calendar
 	cal.add_component(event)
+
+# Create a csv file with event info
+df = pd.DataFrame()
+
+df['Show'] = titles
+df['Showtime'] = showtimes
+df['Sold Out?'] = soldout
+df['Canceled?'] = canceled
+df['Postponed?'] = postponed
+df['Link'] = links
+
+directory = str(Path(__file__).parent.parent) + "/csv/"
+print("csv file will be generated at ", directory)
+df.to_csv(directory+'fillmore_events.csv')
 
 # Save .ics file
 directory = str(Path(__file__).parent.parent) + "/calendars/"
