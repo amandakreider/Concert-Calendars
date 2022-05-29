@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 from icalendar import Calendar, Event, vCalAddress, vText
 import pytz
-from pytz import timezone
 from datetime import date, datetime, timedelta
 import os
 from pathlib import Path
@@ -39,13 +38,15 @@ cal = Calendar()
 # Loop through shows and add details to calendar
 for i in range(len(json_object['result'])):
 
+	# Initiate event
 	event=Event()
 
+	# Set start and end times
 	start_time = datetime.strptime(json_object['result'][i]['eventTime'], '%Y-%m-%dT%H:%M:%S')
 	start_time = eastern.localize(start_time)
 	end_time = start_time + timedelta(hours=2)
 
-	# Show titles
+	# Grab titles
 	if json_object['result'][i]['isPostponed'] == False & json_object['result'][i]['soldOut'] == False:
 		title = json_object['result'][i]['title']
 	elif json_object['result'][i]['isPostponed'] == True & json_object['result'][i]['soldOut'] == False:
