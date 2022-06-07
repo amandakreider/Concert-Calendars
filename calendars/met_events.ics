@@ -3,7 +3,7 @@ BEGIN:VEVENT
 SUMMARY:Sigur Ros: World Tour 2022
 DTSTART;VALUE=DATE-TIME:20220608T000000Z
 DTEND;VALUE=DATE-TIME:20220608T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014540Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013845Z
 DESCRIPTION:Info: https://themetphilly.com/event/sigur-ros/\n\nDoors at \n
  Show starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Bastille – GIVE ME THE FUTURE TOUR: Alt 104.5 Presents
 DTSTART;VALUE=DATE-TIME:20220615T233000Z
 DTEND;VALUE=DATE-TIME:20220616T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014540Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013845Z
 DESCRIPTION:Info: https://themetphilly.com/event/bastille-give-me-the-futu
  re-tour/\n\nDoors at 6:00 pm\nShow starts at 7:30 pm\n\n\nIn accordance wi
  th local guidelines: Until further notice\, masks are required to be worn 
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Ben Rector: The Joy of Music
 DTSTART;VALUE=DATE-TIME:20220618T000000Z
 DTEND;VALUE=DATE-TIME:20220618T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014541Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013846Z
 DESCRIPTION:Info: https://themetphilly.com/event/ben-rector/\n\nDoors at 6
  :30 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Kraftwerk: 3-D
 DTSTART;VALUE=DATE-TIME:20220619T000000Z
 DTEND;VALUE=DATE-TIME:20220619T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014541Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013846Z
 DESCRIPTION:Info: https://themetphilly.com/event/kraftwerk-2/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Ringo Starr:  and his All Starr Band
 DTSTART;VALUE=DATE-TIME:20220620T000000Z
 DTEND;VALUE=DATE-TIME:20220620T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014541Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013846Z
 DESCRIPTION:Info: https://themetphilly.com/event/ringo-starr-2/\n\nDoors a
  t 6:30 pm\nShow starts at 8:00 pm\n\n\nRingo Starr at The Met Philadelphia
   on June 21\, 2020 has been rescheduled to June 19\, 2022. Your ticket wil
@@ -105,7 +105,7 @@ SUMMARY:Woman Evolve Presents The Revolution Tour: Hosted by Sarah Jakes R
  oberts
 DTSTART;VALUE=DATE-TIME:20220622T233000Z
 DTEND;VALUE=DATE-TIME:20220623T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014542Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013846Z
 DESCRIPTION:Info: https://themetphilly.com/event/woman-evolve-presents-the
  -revolution-tour/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors o
  pen at 6:00 PM. Sarah Jakes Roberts is taking her Woman Evolve movement on
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:ALT 104.5 Presents Wallows: with special guest Spill Tab
 DTSTART;VALUE=DATE-TIME:20220624T000000Z
 DTEND;VALUE=DATE-TIME:20220624T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014542Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013847Z
 DESCRIPTION:Info: https://themetphilly.com/event/wallows/\n\nDoors at 7:00
   pm\nShow starts at 8:00 pm\n\n\nAll attendees ages 5 and older must prese
  nt proof of a COVID-19 vaccination in order to enter the venue and attend 
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Puscifer
 DTSTART;VALUE=DATE-TIME:20220625T000000Z
 DTEND;VALUE=DATE-TIME:20220625T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014542Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013847Z
 DESCRIPTION:Info: https://themetphilly.com/event/puscifer/\n\nDoors at 6:3
  0 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Barenaked Ladies: Last Summer On Earth Tour
 DTSTART;VALUE=DATE-TIME:20220712T230000Z
 DTEND;VALUE=DATE-TIME:20220713T010000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014543Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013847Z
 DESCRIPTION:Info: https://themetphilly.com/event/barenaked-ladies-2/\n\nDo
  ors at 6:00 pm\nShow starts at 7:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Deadmau5: We Are Friends Tour
 DTSTART;VALUE=DATE-TIME:20220716T000000Z
 DTEND;VALUE=DATE-TIME:20220716T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014543Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013847Z
 DESCRIPTION:Info: https://themetphilly.com/event/deadmau5-3/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nNERO (DJ Set)\, Kasablanca\, and Lamor
  n\n \nDoors at 7:00PM. All support acts are subject to change without not
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:The Cult: We Own The Night
 DTSTART;VALUE=DATE-TIME:20220722T233000Z
 DTEND;VALUE=DATE-TIME:20220723T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014543Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013847Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-cult-2/\n\nDoors at 6
  :30 pm\nShow starts at 7:30 pm\n\n\nw/ Black Rebel\, Motorcycle Club & Zol
  a Jesus. Doors open at 6:30pm.\n
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Beach House: Once Twice Melody Tour
 DTSTART;VALUE=DATE-TIME:20220724T000000Z
 DTEND;VALUE=DATE-TIME:20220724T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014544Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013848Z
 DESCRIPTION:Info: https://themetphilly.com/event/beach-house/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nPer current mandatory health requirem
  ents from the City of Philadelphia\, all attendees ages 5 and older must p
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:BANKS: Serpentina Tour
 DTSTART;VALUE=DATE-TIME:20220729T000000Z
 DTEND;VALUE=DATE-TIME:20220729T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014544Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013848Z
 DESCRIPTION:Info: https://themetphilly.com/event/banks/\n\nDoors at 7:00 p
  m\nShow starts at 8:00 pm\n\n\nwith Cautious Clay & Lauren Jauregui\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Monica: Creative Nation Presents
 DTSTART;VALUE=DATE-TIME:20220731T000000Z
 DTEND;VALUE=DATE-TIME:20220731T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014544Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013848Z
 DESCRIPTION:Info: https://themetphilly.com/event/monica/\n\nDoors at 7:00 
  pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:RuPaul’s Drag Race: Werq The World 2022 Tour
 DTSTART;VALUE=DATE-TIME:20220806T000000Z
 DTEND;VALUE=DATE-TIME:20220806T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014544Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013848Z
 DESCRIPTION:Info: https://themetphilly.com/event/rupauls-drag-race/\n\nDoo
  rs at 7:00 pm\nShow starts at 8:00 pm\n\n\nEnjoy a private meet and greet 
  with the queens before the show and one premium reserved ticket!  **Guest
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:The Driver Era: with special guest Summer Salt
 DTSTART;VALUE=DATE-TIME:20220807T000000Z
 DTEND;VALUE=DATE-TIME:20220807T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014545Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013848Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-driver-era/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nw/ special guest Summer Salt\nDoor
  s open at 7:00 P.M.\n
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Alicia Keys
 DTSTART;VALUE=DATE-TIME:20220808T000000Z
 DTEND;VALUE=DATE-TIME:20220808T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014545Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013849Z
 DESCRIPTION:Info: https://themetphilly.com/event/alicia-keys/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nSupport: Pink Sweat$\n \nPlease Note
  :\nPer current mandatory health requirements from the City of Philadelphi
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:David Gray: White Ladder: The 20th Anniversary Tour
 DTSTART;VALUE=DATE-TIME:20220818T230000Z
 DTEND;VALUE=DATE-TIME:20220819T010000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014545Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013849Z
 DESCRIPTION:Info: https://themetphilly.com/event/david-gray-2/\n\nDoors at
   6:00 pm\nShow starts at 7:00 pm\n\n\nPlease Note:\nPer current mandatory 
  health requirements from the City of Philadelphia\, all attendees ages 
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Lauv: The All 4 Nothing Tour with Special Guest Hayley Kiyoko
 DTSTART;VALUE=DATE-TIME:20220819T233000Z
 DTEND;VALUE=DATE-TIME:20220820T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014546Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013849Z
 DESCRIPTION:Info: https://themetphilly.com/event/lauv-2/\n\nDoors at 6:30 
  pm\nShow starts at 7:30 pm\n\n\nPlease Note: In the best interest of fans 
  and staff\, the Event Organizer will continue to monitor local COVID-19 tr
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Amy Schumer: Whore Tour
 DTSTART;VALUE=DATE-TIME:20220821T000000Z
 DTEND;VALUE=DATE-TIME:20220821T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014546Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013849Z
 DESCRIPTION:Info: https://themetphilly.com/event/amy-schumer/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes The Decemberists: Summer Tour 2022
 DTSTART;VALUE=DATE-TIME:20220826T000000Z
 DTEND;VALUE=DATE-TIME:20220826T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014546Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013850Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-decemberists-3/\n\nDo
  ors at 6:30 pm\nShow starts at 8:00 pm\n\n\nSupport: Jake Xerxes Fussell\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Celeste Barber: Fine\, Thanks.
 DTSTART;VALUE=DATE-TIME:20220826T230000Z
 DTEND;VALUE=DATE-TIME:20220827T010000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014547Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013850Z
 DESCRIPTION:Info: https://themetphilly.com/event/celeste-barber/\n\nDoors 
  at 6:00 pm\nShow starts at 7:00 pm\n\n\nHailed as the “Australian Queen 
  of Comedy”\, Celeste’s original celebrity parody Instagram account has
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Girls Gotta Eat
 DTSTART;VALUE=DATE-TIME:20220828T000000Z
 DTEND;VALUE=DATE-TIME:20220828T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014547Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013850Z
 DESCRIPTION:Info: https://themetphilly.com/event/girls-gotta-eat/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nThis show is 18+ with valid ID.\n
   Why do guys just want to f*ck you once then watch your Instagram storie
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Kurtis Conner Live: On Tour 2022
 DTSTART;VALUE=DATE-TIME:20220901T230000Z
 DTEND;VALUE=DATE-TIME:20220902T010000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014548Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013850Z
 DESCRIPTION:Info: https://themetphilly.com/event/kurtis-conner-live/\n\nDo
  ors at 6:00 pm\nShow starts at 7:00 pm\n\n\nKurtis Conner is embarking on 
  his most ambitious solo comedy tour yet. A sell-out performer\, podcaster\
@@ -400,25 +400,26 @@ BEGIN:VEVENT
 SUMMARY:Crowded House: Dreamers Are Waiting North American Tour
 DTSTART;VALUE=DATE-TIME:20220902T233000Z
 DTEND;VALUE=DATE-TIME:20220903T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014548Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013850Z
 DESCRIPTION:Info: https://themetphilly.com/event/crowded-house/\n\nDoors a
  t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30PM.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Marcus King Band: WXPN Welcomes
+SUMMARY:Marcus King: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20220910T000000Z
 DTEND;VALUE=DATE-TIME:20220910T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014549Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013851Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-marcus-king-band/\n\n
- Doors at 7:00 pm\nShow starts at 8:00 pm\n\n\n
+ Doors at 7:00 pm\nShow starts at 8:00 pm\n\n\nSupport: Neal Francis\n \nD
+ oors open at 6:00 PM.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bauhaus
 DTSTART;VALUE=DATE-TIME:20220911T000000Z
 DTEND;VALUE=DATE-TIME:20220911T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014549Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013851Z
 DESCRIPTION:Info: https://themetphilly.com/event/bauhaus/\n\nDoors at 7:00
   pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -427,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:XPN Welcomes Father John Misty: with Suki Waterhouse
 DTSTART;VALUE=DATE-TIME:20220914T000000Z
 DTEND;VALUE=DATE-TIME:20220914T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014549Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013852Z
 DESCRIPTION:Info: https://themetphilly.com/event/xpn-welcomes-father-john-
  misty/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -436,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Lady A: Request Line Tour
 DTSTART;VALUE=DATE-TIME:20220915T233000Z
 DTEND;VALUE=DATE-TIME:20220916T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014550Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013852Z
 DESCRIPTION:Info: https://themetphilly.com/event/lady-a/\n\nDoors at 6:30 
  pm\nShow starts at 7:30 pm\n\n\nwith special guest Dave Barnes\nDoors open
   at 6:30 PM.\n
@@ -446,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Porcupine Tree: Closure / Continuation
 DTSTART;VALUE=DATE-TIME:20220918T000000Z
 DTEND;VALUE=DATE-TIME:20220918T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014550Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013852Z
 DESCRIPTION:Info: https://themetphilly.com/event/porcupine-tree/\n\nDoors 
  at 6:30 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -455,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Alec Benjamin: The (Un)Commentary Tour with Claire Rosinkranz
 DTSTART;VALUE=DATE-TIME:20220921T000000Z
 DTEND;VALUE=DATE-TIME:20220921T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014550Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013853Z
 DESCRIPTION:Info: https://themetphilly.com/event/alec-benjamin/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -464,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Lil Nas X: Long Live Montero
 DTSTART;VALUE=DATE-TIME:20220922T233000Z
 DTEND;VALUE=DATE-TIME:20220923T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014550Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013853Z
 DESCRIPTION:Info: https://themetphilly.com/event/lil-nas-x/\n\nDoors at 6:
  30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30 PM.\nIn the best int
  erest of fans and staff\, the Event Organizer will continue to monitor loc
@@ -481,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022
 DTSTART;VALUE=DATE-TIME:20220924T000000Z
 DTEND;VALUE=DATE-TIME:20220924T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014551Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013853Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nChris Rock is one of the world’s mos
  t important comedic voices\, as well as an award-winning actor\, director\
@@ -530,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022 
 DTSTART;VALUE=DATE-TIME:20220925T000000Z
 DTEND;VALUE=DATE-TIME:20220925T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014551Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013853Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock-2/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nChris Rock is one of the world’s m
  ost important comedic voices\, as well as an award-winning actor\, directo
@@ -580,7 +581,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022
 DTSTART;VALUE=DATE-TIME:20220926T000000Z
 DTEND;VALUE=DATE-TIME:20220926T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014551Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013853Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock-3/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nChris Rock is one of the world’s m
  ost important comedic voices\, as well as an award-winning actor\, directo
@@ -630,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Lil Durk: The 7220 Deluxe Tour
 DTSTART;VALUE=DATE-TIME:20220929T000000Z
 DTEND;VALUE=DATE-TIME:20220929T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014552Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013854Z
 DESCRIPTION:Info: https://themetphilly.com/event/lil-durk/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nPlease Note: Entry requirements are subj
  ect to change. By purchasing tickets to this event you agree to abide by e
@@ -643,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:Death Cab for Cutie: Asphalt Meadows Tour
 DTSTART;VALUE=DATE-TIME:20220930T000000Z
 DTEND;VALUE=DATE-TIME:20220930T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014552Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013854Z
 DESCRIPTION:Info: https://themetphilly.com/event/death-cab-for-cutie/\n\nD
  oors at 6:30 pm\nShow starts at 8:00 pm\n\n\nSupport: Low. Doors open at 6
  :30 PM.\n
@@ -653,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Pavement
 DTSTART;VALUE=DATE-TIME:20221006T000000Z
 DTEND;VALUE=DATE-TIME:20221006T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014552Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013854Z
 DESCRIPTION:Info: https://themetphilly.com/event/pavement/\n\nDoors at 6:3
  0 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -662,7 +663,7 @@ BEGIN:VEVENT
 SUMMARY:The Gaslight Anthem: with Jeff Rosenstock
 DTSTART;VALUE=DATE-TIME:20221008T000000Z
 DTEND;VALUE=DATE-TIME:20221008T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014552Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013854Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-gaslight-anthem/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -671,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:Gorillaz: with EARTHGANG
 DTSTART;VALUE=DATE-TIME:20221014T233000Z
 DTEND;VALUE=DATE-TIME:20221015T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014553Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013854Z
 DESCRIPTION:Info: https://themetphilly.com/event/gorillaz/\n\nDoors at 6:0
  0 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:00 PM.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -680,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:Gorillaz: North America Tour 2022
 DTSTART;VALUE=DATE-TIME:20221015T233000Z
 DTEND;VALUE=DATE-TIME:20221016T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014553Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013855Z
 DESCRIPTION:Info: https://themetphilly.com/event/gorillaz-2/\n\nDoors at 6
  :30 pm\nShow starts at 7:30 pm\n\n\nEntry requirements are subject to chan
  ge. By purchasing tickets to this event you agree to abide by entry requir
@@ -692,9 +693,18 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule
 DTSTART;VALUE=DATE-TIME:20221230T010000Z
 DTEND;VALUE=DATE-TIME:20221230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220606T014553Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013855Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-3/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30 PM.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vance Joy: In Our Own Sweet Time Tour 2023
+DTSTART;VALUE=DATE-TIME:20230208T010000Z
+DTEND;VALUE=DATE-TIME:20230208T030000Z
+DTSTAMP;VALUE=DATE-TIME:20220607T013855Z
+DESCRIPTION:Info: https://themetphilly.com/event/vance-joy/\n\nDoors at 7:
+ 00 pm\nShow starts at 8:00 pm\n\n\nAlt 104.5 Presents\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 END:VCALENDAR
