@@ -95,13 +95,13 @@ for elem in myevents:
 	timeinfo = elem.find('div', {'class': 'eventDoorStartDate'}).text.strip()
 
 	doorstart = timeinfo.find('Doors:')+6
-	doorend = doorstart+8
-	doors = timeinfo[doorstart:doorend].replace('|','').strip()
+	doors = timeinfo[doorstart:doorstart+15]
+	doorend = doors.find('|')
+	doors = doors[0:doorend].strip()
 	doortimes.append(doors)
 
-	showstart = timeinfo.find('Show:')+6
-	showend = showstart+8
-	showtime = timeinfo[showstart:showend].replace('|','').strip()
+	showstart = timeinfo.find('Show:')+5
+	showtime = timeinfo[showstart:showstart+15].strip()
 
 	# Grab venue
 	venue = elem.find('a', {'class': 'venueLink'}).text	
@@ -144,12 +144,9 @@ for elem in myevents:
 	urlinfo = 'Info: '+eventurl
 	doorinfo = 'Doors at '+doors
 	shows = 'Show starts at '+showtime	
-	artists = 'Other artists: '+other_artists
 
-	desc = "%s\n%s\n%s\n\n%s\n\n%s\n%s\n\n%s" % (title, other_artists, urlinfo, artists, doorinfo, shows, eventdesc)
+	desc = "%s\n%s\n\n%s\n\n%s\n%s\n\n%s" % (title, other_artists, urlinfo, artists, doorinfo, shows, eventdesc)
 	event.add('description', desc)		
-
-	#add in title and other artists too!!!
 
 	# Add event to calendar
 	cal.add_component(event)	
