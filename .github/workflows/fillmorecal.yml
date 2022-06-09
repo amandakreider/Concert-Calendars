@@ -44,7 +44,7 @@ jobs:
           git add ./calendars/fillmore_events.ics 
           git add ./csv/fillmore_events.csv
           git commit -m "Update Fillmore calendar"
-          git pull
+          git pull --rebase
           git push
 
 
