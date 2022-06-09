@@ -1,4 +1,4 @@
-# This workflow refreshes the JBs calendar
+# This workflow refreshes the JBs calendar daily
 
 name: jbs_run
 

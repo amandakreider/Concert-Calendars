@@ -1,4 +1,4 @@
-# This workflow refreshes all calendars daily.
+# This workflow refreshes the Met calendar daily
 
 name: met_run
 

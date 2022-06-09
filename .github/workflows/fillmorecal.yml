@@ -1,4 +1,4 @@
-# This workflow refreshes all calendars daily.
+# This workflow refreshes the Fillmore calendar daily
 
 name: fillmore_run
 
