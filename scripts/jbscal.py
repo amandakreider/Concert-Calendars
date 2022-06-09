@@ -62,8 +62,8 @@ for elem in myevents:
 	eventdesc = eventsoup.find('div', {'class': 'singleEventDescription'}).text
 
 	# Grab showtime
-	showend = eventdesc.find(' – Show')
-	showstart = showend-3
+	showstart = eventdesc.find(' – Doors')+8
+	showend = showstart+3
 	showtime = eventdesc[showstart:showend]	
 
 	# Add title to calendar event
