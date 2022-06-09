@@ -132,8 +132,14 @@ for elem in myevents:
 	#organizer.params['role'] = vText('CEO')
 	#event['organizer'] = organizer
 
-	# Add event description 
-	event.add('description', eventdesc)
+	# Add link, door time, show time, and event description 
+	urlinfo = 'Info: '+eventurl
+	doors = 'Doors at '+doortime
+	shows = 'Show starts at '+showtime	
+	artists = 'Other artists: '+other_artists
+
+	desc = "%s\n\n%s\n\n%s\n%s\n\n%s" % (urlinfo, artists, doors, shows, eventdesc)
+	event.add('description', desc)		
 
 	# Add event to calendar
 	cal.add_component(event)	
