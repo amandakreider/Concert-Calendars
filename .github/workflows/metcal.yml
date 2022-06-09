@@ -44,6 +44,7 @@ jobs:
           git add ./calendars/met_events.ics 
           git add ./csv/met_events.csv
           git commit -m "Update Met calendar"
+          git pull
           git push       
 
 

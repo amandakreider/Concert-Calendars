@@ -44,6 +44,7 @@ jobs:
           git add ./calendars/jbs_events.ics 
           git add ./csv/jbs_events.csv
           git commit -m "Update Johnny Brenda's calendar"
+          git pull
           git push          
 
 
