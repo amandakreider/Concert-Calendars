@@ -65,12 +65,39 @@ for elem in myevents:
 
 	# Grab showtime
 	searchstart = eventdesc.find(' – Doors')+8
-	searchend = searchstart+20
+	searchend = searchstart+12
 	search=eventdesc[searchstart:searchend]
-	pm=search.find('PM')
-	showstart = pm-1
-	showend = pm+2
-	showtime = search[showstart:showend]
+	print(search)
+
+	result = search.find('PM')
+	if result != -1:
+		index = search.find('PM') 
+		showstart = index-1
+		showend = index+2
+		showtime = search[showstart:showend]
+	elif result == -1:
+		result = search.find('pm')
+		if result != -1:
+			index = search.find('pm') 
+			showstart = index-1
+			showend = index+2
+			showtime = search[showstart:showend]
+		elif result == -1:
+			result = search.find('AM')
+			if result != -1: 
+				index = search.find('AM') 
+				showstart = index-1
+				showend = index+2	
+				showtime = search[showstart:showend]
+			elif result == -1:
+				result = search.find('am')
+				if result != -1:
+					index = search.find('am')
+					showstart = index-1
+					showend = index+2	
+					showtime = search[showstart:showend]
+				elif result == -1:
+					showtime = doors
 
 	# Add title to calendar event
 	event.add('summary', title)
