@@ -20,7 +20,7 @@ eastern = pytz.timezone("America/New_York")
 hdr = {'User-Agent': 'Mozilla/5.0'}
 r = requests.get(url, headers=hdr)
 soup = bs(r.content, "html.parser")
-myevents = soup.find_all('div', {'class': 'col-12 eventWrapper rhpSingleEvent py-4 px-0'})
+myevents = soup.find_all('div', {'class': 'col-12 rhp-event-info'})
 
 # Define parse_future fn
 def parse_future(timestr, default, **parse_kwargs):
@@ -60,17 +60,28 @@ for elem in myevents:
 
 	# Grab title
 	title = elem.find('a', {'class': 'url'}).get('title')
-	titles.append(title)
 
-	# Grab date
-	date = elem.find('div', {'id': 'eventDate'}).text.strip()
-	date = parse_future(date, default=datetime.now() - timedelta(days=1)).date().strftime('%m/%d/%y')
+	# Grab tagline (if one exists)
+	try:
+		tagline = elem.find('div', {'class': 'eventTagLine'}).text.strip()+': '
+		title = tagline+title
+	except AttributeError as e:
+		title = title
+
+	titles.append(title)
 
 	# Grab link to individual show
 	eventurl = elem.find('a', {'class': 'url'}).get('href')
 	links.append(eventurl)
 	eventreq = requests.get(eventurl,headers=hdr)
 	eventsoup = bs(eventreq.content, 'html.parser')
+
+	# Grab event page 
+	eventinfo = eventsoup.find('div', {'class': 'singleEventDetails p-md-4'})
+
+	# Grab date
+	date = eventinfo.find('span', {'class': 'eventStDate'}).text
+	date = parse_future(date, default=datetime.now() - timedelta(days=1)).date().strftime('%m/%d/%y')
 
 	# Grab other artists 
 	try:
@@ -83,21 +94,16 @@ for elem in myevents:
 
 	doorstart = timeinfo.find('Doors:')+6
 	doorend = doorstart+8
-	doors = timeinfo[doorstart:doorend].strip()
+	doors = timeinfo[doorstart:doorend].replace('|','').strip()
 	doortimes.append(doors)
 
 	showstart = timeinfo.find('Show:')+6
 	showend = showstart+8
-	showtime = timeinfo[showstart:showend].strip()
+	showtime = timeinfo[showstart:showend].replace('|','').strip()
 
 	# Grab venue
 	venue = elem.find('a', {'class': 'venueLink'}).text	
 	venues.append(venue)
-
-	venuelink = elem.find('a', {'class': 'venueLink'}).get('href')	
-
-	# Grab event page 
-	eventinfo = eventsoup.find('div', {'class': 'singleEventDetails p-md-4'})
 
 	# Grab event description
 	eventdesc = eventinfo.find('div', {'class': 'singleEventDescription'}).text
@@ -132,14 +138,16 @@ for elem in myevents:
 	#organizer.params['role'] = vText('CEO')
 	#event['organizer'] = organizer
 
-	# Add link, door time, show time, and event description 
+	# Add event description 
 	urlinfo = 'Info: '+eventurl
 	doors = 'Doors at '+doortime
 	shows = 'Show starts at '+showtime	
 	artists = 'Other artists: '+other_artists
 
-	desc = "%s\n\n%s\n\n%s\n%s\n\n%s" % (urlinfo, artists, doors, shows, eventdesc)
+	desc = "%s\n%s\n%s\n\n%s\n\n%s\n%s\n\n%s" % (title, other_artists, urlinfo, artists, doors, shows, eventdesc)
 	event.add('description', desc)		
+
+	#add in title and other artists too!!!
 
 	# Add event to calendar
 	cal.add_component(event)	
