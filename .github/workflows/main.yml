@@ -60,5 +60,20 @@ jobs:
           git add ./csv/met_events.csv
           git commit -m "Update Met calendar"
           git push
+          
+      # Run jbscal.py        
+      - run: python jbscal.py 
+        working-directory: ./scripts
+
+      # Push changes
+      - name: push changes to remote
+        run: |
+          git config --global user.name "Amanda Kreider"
+          git config --global user.email "akreid@wharton.upenn.edu"  
+
+          git add ./calendars/jbs_events.ics 
+          git add ./csv/jbs_events.csv
+          git commit -m "Update Johnny Brenda's calendar"
+          git push          
 
 
