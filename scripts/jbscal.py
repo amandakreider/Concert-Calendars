@@ -18,7 +18,7 @@ eastern = pytz.timezone("America/New_York")
 hdr = {'User-Agent': 'Mozilla/5.0'}
 r = requests.get(url, headers=hdr)
 soup = bs(r.content, "html.parser")
-myevents = soup.find_all('div', {'class': 'eventWrapper'})
+myevents = soup.find_all('div', {'class': 'col-12 eventWrapper rhpSingleEvent h-100 p-0'})
 
 # Initiate lists
 links = []
