@@ -1,6 +1,6 @@
 # This workflow refreshes all calendars daily.
 
-name: run_daily
+name: met_run
 
 # Controls when the workflow will run
 on:
@@ -30,21 +30,6 @@ jobs:
 
       # Install dependencies
       - run: pip install -r requirements.txt     
-
-      # Run fillmorecal.py        
-      - run: python fillmorecal.py 
-        working-directory: ./scripts
-
-      # Push changes
-      - name: push changes to remote
-        run: |
-          git config --global user.name "Amanda Kreider"
-          git config --global user.email "akreid@wharton.upenn.edu"  
-
-          git add ./calendars/fillmore_events.ics 
-          git add ./csv/fillmore_events.csv
-          git commit -m "Update Fillmore calendar"
-          git push
           
       # Run metcal.py        
       - run: python metcal.py 
@@ -59,21 +44,6 @@ jobs:
           git add ./calendars/met_events.ics 
           git add ./csv/met_events.csv
           git commit -m "Update Met calendar"
-          git push
-          
-      # Run jbscal.py        
-      - run: python jbscal.py 
-        working-directory: ./scripts
-
-      # Push changes
-      - name: push changes to remote
-        run: |
-          git config --global user.name "Amanda Kreider"
-          git config --global user.email "akreid@wharton.upenn.edu"  
-
-          git add ./calendars/jbs_events.ics 
-          git add ./csv/jbs_events.csv
-          git commit -m "Update Johnny Brenda's calendar"
-          git push          
+          git push       
 
 
