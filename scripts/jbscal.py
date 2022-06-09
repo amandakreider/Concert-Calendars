@@ -7,6 +7,8 @@ from datetime import date, datetime, timedelta
 import os
 from pathlib import Path
 from dateutil.parser import parse
+from dateutil import parser
+from dateutil.relativedelta import relativedelta
 
 # Define url for JBs events
 url = 'https://johnnybrendas.com/events/'
@@ -19,6 +21,23 @@ hdr = {'User-Agent': 'Mozilla/5.0'}
 r = requests.get(url, headers=hdr)
 soup = bs(r.content, "html.parser")
 myevents = soup.find_all('div', {'class': 'col-12 eventWrapper rhpSingleEvent h-100 p-0'})
+
+# Define parse_future fn
+def parse_future(timestr, default, **parse_kwargs):
+    """Same as dateutil.parser.parse() but only returns future dates."""
+    now = default
+    for _ in range(401):  # assume gregorian calendar repeats every 400 year
+        try:
+            dt = parser.parse(timestr, default=default, **parse_kwargs)
+        except ValueError:
+            pass
+        else:
+            if dt > now: # found future date
+                break
+        default += relativedelta(years=+1)
+    else: # future date not found
+        raise ValueError('failed to find future date for %r' % (timestr,))
+    return dt
 
 # Initiate lists
 links = []
@@ -51,6 +70,7 @@ for elem in myevents:
 
 	# Grab date
 	date = elem.find('div', {'id': 'eventDate'}).text.replace('\n', '').replace('\t', '')
+	date = parse_future(date, default=datetime.now() - timedelta(days=1)).date().strftime('%m/%d/%y')
 
 	# Grab venue
 	venue = elem.find('a', {'class': 'venueLink'}).text	
@@ -109,11 +129,10 @@ for elem in myevents:
 	end_time = start_time + timedelta(hours=2)	
 	print(title)
 	print(start_time)
+	print(end_time)
 
 	utcstart = start_time.astimezone(pytz.utc)
 	utcend = end_time.astimezone(pytz.utc)
-	print(utcstart)
-	print(utcend)	
 
 	event.add('dtstart', utcstart)
 	event.add('dtend', utcend)
