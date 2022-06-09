@@ -140,11 +140,11 @@ for elem in myevents:
 
 	# Add event description 
 	urlinfo = 'Info: '+eventurl
-	doors = 'Doors at '+doortime
+	doorinfo = 'Doors at '+doors
 	shows = 'Show starts at '+showtime	
 	artists = 'Other artists: '+other_artists
 
-	desc = "%s\n%s\n%s\n\n%s\n\n%s\n%s\n\n%s" % (title, other_artists, urlinfo, artists, doors, shows, eventdesc)
+	desc = "%s\n%s\n%s\n\n%s\n\n%s\n%s\n\n%s" % (title, other_artists, urlinfo, artists, doorinfo, shows, eventdesc)
 	event.add('description', desc)		
 
 	#add in title and other artists too!!!
