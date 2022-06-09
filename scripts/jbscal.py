@@ -24,6 +24,7 @@ myevents = soup.find_all('div', {'class': 'col-12 eventWrapper rhpSingleEvent h-
 links = []
 titles = []
 dates = []
+doortimes = []
 venues = []
 
 # Initiate calendar
@@ -57,14 +58,19 @@ for elem in myevents:
 
 	# Grab door time
 	doors = elem.find('div', {'class': 'eventDoorStartDate'}).text.replace('\n', '').replace('\t', '').replace('Doors: ','')
+	doortimes.append(doors)
 
 	# Grab event description
 	eventdesc = eventsoup.find('div', {'class': 'singleEventDescription'}).text
 
 	# Grab showtime
-	showstart = eventdesc.find(' – Doors')+8
-	showend = showstart+3
-	showtime = eventdesc[showstart:showend]	
+	searchstart = eventdesc.find(' – Doors')+8
+	searchend = searchstart+20
+	search=eventdesc[searchstart:searchend]
+	pm=search.find('PM')
+	showstart = pm-1
+	showend = pm+2
+	showtime = search[showstart:showend]
 
 	# Add title to calendar event
 	event.add('summary', title)
@@ -108,6 +114,7 @@ df = pd.DataFrame()
 
 df['Show'] = titles
 df['Date'] = dates
+df['Doors'] = doortimes
 df['Location'] = venues
 df['Link'] = links
 
