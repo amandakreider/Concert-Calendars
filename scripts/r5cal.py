@@ -145,7 +145,7 @@ for elem in myevents:
 	doorinfo = 'Doors at '+doors
 	shows = 'Show starts at '+showtime	
 
-	desc = "%s\n%s\n\n%s\n\n%s\n%s\n\n%s" % (title, other_artists, urlinfo, artists, doorinfo, shows, eventdesc)
+	desc = "%s\n%s\n\n%s\n\n%s\n%s\n\n%s" % (title, other_artists, urlinfo, doorinfo, shows, eventdesc)
 	event.add('description', desc)		
 
 	# Add event to calendar
