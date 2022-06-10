@@ -1,19 +1,23 @@
 # Concert Calendars
  
-Concert Calendars scrapes local Philadelphia concert listings and creates up-to-date calendar files in iCal format that users can subscribe to. So far I have written Python code to pull concert listings for R5 Productions, Johnny Brenda's, The Fillmore, the Foundry, and The Met. All calendars are refreshed daily.
+Concert Calendars scrapes local Philadelphia concert listings and creates up-to-date calendar files in iCal format that users can subscribe to. So far I have written Python code to pull concert listings for R5 Productions, Johnny Brenda's, The Fillmore, the Foundry, and The Met. 
+
+You can find the scripts [in this folder](https://github.com/amandakreider/Concert-Calendars/blob/main/scripts). The script saves the concert listings in both [.ics](https://github.com/amandakreider/Concert-Calendars/blob/main/calendars/) and [.csv](https://github.com/amandakreider/Concert-Calendars/tree/main/csv) formats.
+
+To subscribe to one of the calendars below in your Google calendar, navigate to [your calendar](https://calendar.google.com/). In the left sidebar, next to "Other calendars," click on the "+" button. Then click "From URL," and add one of the links below. You're all set! All calendars are refreshed daily.
 
 ## R5 Productions
 
-You can find the script for the R5 Productions listings [here](https://github.com/amandakreider/Concert-Calendars/blob/main/scripts/r5cal.py) and the resulting .ics file [here](https://github.com/amandakreider/Concert-Calendars/blob/main/calendars/r5_events.ics). This script also creates a [.csv file with the concert listings](https://github.com/amandakreider/Concert-Calendars/blob/main/csv/r5_events.csv). To subscribe to the R5 calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/r5_events.ics). 
+To subscribe to the R5 calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/r5_events.ics). 
 
 ## Johnny Brenda's
 
-You can find the script for the Johnny Brenda's listings [here](https://github.com/amandakreider/Concert-Calendars/blob/main/scripts/jbscal.py) and the resulting .ics file [here](https://github.com/amandakreider/Concert-Calendars/blob/main/calendars/jbs_events.ics). This script also creates a [.csv file with the concert listings](https://github.com/amandakreider/Concert-Calendars/blob/main/csv/jbs_events.csv). To subscribe to the Johnny Brenda's calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/jbs_events.ics). 
+To subscribe to the Johnny Brenda's calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/jbs_events.ics). 
 
 ## Fillmore/Foundry
 
-You can find the script for the Fillmore and the Foundry listings [here](https://github.com/amandakreider/Concert-Calendars/blob/main/scripts/fillmorecal.py) and the resulting .ics file [here](https://github.com/amandakreider/Concert-Calendars/blob/main/calendars/fillmore_events.ics). This script also creates a [.csv file with the concert listings](https://github.com/amandakreider/Concert-Calendars/blob/main/csv/fillmore_events.csv). To subscribe to the Fillmore/Foundry calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/fillmore_events.ics). 
+To subscribe to the Fillmore/Foundry calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/fillmore_events.ics). 
 
 ## The Met
 
-You can find the script for the Met listings [here](https://github.com/amandakreider/Concert-Calendars/blob/main/scripts/metcal.py) and the resulting .ics file [here](https://github.com/amandakreider/Concert-Calendars/blob/main/calendars/met_events.ics). This script also creates a [.csv file with the concert listings](https://github.com/amandakreider/Concert-Calendars/blob/main/csv/met_events.csv). To subscribe to the Met calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/met_events.ics). 
+To subscribe to the Met calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/met_events.ics). 
