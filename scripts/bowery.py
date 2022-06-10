@@ -24,7 +24,6 @@ hdr = {
 }
 r = requests.get(url, headers=hdr)
 soup = bs(r.content, "html.parser")
-time.sleep(5)
 myevents = soup.find_all('div', {'class': 'show-item'})
 
 # Initiate lists
@@ -47,6 +46,8 @@ for elem in myevents:
 	# Initiate event
 	event = Event()
 
+	time.sleep(1)
+
 	# Event data
 	eventdata = elem.find('div', {'class': 'show-info-container'})
 
@@ -54,7 +55,6 @@ for elem in myevents:
 	eventurl = 'https://www.bowerypresents.com'+eventdata.find('h3').find('a').get('href')
 	links.append(eventurl)
 	eventreq = requests.get(eventurl,headers=hdr)
-	time.sleep(5)
 	eventsoup = bs(eventreq.content, 'html.parser')
 	eventjson = eventsoup.find('script', {'type': 'application/ld+json'}).text
 	data = json.loads(eventjson)
