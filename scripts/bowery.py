@@ -143,11 +143,13 @@ df['Link'] = links
 
 directory = str(Path(__file__).parent.parent) + "/csv/"
 print("csv file will be generated at ", directory)
-df.to_csv(directory+'r5_events.csv')
+df.to_csv(directory+'bowery_events.csv')
 
 # Save .ics file
 directory = str(Path(__file__).parent.parent) + "/calendars/"
 print("ics file will be generated at ", directory)
-f = open(os.path.join(directory, 'r5_events.ics'), 'wb')
+f = open(os.path.join(directory, 'bowery_events.ics'), 'wb')
 f.write(cal.to_ical())
 f.close()
+
+
