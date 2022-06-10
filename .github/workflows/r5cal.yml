@@ -6,9 +6,6 @@ name: r5_run
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  # Run daily
-  schedule:
-    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -31,7 +28,7 @@ jobs:
       # Install dependencies
       - run: pip install -r requirements.txt     
           
-      # Run jbscal.py        
+      # Run r5cal.py        
       - run: python r5cal.py 
         working-directory: ./scripts
 
