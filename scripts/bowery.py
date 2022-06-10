@@ -10,6 +10,7 @@ from pathlib import Path
 from dateutil.parser import parse
 from dateutil import parser
 from dateutil.relativedelta import relativedelta
+import time
 
 # Define url(s) for Bowery events
 url = 'https://www.bowerypresents.com/info/events/get?scope=all&rows=50&venues=greater-philly'
