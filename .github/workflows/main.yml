@@ -89,6 +89,7 @@ jobs:
           git add ./calendars/r5_events.ics 
           git add ./csv/r5_events.csv
           git commit -m "Update R5 calendar"
+          git pull --rebase
           git push           
 
 
