@@ -40,9 +40,6 @@ cal = Calendar()
 # Loop through shows and add details to calendar
 for elem in myevents:
 
-	# Initiate event
-	event = Event()
-
 	# Event data
 	eventdata = elem.find('div', {'class': 'show-info-container'})
 
@@ -52,6 +49,7 @@ for elem in myevents:
 
 	# Grab title
 	title = elem.find('span', {'itemprop': 'name'}).text
+	titles.append(title)
 
 	# Grab supporting acts
 	supporting = elem.find('div', {'class': 'supporting-acts'}).findParent().find('span', {'itemprop': 'performer'}).get('content')
@@ -68,7 +66,11 @@ for elem in myevents:
 	addresses.append(address)
 
 	# Grab date
-	timeinfo = eventsub.find('p', {'class': 'list-date'}).text.replace('\n','').replace('\t','').strip()
+	try: 
+		timeinfo = eventsub.find('p', {'class': 'list-date'}).text.replace('\n','').replace('\t','').strip()
+	except AttributeError as e:
+		timeinfo = ''
+
 	date = timeinfo[0:30].strip()
 
 	# Grab door time and showtime
@@ -82,45 +84,59 @@ for elem in myevents:
 	showtime = timeinfo[showstart:showstart+15].strip()
 
 	# Add showtimes to calendar event
-	timefull = date+' at '+showtime
+	if date != '':
+		timefull = date+' at '+showtime
+	else:
+		timefull = 'TBD'
+
 	dates.append(timefull)
 
-	start_time = eastern.localize(parse(timefull))
-	end_time = start_time + timedelta(hours=2)	
+	# Grab date
+	try: 
+		start_time = eastern.localize(parse(timefull))
+		end_time = start_time + timedelta(hours=2)	
+	except parser._parser.ParserError:
+		start_time = ''
+		end_time = ''
 	print(title)
 	print(start_time)
 	print(end_time)
 
-	# Add title to calendar event
-	event.add('summary', title)
+	if date != '':
 
-	# Add times to calendar event
-	utcstart = start_time.astimezone(pytz.utc)
-	utcend = end_time.astimezone(pytz.utc)
+		# Initiate event
+		event = Event()
 
-	event.add('dtstart', utcstart)
-	event.add('dtend', utcend)
+		# Add title to calendar event
+		event.add('summary', title)
 
-	# Add timestamp
-	event.add('dtstamp', datetime.now())
+		# Add times to calendar event
+		utcstart = start_time.astimezone(pytz.utc)
+		utcend = end_time.astimezone(pytz.utc)
 
-	# Add location
-	event['location'] = venue
+		event.add('dtstart', utcstart)
+		event.add('dtend', utcend)
 
-	# Add event description 
-	urlinfo = 'Info: '+eventurl
-	doorinfo = 'Doors at '+doors
-	shows = 'Show starts at '+showtime	
+		# Add timestamp
+		event.add('dtstamp', datetime.now())
 
-	if supporting != '':
-		desc = "%s\n%s\n\n%s\n\n%s\n%s" % (title, supporting, urlinfo, doorinfo, shows)
-	else:
-		desc = "%s\n\n%s\n\n%s\n%s" % (title, urlinfo, doorinfo, shows)
+		# Add location
+		event['location'] = venue
 
-	event.add('description', desc)		
+		# Add event description 
+		urlinfo = 'Info: '+eventurl
+		doorinfo = 'Doors at '+doors
+		shows = 'Show starts at '+showtime	
 
-	# Add event to calendar
-	cal.add_component(event)	
+		if supporting != '':
+			desc = "%s\n%s\n\n%s\n\n%s\n%s" % (title, supporting, urlinfo, doorinfo, shows)
+		else:
+			desc = "%s\n\n%s\n\n%s\n%s" % (title, urlinfo, doorinfo, shows)
+
+		event.add('description', desc)		
+
+		# Add event to calendar
+		cal.add_component(event)	
 
 # Create a csv file with event info
 df = pd.DataFrame()
