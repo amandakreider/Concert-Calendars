@@ -37,16 +37,11 @@ addresses = []
 # Initiate calendar
 cal = Calendar()
 
-# Uncomment to add attendees
-#cal.add('Attendee 1', 'MAILTO:attendee1@gmail.com')
-
 # Loop through shows and add details to calendar
 for elem in myevents:
 
 	# Initiate event
 	event = Event()
-
-	time.sleep(1)
 
 	# Event data
 	eventdata = elem.find('div', {'class': 'show-info-container'})
@@ -54,31 +49,26 @@ for elem in myevents:
 	# Grab link to individual show
 	eventurl = 'https://www.bowerypresents.com'+eventdata.find('h3').find('a').get('href')
 	links.append(eventurl)
-	eventreq = requests.get(eventurl,headers=hdr)
-	eventsoup = bs(eventreq.content, 'html.parser')
-	eventjson = eventsoup.find('script', {'type': 'application/ld+json'}).text
-	data = json.loads(eventjson)
 
 	# Grab title
-	title = data['name']
+	title = elem.find('span', {'itemprop': 'name'}).text
 
 	# Grab supporting acts
-	supporting = eventdata.find('div', {'class': 'supporting-acts'}).text.strip()
+	supporting = elem.find('div', {'class': 'supporting-acts'}).findParent().find('span', {'itemprop': 'performer'}).get('content')
 
-	# Grab sub-event data
-	#eventdata = eventdata.find('ul', {'class': 'info-list'})
-	#meta_content = eventdata.find_all('meta')
+	# Event sub-data
+	eventsub = elem.find('ul', {'class': 'info-list'})
 
 	# Grab venue
-	venue = data['location']['name']
+	venue = eventsub.find('meta', {'itemprop': 'name'}).get('content')
 	venues.append(venue)
 
 	# Grab address
-	address = data['location']['address']['streetAddress']
+	address = eventsub.find('meta', {'itemprop': 'streetAddress'}).get('content')
 	addresses.append(address)
 
 	# Grab date
-	timeinfo = eventdata.find('p', {'class': 'list-date'}).text.replace('\n','').replace('\t','').strip()
+	timeinfo = eventsub.find('p', {'class': 'list-date'}).text.replace('\n','').replace('\t','').strip()
 	date = timeinfo[0:30].strip()
 
 	# Grab door time and showtime
@@ -117,18 +107,16 @@ for elem in myevents:
 	# Add location
 	event['location'] = venue
 
-	# Uncomment to add event organizer details
-	#organizer = vCalAddress('MAILTO:sirjonceo@email.com')
-	#organizer.params['cn'] = vText('Sir Jon')
-	#organizer.params['role'] = vText('CEO')
-	#event['organizer'] = organizer
-
 	# Add event description 
 	urlinfo = 'Info: '+eventurl
 	doorinfo = 'Doors at '+doors
 	shows = 'Show starts at '+showtime	
 
-	desc = "%s\n%s\n\n%s\n\n%s\n%s" % (title, supporting, urlinfo, doorinfo, shows)
+	if supporting != '':
+		desc = "%s\n%s\n\n%s\n\n%s\n%s" % (title, supporting, urlinfo, doorinfo, shows)
+	else:
+		desc = "%s\n\n%s\n\n%s\n%s" % (title, urlinfo, doorinfo, shows)
+
 	event.add('description', desc)		
 
 	# Add event to calendar
@@ -154,5 +142,8 @@ print("ics file will be generated at ", directory)
 f = open(os.path.join(directory, 'bowery_events.ics'), 'wb')
 f.write(cal.to_ical())
 f.close()
+
+
+
 
 
