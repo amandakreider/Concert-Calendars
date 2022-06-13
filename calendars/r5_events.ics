@@ -1,25 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:POSTPONED: Ultra Q
-DTSTART;VALUE=DATE-TIME:20220612T000000Z
-DTEND;VALUE=DATE-TIME:20220612T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000140Z
-DESCRIPTION:POSTPONED: Ultra Q\nBeen Stellar\n\nInfo: https://r5production
- s.com/event/postponed-ultra-q/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\
- nDue to a positive Covid case in the touring party\, our show with Ultra Q
-  on Saturday June 11th has been postponed to a date later this summer to b
- e announced shortly. We’re working out the details with the band right n
- ow and will have more information for you very soon!\nWe ask that you hold
-  onto your tickets until the new date is announced\, at which point we’l
- l offer refunds to anyone unable to make the new date. Thanks!\n– xo/r5\
- n
-LOCATION:PhilaMOCA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Diane Coffee
-DTSTART;VALUE=DATE-TIME:20220613T000000Z
-DTEND;VALUE=DATE-TIME:20220613T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000140Z
+DTSTART;VALUE=DATE-TIME:20230613T000000Z
+DTEND;VALUE=DATE-TIME:20230613T020000Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:Diane Coffee\n\n\nInfo: https://r5productions.com/event/diane-
  coffee/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -28,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:SOMETHING TO TALK ABOUT: 3 Day Fest Pass
 DTSTART;VALUE=DATE-TIME:20220616T220000Z
 DTEND;VALUE=DATE-TIME:20220617T000000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000140Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:SOMETHING TO TALK ABOUT: 3 Day Fest Pass\n\n\nInfo: https://r5
  productions.com/event/3-day-fest-pass/\n\nDoors at 6pm\nShow starts at 6pm
  \n\n\nSOMETHING TO TALK ABOUT3 DAY FEST PASS\nAccess to all STTA main show
@@ -41,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:SOMETHING TO TALK ABOUT: Thursday Main Show
 DTSTART;VALUE=DATE-TIME:20220616T223000Z
 DTEND;VALUE=DATE-TIME:20220617T003000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000140Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:SOMETHING TO TALK ABOUT: Thursday Main Show\nThe Flex\, Scalpl
  e\, Rat Nip\, Headsplitters\, Fatal Wound\, ICD10\n\nInfo: https://r5produ
  ctions.com/event/thursday-main-show/\n\nDoors at 6pm\nShow starts at 6:30p
@@ -52,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:SOMETHING TO TALK ABOUT: Friday Main Show
 DTSTART;VALUE=DATE-TIME:20220617T210000Z
 DTEND;VALUE=DATE-TIME:20220617T230000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000140Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:SOMETHING TO TALK ABOUT: Friday Main Show\nSavageheads\, G*U*N
  *N\, Quarantine\, People's Temple\, Yambag\, NSA\, Urban Sprawl\, Reckonin
  g Force\n\nInfo: https://r5productions.com/event/friday-main-show/\n\nDoor
@@ -64,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:SOMETHING TO TALK ABOUT: Friday After Show
 DTSTART;VALUE=DATE-TIME:20220618T043000Z
 DTEND;VALUE=DATE-TIME:20220618T063000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000140Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:SOMETHING TO TALK ABOUT: Friday After Show\nMujeres Podridas\,
   Poïson Ruïn\, Fuckin' Lovers\n\nInfo: https://r5productions.com/event/f
  riday-after-show/\n\nDoors at 12am\nShow starts at 12:30am\n\n\nUpstairs\,
@@ -76,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:SOMETHING TO TALK ABOUT: Saturday Main Show
 DTSTART;VALUE=DATE-TIME:20220618T220000Z
 DTEND;VALUE=DATE-TIME:20220619T000000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000140Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:SOMETHING TO TALK ABOUT: Saturday Main Show\nS.H.I.T.\, Scarec
  row\, Horrendous 3D\, Lethal Means\, Rhino\, Self Inflict\, Hallucination\
  n\nInfo: https://r5productions.com/event/saturday-main-show/\n\nDoors at 5
@@ -88,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:SOMETHING TO TALK ABOUT: Saturday After Show
 DTSTART;VALUE=DATE-TIME:20220619T043000Z
 DTEND;VALUE=DATE-TIME:20220619T063000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000140Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:SOMETHING TO TALK ABOUT: Saturday After Show\nDelco MF's\, AMM
  O\, Cold Feet\n\nInfo: https://r5productions.com/event/saturday-after-show
  /\n\nDoors at 12am\nShow starts at 12:30am\n\n\nUpstairs\, Indoors at Foto
@@ -100,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Teenage Wrist
 DTSTART;VALUE=DATE-TIME:20220621T000000Z
 DTEND;VALUE=DATE-TIME:20220621T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000141Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:Teenage Wrist\nSoftcult\, Soul Blind\n\nInfo: https://r5produc
  tions.com/event/teenage-wrist/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\
  n
@@ -110,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening Of Joy: Francis Daulerio & Friends
 DTSTART;VALUE=DATE-TIME:20220622T000000Z
 DTEND;VALUE=DATE-TIME:20220622T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000141Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004515Z
 DESCRIPTION:An Evening Of Joy: Francis Daulerio & Friends\nCaiola\, Jeff Z
  eigler\n\nInfo: https://r5productions.com/event/francis-daulerio-friends/\
  n\nDoors at 8pm\nShow starts at 8pm\n\n\n
@@ -120,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:CS + Kreme
 DTSTART;VALUE=DATE-TIME:20220624T000000Z
 DTEND;VALUE=DATE-TIME:20220624T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000141Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
 DESCRIPTION:CS + Kreme\nUlla\n\nInfo: https://r5productions.com/event/cs-k
  reme/\n\nDoors at 7pm\nShow starts at 8pm\n\n\n
 LOCATION:The Dolphin
@@ -129,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Daniel Nunnelee
 DTSTART;VALUE=DATE-TIME:20220627T000000Z
 DTEND;VALUE=DATE-TIME:20220627T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000141Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
 DESCRIPTION:Daniel Nunnelee\nDrumming Bird\n\nInfo: https://r5productions.
  com/event/daniel-nunnelee/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -138,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Lunar Vacation
 DTSTART;VALUE=DATE-TIME:20220629T000000Z
 DTEND;VALUE=DATE-TIME:20220629T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000141Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
 DESCRIPTION:Lunar Vacation\nThe Slaps\, Future Crib\n\nInfo: https://r5pro
  ductions.com/event/lunar-vacation/\n\nDoors at 7:30pm\nShow starts at 8pm\
  n\n\n
@@ -148,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Karate
 DTSTART;VALUE=DATE-TIME:20220709T000000Z
 DTEND;VALUE=DATE-TIME:20220709T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000141Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
 DESCRIPTION:Karate\n\n\nInfo: https://r5productions.com/event/karate/\n\nD
  oors at 7pm\nShow starts at 8pm\n\n\n
 LOCATION:World Cafe Live
@@ -157,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Vansire
 DTSTART;VALUE=DATE-TIME:20220714T000000Z
 DTEND;VALUE=DATE-TIME:20220714T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000141Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
 DESCRIPTION:Vansire\nYot Club\n\nInfo: https://r5productions.com/event/van
  sire/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -166,16 +150,16 @@ BEGIN:VEVENT
 SUMMARY:Ratboys
 DTSTART;VALUE=DATE-TIME:20220719T000000Z
 DTEND;VALUE=DATE-TIME:20220719T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000141Z
-DESCRIPTION:Ratboys\n\n\nInfo: https://r5productions.com/event/ratboys/\n\
- nDoors at 8pm\nShow starts at 8pm\n\n\n
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
+DESCRIPTION:Ratboys\njustmadnice\n\nInfo: https://r5productions.com/event/
+ ratboys/\n\nDoors at 8pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arrows In Action
 DTSTART;VALUE=DATE-TIME:20220721T233000Z
 DTEND;VALUE=DATE-TIME:20220722T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
 DESCRIPTION:Arrows In Action\nJhariah\, Fox Teeth\n\nInfo: https://r5produ
  ctions.com/event/arrows-in-action/\n\nDoors at 7pm\nShow starts at 7:30pm\
  n\n\n
@@ -186,7 +170,7 @@ SUMMARY:A Make The World Better Benefit — At The Dell Music Center: Japa
  nese Breakfast
 DTSTART;VALUE=DATE-TIME:20220723T213000Z
 DTEND;VALUE=DATE-TIME:20220723T233000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
 DESCRIPTION:A Make The World Better Benefit — At The Dell Music Center: 
  Japanese Breakfast\nYo La Tengo\, Cate Le Bon\n\nInfo: https://r5productio
  ns.com/event/japanese-breakfast/\n\nDoors at Show: 5:30p\nShow starts at 5
@@ -197,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:TV Priest
 DTSTART;VALUE=DATE-TIME:20220728T000000Z
 DTEND;VALUE=DATE-TIME:20220728T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004516Z
 DESCRIPTION:TV Priest\n\n\nInfo: https://r5productions.com/event/tv-priest
  /\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -206,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Remember Sports
 DTSTART;VALUE=DATE-TIME:20220811T000000Z
 DTEND;VALUE=DATE-TIME:20220811T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
 DESCRIPTION:Remember Sports\n\n\nInfo: https://r5productions.com/event/rem
  ember-sports/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -215,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Bless My Cardinal Sin Tour: Sincere Engineer & Covey
 DTSTART;VALUE=DATE-TIME:20220812T000000Z
 DTEND;VALUE=DATE-TIME:20220812T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
 DESCRIPTION:Bless My Cardinal Sin Tour: Sincere Engineer & Covey\nNo Thank
   You\n\nInfo: https://r5productions.com/event/sincere-engineer-covey/\n\nD
  oors at 7:30pm\nShow starts at 8pm\n\n\n
@@ -225,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Death Bells
 DTSTART;VALUE=DATE-TIME:20220818T000000Z
 DTEND;VALUE=DATE-TIME:20220818T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
 DESCRIPTION:Death Bells\nCumgirl8\n\nInfo: https://r5productions.com/event
  /death-bells/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -234,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:La Luz
 DTSTART;VALUE=DATE-TIME:20220825T000000Z
 DTEND;VALUE=DATE-TIME:20220825T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
 DESCRIPTION:La Luz\nGhost Funk Orchestra\n\nInfo: https://r5productions.co
  m/event/la-luz/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -243,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Triathalon
 DTSTART;VALUE=DATE-TIME:20220826T000000Z
 DTEND;VALUE=DATE-TIME:20220826T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
 DESCRIPTION:Triathalon\n\n\nInfo: https://r5productions.com/event/triathal
  on/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -252,68 +236,68 @@ BEGIN:VEVENT
 SUMMARY:Shame
 DTSTART;VALUE=DATE-TIME:20220909T000000Z
 DTEND;VALUE=DATE-TIME:20220909T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000142Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
 DESCRIPTION:Shame\nThey Hate Change\n\nInfo: https://r5productions.com/eve
  nt/shame/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:The First Unitarian Church
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neil Hamburger (Early Show)
+SUMMARY:Neil Hamburger
 DTSTART;VALUE=DATE-TIME:20220913T000000Z
 DTEND;VALUE=DATE-TIME:20220913T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000143Z
-DESCRIPTION:Neil Hamburger (Early Show)\n\n\nInfo: https://r5productions.c
- om/event/neil-hamburger/\n\nDoors at 8pm\nShow starts at 8pm\n\n\nNEIL HAM
- BURGER — LIVE at PhilaMOCA!2 Shows — 8pm & 10pm!Click here for ticke
- ts to the 10pm show!\nNEIL HAMBURGER\n“America’s Funnyman” Neil Hamb
- urger has worked every imaginable stage\, from New York’s Madison Square
-  Garden\, to a show in pitch black darkness at the Edinburgh Fringe Fest. 
- He has performed countless American\, Australian\, British\, Irish\, and C
- anadian tours\, as well as in Norway\, New Zealand\, and the Bahamas\, alo
- ngside acts ranging from Faith No More to Robin Williams. His TV credits i
- nclude Tim and Eric Awesome Show\, Tom Green Live\, and Jimmy Kimmel Liv
- e. His Live At Third Man album was produced by Jack White in Nashville\; a
- n earlier Hamburger effort was included in SPIN’s “40 Greatest Comedy 
- Albums Of All Time.”  The feature movie Entertainment\, a dramatic look
-  at Hamburger on- and off-stage co-starring John C. Reilly\, Tye Sheridan\
- , and Michael Cera\, premiered at the Sundance and Locarno Film Festivals\
- , and was released in 2015 to rave reviews. His recent Drag City album of 
- lavishly-produced song\, Still Dwelling\, featured a memorable trio versio
- n of Jesus Christ Superstar’s “Everything’s Alright” with Neil sin
- ging alongside Mike Patton and Jack Black.\n
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
+DESCRIPTION:Neil Hamburger\n\n\nInfo: https://r5productions.com/event/neil
+ -hamburger/\n\nDoors at 8pm\nShow starts at 8pm\n\n\nNEIL HAMBURGER — L
+ IVE at PhilaMOCA!2 Shows — 8pm & 10pm!Click here for tickets to the 10p
+ m show!\nNEIL HAMBURGER\n \n“America’s Funnyman” Neil Hamburger has 
+ worked every imaginable stage\, from New York’s Madison Square Garden\, 
+ to a show in pitch black darkness at the Edinburgh Fringe Fest. He has per
+ formed countless American\, Australian\, British\, Irish\, and Canadian to
+ urs\, as well as in Norway\, New Zealand\, and the Bahamas\, alongside act
+ s ranging from Faith No More to Robin Williams. His TV credits include Tim
+  and Eric Awesome Show\, Tom Green Live\, and Jimmy Kimmel Live. His Liv
+ e At Third Man album was produced by Jack White in Nashville\; an earlier 
+ Hamburger effort was included in SPIN’s “40 Greatest Comedy Albums Of 
+ All Time.”  The feature movie Entertainment\, a dramatic look at Hambur
+ ger on- and off-stage co-starring John C. Reilly\, Tye Sheridan\, and Mich
+ ael Cera\, premiered at the Sundance and Locarno Film Festivals\, and was 
+ released in 2015 to rave reviews. His recent Drag City album of lavishly-p
+ roduced song\, Still Dwelling\, featured a memorable trio version of Jesus
+  Christ Superstar’s “Everything’s Alright” with Neil singing along
+ side Mike Patton and Jack Black.\n
 LOCATION:PhilaMOCA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neil Hamburger (Late Show)
+SUMMARY:Neil Hamburger
 DTSTART;VALUE=DATE-TIME:20220913T020000Z
 DTEND;VALUE=DATE-TIME:20220913T040000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000143Z
-DESCRIPTION:Neil Hamburger (Late Show)\n\n\nInfo: https://r5productions.co
- m/event/neil-hamburger-2/\n\nDoors at 10pm\nShow starts at 10pm\n\n\nNEIL 
- HAMBURGER — LIVE at PhilaMOCA!2 Shows — 8pm & 10pm!Click here for ti
- ckets to the 8pm show!\nNEIL HAMBURGER\nNEIL HAMBURGER\n“America’s Fun
- nyman” Neil Hamburger has worked every imaginable stage\, from New York
- ’s Madison Square Garden\, to a show in pitch black darkness at the Edin
- burgh Fringe Fest. He has performed countless American\, Australian\, Brit
- ish\, Irish\, and Canadian tours\, as well as in Norway\, New Zealand\, an
- d the Bahamas\, alongside acts ranging from Faith No More to Robin William
- s. His TV credits include Tim and Eric Awesome Show\, Tom Green Live\, an
- d Jimmy Kimmel Live. His Live At Third Man album was produced by Jack Whi
- te in Nashville\; an earlier Hamburger effort was included in SPIN’s “
- 40 Greatest Comedy Albums Of All Time.”  The feature movie Entertainmen
- t\, a dramatic look at Hamburger on- and off-stage co-starring John C. Rei
- lly\, Tye Sheridan\, and Michael Cera\, premiered at the Sundance and Loca
- rno Film Festivals\, and was released in 2015 to rave reviews. His recent 
- Drag City album of lavishly-produced song\, Still Dwelling\, featured a me
- morable trio version of Jesus Christ Superstar’s “Everything’s Alrig
- ht” with Neil singing alongside Mike Patton and Jack Black.\n
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
+DESCRIPTION:Neil Hamburger\n\n\nInfo: https://r5productions.com/event/neil
+ -hamburger-2/\n\nDoors at 10pm\nShow starts at 10pm\n\n\nNEIL HAMBURGER 
+ — LIVE at PhilaMOCA!2 Shows — 8pm & 10pm!Click here for tickets to t
+ he 8pm show!\nNEIL HAMBURGER\n \nNEIL HAMBURGER\n \n“America’s Funnyma
+ n” Neil Hamburger has worked every imaginable stage\, from New York’s 
+ Madison Square Garden\, to a show in pitch black darkness at the Edinburgh
+  Fringe Fest. He has performed countless American\, Australian\, British\,
+  Irish\, and Canadian tours\, as well as in Norway\, New Zealand\, and the
+  Bahamas\, alongside acts ranging from Faith No More to Robin Williams. Hi
+ s TV credits include Tim and Eric Awesome Show\, Tom Green Live\, and Ji
+ mmy Kimmel Live. His Live At Third Man album was produced by Jack White in
+  Nashville\; an earlier Hamburger effort was included in SPIN’s “40 Gr
+ eatest Comedy Albums Of All Time.”  The feature movie Entertainment\, a
+  dramatic look at Hamburger on- and off-stage co-starring John C. Reilly\,
+  Tye Sheridan\, and Michael Cera\, premiered at the Sundance and Locarno F
+ ilm Festivals\, and was released in 2015 to rave reviews. His recent Drag 
+ City album of lavishly-produced song\, Still Dwelling\, featured a memorab
+ le trio version of Jesus Christ Superstar’s “Everything’s Alright”
+  with Neil singing alongside Mike Patton and Jack Black.\n
 LOCATION:PhilaMOCA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening with...: Wand
 DTSTART;VALUE=DATE-TIME:20220914T000000Z
 DTEND;VALUE=DATE-TIME:20220914T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000143Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
 DESCRIPTION:An Evening with...: Wand\n\n\nInfo: https://r5productions.com/
  event/wand/\n\nDoors at 7pm\nShow starts at 8pm\n\n\n
 LOCATION:Johnny Brenda’s
@@ -322,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Verbal Assault & Soulside
 DTSTART;VALUE=DATE-TIME:20220922T233000Z
 DTEND;VALUE=DATE-TIME:20220923T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000143Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004517Z
 DESCRIPTION:Verbal Assault & Soulside\nBed Maker\, Bitter Branches\n\nInfo
  : https://r5productions.com/event/verbal-assault-soulside/\n\nDoors at 7pm
  \nShow starts at 7:30pm\n\n\n
@@ -332,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:Ata Kak
 DTSTART;VALUE=DATE-TIME:20221004T000000Z
 DTEND;VALUE=DATE-TIME:20221004T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000143Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004518Z
 DESCRIPTION:Ata Kak\n\n\nInfo: https://r5productions.com/event/ata-kak/\n\
  nDoors at 7pm\nShow starts at 8pm\n\n\n
 LOCATION:Johnny Brenda’s
@@ -341,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Fur
 DTSTART;VALUE=DATE-TIME:20221021T000000Z
 DTEND;VALUE=DATE-TIME:20221021T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000143Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004518Z
 DESCRIPTION:Fur\n\n\nInfo: https://r5productions.com/event/fur/\n\nDoors a
  t 7:30pm\nShow starts at 8pm\n\n\n
 LOCATION:PhilaMOCA
@@ -350,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:20th Anniversary: The Flatliners
 DTSTART;VALUE=DATE-TIME:20221118T010000Z
 DTEND;VALUE=DATE-TIME:20221118T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000143Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004518Z
 DESCRIPTION:20th Anniversary: The Flatliners\nPet Symmetry\, Taking Meds\n
  \nInfo: https://r5productions.com/event/the-flatliners/\n\nDoors at 7:30pm
  \nShow starts at 8pm\n\n\n
@@ -361,14 +345,11 @@ SUMMARY:A Benefit For The Abortion Liberation Fund of Pennsylvania: Saeti
  a
 DTSTART;VALUE=DATE-TIME:20221121T010000Z
 DTEND;VALUE=DATE-TIME:20221121T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220610T000143Z
+DTSTAMP;VALUE=DATE-TIME:20220613T004518Z
 DESCRIPTION:A Benefit For The Abortion Liberation Fund of Pennsylvania: S
  aetia\nSoul Glo\, Massa Nera\n\nInfo: https://r5productions.com/event/saet
- ia/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\nAfter 23 years\, NYC screa
- mo influencers\, Saetia\, have reunited to play some select shows in NYC a
- nd one (this is it for now\, folks) in Philadelphia. This particular show 
- is a benefit for the Abortion Liberation Fund of Pennsylvania – a vital
-  organization in these dark times.\n
+ ia/\n\nDoors at 7:30pm\nShow starts at 8pm\n\n\nA Benefit For The Abortion
+  Liberation Fund of Pennsylvania\n
 LOCATION:The First Unitarian Church
 END:VEVENT
 END:VCALENDAR
