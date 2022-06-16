@@ -6,10 +6,6 @@ To subscribe to one of the calendars below in Google calendar, navigate to [your
 
 All calendars are refreshed daily.
 
-## R5 Productions
-
-To subscribe to the R5 calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/r5_events.ics). 
-
 ## Johnny Brenda's
 
 To subscribe to the Johnny Brenda's calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/jbs_events.ics). 

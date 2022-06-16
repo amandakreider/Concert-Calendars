@@ -77,23 +77,7 @@ jobs:
           git add ./csv/met_events.csv
           git commit -m "Update Met calendar"
           git pull --rebase
-          git push  
-
-      # Run r5cal.py        
-      - run: python r5cal.py 
-        working-directory: ./scripts
-
-      # Push changes
-      - name: push changes to remote
-        run: |
-          git config --global user.name "Amanda Kreider"
-          git config --global user.email "akreid@wharton.upenn.edu"  
-
-          git add ./calendars/r5_events.ics 
-          git add ./csv/r5_events.csv
-          git commit -m "Update R5 calendar"
-          git pull --rebase
-          git push           
+          git push        
 
 
 
