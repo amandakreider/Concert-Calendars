@@ -44,6 +44,7 @@ jobs:
           git add ./calendars/fillmore_events.ics 
           git add ./csv/fillmore_events.csv
           git commit -m "Update Fillmore calendar"
+          git pull --rebase
           git push
 
       # Run jbscal.py        
@@ -59,6 +60,7 @@ jobs:
           git add ./calendars/jbs_events.ics 
           git add ./csv/jbs_events.csv
           git commit -m "Update Johnny Brenda's calendar"
+          git pull --rebase
           git push 
 
       # Run metcal.py        
@@ -74,6 +76,7 @@ jobs:
           git add ./calendars/met_events.ics 
           git add ./csv/met_events.csv
           git commit -m "Update Met calendar"
+          git pull --rebase
           git push  
 
       # Run r5cal.py        
