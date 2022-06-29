@@ -1,32 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:The Besnard Lakes
-DTSTART;VALUE=DATE-TIME:20230628T000000Z
-DTEND;VALUE=DATE-TIME:20230628T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004510Z
-DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
- re encouraged to wear masks while not actively drinking*\n7PM – Doors8PM
-  – Show\n \n \n \nBESNARD LAKES\nThe Besnard Lakes have passed through 
- death and they’re here to tell the tale. Nearly five years after their l
- ast lightning-tinted volley\, the magisterial Montreal psych-rockband have
-  sworn off compromise\, split with their longstanding label\, and complete
- d a searing\, 72-minute suite about the darkness of dying and the light on
-  the other side. The Besnard Lakes Are The Last of the Great Thunderstorm 
- Warnings is the group’s sixth album and the first in more than 15 years 
- to be released away from a certain midwestern American indie record compan
- y. \n \nBLESSED\n \nThe cover art for iii\, the EP from Canadian art-rock
-  band Blessed\, depicts a wall of wooden blocks\, all different shapes\, j
- umbled messily and precariously high against a softly-coloured background.
-  It’s an image that captures Blessed at their most essential: experiment
- al\, asymmetrical\, and interdependent\, and all the more remarkable for t
- heir marriage of those three qualities.\n
-LOCATION:Johnny Brenda’s
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yedoye Travis\, Niles Abston & Lea’h Sampson
-DTSTART;VALUE=DATE-TIME:20220629T000000Z
-DTEND;VALUE=DATE-TIME:20220629T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004510Z
+DTSTART;VALUE=DATE-TIME:20230629T000000Z
+DTEND;VALUE=DATE-TIME:20230629T020000Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004416Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors\n \n8PM – Show\n \n \n \nNiles Abston\, Lea’h Sampson\, an
@@ -38,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Elison Jackson
 DTSTART;VALUE=DATE-TIME:20220701T010000Z
 DTEND;VALUE=DATE-TIME:20220701T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004510Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004416Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nELISON JACKSON\n \nElison Jackson is 5-piece psychedelic-
@@ -76,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:A Black Celebration – Depeche Mode Heavy Dance Party
 DTSTART;VALUE=DATE-TIME:20220702T010000Z
 DTEND;VALUE=DATE-TIME:20220702T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004511Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004417Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n\n9PM Doors\n
  \n \n \n \nA BLACK CELEBRATION \nPHILLY’S FAVORITE DEPECHE MODE DANCE P
@@ -99,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Jerry Paper
 DTSTART;VALUE=DATE-TIME:20220703T010000Z
 DTEND;VALUE=DATE-TIME:20220703T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004511Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004417Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nJERRY PAPER\n \nEvery morning Lucas Nathan wakes up\, sli
@@ -130,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Attia Taylor
 DTSTART;VALUE=DATE-TIME:20220708T010000Z
 DTEND;VALUE=DATE-TIME:20220708T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004511Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004417Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n8PM 
  – Doors9PM – Show\n \n \n \nATTIA TAYLOR (11:00 PM)\n \nAttia Taylor 
@@ -156,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:We Are Scientists
 DTSTART;VALUE=DATE-TIME:20220710T010000Z
 DTEND;VALUE=DATE-TIME:20220710T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004511Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004417Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  \n \n9PM – Show\n\n \nWE ARE SCIENTISTS\nHuffy’s fresh music is accomp
@@ -180,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Steve Von Till (of Neurosis)
 DTSTART;VALUE=DATE-TIME:20220712T000000Z
 DTEND;VALUE=DATE-TIME:20220712T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004511Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004417Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \nSTEVE VON TILL (OF NEUROSIS) (9:00 PM)\n \nSteve Von Till
@@ -234,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Devine
 DTSTART;VALUE=DATE-TIME:20220714T000000Z
 DTEND;VALUE=DATE-TIME:20220714T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004511Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004417Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \nKEVIN DEVINE (9:00 PM)\n \nIn the very first line of her 
@@ -288,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Brick + Mortar
 DTSTART;VALUE=DATE-TIME:20220716T010000Z
 DTEND;VALUE=DATE-TIME:20220716T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004512Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004418Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n\n \nBRICK + MORTAR\n \n \n \nANDRES\n \n \n \nAMERICA PAR
@@ -299,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Lady HD & Red Touch Black
 DTSTART;VALUE=DATE-TIME:20220717T010000Z
 DTEND;VALUE=DATE-TIME:20220717T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004512Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004418Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n\n \nLADY HD – 11:00 PM\n \nBased in Philadelphia\, Lady H
@@ -333,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Cassandra Jenkins
 DTSTART;VALUE=DATE-TIME:20220719T000000Z
 DTEND;VALUE=DATE-TIME:20220719T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004512Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004418Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \n\nCASSANDRA JENKINS\nNative New Yorker Cassandra Jenkins 
@@ -355,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Katie Bejsiuk
 DTSTART;VALUE=DATE-TIME:20220720T000000Z
 DTEND;VALUE=DATE-TIME:20220720T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004512Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004418Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors8PM – Show\n \n \n \nKATIE BEJSIUK\n \nKatie Bennett\, singer-
@@ -391,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:The Deslondes
 DTSTART;VALUE=DATE-TIME:20220721T000000Z
 DTEND;VALUE=DATE-TIME:20220721T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004512Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004418Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \nTHE DESLONDES\n \nWe shed old skin in order to evolve and
@@ -421,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:BRONCHO
 DTSTART;VALUE=DATE-TIME:20220722T010000Z
 DTEND;VALUE=DATE-TIME:20220722T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004512Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004418Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nBRONCHO\n \nBRONCHO return to the road for the first time
@@ -453,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Ethel Cain
 DTSTART;VALUE=DATE-TIME:20220724T010000Z
 DTEND;VALUE=DATE-TIME:20220724T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004513Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004419Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nETHEL CAIN\n \nRaised a backwoods churchgoer in the deep 
@@ -487,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Peeesseye
 DTSTART;VALUE=DATE-TIME:20220725T000000Z
 DTEND;VALUE=DATE-TIME:20220725T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004513Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004419Z
 DESCRIPTION:\n*Proof of Covid-19 vaccination required for entry**Attendees
   are encouraged to wear masks while not actively drinking* \n7PM – Door
  s8PM – Show\nArs Nova Workshop Presents\nPEEESSEYE\n \nPeeesseye was for
@@ -529,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:Elf Power
 DTSTART;VALUE=DATE-TIME:20220726T000000Z
 DTEND;VALUE=DATE-TIME:20220726T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004513Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004419Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \n \n \nELF POWER\n \nA rock band from Athens\, GA\nE.R. J
@@ -541,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:Night Moves
 DTSTART;VALUE=DATE-TIME:20220728T000000Z
 DTEND;VALUE=DATE-TIME:20220728T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004513Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004419Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \nNIGHT MOVES (9:00 PM)\n \nMinneapolis-based quartet Night
@@ -566,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:Ian Sweet
 DTSTART;VALUE=DATE-TIME:20220729T000000Z
 DTEND;VALUE=DATE-TIME:20220729T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004513Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004419Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7PM – Doors8PM
   – Bnny9PM – Ian Sweet\n \n \n \nIAN SWEET\n\n \n \n \nBNNYEverythin
@@ -585,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:Rubber
 DTSTART;VALUE=DATE-TIME:20220730T010000Z
 DTEND;VALUE=DATE-TIME:20220730T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004513Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004419Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nRUBBER (11:00 PM)\n \nRubber creates an intricately balan
@@ -617,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:Lower Wolves & Unloveable: R.E.M. & Smiths Tribute
 DTSTART;VALUE=DATE-TIME:20220731T010000Z
 DTEND;VALUE=DATE-TIME:20220731T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004514Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004419Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n8PM 
  – Doors9PM – Show\n \n \n \nLOWER WOLVES (10:00 PM)\nFocusing on R.E.
@@ -638,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:Kiwi Jr. & Weird Nightmare
 DTSTART;VALUE=DATE-TIME:20220801T000000Z
 DTEND;VALUE=DATE-TIME:20220801T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004514Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004420Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7PM – Doors8PM
   – Show\n \nKIWI JR. \n \nKIWI JR On their sophomoric smash-up released
@@ -665,7 +642,7 @@ BEGIN:VEVENT
 SUMMARY:The Avengers
 DTSTART;VALUE=DATE-TIME:20220803T000000Z
 DTEND;VALUE=DATE-TIME:20220803T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004514Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004420Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \nTHE AVENGERS\nIn 1977\, The Avengers established themselv
@@ -704,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:New Enemies
 DTSTART;VALUE=DATE-TIME:20220803T230000Z
 DTEND;VALUE=DATE-TIME:20220804T010000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004514Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004420Z
 DESCRIPTION:\n \n \n*All events are 21+ valid ID required for entry**Atten
  dees are encouraged to wear masks while not actively drinking*\nNEW ENEMIE
  S (10:00 PM)\n \n \n \nFormer members of the Philadelphia-based band\, Tu
@@ -739,7 +716,7 @@ BEGIN:VEVENT
 SUMMARY:Martin Courtney
 DTSTART;VALUE=DATE-TIME:20220805T010000Z
 DTEND;VALUE=DATE-TIME:20220805T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004514Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004420Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nMARTIN COURTNEY\n \nWhen Martin Courtney was a teenager\,
@@ -789,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:Incantation & Goatwhore
 DTSTART;VALUE=DATE-TIME:20220806T010000Z
 DTEND;VALUE=DATE-TIME:20220806T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004514Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004420Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n8PM – Doors9PM
   – Show\nDave Kiss Presents\nINCANTATION\nA megalith of the death metal 
@@ -824,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Friendship & Tenci
 DTSTART;VALUE=DATE-TIME:20220807T010000Z
 DTEND;VALUE=DATE-TIME:20220807T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004515Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004420Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nFRIENDSHIP (11:00 PM) Friendship’s Merge debut\, Love 
@@ -879,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:Bad Bad Hats
 DTSTART;VALUE=DATE-TIME:20220808T000000Z
 DTEND;VALUE=DATE-TIME:20220808T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004515Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004421Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Proof of Co
  vid-19 vaccination required for entry**Attendees are encouraged to wear ma
  sks while not actively drinking*\n \n7PM – Doors8PM – Show\n \nDave Ki
@@ -921,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:L.A. Witch
 DTSTART;VALUE=DATE-TIME:20220810T000000Z
 DTEND;VALUE=DATE-TIME:20220810T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004515Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004421Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors8PM – Show\n \n \n \nL.A. WITCH (9:00 PM)\n \nL.A. Witch’s s
@@ -971,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:A Giant Dog
 DTSTART;VALUE=DATE-TIME:20220811T000000Z
 DTEND;VALUE=DATE-TIME:20220811T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004515Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004421Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors8PM – Show\nA GIANT DOG\nThis summer\, ahead of the band’s su
@@ -1003,10 +980,10 @@ BEGIN:VEVENT
 SUMMARY:Dummy
 DTSTART;VALUE=DATE-TIME:20220812T010000Z
 DTEND;VALUE=DATE-TIME:20220812T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004515Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004423Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n8:00 PM – Door
- s9:00 PM – Show\nDUMMY (11:00 PM)\n \nLos Angeles band Dummy refuses to 
+ s9:00 PM – Show\nDUMMY (11:15 PM)\n \nLos Angeles band Dummy refuses to 
  slow down. After releasing two cassette EP’s in 2020 (on Popwig and Born
   Yesterday respectively)\, Dummy’s debut full-length album arrives via C
  hicago’s Trouble in Mind Records. Employing pummeling guitars and celest
@@ -1033,18 +1010,20 @@ DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  d subjects. Dummy’s restless creativity keeps them moving ever-forward\,
   continuously challenging themselves and pushing their sound into exciting
   and exhilarating places. This is – as the album title suggests – “M
- andatory Enjoyment”.\nLIFEGUARD (10:00 PM)\n \nChicago\, IL\nKNIFEPLAY (
- 9:00 PM)\nKnifeplay is a supergroup hailing from Philadelphia\, PA featuri
+ andatory Enjoyment”.\nLIFEGUARD (10:30 PM)\n \nChicago\, IL\nKNIFEPLAY (
+ 9:45 PM)\nKnifeplay is a supergroup hailing from Philadelphia\, PA featuri
  ng songwriter Tj Strohmer\, bass player Alex Stackhouse\, keyboardist Max 
  Black\, drummer John Scortino\, and guitarist John Klein. They make genre-
- defying rock music informed by life’s most basic principles.\n
+ defying rock music informed by life’s most basic principles.\nTVO (9:00 
+ PM)\nUnhinged rock and roll for unhinged times performed live and on deman
+ d by five of west philly’s finest clowns.\n
 LOCATION:Johnny Brenda’s
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monica Martin
 DTSTART;VALUE=DATE-TIME:20220819T010000Z
 DTEND;VALUE=DATE-TIME:20220819T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004515Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004423Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n8PM 
  – Doors\n \n9PM – Show\n \n \n \nMONICA MARTIN (10:00)\n \nMonica Mar
@@ -1068,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:Zopa & The Mystery Lights
 DTSTART;VALUE=DATE-TIME:20220820T010000Z
 DTEND;VALUE=DATE-TIME:20220820T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004515Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004423Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nZOPA\n \nZOPA is Elijah Amitin\, Michael Imperioli\, and 
@@ -1109,7 +1088,7 @@ BEGIN:VEVENT
 SUMMARY:Will Butler
 DTSTART;VALUE=DATE-TIME:20220822T000000Z
 DTEND;VALUE=DATE-TIME:20220822T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004516Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004424Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors8PM – Show\n \n \n \nWILL BUTLER (9:00 PM)\n \nIn the five yea
@@ -1166,7 +1145,7 @@ BEGIN:VEVENT
 SUMMARY:Jeremiah Chiu & Marta Sofia Honer
 DTSTART;VALUE=DATE-TIME:20220824T000000Z
 DTEND;VALUE=DATE-TIME:20220824T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004516Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004424Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors8PM – Show\nJEREMIAH CHIU & MARTA SOFIA HONER (10 PM)\n \nThe c
@@ -1218,7 +1197,7 @@ BEGIN:VEVENT
 SUMMARY:The Goon Sax
 DTSTART;VALUE=DATE-TIME:20220825T000000Z
 DTEND;VALUE=DATE-TIME:20220825T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004516Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004424Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n\n \nGOON SAX (9:00 PM)\n \n \n \nSince forming in high scho
@@ -1250,7 +1229,7 @@ BEGIN:VEVENT
 SUMMARY:Tall Heights
 DTSTART;VALUE=DATE-TIME:20220909T010000Z
 DTEND;VALUE=DATE-TIME:20220909T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004516Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004424Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nTALL HEIGHTS\n \nThe third full-length from Tall Heights\
@@ -1278,7 +1257,7 @@ BEGIN:VEVENT
 SUMMARY:Grace Ives
 DTSTART;VALUE=DATE-TIME:20220910T010000Z
 DTEND;VALUE=DATE-TIME:20220910T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004516Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004424Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n8PM 
  – Doors9PM – Show\n \nGRACE IVES \nJanky Star is the new album from 
@@ -1312,7 +1291,7 @@ BEGIN:VEVENT
 SUMMARY:D.R.I.
 DTSTART;VALUE=DATE-TIME:20220912T010000Z
 DTEND;VALUE=DATE-TIME:20220912T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004516Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004424Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n8PM – Doors9PM
   – Show\nDave Kiss Presents\nD.R.I.  (10:00 PM)\n \nWe are a punk/metal
@@ -1367,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with WAND
 DTSTART;VALUE=DATE-TIME:20220914T000000Z
 DTEND;VALUE=DATE-TIME:20220914T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004517Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004425Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7pm – Doors8pm
   – Show\nR5 Productions Presents\nAN EVENING WITH WAND AND GUESTSwith vi
@@ -1416,7 +1395,7 @@ BEGIN:VEVENT
 SUMMARY:Marlon Williams
 DTSTART;VALUE=DATE-TIME:20220918T010000Z
 DTEND;VALUE=DATE-TIME:20220918T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004517Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004425Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nMARLON WILLIAMS\n \nJO SCHORNIKOW\n \nJo Schornikow’s n
@@ -1443,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:Sports Team
 DTSTART;VALUE=DATE-TIME:20220923T003000Z
 DTEND;VALUE=DATE-TIME:20220923T023000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004517Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004425Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7:30 PM – Door
  s8:30 PM – Show\nSPORTS TEAM (9:30 PM)Sports Team are Alex Rice (lead vo
@@ -1460,7 +1439,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes S.G. Goodman
 DTSTART;VALUE=DATE-TIME:20220924T010000Z
 DTEND;VALUE=DATE-TIME:20220924T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004517Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004425Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\nWXPN Welcomes\n \nS.G. GOODMAN\n“No one escapes the marks 
@@ -1498,7 +1477,7 @@ BEGIN:VEVENT
 SUMMARY:Porridge Radio
 DTSTART;VALUE=DATE-TIME:20220925T010000Z
 DTEND;VALUE=DATE-TIME:20220925T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004517Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004425Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nPORRIDGE RADIO\n \nPorridge Radio are one of the most vit
@@ -1526,7 +1505,7 @@ BEGIN:VEVENT
 SUMMARY:Bonny Doon
 DTSTART;VALUE=DATE-TIME:20220927T000000Z
 DTEND;VALUE=DATE-TIME:20220927T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004517Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004425Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \nR5 Productions Presents\n \nBONNY DOON\n
@@ -1552,7 +1531,7 @@ BEGIN:VEVENT
 SUMMARY:Ginger Root
 DTSTART;VALUE=DATE-TIME:20220928T000000Z
 DTEND;VALUE=DATE-TIME:20220928T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004518Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004425Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors8PM – Show\nGINGER ROOT (9:00)\n \nGinger Root is the brainchil
@@ -1603,7 +1582,7 @@ BEGIN:VEVENT
 SUMMARY:Otoboke Beaver
 DTSTART;VALUE=DATE-TIME:20221003T000000Z
 DTEND;VALUE=DATE-TIME:20221003T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004518Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004426Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n\n \nOTOBOKE BEAVER\n \nOtoboke Beaver are a punk-rock-garag
@@ -1631,7 +1610,7 @@ BEGIN:VEVENT
 SUMMARY:Ata Kak
 DTSTART;VALUE=DATE-TIME:20221004T000000Z
 DTEND;VALUE=DATE-TIME:20221004T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004518Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004426Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7PM – Doors8PM
   – Show\nR5 Productions Presents\nATA KAK\nAta Kak is the mysterious Gha
@@ -1659,7 +1638,7 @@ BEGIN:VEVENT
 SUMMARY:Sungazer
 DTSTART;VALUE=DATE-TIME:20221006T000000Z
 DTEND;VALUE=DATE-TIME:20221006T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004518Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004426Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \n \n \nSUNGAZER  \n \nSungazer
@@ -1686,7 +1665,7 @@ BEGIN:VEVENT
 SUMMARY:billy woods
 DTSTART;VALUE=DATE-TIME:20221007T010000Z
 DTEND;VALUE=DATE-TIME:20221007T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004518Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004426Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nBILLY WOODS\n \nAethiopes is billy woods’ first album s
@@ -1703,7 +1682,7 @@ BEGIN:VEVENT
 SUMMARY:Momma
 DTSTART;VALUE=DATE-TIME:20221008T010000Z
 DTEND;VALUE=DATE-TIME:20221008T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004518Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004426Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nMOMMA\n \nFollowing Momma’s beloved 2020 LP Two of Me\,
@@ -1729,7 +1708,7 @@ BEGIN:VEVENT
 SUMMARY:Screaming Females
 DTSTART;VALUE=DATE-TIME:20221014T010000Z
 DTEND;VALUE=DATE-TIME:20221014T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004519Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004426Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n\n \n8PM – Doo
  rs9PM – Show\nPhilly Music Fest & JB’s Present\nSCREAMING FEMALES\n \n
@@ -1777,7 +1756,7 @@ BEGIN:VEVENT
 SUMMARY:Blood Red Shoes
 DTSTART;VALUE=DATE-TIME:20221022T010000Z
 DTEND;VALUE=DATE-TIME:20221022T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004519Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004426Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nBLOOD RED SHOES (10 PM)\n \nBlood Red Shoes have been bus
@@ -1817,7 +1796,7 @@ BEGIN:VEVENT
 SUMMARY:June Of 44
 DTSTART;VALUE=DATE-TIME:20221024T000000Z
 DTEND;VALUE=DATE-TIME:20221024T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004519Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004427Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  \n \n8PM – Des Demonas\n \n9PM – June of 44\n \n \n \nJUNE OF 44\n \n
@@ -1839,7 +1818,7 @@ BEGIN:VEVENT
 SUMMARY:Pile
 DTSTART;VALUE=DATE-TIME:20221029T010000Z
 DTEND;VALUE=DATE-TIME:20221029T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004519Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004427Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n8PM – Doors9PM
   – Show\nPILE (10:00 PM)\n \nPile is from Boston\, Massachusetts. Starte
@@ -1865,7 +1844,7 @@ BEGIN:VEVENT
 SUMMARY:The Builders and The Butchers
 DTSTART;VALUE=DATE-TIME:20221103T000000Z
 DTEND;VALUE=DATE-TIME:20221103T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004519Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004427Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors8PM – Show\nTHE BUILDERS & THE BUTCHERS\n
@@ -1875,7 +1854,7 @@ BEGIN:VEVENT
 SUMMARY:Tropical Fuck Storm
 DTSTART;VALUE=DATE-TIME:20221104T010000Z
 DTEND;VALUE=DATE-TIME:20221104T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004520Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004427Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nTROPICAL FUCK STORM\n \nAustralian post-apocalyptic acid 
@@ -1901,7 +1880,7 @@ BEGIN:VEVENT
 SUMMARY:Petey
 DTSTART;VALUE=DATE-TIME:20221107T010000Z
 DTEND;VALUE=DATE-TIME:20221107T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004520Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004427Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7PM – Doors8PM
   – Show\nPETEY (9:00)\nHey Whatsup\, \n \nMy name is petey and I’ve b
@@ -1915,7 +1894,7 @@ BEGIN:VEVENT
 SUMMARY:Preoccupations
 DTSTART;VALUE=DATE-TIME:20221118T020000Z
 DTEND;VALUE=DATE-TIME:20221118T040000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004520Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004427Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Door
  s9PM – Show\n \nPREOCCUPATIONS \nCanada’s Preoccupations return to t
@@ -1937,7 +1916,7 @@ BEGIN:VEVENT
 SUMMARY:Jockstrap
 DTSTART;VALUE=DATE-TIME:20221119T020000Z
 DTEND;VALUE=DATE-TIME:20221119T040000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004520Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004427Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n8PM – Doors9PM
   – Show\nJOCKSTRAP (10:00 PM)\nJockstrap formed in 2017 after Georgia (a
@@ -1973,7 +1952,7 @@ BEGIN:VEVENT
 SUMMARY:Clan Of Xymox
 DTSTART;VALUE=DATE-TIME:20230309T010000Z
 DTEND;VALUE=DATE-TIME:20230309T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220628T004520Z
+DTSTAMP;VALUE=DATE-TIME:20220629T004428Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \nCLAN OF XYMOX\n \nSince their formation in their native H
