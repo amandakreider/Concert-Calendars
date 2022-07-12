@@ -27,6 +27,7 @@ myevents = soup.find_all('div', {'class': 'event-item'})
 links = []
 titles = []
 postponed = []
+soldout = []
 doortimes = []
 showtimes = []
 dates = []
@@ -51,12 +52,36 @@ for elem in myevents:
 	eventsoup = bs(eventreq.content, 'html.parser')
 
 	# Check if postponed
-	if 'Postponed' in elem.find('a', {'class': 'event-btn btn-accent right-btn'}).text:
-		postponed.append('Postponed')
-		post = 1
-	else:
+	try:
+		if 'Postponed' in elem.find('a', {'class': 'event-btn btn-accent right-btn'}).text:
+			postponed.append('Postponed')
+			post = 1
+		else:
+			postponed.append('')
+			post = 0
+	except AttributeError as a:
 		postponed.append('')
 		post = 0
+
+	# Check if sold out
+	try: 
+		if 'Sold Out' in elem.find('a', {'class': 'event-btn btn-accent right-btn disabled-button'}).text:
+			soldout.append('Sold Out')
+			sold = 1
+		else:
+			soldout.append('')
+			sold = 0
+	except AttributeError as a:
+		try: 
+			if 'Sold Out' in elem.find('a', {'class': 'event-btn btn-accent right-btn'}).text:
+				soldout.append('Sold Out')
+				sold = 1
+			else: 
+				soldout.append('')
+				sold = 0
+		except AttributeError as a:
+			soldout.append('')
+			sold = 0
 
 	# Grab title
 	try:
@@ -155,6 +180,7 @@ df['Date'] = dates
 df['Doors'] = doortimes
 df['Showtime'] = showtimes
 df['Postponed?'] = postponed
+df['Sold Out'] = soldout
 df['Link'] = links
 
 directory = str(Path(__file__).parent.parent) + "/csv/"
