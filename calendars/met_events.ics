@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:POSTPONED: Crowded House: Dreamers Are Waiting North American Tour
-DTSTART;VALUE=DATE-TIME:20220902T233000Z
-DTEND;VALUE=DATE-TIME:20220903T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004442Z
-DESCRIPTION:Info: https://themetphilly.com/event/crowded-house/\n\nDoors a
- t 6:30 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest 
- belongings\, we have implemented the following bag policy: small clutch ba
- gs approximately the size of a hand (MAX 4.5”x 6.5”) ARE ALLOWED (and 
- need not be clear). LARGER BAGS MUST BE CLEAR TOTE BAGS. NO OTHER TYPES OF
-  BAGS WILL BE ALLOWED. ALL BAGS OVER 12″x12″x6″ ARE PROHIBITED.\nDoo
- rs at 6:30PM.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Doobie Brothers: 50th Anniversary Tour
 DTSTART;VALUE=DATE-TIME:20220908T000000Z
 DTEND;VALUE=DATE-TIME:20220908T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004442Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004840Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-doobie-brothers/\n\nD
  oors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: small clu
@@ -31,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Marcus King: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20220909T230000Z
 DTEND;VALUE=DATE-TIME:20220910T010000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004443Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004840Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-marcus-king-band/\n\n
  Doors at 6:00 pm\nShow starts at 7:00 pm\n\n\nTo reduce staff contact with
   guest belongings\, we have implemented the following bag policy: small cl
@@ -45,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Bauhaus
 DTSTART;VALUE=DATE-TIME:20220911T000000Z
 DTEND;VALUE=DATE-TIME:20220911T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004443Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004840Z
 DESCRIPTION:Info: https://themetphilly.com/event/bauhaus/\n\nDoors at 6:30
   pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belong
  ings\, we have implemented the following bag policy: small clutch bags app
@@ -58,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Ringo Starr:  and his All Starr Band
 DTSTART;VALUE=DATE-TIME:20220912T000000Z
 DTEND;VALUE=DATE-TIME:20220912T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004443Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004840Z
 DESCRIPTION:Info: https://themetphilly.com/event/ringo-starr-2/\n\nDoors a
  t 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest 
  belongings\, we have implemented the following bag policy: small clutch ba
@@ -125,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:XPN Welcomes Father John Misty: with Suki Waterhouse
 DTSTART;VALUE=DATE-TIME:20220914T000000Z
 DTEND;VALUE=DATE-TIME:20220914T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004443Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004840Z
 DESCRIPTION:Info: https://themetphilly.com/event/xpn-welcomes-father-john-
  misty/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -139,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:POSTPONED: Lady A: Request Line Tour
 DTSTART;VALUE=DATE-TIME:20220915T233000Z
 DTEND;VALUE=DATE-TIME:20220916T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004443Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004840Z
 DESCRIPTION:Info: https://themetphilly.com/event/lady-a/\n\nDoors at 6:30 
  pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest belongi
  ngs\, we have implemented the following bag policy: small clutch bags appr
@@ -153,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Porcupine Tree: Closure / Continuation
 DTSTART;VALUE=DATE-TIME:20220918T000000Z
 DTEND;VALUE=DATE-TIME:20220918T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004444Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004841Z
 DESCRIPTION:Info: https://themetphilly.com/event/porcupine-tree/\n\nDoors 
  at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest
   belongings\, we have implemented the following bag policy: small clutch b
@@ -166,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:The Always Sunny Podcast
 DTSTART;VALUE=DATE-TIME:20220919T000000Z
 DTEND;VALUE=DATE-TIME:20220919T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004444Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004841Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-always-sunny-podcast/
  \n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact 
  with guest belongings\, we have implemented the following bag policy: smal
@@ -180,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:The Always Sunny Podcast
 DTSTART;VALUE=DATE-TIME:20220920T000000Z
 DTEND;VALUE=DATE-TIME:20220920T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004444Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004841Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-always-sunny-podcast-
  2/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contac
  t with guest belongings\, we have implemented the following bag policy: sm
@@ -194,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Alec Benjamin: The (Un)Commentary Tour with Claire Rosinkranz
 DTSTART;VALUE=DATE-TIME:20220921T000000Z
 DTEND;VALUE=DATE-TIME:20220921T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004444Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004842Z
 DESCRIPTION:Info: https://themetphilly.com/event/alec-benjamin/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest 
  belongings\, we have implemented the following bag policy: small clutch ba
@@ -208,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Lil Nas X: Long Live Montero
 DTSTART;VALUE=DATE-TIME:20220922T233000Z
 DTEND;VALUE=DATE-TIME:20220923T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004444Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004842Z
 DESCRIPTION:Info: https://themetphilly.com/event/lil-nas-x/\n\nDoors at 6:
  30 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest belo
  ngings\, we have implemented the following bag policy: small clutch bags a
@@ -229,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022
 DTSTART;VALUE=DATE-TIME:20220924T000000Z
 DTEND;VALUE=DATE-TIME:20220924T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004444Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004842Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest bel
  ongings\, we have implemented the following bag policy: small clutch bags 
@@ -283,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022 
 DTSTART;VALUE=DATE-TIME:20220925T000000Z
 DTEND;VALUE=DATE-TIME:20220925T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004444Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004842Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock-2/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest b
  elongings\, we have implemented the following bag policy: small clutch bag
@@ -337,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022
 DTSTART;VALUE=DATE-TIME:20220926T000000Z
 DTEND;VALUE=DATE-TIME:20220926T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004445Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004842Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock-3/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest b
  elongings\, we have implemented the following bag policy: small clutch bag
@@ -391,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:The Mars Volta
 DTSTART;VALUE=DATE-TIME:20220928T000000Z
 DTEND;VALUE=DATE-TIME:20220928T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004445Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004843Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-mars-volta/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest
   belongings\, we have implemented the following bag policy: small clutch b
@@ -404,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Lil Durk: The 7220 Deluxe Tour
 DTSTART;VALUE=DATE-TIME:20220929T000000Z
 DTEND;VALUE=DATE-TIME:20220929T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004445Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004843Z
 DESCRIPTION:Info: https://themetphilly.com/event/lil-durk/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -421,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Death Cab for Cutie: Asphalt Meadows Tour
 DTSTART;VALUE=DATE-TIME:20220930T000000Z
 DTEND;VALUE=DATE-TIME:20220930T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004445Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004843Z
 DESCRIPTION:Info: https://themetphilly.com/event/death-cab-for-cutie/\n\nD
  oors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: small clu
@@ -435,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Carly Rae Jepsen: The So Nice Tour
 DTSTART;VALUE=DATE-TIME:20221002T000000Z
 DTEND;VALUE=DATE-TIME:20221002T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004445Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004843Z
 DESCRIPTION:Info: https://themetphilly.com/event/carly-rae-jepsen/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with gue
  st belongings\, we have implemented the following bag policy: small clutch
@@ -454,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Pavement
 DTSTART;VALUE=DATE-TIME:20221006T000000Z
 DTEND;VALUE=DATE-TIME:20221006T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004445Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004843Z
 DESCRIPTION:Info: https://themetphilly.com/event/pavement/\n\nDoors at 6:3
  0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -467,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:The Gaslight Anthem: with Jeff Rosenstock
 DTSTART;VALUE=DATE-TIME:20221008T000000Z
 DTEND;VALUE=DATE-TIME:20221008T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004445Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004843Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-gaslight-anthem/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: small clu
@@ -481,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:Demi Lovato: Holy Fvck Tour
 DTSTART;VALUE=DATE-TIME:20221013T000000Z
 DTEND;VALUE=DATE-TIME:20221013T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004446Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004843Z
 DESCRIPTION:Info: https://themetphilly.com/event/demi-lovato/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest be
  longings\, we have implemented the following bag policy: small clutch bags
@@ -495,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:Kelsea Ballerini: Heartfirst Tour
 DTSTART;VALUE=DATE-TIME:20221014T000000Z
 DTEND;VALUE=DATE-TIME:20221014T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004446Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004844Z
 DESCRIPTION:Info: https://themetphilly.com/event/kelsea-ballerini/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30 PM.\nTo reduc
  e staff contact with guest belongings\, we have implemented the following 
@@ -551,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:Gorillaz: with EARTHGANG
 DTSTART;VALUE=DATE-TIME:20221014T233000Z
 DTEND;VALUE=DATE-TIME:20221015T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004446Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004844Z
 DESCRIPTION:Info: https://themetphilly.com/event/gorillaz/\n\nDoors at 6:0
  0 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -565,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:Gorillaz: North America Tour 2022
 DTSTART;VALUE=DATE-TIME:20221015T233000Z
 DTEND;VALUE=DATE-TIME:20221016T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004446Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004844Z
 DESCRIPTION:Info: https://themetphilly.com/event/gorillaz-2/\n\nDoors at 6
  :00 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest bel
  ongings\, we have implemented the following bag policy: small clutch bags 
@@ -583,7 +569,7 @@ SUMMARY:RuPaul’s Drag Race Night of the Living Drag: Voss Events Present
  s
 DTSTART;VALUE=DATE-TIME:20221028T000000Z
 DTEND;VALUE=DATE-TIME:20221028T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004446Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004844Z
 DESCRIPTION:Info: https://themetphilly.com/event/rupauls-drag-race-night-o
  f-the-living-drag/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nPlease
   note: Line-Up Subject To Change The 11th Annual Night of the Living Drag 
@@ -603,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:Marcus Mumford
 DTSTART;VALUE=DATE-TIME:20221104T000000Z
 DTEND;VALUE=DATE-TIME:20221104T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004446Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004844Z
 DESCRIPTION:Info: https://themetphilly.com/event/marcus-mumford/\n\nDoors 
  at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest
   belongings\, we have implemented the following bag policy: small clutch b
@@ -616,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Russo’s Almost Dead
 DTSTART;VALUE=DATE-TIME:20221112T020000Z
 DTEND;VALUE=DATE-TIME:20221112T040000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004446Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004844Z
 DESCRIPTION:Info: https://themetphilly.com/event/joe-russos-almost-dead-3/
  \n\nDoors at 7:30 pm\nShow starts at 9:00 pm\n\n\nDoors open at 7:30 PM.\n
  To reduce staff contact with guest belongings\, we have implemented the fo
@@ -630,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Billy Strings
 DTSTART;VALUE=DATE-TIME:20221113T010000Z
 DTEND;VALUE=DATE-TIME:20221113T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004447Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004845Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-billy-strin
  gs/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff conta
  ct with guest belongings\, we have implemented the following bag policy: s
@@ -660,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Billy Strings
 DTSTART;VALUE=DATE-TIME:20221114T010000Z
 DTEND;VALUE=DATE-TIME:20221114T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004447Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004845Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-billy-strin
  gs-2/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30P
  M.\nTo reduce staff contact with guest belongings\, we have implemented th
@@ -690,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Yung Gravy & bbno$: Baby Gravy\, The Tour
 DTSTART;VALUE=DATE-TIME:20221118T010000Z
 DTEND;VALUE=DATE-TIME:20221118T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004447Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004845Z
 DESCRIPTION:Info: https://themetphilly.com/event/yung-gravy-bbno/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -704,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:Smokey Robinson
 DTSTART;VALUE=DATE-TIME:20221127T010000Z
 DTEND;VALUE=DATE-TIME:20221127T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004447Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004845Z
 DESCRIPTION:Info: https://themetphilly.com/event/smokey-robinson/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -718,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule
 DTSTART;VALUE=DATE-TIME:20221230T010000Z
 DTEND;VALUE=DATE-TIME:20221230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004447Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004845Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-3/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest be
  longings\, we have implemented the following bag policy: small clutch bags
@@ -732,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:Vance Joy: In Our Own Sweet Time Tour 2023
 DTSTART;VALUE=DATE-TIME:20230208T010000Z
 DTEND;VALUE=DATE-TIME:20230208T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004447Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004846Z
 DESCRIPTION:Info: https://themetphilly.com/event/vance-joy/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belo
  ngings\, we have implemented the following bag policy: small clutch bags a
@@ -746,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Can Dance
 DTSTART;VALUE=DATE-TIME:20230423T000000Z
 DTEND;VALUE=DATE-TIME:20230423T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220903T004448Z
+DTSTAMP;VALUE=DATE-TIME:20220904T004846Z
 DESCRIPTION:Info: https://themetphilly.com/event/dead-can-dance-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with gue
  st belongings\, we have implemented the following bag policy: small clutch
