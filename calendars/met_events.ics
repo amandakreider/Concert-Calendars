@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Bauhaus
-DTSTART;VALUE=DATE-TIME:20220911T000000Z
-DTEND;VALUE=DATE-TIME:20220911T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005245Z
-DESCRIPTION:Info: https://themetphilly.com/event/bauhaus/\n\nDoors at 6:30
-  pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belong
- ings\, we have implemented the following bag policy: small clutch bags app
- roximately the size of a hand (MAX 4.5”x 6.5”) ARE ALLOWED (and need n
- ot be clear). LARGER BAGS MUST BE CLEAR TOTE BAGS. NO OTHER TYPES OF BAGS 
- WILL BE ALLOWED. ALL BAGS OVER 12″x12″x6″ ARE PROHIBITED.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ringo Starr:  and his All Starr Band
 DTSTART;VALUE=DATE-TIME:20220912T000000Z
 DTEND;VALUE=DATE-TIME:20220912T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005245Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005029Z
 DESCRIPTION:Info: https://themetphilly.com/event/ringo-starr-2/\n\nDoors a
  t 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest 
  belongings\, we have implemented the following bag policy: small clutch ba
@@ -26,64 +13,56 @@ DESCRIPTION:Info: https://themetphilly.com/event/ringo-starr-2/\n\nDoors a
  nRingo Starr at The Met Philadelphia on June 21\, 2020 has been reschedule
  d to September 11\, 2022. Your ticket will be honored for the rescheduled 
  date. For any further ticket inquiries please reach out to point of purcha
- se.\nAll fans ages 5 and older must be fully vaccinated against COVID-19
-  (at least two weeks after second dose) – and provide proof of vaccinati
- on prior to entering the venue. Masks will be required at all times excep
- t when actively eating or drinking. For those under 5 years of age or with
-  a medical exemption\, printed proof of negative test within 24 hours wi
- ll be required along with the appropriate exemption documentation.  These
-  regulations will apply to all members of your party before they are allow
- ed entry to the event and to any users of the tickets purchased by you.\nI
- n accordance with local guidelines. Until further notice\, masks are requi
- red to worn at all times for attendees\, regardless of vaccination status\
- , except while actively eating or drinking.\nEntry requirements and venue 
- protocols are subject to change.\nRingo Starr announced details for a Nort
- h American tour with his current All Starr Band featuring Steve Lukather\
- , Colin Hay\, Gregg Rolie\, Warren Ham\, Gregg Bissonette\, and Hamish St
- uart.\nThis announcement comes on the heels of the release of Ringo’s 20
- th studio record\, What’s My Name. The title track is a rousing anthem w
- ritten by a returning All Starr Band member\, Colin Hay\, that turns a fam
- iliar chant from Ringo’s live shows into a rousing rocker sure to be a f
- uture crowd-pleaser.\nThe record is the latest in a series of heartfelt an
- d homespun records that Starr has produced in his home studio and a distin
- guished\, ever-changing yet often repeating cast of musical characters and
-  friends playing along with Ringo. Those friends include Paul McCartney\, 
- Joe Walsh\, Edgar Winter\, Dave Stewart\, Benmont Tench\, Steve Lukather\,
-  Nathan East\, Colin Hay\, Richard Page\, Warren Ham\, Windy Wagner\, Kari
-  Kimmel and more.\nRingo also just released Another Day In The Life\, the 
- third in his series of books with Genesis Publications\, that follows the 
- sell-out success of Postcards From The Boys (2003) and Photograph (2013)\,
-  and features previously unpublished collection of his photographs\, capti
- oned with his own thoughts and anecdotes.\nReflecting his love of music\, 
- travel and nature\, Another Day In The Life shows us the world as seen thr
- ough Ringo’s eyes. From Los Angeles to Tokyo and everywhere in between\,
-  many of Ringo’s observational images celebrate the quirkiness of life. 
- Other photographs are taken behind the scenes during historic events\, suc
- h as Ringo’s acceptance of a Grammy Lifetime Achievement Award and his r
- eturn to New York’s Plaza Hotel\, 50 years after The Beatles first visit
- ed the USA. Joined by Paul McCartney\, Joe Walsh and a host of All Starr f
- riends\, in Another Day In The Life Ringo Starr shares personal moments fr
- om a legendary life in music\, and offers a unique and inspiring look at t
- he world around us. View the book at RingoStarrBook.com.\nAnd this past Sa
- turday\, November 2\, 2019 Mayor John Mirisch of Beverly Hills welcomed Si
- r Ringo Starr and Lady Starkey\, joined by family and friends\, at the ded
- ication of Starr’s “Peace & Love” sculpture – which will now perma
- nently reside at the Beverly Hills Garden Park on Santa Monica and Canon. 
- Standing eight feet tall and weighing nearly 1\,500 pounds\, the polished 
- stainless steel sculpture replicates the hand gesture Ringo adopted in 196
- 9. “Peace & Love” is a message that has become synonymous with Ringo
- ’s name\, and he has dedicated his birthday\, July 7\, towards spreading
-  that message – last year celebrating “Peace & Love” events in nearl
- y 30 countries around the world. Ringo hopes that this gift will be a last
- ing way to carry the message of Peace & Love forward in a place he has cal
- led home for many years.\n
+ se.\nFor this event\, our venue is following the latest guidelines from lo
+ cal government and public health officials. Currently\, local guidelines d
+ o not require proof of covid vaccination and/or testing for entry.\nEntry 
+ requirements and venue protocols are subject to change.\nRingo Starr annou
+ nced details for a North American tour with his current All Starr Band fea
+ turing Steve Lukather\, Colin Hay\, Gregg Rolie\, Warren Ham\, Gregg Bis
+ sonette\, and Hamish Stuart.\nThis announcement comes on the heels of the 
+ release of Ringo’s 20th studio record\, What’s My Name. The title trac
+ k is a rousing anthem written by a returning All Starr Band member\, Colin
+  Hay\, that turns a familiar chant from Ringo’s live shows into a rousin
+ g rocker sure to be a future crowd-pleaser.\nThe record is the latest in a
+  series of heartfelt and homespun records that Starr has produced in his h
+ ome studio and a distinguished\, ever-changing yet often repeating cast of
+  musical characters and friends playing along with Ringo. Those friends in
+ clude Paul McCartney\, Joe Walsh\, Edgar Winter\, Dave Stewart\, Benmont T
+ ench\, Steve Lukather\, Nathan East\, Colin Hay\, Richard Page\, Warren Ha
+ m\, Windy Wagner\, Kari Kimmel and more.\nRingo also just released Another
+  Day In The Life\, the third in his series of books with Genesis Publicati
+ ons\, that follows the sell-out success of Postcards From The Boys (2003) 
+ and Photograph (2013)\, and features previously unpublished collection of 
+ his photographs\, captioned with his own thoughts and anecdotes.\nReflecti
+ ng his love of music\, travel and nature\, Another Day In The Life shows u
+ s the world as seen through Ringo’s eyes. From Los Angeles to Tokyo and 
+ everywhere in between\, many of Ringo’s observational images celebrate t
+ he quirkiness of life. Other photographs are taken behind the scenes durin
+ g historic events\, such as Ringo’s acceptance of a Grammy Lifetime Achi
+ evement Award and his return to New York’s Plaza Hotel\, 50 years after 
+ The Beatles first visited the USA. Joined by Paul McCartney\, Joe Walsh an
+ d a host of All Starr friends\, in Another Day In The Life Ringo Starr sha
+ res personal moments from a legendary life in music\, and offers a unique 
+ and inspiring look at the world around us. View the book at RingoStarrBook
+ .com.\nAnd this past Saturday\, November 2\, 2019 Mayor John Mirisch of Be
+ verly Hills welcomed Sir Ringo Starr and Lady Starkey\, joined by family a
+ nd friends\, at the dedication of Starr’s “Peace & Love” sculpture 
+ – which will now permanently reside at the Beverly Hills Garden Park on 
+ Santa Monica and Canon. Standing eight feet tall and weighing nearly 1\,50
+ 0 pounds\, the polished stainless steel sculpture replicates the hand gest
+ ure Ringo adopted in 1969. “Peace & Love” is a message that has become
+  synonymous with Ringo’s name\, and he has dedicated his birthday\, July
+  7\, towards spreading that message – last year celebrating “Peace & L
+ ove” events in nearly 30 countries around the world. Ringo hopes that th
+ is gift will be a lasting way to carry the message of Peace & Love forward
+  in a place he has called home for many years.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XPN Welcomes Father John Misty: with Suki Waterhouse
 DTSTART;VALUE=DATE-TIME:20220914T000000Z
 DTEND;VALUE=DATE-TIME:20220914T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005246Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005030Z
 DESCRIPTION:Info: https://themetphilly.com/event/xpn-welcomes-father-john-
  misty/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -97,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:POSTPONED: Lady A: Request Line Tour
 DTSTART;VALUE=DATE-TIME:20220915T233000Z
 DTEND;VALUE=DATE-TIME:20220916T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005246Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005030Z
 DESCRIPTION:Info: https://themetphilly.com/event/lady-a/\n\nDoors at 6:30 
  pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest belongi
  ngs\, we have implemented the following bag policy: small clutch bags appr
@@ -111,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Porcupine Tree: Closure / Continuation
 DTSTART;VALUE=DATE-TIME:20220918T000000Z
 DTEND;VALUE=DATE-TIME:20220918T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005246Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005031Z
 DESCRIPTION:Info: https://themetphilly.com/event/porcupine-tree/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest
   belongings\, we have implemented the following bag policy: small clutch b
@@ -124,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:The Always Sunny Podcast
 DTSTART;VALUE=DATE-TIME:20220919T000000Z
 DTEND;VALUE=DATE-TIME:20220919T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005247Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005031Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-always-sunny-podcast/
  \n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact 
  with guest belongings\, we have implemented the following bag policy: smal
@@ -138,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:The Always Sunny Podcast
 DTSTART;VALUE=DATE-TIME:20220920T000000Z
 DTEND;VALUE=DATE-TIME:20220920T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005247Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005032Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-always-sunny-podcast-
  2/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contac
  t with guest belongings\, we have implemented the following bag policy: sm
@@ -152,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Alec Benjamin: The (Un)Commentary Tour with Claire Rosinkranz
 DTSTART;VALUE=DATE-TIME:20220921T000000Z
 DTEND;VALUE=DATE-TIME:20220921T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005248Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005032Z
 DESCRIPTION:Info: https://themetphilly.com/event/alec-benjamin/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest 
  belongings\, we have implemented the following bag policy: small clutch ba
@@ -166,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Lil Nas X: Long Live Montero
 DTSTART;VALUE=DATE-TIME:20220922T233000Z
 DTEND;VALUE=DATE-TIME:20220923T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005248Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005032Z
 DESCRIPTION:Info: https://themetphilly.com/event/lil-nas-x/\n\nDoors at 6:
  30 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest belo
  ngings\, we have implemented the following bag policy: small clutch bags a
@@ -187,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022
 DTSTART;VALUE=DATE-TIME:20220924T000000Z
 DTEND;VALUE=DATE-TIME:20220924T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005248Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005033Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest bel
  ongings\, we have implemented the following bag policy: small clutch bags 
@@ -241,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022 
 DTSTART;VALUE=DATE-TIME:20220925T000000Z
 DTEND;VALUE=DATE-TIME:20220925T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005249Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005033Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock-2/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest b
  elongings\, we have implemented the following bag policy: small clutch bag
@@ -295,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Rock: Ego Death World Tour 2022
 DTSTART;VALUE=DATE-TIME:20220926T000000Z
 DTEND;VALUE=DATE-TIME:20220926T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005249Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005034Z
 DESCRIPTION:Info: https://themetphilly.com/event/chris-rock-3/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest b
  elongings\, we have implemented the following bag policy: small clutch bag
@@ -349,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:The Mars Volta
 DTSTART;VALUE=DATE-TIME:20220928T000000Z
 DTEND;VALUE=DATE-TIME:20220928T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005250Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005034Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-mars-volta/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest
   belongings\, we have implemented the following bag policy: small clutch b
@@ -362,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Lil Durk: The 7220 Deluxe Tour
 DTSTART;VALUE=DATE-TIME:20220929T000000Z
 DTEND;VALUE=DATE-TIME:20220929T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005250Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005034Z
 DESCRIPTION:Info: https://themetphilly.com/event/lil-durk/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -379,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Death Cab for Cutie: Asphalt Meadows Tour
 DTSTART;VALUE=DATE-TIME:20220930T000000Z
 DTEND;VALUE=DATE-TIME:20220930T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005250Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005035Z
 DESCRIPTION:Info: https://themetphilly.com/event/death-cab-for-cutie/\n\nD
  oors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: small clu
@@ -393,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Carly Rae Jepsen: The So Nice Tour
 DTSTART;VALUE=DATE-TIME:20221002T000000Z
 DTEND;VALUE=DATE-TIME:20221002T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005251Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005035Z
 DESCRIPTION:Info: https://themetphilly.com/event/carly-rae-jepsen/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with gue
  st belongings\, we have implemented the following bag policy: small clutch
@@ -412,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Pavement
 DTSTART;VALUE=DATE-TIME:20221006T000000Z
 DTEND;VALUE=DATE-TIME:20221006T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005251Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005036Z
 DESCRIPTION:Info: https://themetphilly.com/event/pavement/\n\nDoors at 6:3
  0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -425,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:The Gaslight Anthem: with Jeff Rosenstock
 DTSTART;VALUE=DATE-TIME:20221008T000000Z
 DTEND;VALUE=DATE-TIME:20221008T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005252Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005036Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-gaslight-anthem/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: small clu
@@ -439,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Demi Lovato: Holy Fvck Tour
 DTSTART;VALUE=DATE-TIME:20221013T000000Z
 DTEND;VALUE=DATE-TIME:20221013T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005252Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005036Z
 DESCRIPTION:Info: https://themetphilly.com/event/demi-lovato/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest be
  longings\, we have implemented the following bag policy: small clutch bags
@@ -453,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:Kelsea Ballerini: Heartfirst Tour
 DTSTART;VALUE=DATE-TIME:20221014T000000Z
 DTEND;VALUE=DATE-TIME:20221014T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005253Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005037Z
 DESCRIPTION:Info: https://themetphilly.com/event/kelsea-ballerini/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30 PM.\nTo reduc
  e staff contact with guest belongings\, we have implemented the following 
@@ -509,7 +488,7 @@ BEGIN:VEVENT
 SUMMARY:Gorillaz: with EARTHGANG
 DTSTART;VALUE=DATE-TIME:20221014T233000Z
 DTEND;VALUE=DATE-TIME:20221015T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005253Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005037Z
 DESCRIPTION:Info: https://themetphilly.com/event/gorillaz/\n\nDoors at 6:0
  0 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -523,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:Gorillaz: North America Tour 2022
 DTSTART;VALUE=DATE-TIME:20221015T233000Z
 DTEND;VALUE=DATE-TIME:20221016T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005253Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005038Z
 DESCRIPTION:Info: https://themetphilly.com/event/gorillaz-2/\n\nDoors at 6
  :00 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest bel
  ongings\, we have implemented the following bag policy: small clutch bags 
@@ -541,7 +520,7 @@ SUMMARY:RuPaul’s Drag Race Night of the Living Drag: Voss Events Present
  s
 DTSTART;VALUE=DATE-TIME:20221028T000000Z
 DTEND;VALUE=DATE-TIME:20221028T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005254Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005038Z
 DESCRIPTION:Info: https://themetphilly.com/event/rupauls-drag-race-night-o
  f-the-living-drag/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nPlease
   note: Line-Up Subject To Change The 11th Annual Night of the Living Drag 
@@ -561,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Marcus Mumford
 DTSTART;VALUE=DATE-TIME:20221104T000000Z
 DTEND;VALUE=DATE-TIME:20221104T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005254Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005038Z
 DESCRIPTION:Info: https://themetphilly.com/event/marcus-mumford/\n\nDoors 
  at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest
   belongings\, we have implemented the following bag policy: small clutch b
@@ -574,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:New Jack City Live
 DTSTART;VALUE=DATE-TIME:20221105T000000Z
 DTEND;VALUE=DATE-TIME:20221105T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005255Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005039Z
 DESCRIPTION:Info: https://themetphilly.com/event/new-jack-city-live-2/\n\n
  Doors at \nShow starts at 8:00 pm\n\n\nRecommended for – Ages 12 & Up *N
  o children under 5 years of age admitted into theatre. Artists scheduled t
@@ -589,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:New Jack City Live
 DTSTART;VALUE=DATE-TIME:20221106T000000Z
 DTEND;VALUE=DATE-TIME:20221106T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005255Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005039Z
 DESCRIPTION:Info: https://themetphilly.com/event/new-jack-city-live/\n\nDo
  ors at \nShow starts at 8:00 pm\n\n\nRecommended for – Ages 12 & Up *No 
  children under 5 years of age admitted into theatre. Artists scheduled to 
@@ -604,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Russo’s Almost Dead
 DTSTART;VALUE=DATE-TIME:20221112T020000Z
 DTEND;VALUE=DATE-TIME:20221112T040000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005256Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005040Z
 DESCRIPTION:Info: https://themetphilly.com/event/joe-russos-almost-dead-3/
  \n\nDoors at 7:30 pm\nShow starts at 9:00 pm\n\n\nDoors open at 7:30 PM.\n
  To reduce staff contact with guest belongings\, we have implemented the fo
@@ -618,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Billy Strings
 DTSTART;VALUE=DATE-TIME:20221113T010000Z
 DTEND;VALUE=DATE-TIME:20221113T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005256Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005040Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-billy-strin
  gs/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff conta
  ct with guest belongings\, we have implemented the following bag policy: s
@@ -648,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Billy Strings
 DTSTART;VALUE=DATE-TIME:20221114T010000Z
 DTEND;VALUE=DATE-TIME:20221114T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005256Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005040Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-billy-strin
  gs-2/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30P
  M.\nTo reduce staff contact with guest belongings\, we have implemented th
@@ -678,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:Yung Gravy & bbno$: Baby Gravy\, The Tour
 DTSTART;VALUE=DATE-TIME:20221118T010000Z
 DTEND;VALUE=DATE-TIME:20221118T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005257Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005041Z
 DESCRIPTION:Info: https://themetphilly.com/event/yung-gravy-bbno/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -692,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:Smokey Robinson
 DTSTART;VALUE=DATE-TIME:20221127T010000Z
 DTEND;VALUE=DATE-TIME:20221127T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005257Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005042Z
 DESCRIPTION:Info: https://themetphilly.com/event/smokey-robinson/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -706,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule
 DTSTART;VALUE=DATE-TIME:20221230T010000Z
 DTEND;VALUE=DATE-TIME:20221230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005258Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005042Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-3/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest be
  longings\, we have implemented the following bag policy: small clutch bags
@@ -720,7 +699,7 @@ BEGIN:VEVENT
 SUMMARY:Vance Joy: In Our Own Sweet Time Tour 2023
 DTSTART;VALUE=DATE-TIME:20230208T010000Z
 DTEND;VALUE=DATE-TIME:20230208T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005258Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005042Z
 DESCRIPTION:Info: https://themetphilly.com/event/vance-joy/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belo
  ngings\, we have implemented the following bag policy: small clutch bags a
@@ -734,7 +713,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Can Dance
 DTSTART;VALUE=DATE-TIME:20230423T000000Z
 DTEND;VALUE=DATE-TIME:20230423T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220910T005258Z
+DTSTAMP;VALUE=DATE-TIME:20220911T005043Z
 DESCRIPTION:Info: https://themetphilly.com/event/dead-can-dance-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with gue
  st belongings\, we have implemented the following bag policy: small clutch
