@@ -1,26 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Lil Durk: The 7220 Deluxe Tour
-DTSTART;VALUE=DATE-TIME:20220929T000000Z
-DTEND;VALUE=DATE-TIME:20220929T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005929Z
-DESCRIPTION:Info: https://themetphilly.com/event/lil-durk/\n\nDoors at 7:0
- 0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
- gings\, we have implemented the following bag policy: small clutch bags ap
- proximately the size of a hand (MAX 4.5”x 6.5”) ARE ALLOWED (and need 
- not be clear). LARGER BAGS MUST BE CLEAR TOTE BAGS. NO OTHER TYPES OF BAGS
-  WILL BE ALLOWED. ALL BAGS OVER 12″x12″x6″ ARE PROHIBITED.\nPlease N
- ote: Entry requirements are subject to change. By purchasing tickets to th
- is event you agree to abide by entry requirements in effect at the time of
-  the event. Check the venue website leading up to your event for the lates
- t protocols\nDoors open at 7:00 PM.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Death Cab for Cutie: Asphalt Meadows Tour
 DTSTART;VALUE=DATE-TIME:20220930T000000Z
 DTEND;VALUE=DATE-TIME:20220930T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005929Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010412Z
 DESCRIPTION:Info: https://themetphilly.com/event/death-cab-for-cutie/\n\nD
  oors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: small clu
@@ -34,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Carly Rae Jepsen: The So Nice Tour
 DTSTART;VALUE=DATE-TIME:20221002T000000Z
 DTEND;VALUE=DATE-TIME:20221002T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005930Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010412Z
 DESCRIPTION:Info: https://themetphilly.com/event/carly-rae-jepsen/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with gue
  st belongings\, we have implemented the following bag policy: small clutch
@@ -53,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:The Dozen Trivia Season 3 Kickoff Live Taping
 DTSTART;VALUE=DATE-TIME:20221004T233000Z
 DTEND;VALUE=DATE-TIME:20221005T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005930Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010412Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-dozen-trivia-season-3
  -kickoff-live-taping/\n\nDoors at 6:00 pm\nShow starts at 7:30 pm\n\n\nNOT
  ICE: Attending this live taping event\, you understand you are subject to 
@@ -72,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Pavement
 DTSTART;VALUE=DATE-TIME:20221006T000000Z
 DTEND;VALUE=DATE-TIME:20221006T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005930Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010412Z
 DESCRIPTION:Info: https://themetphilly.com/event/pavement/\n\nDoors at 6:3
  0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -85,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:The Gaslight Anthem: with Jeff Rosenstock
 DTSTART;VALUE=DATE-TIME:20221008T000000Z
 DTEND;VALUE=DATE-TIME:20221008T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005931Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010412Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-gaslight-anthem/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: small clu
@@ -99,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Demi Lovato: Holy Fvck Tour
 DTSTART;VALUE=DATE-TIME:20221013T000000Z
 DTEND;VALUE=DATE-TIME:20221013T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005931Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010413Z
 DESCRIPTION:Info: https://themetphilly.com/event/demi-lovato/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest be
  longings\, we have implemented the following bag policy: small clutch bags
@@ -113,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Kelsea Ballerini: Heartfirst Tour
 DTSTART;VALUE=DATE-TIME:20221014T000000Z
 DTEND;VALUE=DATE-TIME:20221014T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005931Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010413Z
 DESCRIPTION:Info: https://themetphilly.com/event/kelsea-ballerini/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30 PM.\nTo reduc
  e staff contact with guest belongings\, we have implemented the following 
@@ -169,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Gorillaz: with EARTHGANG
 DTSTART;VALUE=DATE-TIME:20221014T233000Z
 DTEND;VALUE=DATE-TIME:20221015T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005932Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010413Z
 DESCRIPTION:Info: https://themetphilly.com/event/gorillaz/\n\nDoors at 6:0
  0 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -183,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Gorillaz: North America Tour 2022
 DTSTART;VALUE=DATE-TIME:20221015T233000Z
 DTEND;VALUE=DATE-TIME:20221016T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005932Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010413Z
 DESCRIPTION:Info: https://themetphilly.com/event/gorillaz-2/\n\nDoors at 6
  :00 pm\nShow starts at 7:30 pm\n\n\nTo reduce staff contact with guest bel
  ongings\, we have implemented the following bag policy: small clutch bags 
@@ -201,7 +184,7 @@ SUMMARY:RuPaul’s Drag Race Night of the Living Drag: Voss Events Present
  s
 DTSTART;VALUE=DATE-TIME:20221028T000000Z
 DTEND;VALUE=DATE-TIME:20221028T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005932Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010413Z
 DESCRIPTION:Info: https://themetphilly.com/event/rupauls-drag-race-night-o
  f-the-living-drag/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nPlease
   note: Line-Up Subject To Change The 11th Annual Night of the Living Drag 
@@ -221,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Marcus Mumford
 DTSTART;VALUE=DATE-TIME:20221104T000000Z
 DTEND;VALUE=DATE-TIME:20221104T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005933Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010413Z
 DESCRIPTION:Info: https://themetphilly.com/event/marcus-mumford/\n\nDoors 
  at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest
   belongings\, we have implemented the following bag policy: small clutch b
@@ -234,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:New Jack City Live
 DTSTART;VALUE=DATE-TIME:20221105T000000Z
 DTEND;VALUE=DATE-TIME:20221105T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005933Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010414Z
 DESCRIPTION:Info: https://themetphilly.com/event/new-jack-city-live-2/\n\n
  Doors at \nShow starts at 8:00 pm\n\n\nRecommended for – Ages 12 & Up *N
  o children under 5 years of age admitted into theatre. Artists scheduled t
@@ -249,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:New Jack City Live
 DTSTART;VALUE=DATE-TIME:20221106T000000Z
 DTEND;VALUE=DATE-TIME:20221106T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005934Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010414Z
 DESCRIPTION:Info: https://themetphilly.com/event/new-jack-city-live/\n\nDo
  ors at \nShow starts at 8:00 pm\n\n\nRecommended for – Ages 12 & Up *No 
  children under 5 years of age admitted into theatre. Artists scheduled to 
@@ -264,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:The Last Waltz
 DTSTART;VALUE=DATE-TIME:20221107T010000Z
 DTEND;VALUE=DATE-TIME:20221107T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005934Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010414Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-last-waltz/\n\nDoors 
  at \nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belong
  ings\, we have implemented the following bag policy: small clutch bags app
@@ -277,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Russo’s Almost Dead
 DTSTART;VALUE=DATE-TIME:20221112T020000Z
 DTEND;VALUE=DATE-TIME:20221112T040000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005934Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010414Z
 DESCRIPTION:Info: https://themetphilly.com/event/joe-russos-almost-dead-3/
  \n\nDoors at 7:30 pm\nShow starts at 9:00 pm\n\n\nDoors open at 7:30 PM.\n
  To reduce staff contact with guest belongings\, we have implemented the fo
@@ -291,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Billy Strings
 DTSTART;VALUE=DATE-TIME:20221113T010000Z
 DTEND;VALUE=DATE-TIME:20221113T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005935Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010414Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-billy-strin
  gs/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff conta
  ct with guest belongings\, we have implemented the following bag policy: s
@@ -321,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Billy Strings
 DTSTART;VALUE=DATE-TIME:20221114T010000Z
 DTEND;VALUE=DATE-TIME:20221114T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005935Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010414Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-billy-strin
  gs-2/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30P
  M.\nTo reduce staff contact with guest belongings\, we have implemented th
@@ -351,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Yung Gravy & bbno$: Baby Gravy\, The Tour
 DTSTART;VALUE=DATE-TIME:20221118T010000Z
 DTEND;VALUE=DATE-TIME:20221118T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005935Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010415Z
 DESCRIPTION:Info: https://themetphilly.com/event/yung-gravy-bbno/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -365,55 +348,55 @@ BEGIN:VEVENT
 SUMMARY:Michelle Obama: The Light We Carry Tour
 DTSTART;VALUE=DATE-TIME:20221119T010000Z
 DTEND;VALUE=DATE-TIME:20221119T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005935Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010415Z
 DESCRIPTION:Info: https://themetphilly.com/event/michelle-obama/\n\nDoors 
- at \nShow starts at 8:00 pm\n\n\nVerified Fan Registration closes Mon\, Se
- ptember 26 at 3pm ET.\nVerified Fans who receive a code will have access t
- o purchase tickets before the general public on Wednesday\, September 28\,
-  at 10:00 AM local time. Only fans that have received a unique code will h
- ave the chance to purchase tickets on a first come\, first served basis. A
- ll tickets will be made available during the Verified Fan presale\; any re
- maining tickets will be sold at the general public onsale beginning Friday
- \, September 30\, at 10:00 AM local time.\n \nAn inspiring follow-up to h
- er critically acclaimed\, #1 bestselling memoir Becoming\, former First La
- dy Michelle Obama’s The Light We Carry: Overcoming in Uncertain Times\, 
- will be released globally on November 15\, 2022.\nIn this new book\, Mrs. 
- Obama offers readers a series of fresh stories and insightful reflections 
- on change\, challenge\, and power\, including her belief that when we ligh
- t up for others\, we can illuminate the richness and potential of the worl
- d around us\, discovering deeper truths and new pathways for progress. Dra
- wing from her experiences as a mother\, daughter\, spouse\, friend\, and F
- irst Lady\, she shares the habits and principles she has developed to succ
- essfully adapt to change and overcome various obstacles—the earned wisdo
- m that helps her continue to “become.” She details her most valuable p
- ractices\, like “starting kind\,” “going high\,” and assembling a 
- “kitchen table” of trusted friends and mentors. With trademark humor\,
-  candor\, and compassion\, she also explores issues connected to race\, ge
- nder\, and visibility\, encouraging readers to work through fear\, find st
- rength in community\, and live with boldness.\nAdditional information abou
- t The Light We Carry is available at www.michelleobamabooks.com.\n“I am 
- so excited to share that I will be heading across the country soon to talk
-  with you all about my new book\, The Light We Carry. I’m looking forwar
- d to making some new connections—and of course\, seeing some familiar fa
- ces from the last tour\,” said Mrs. Obama.\n“This book means so much t
- o me—it’s a collection of perspectives and practices I’ve used to ke
- ep me afloat amid uncertainty. On this tour\, I’ll be sharing some perso
- nal stories and lessons that have helped me along my path\, and I can’t 
- wait to tell you more.”\n \nUpcoming Book Included with Select Tickets 
- Each ticket purchased online within the first 5 rows comes with a copy of 
- Michelle Obama’s forthcoming book\, The Light We Carry\, to be released 
- on November 15\, 2022 (maximum of 4 tickets per household). Not available 
- on any other ticket purchases. After your ticket purchase\, you will recei
- ve an additional email in the coming weeks with instructions on how to red
- eem your complimentary book. US and Canadian purchasers only. Not Valid fo
- r Verified Resale tickets.\n
+ at 7:00 pm\nShow starts at 8:00 pm\n\n\nVerified Fan Registration closes M
+ on\, September 26 at 3pm ET.\nVerified Fans who receive a code will have a
+ ccess to purchase tickets before the general public on Wednesday\, Septemb
+ er 28\, at 10:00 AM local time. Only fans that have received a unique code
+  will have the chance to purchase tickets on a first come\, first served b
+ asis. All tickets will be made available during the Verified Fan presale\;
+  any remaining tickets will be sold at the general public onsale beginning
+  Friday\, September 30\, at 10:00 AM local time.\n \nAn inspiring follow-
+ up to her critically acclaimed\, #1 bestselling memoir Becoming\, former F
+ irst Lady Michelle Obama’s The Light We Carry: Overcoming in Uncertain T
+ imes\, will be released globally on November 15\, 2022.\nIn this new book\
+ , Mrs. Obama offers readers a series of fresh stories and insightful refle
+ ctions on change\, challenge\, and power\, including her belief that when 
+ we light up for others\, we can illuminate the richness and potential of t
+ he world around us\, discovering deeper truths and new pathways for progre
+ ss. Drawing from her experiences as a mother\, daughter\, spouse\, friend\
+ , and First Lady\, she shares the habits and principles she has developed 
+ to successfully adapt to change and overcome various obstacles—the earne
+ d wisdom that helps her continue to “become.” She details her most val
+ uable practices\, like “starting kind\,” “going high\,” and assemb
+ ling a “kitchen table” of trusted friends and mentors. With trademark 
+ humor\, candor\, and compassion\, she also explores issues connected to ra
+ ce\, gender\, and visibility\, encouraging readers to work through fear\, 
+ find strength in community\, and live with boldness.\nAdditional informati
+ on about The Light We Carry is available at www.michelleobamabooks.com.\n
+ “I am so excited to share that I will be heading across the country soon
+  to talk with you all about my new book\, The Light We Carry. I’m lookin
+ g forward to making some new connections—and of course\, seeing some fam
+ iliar faces from the last tour\,” said Mrs. Obama.\n“This book means s
+ o much to me—it’s a collection of perspectives and practices I’ve us
+ ed to keep me afloat amid uncertainty. On this tour\, I’ll be sharing so
+ me personal stories and lessons that have helped me along my path\, and I 
+ can’t wait to tell you more.”\n \nUpcoming Book Included with Select 
+ Tickets Each ticket purchased online within the first 5 rows comes with a 
+ copy of Michelle Obama’s forthcoming book\, The Light We Carry\, to be r
+ eleased on November 15\, 2022 (maximum of 4 tickets per household). Not av
+ ailable on any other ticket purchases. After your ticket purchase\, you wi
+ ll receive an additional email in the coming weeks with instructions on ho
+ w to redeem your complimentary book. US and Canadian purchasers only. Not 
+ Valid for Verified Resale tickets.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The London Suede and Manic Street Preachers
 DTSTART;VALUE=DATE-TIME:20221120T011500Z
 DTEND;VALUE=DATE-TIME:20221120T031500Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005936Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010415Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-london-suede-and-mani
  c-street-preachers/\n\nDoors at \nShow starts at 8:15 pm\n\n\nTo reduce st
  aff contact with guest belongings\, we have implemented the following bag 
@@ -424,10 +407,55 @@ DESCRIPTION:Info: https://themetphilly.com/event/the-london-suede-and-mani
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Michelle Obama: The Light We Carry Tour
+DTSTART;VALUE=DATE-TIME:20221119T220000Z
+DTEND;VALUE=DATE-TIME:20221120T000000Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010415Z
+DESCRIPTION:Info: https://themetphilly.com/event/michelle-obama-2/\n\nDoor
+ s at 4:00 pm\nShow starts at 5:00 pm\n\n\nOnly fans that have received a u
+ nique code will have the chance to purchase tickets on a first come\, firs
+ t served basis. All tickets will be made available during the Verified Fan
+  presale\; any remaining tickets will be sold at the general public onsale
+  beginning Friday\, September 30\, at 10:00 AM local time.\n \nAn inspiri
+ ng follow-up to her critically acclaimed\, #1 bestselling memoir Becoming\
+ , former First Lady Michelle Obama’s The Light We Carry: Overcoming in U
+ ncertain Times\, was released globally on November 15\, 2022.\nIn this new
+  book\, Mrs. Obama offers readers a series of fresh stories and insightful
+  reflections on change\, challenge\, and power\, including her belief that
+  when we light up for others\, we can illuminate the richness and potentia
+ l of the world around us\, discovering deeper truths and new pathways for 
+ progress. Drawing from her experiences as a mother\, daughter\, spouse\, f
+ riend\, and First Lady\, she shares the habits and principles she has deve
+ loped to successfully adapt to change and overcome various obstacles—the
+  earned wisdom that helps her continue to “become.” She details her mo
+ st valuable practices\, like “starting kind\,” “going high\,” and 
+ assembling a “kitchen table” of trusted friends and mentors. With trad
+ emark humor\, candor\, and compassion\, she also explores issues connected
+  to race\, gender\, and visibility\, encouraging readers to work through f
+ ear\, find strength in community\, and live with boldness.\nAdditional inf
+ ormation about The Light We Carry is available at www.michelleobamabooks.c
+ om.\n“I am so excited to share that I will be heading across the country
+  soon to talk with you all about my new book\, The Light We Carry. I’m l
+ ooking forward to making some new connections—and of course\, seeing som
+ e familiar faces from the last tour\,” said Mrs. Obama.\n“This book me
+ ans so much to me—it’s a collection of perspectives and practices I’
+ ve used to keep me afloat amid uncertainty. On this tour\, I’ll be shari
+ ng some personal stories and lessons that have helped me along my path\, a
+ nd I can’t wait to tell you more.”\n \nUpcoming Book Included with Se
+ lect Tickets Each ticket purchased online within the first 5 rows comes wi
+ th a copy of Michelle Obama’s forthcoming book\, The Light We Carry\, wa
+ s released on November 15\, 2022 (maximum of 4 tickets per household). Not
+  available on any other ticket purchases. After your ticket purchase\, you
+  will receive an additional email in the coming weeks with instructions on
+  how to redeem your complimentary book. US and Canadian purchasers only. N
+ ot Valid for Verified Resale tickets.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Smokey Robinson
 DTSTART;VALUE=DATE-TIME:20221127T010000Z
 DTEND;VALUE=DATE-TIME:20221127T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005936Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010415Z
 DESCRIPTION:Info: https://themetphilly.com/event/smokey-robinson/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -441,16 +469,28 @@ BEGIN:VEVENT
 SUMMARY:WDAS Holiday Jam Presents Maxwell
 DTSTART;VALUE=DATE-TIME:20221203T010000Z
 DTEND;VALUE=DATE-TIME:20221203T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005936Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010415Z
 DESCRIPTION:Info: https://themetphilly.com/event/wdas-holiday-jam-presents
- -maxwell/\n\nDoors at \nShow starts at 8:00 pm\n\n\n
+ -maxwell/\n\nDoors at \nShow starts at 8:00 pm\n\n\nWDAS FM Presents Holid
+ ay Jam 2022 starring Maxwell with special guests Leela James & Skeet Carte
+ r.\nMaxwell will lead the all-star lineup for the 105.3 WDAS Holiday Jam F
+ riday\, December 2\, 2022\, at The Met Philadelphia. Also performing will 
+ be Leela James & Skeet Carter.\n“Bringing world-class entertainment to P
+ hiladelphia is an honor that we don’t take lightly\,” said Derrick Cor
+ bett\, Senior Vice President of Programming for iHeartMedia Philadelphia. 
+ “To present Maxwell for the first time ever at The Met Philadelphia is a
+  landmark moment in both his career and our history. We’re looking forwa
+ rd to a fantastic evening of music and making new memories for our listene
+ rs.”\nEach year 105.3 WDAS FM brings the best in R&B for an annual holid
+ ay concert featuring appearances by legendary on-air personalities such as
+  Patty Jackson\, Frankie Darcell\, Adimu\, Mimi Brown\, and Ed Long.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Evening with Morrissey
 DTSTART;VALUE=DATE-TIME:20221204T013000Z
 DTEND;VALUE=DATE-TIME:20221204T033000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005937Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010415Z
 DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-morrissey
  -2/\n\nDoors at 7:00 pm\nShow starts at 8:30 pm\n\n\nDoors open at 7:00 PM
  .\nTo reduce staff contact with guest belongings\, we have implemented the
@@ -464,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Ween
 DTSTART;VALUE=DATE-TIME:20221210T010000Z
 DTEND;VALUE=DATE-TIME:20221210T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005937Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010416Z
 DESCRIPTION:Info: https://themetphilly.com/event/ween-5/\n\nDoors at 7:00 
  pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -478,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:Ween
 DTSTART;VALUE=DATE-TIME:20221211T010000Z
 DTEND;VALUE=DATE-TIME:20221211T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005937Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010416Z
 DESCRIPTION:Info: https://themetphilly.com/event/ween-6/\n\nDoors at 7:00 
  pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -492,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule
 DTSTART;VALUE=DATE-TIME:20221230T010000Z
 DTEND;VALUE=DATE-TIME:20221230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005938Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010416Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-3/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest be
  longings\, we have implemented the following bag policy: small clutch bags
@@ -506,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:Vance Joy: In Our Own Sweet Time Tour 2023
 DTSTART;VALUE=DATE-TIME:20230208T010000Z
 DTEND;VALUE=DATE-TIME:20230208T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005938Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010416Z
 DESCRIPTION:Info: https://themetphilly.com/event/vance-joy/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belo
  ngings\, we have implemented the following bag policy: small clutch bags a
@@ -520,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:SUBTRONICS: ANTIFRACTAL Tour 2023
 DTSTART;VALUE=DATE-TIME:20230218T010000Z
 DTEND;VALUE=DATE-TIME:20230218T030000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005938Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010416Z
 DESCRIPTION:Info: https://themetphilly.com/event/subtronics/\n\nDoors at \
  nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -529,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Can Dance
 DTSTART;VALUE=DATE-TIME:20230423T000000Z
 DTEND;VALUE=DATE-TIME:20230423T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005939Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010416Z
 DESCRIPTION:Info: https://themetphilly.com/event/dead-can-dance-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with gue
  st belongings\, we have implemented the following bag policy: small clutch
@@ -543,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:YUNGBLUD: The World Tour
 DTSTART;VALUE=DATE-TIME:20230524T000000Z
 DTEND;VALUE=DATE-TIME:20230524T020000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005939Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010417Z
 DESCRIPTION:Info: https://themetphilly.com/event/yungblud/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -557,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:Crowded House: Dreamers Are Waiting North American Tour
 DTSTART;VALUE=DATE-TIME:20230524T233000Z
 DTEND;VALUE=DATE-TIME:20230525T013000Z
-DTSTAMP;VALUE=DATE-TIME:20220928T005939Z
+DTSTAMP;VALUE=DATE-TIME:20220929T010417Z
 DESCRIPTION:Info: https://themetphilly.com/event/crowded-house-2/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nThis event has been postponed to 
  Tuesday\, May 24\, 2023. All previously purchased tickets will be honored.
