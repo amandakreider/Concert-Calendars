@@ -1,5 +1,5 @@
 ,Show,Date,Doors,Location,Link
-0,Sungazer,10/05/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/sungazer/
+0,Sungazer,10/05/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/sungazer/
 1,billy woods,10/06/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/billy-woods/
 2,WXPN Welcomes: Momma,10/07/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/wxpn-welcomes-momma/
 3,Pine Barons,10/08/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/pine-barons/
@@ -19,7 +19,7 @@
 17,Pile,10/28/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/pile/
 18,Chris Forsyth & Meg Baird,10/29/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/chris-forsyth-meg-baird/
 19,MAN ON MAN,10/30/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/man-on-man/
-20,Naughty Napster with DJ Seans Parker,10/31/22 at 9pm  ,9pm  ,Johnny Brenda’s,https://johnnybrendas.com/event/naughty-napster-with-dj-seans-parker/
+20,Naughty Napster with DJ Seans Parker,10/31/22 at 9pm ,9pm ,Johnny Brenda’s,https://johnnybrendas.com/event/naughty-napster-with-dj-seans-parker/
 21,Kælan Mikla,11/01/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/k%c3%a6lan-mikla/
 22,The Builders and The Butchers,11/02/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/the-builders-and-the-butchers/
 23,Tropical Fuck Storm,11/03/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/tropical-fuck-storm/
@@ -35,14 +35,16 @@
 33,Preoccupations,11/17/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/preoccupations/
 34,Jockstrap,11/18/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/jockstrap/
 35,Ramp Local Showcase with Godcaster,11/19/22 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/ramp-local-showcase-with-godcaster/
-36,Exhumed,11/26/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/exhumed/
-37,Aoife Nessa Frances & Indigo Sparke,11/30/22 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/aoife-nessa-frances-indigo-sparke/
-38,Delicate Steve,12/01/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/delicate-steve/
-39,Work Drugs 10th Holiday Spectacle,12/03/22 at ,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/work-drugs-10th-holiday-spectacle/
-40,Bit Brigade performs Mega Man II & DuckTales,12/04/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/bit-brigade-performs-mega-man-ii-ducktales/
-41,Feng Suave,12/06/22 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/feng-suave/
-42,Chris Pureka,12/15/22 at 9PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/chris-pureka/
-43,Jon Spencer & The HITmakers,02/02/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/jon-spencer-the-hitmakers/
-44,Gilla Band,02/22/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/gilla-band/
-45,Clan Of Xymox,03/08/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/clan-of-xymox/
-46,Orions Belte,03/11/23 at 9PM,9pm ,Johnny Brenda’s,https://johnnybrendas.com/event/orions-belte/
+36,Mercury Radio Theater presents GOBBLEPOCALYPSE,11/25/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/mercury-radio-theater-presents-gobblepocalypse/
+37,Exhumed,11/26/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/exhumed/
+38,*Cancelled* Aoife Nessa Frances & Indigo Sparke,11/30/22 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/cancelled-aoife-nessa-frances-indigo-sparke/
+39,Delicate Steve,12/01/22 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/delicate-steve/
+40,Work Drugs 10th Holiday Spectacle,12/03/22 at ,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/work-drugs-10th-holiday-spectacle/
+41,Bit Brigade performs Mega Man II & DuckTales,12/04/22 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/bit-brigade-performs-mega-man-ii-ducktales/
+42,Feng Suave,12/06/22 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/feng-suave/
+43,Chris Pureka,12/15/22 at 9PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/chris-pureka/
+44,Jon Spencer & The HITmakers,02/02/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/jon-spencer-the-hitmakers/
+45,Kids Return,02/11/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/kids-return/
+46,Gilla Band,02/22/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/gilla-band/
+47,Clan Of Xymox,03/08/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/clan-of-xymox/
+48,Orions Belte,03/11/23 at 9PM,9pm ,Johnny Brenda’s,https://johnnybrendas.com/event/orions-belte/
