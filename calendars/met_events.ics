@@ -3,7 +3,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Russo’s Almost Dead
 DTSTART;VALUE=DATE-TIME:20221112T020000Z
 DTEND;VALUE=DATE-TIME:20221112T040000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005131Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004910Z
 DESCRIPTION:Info: https://themetphilly.com/event/joe-russos-almost-dead-3/
  \n\nDoors at 7:30 pm\nShow starts at 9:00 pm\n\n\nDoors open at 7:30 PM.\n
  To reduce staff contact with guest belongings\, we have implemented the fo
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Billy Strings
 DTSTART;VALUE=DATE-TIME:20221113T010000Z
 DTEND;VALUE=DATE-TIME:20221113T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005131Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004911Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-billy-strin
  gs/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff conta
  ct with guest belongings\, we have implemented the following bag policy: s
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Billy Strings
 DTSTART;VALUE=DATE-TIME:20221114T010000Z
 DTEND;VALUE=DATE-TIME:20221114T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005132Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004911Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-billy-strin
  gs-2/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30P
  M.\nTo reduce staff contact with guest belongings\, we have implemented th
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Yung Gravy & bbno$: Baby Gravy\, The Tour
 DTSTART;VALUE=DATE-TIME:20221118T010000Z
 DTEND;VALUE=DATE-TIME:20221118T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005132Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004911Z
 DESCRIPTION:Info: https://themetphilly.com/event/yung-gravy-bbno/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Michelle Obama: The Light We Carry Tour
 DTSTART;VALUE=DATE-TIME:20221119T010000Z
 DTEND;VALUE=DATE-TIME:20221119T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005132Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004911Z
 DESCRIPTION:Info: https://themetphilly.com/event/michelle-obama/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nModerators: Gayle King and Hoda Ko
  tb\n \nAn inspiring follow-up to her critically acclaimed\, #1 bestsellin
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:The London Suede and Manic Street Preachers
 DTSTART;VALUE=DATE-TIME:20221120T011500Z
 DTEND;VALUE=DATE-TIME:20221120T031500Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005133Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004911Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-london-suede-and-mani
  c-street-preachers/\n\nDoors at 7:30 pm\nShow starts at 8:15 pm\n\n\nTo re
  duce staff contact with guest belongings\, we have implemented the followi
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Michelle Obama: The Light We Carry Tour
 DTSTART;VALUE=DATE-TIME:20221119T220000Z
 DTEND;VALUE=DATE-TIME:20221120T000000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005133Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004912Z
 DESCRIPTION:Info: https://themetphilly.com/event/michelle-obama-2/\n\nDoor
  s at 4:00 pm\nShow starts at 5:00 pm\n\n\nModerators: Gayle King and Hoda 
  Kotb\n \nAn inspiring follow-up to her critically acclaimed\, #1 bestsell
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Smokey Robinson
 DTSTART;VALUE=DATE-TIME:20221127T010000Z
 DTEND;VALUE=DATE-TIME:20221127T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005133Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004912Z
 DESCRIPTION:Info: https://themetphilly.com/event/smokey-robinson/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:WDAS Holiday Jam Presents Maxwell
 DTSTART;VALUE=DATE-TIME:20221203T010000Z
 DTEND;VALUE=DATE-TIME:20221203T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005133Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004912Z
 DESCRIPTION:Info: https://themetphilly.com/event/wdas-holiday-jam-presents
  -maxwell/\n\nDoors at \nShow starts at 8:00 pm\n\n\nWDAS FM Presents Holid
  ay Jam 2022 starring Maxwell with special guests Leela James & Skeet Carte
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Morrissey
 DTSTART;VALUE=DATE-TIME:20221204T013000Z
 DTEND;VALUE=DATE-TIME:20221204T033000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005134Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004912Z
 DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-morrissey
  -2/\n\nDoors at 7:00 pm\nShow starts at 8:30 pm\n\n\nDoors open at 7:00 PM
  .\nTo reduce staff contact with guest belongings\, we have implemented the
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:A Day To Remember: Reassembled: Acoustic Theater Tour
 DTSTART;VALUE=DATE-TIME:20221209T010000Z
 DTEND;VALUE=DATE-TIME:20221209T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005134Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004912Z
 DESCRIPTION:Info: https://themetphilly.com/event/a-day-to-remember-2/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7 p.m.\nTo redu
  ce staff contact with guest belongings\, we have implemented the following
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Ween
 DTSTART;VALUE=DATE-TIME:20221210T010000Z
 DTEND;VALUE=DATE-TIME:20221210T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005134Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004912Z
 DESCRIPTION:Info: https://themetphilly.com/event/ween-5/\n\nDoors at 7:00 
  pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Ween
 DTSTART;VALUE=DATE-TIME:20221211T010000Z
 DTEND;VALUE=DATE-TIME:20221211T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005135Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004913Z
 DESCRIPTION:Info: https://themetphilly.com/event/ween-6/\n\nDoors at 7:00 
  pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule
 DTSTART;VALUE=DATE-TIME:20221230T010000Z
 DTEND;VALUE=DATE-TIME:20221230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005135Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004913Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-3/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest be
  longings\, we have implemented the following bag policy: small clutch bags
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Vance Joy: In Our Own Sweet Time Tour 2023
 DTSTART;VALUE=DATE-TIME:20230208T010000Z
 DTEND;VALUE=DATE-TIME:20230208T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005135Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004913Z
 DESCRIPTION:Info: https://themetphilly.com/event/vance-joy/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belo
  ngings\, we have implemented the following bag policy: small clutch bags a
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:SUBTRONICS: ANTIFRACTAL Tour 2023
 DTSTART;VALUE=DATE-TIME:20230218T010000Z
 DTEND;VALUE=DATE-TIME:20230218T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005136Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004913Z
 DESCRIPTION:Info: https://themetphilly.com/event/subtronics/\n\nDoors at \
  nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belongings
  \, we have implemented the following bag policy: small clutch bags approxi
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:keshi: HELL & BACK TOUR
 DTSTART;VALUE=DATE-TIME:20230313T000000Z
 DTEND;VALUE=DATE-TIME:20230313T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005136Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004913Z
 DESCRIPTION:Info: https://themetphilly.com/event/keshi/\n\nDoors at 7:00 p
  m\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nDelivery is delayed for th
  is event\, tickets will be released 72 hours prior to the show.\n
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis Capaldi: North American 2023 Tour
 DTSTART;VALUE=DATE-TIME:20230405T000000Z
 DTEND;VALUE=DATE-TIME:20230405T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005136Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004913Z
 DESCRIPTION:Info: https://themetphilly.com/event/lewis-capaldi/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Can Dance
 DTSTART;VALUE=DATE-TIME:20230423T000000Z
 DTEND;VALUE=DATE-TIME:20230423T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005137Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004914Z
 DESCRIPTION:Info: https://themetphilly.com/event/dead-can-dance-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with gue
  st belongings\, we have implemented the following bag policy: small clutch
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:YUNGBLUD: The World Tour
 DTSTART;VALUE=DATE-TIME:20230524T000000Z
 DTEND;VALUE=DATE-TIME:20230524T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005137Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004914Z
 DESCRIPTION:Info: https://themetphilly.com/event/yungblud/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:Crowded House: Dreamers Are Waiting North American Tour
 DTSTART;VALUE=DATE-TIME:20230524T233000Z
 DTEND;VALUE=DATE-TIME:20230525T013000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005137Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004914Z
 DESCRIPTION:Info: https://themetphilly.com/event/crowded-house-2/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nThis event has been postponed to 
  Tuesday\, May 24\, 2023. All previously purchased tickets will be honored.
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Bill Maher
 DTSTART;VALUE=DATE-TIME:20230604T000000Z
 DTEND;VALUE=DATE-TIME:20230604T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005138Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004914Z
 DESCRIPTION:Info: https://themetphilly.com/event/bill-maher-2/\n\nDoors at
   \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with g
  uest belongings\, we have implemented the following bag policy: CLEAR PLAS
@@ -492,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:Tyler Childers: Send in the Hounds Tour
 DTSTART;VALUE=DATE-TIME:20230811T000000Z
 DTEND;VALUE=DATE-TIME:20230811T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005138Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004914Z
 DESCRIPTION:Info: https://themetphilly.com/event/tyler-childers/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\n$1 from every ticket sold will be 
  going to Hickman Holler Appalachian Relief Fund. Established in 2020 by Se
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Lady A *NEW DATE*: Request Line Tour
 DTSTART;VALUE=DATE-TIME:20231021T233000Z
 DTEND;VALUE=DATE-TIME:20231022T013000Z
-DTSTAMP;VALUE=DATE-TIME:20221111T005138Z
+DTSTAMP;VALUE=DATE-TIME:20221112T004914Z
 DESCRIPTION:Info: https://themetphilly.com/event/lady-a-new-date/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30 PM.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
