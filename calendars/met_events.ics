@@ -1,69 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:The London Suede and Manic Street Preachers
-DTSTART;VALUE=DATE-TIME:20221120T011500Z
-DTEND;VALUE=DATE-TIME:20221120T031500Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004616Z
-DESCRIPTION:Info: https://themetphilly.com/event/the-london-suede-and-mani
- c-street-preachers/\n\nDoors at 7:30 pm\nShow starts at 8:15 pm\n\n\nTo re
- duce staff contact with guest belongings\, we have implemented the followi
- ng bag policy: small clutch bags approximately the size of a hand (MAX 4.5
- ”x 6.5”) ARE ALLOWED (and need not be clear). LARGER BAGS MUST BE CLEA
- R TOTE BAGS. NO OTHER TYPES OF BAGS WILL BE ALLOWED. ALL BAGS OVER 12″x1
- 2″x6″ ARE PROHIBITED.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michelle Obama: The Light We Carry Tour
-DTSTART;VALUE=DATE-TIME:20221119T220000Z
-DTEND;VALUE=DATE-TIME:20221120T000000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004617Z
-DESCRIPTION:Info: https://themetphilly.com/event/michelle-obama-2/\n\nDoor
- s at 3:30 pm\nShow starts at 5:00 pm\n\n\nTo reduce staff contact with gue
- st belongings\, we have implemented the following bag policy: small clutch
-  bags approximately the size of a hand (MAX 4.5”x 6.5”) ARE ALLOWED (a
- nd need not be clear). LARGER BAGS MUST BE CLEAR TOTE BAGS. NO OTHER TYPES
-  OF BAGS WILL BE ALLOWED. ALL BAGS OVER 12″x12″x6″ ARE PROHIBITED.\n
-  \nModerators: Gayle King and Hoda Kotb\nAn inspiring follow-up to her cr
- itically acclaimed\, #1 bestselling memoir Becoming\, former First Lady Mi
- chelle Obama’s The Light We Carry: Overcoming in Uncertain Times\, was r
- eleased globally on November 15\, 2022.\nIn this new book\, Mrs. Obama off
- ers readers a series of fresh stories and insightful reflections on change
- \, challenge\, and power\, including her belief that when we light up for 
- others\, we can illuminate the richness and potential of the world around 
- us\, discovering deeper truths and new pathways for progress. Drawing from
-  her experiences as a mother\, daughter\, spouse\, friend\, and First Lady
- \, she shares the habits and principles she has developed to successfully 
- adapt to change and overcome various obstacles—the earned wisdom that he
- lps her continue to “become.” She details her most valuable practices\
- , like “starting kind\,” “going high\,” and assembling a “kitche
- n table” of trusted friends and mentors. With trademark humor\, candor\,
-  and compassion\, she also explores issues connected to race\, gender\, an
- d visibility\, encouraging readers to work through fear\, find strength in
-  community\, and live with boldness.\nAdditional information about The Lig
- ht We Carry is available at www.michelleobamabooks.com.\n“I am so excite
- d to share that I will be heading across the country soon to talk with you
-  all about my new book\, The Light We Carry. I’m looking forward to maki
- ng some new connections—and of course\, seeing some familiar faces from 
- the last tour\,” said Mrs. Obama.\n“This book means so much to me—it
- ’s a collection of perspectives and practices I’ve used to keep me afl
- oat amid uncertainty. On this tour\, I’ll be sharing some personal stori
- es and lessons that have helped me along my path\, and I can’t wait to t
- ell you more.”\n \nUpcoming Book Included with Select Tickets:\nEach ti
- cket purchased online within the first 5 rows comes with a copy of Michell
- e Obama’s forthcoming book\, The Light We Carry\, was released on Novemb
- er 15\, 2022 (maximum of 4 tickets per household). Not available on any ot
- her ticket purchases. After your ticket purchase\, you will receive an add
- itional email in the coming weeks with instructions on how to redeem your 
- complimentary book. US and Canadian purchasers only. Not Valid for Verifie
- d Resale tickets.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smokey Robinson
 DTSTART;VALUE=DATE-TIME:20221127T010000Z
 DTEND;VALUE=DATE-TIME:20221127T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004617Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004812Z
 DESCRIPTION:Info: https://themetphilly.com/event/smokey-robinson/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce
   staff contact with guest belongings\, we have implemented the following b
@@ -116,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:WDAS Holiday Jam Presents Maxwell
 DTSTART;VALUE=DATE-TIME:20221203T010000Z
 DTEND;VALUE=DATE-TIME:20221203T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004618Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004812Z
 DESCRIPTION:Info: https://themetphilly.com/event/wdas-holiday-jam-presents
  -maxwell/\n\nDoors at \nShow starts at 8:00 pm\n\n\nTo reduce staff contac
  t with guest belongings\, we have implemented the following bag policy: sm
@@ -142,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Morrissey
 DTSTART;VALUE=DATE-TIME:20221204T013000Z
 DTEND;VALUE=DATE-TIME:20221204T033000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004618Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004812Z
 DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-morrissey
  -2/\n\nDoors at 7:00 pm\nShow starts at 8:30 pm\n\n\nDoors open at 7:00 PM
  .\nTo reduce staff contact with guest belongings\, we have implemented the
@@ -156,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:A Day To Remember: Reassembled: Acoustic Theater Tour
 DTSTART;VALUE=DATE-TIME:20221209T010000Z
 DTEND;VALUE=DATE-TIME:20221209T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004619Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004813Z
 DESCRIPTION:Info: https://themetphilly.com/event/a-day-to-remember-2/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7 p.m.\nTo redu
  ce staff contact with guest belongings\, we have implemented the following
@@ -186,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Ween
 DTSTART;VALUE=DATE-TIME:20221210T010000Z
 DTEND;VALUE=DATE-TIME:20221210T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004619Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004813Z
 DESCRIPTION:Info: https://themetphilly.com/event/ween-5/\n\nDoors at 7:00 
  pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -200,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Ween
 DTSTART;VALUE=DATE-TIME:20221211T010000Z
 DTEND;VALUE=DATE-TIME:20221211T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004620Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004813Z
 DESCRIPTION:Info: https://themetphilly.com/event/ween-6/\n\nDoors at 7:00 
  pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM.\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -214,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule
 DTSTART;VALUE=DATE-TIME:20221230T010000Z
 DTEND;VALUE=DATE-TIME:20221230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004620Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004813Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-3/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest be
  longings\, we have implemented the following bag policy: small clutch bags
@@ -228,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Vance Joy: In Our Own Sweet Time Tour 2023
 DTSTART;VALUE=DATE-TIME:20230208T010000Z
 DTEND;VALUE=DATE-TIME:20230208T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004621Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004814Z
 DESCRIPTION:Info: https://themetphilly.com/event/vance-joy/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belo
  ngings\, we have implemented the following bag policy: small clutch bags a
@@ -242,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:SUBTRONICS: ANTIFRACTAL Tour 2023
 DTSTART;VALUE=DATE-TIME:20230218T010000Z
 DTEND;VALUE=DATE-TIME:20230218T030000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004621Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004814Z
 DESCRIPTION:Info: https://themetphilly.com/event/subtronics/\n\nDoors at \
  nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belongings
  \, we have implemented the following bag policy: small clutch bags approxi
@@ -255,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Wizkid: More Love\, Less Ego Tour
 DTSTART;VALUE=DATE-TIME:20230312T003000Z
 DTEND;VALUE=DATE-TIME:20230312T023000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004621Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004814Z
 DESCRIPTION:Info: https://themetphilly.com/event/wizkid/\n\nDoors at 6:30 
  pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -264,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:keshi: HELL & BACK TOUR
 DTSTART;VALUE=DATE-TIME:20230313T000000Z
 DTEND;VALUE=DATE-TIME:20230313T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004622Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004815Z
 DESCRIPTION:Info: https://themetphilly.com/event/keshi/\n\nDoors at 7:00 p
  m\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nDelivery is delayed for th
  is event\, tickets will be released 72 hours prior to the show.\n
@@ -274,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis Capaldi: North American 2023 Tour
 DTSTART;VALUE=DATE-TIME:20230405T000000Z
 DTEND;VALUE=DATE-TIME:20230405T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004622Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004815Z
 DESCRIPTION:Info: https://themetphilly.com/event/lewis-capaldi/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nTo reduce staff co
  ntact with guest belongings\, we have implemented the following bag policy
@@ -288,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Can Dance
 DTSTART;VALUE=DATE-TIME:20230423T000000Z
 DTEND;VALUE=DATE-TIME:20230423T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004623Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004815Z
 DESCRIPTION:Info: https://themetphilly.com/event/dead-can-dance-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with gue
  st belongings\, we have implemented the following bag policy: small clutch
@@ -302,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:YUNGBLUD: The World Tour
 DTSTART;VALUE=DATE-TIME:20230524T000000Z
 DTEND;VALUE=DATE-TIME:20230524T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004623Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004816Z
 DESCRIPTION:Info: https://themetphilly.com/event/yungblud/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nTo reduce staff contact with guest belon
  gings\, we have implemented the following bag policy: small clutch bags ap
@@ -316,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Crowded House: Dreamers Are Waiting North American Tour
 DTSTART;VALUE=DATE-TIME:20230524T233000Z
 DTEND;VALUE=DATE-TIME:20230525T013000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004624Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004816Z
 DESCRIPTION:Info: https://themetphilly.com/event/crowded-house-2/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nThis event has been postponed to 
  Tuesday\, May 24\, 2023. All previously purchased tickets will be honored.
@@ -331,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Bill Maher
 DTSTART;VALUE=DATE-TIME:20230604T000000Z
 DTEND;VALUE=DATE-TIME:20230604T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004624Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004816Z
 DESCRIPTION:Info: https://themetphilly.com/event/bill-maher-2/\n\nDoors at
   \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with g
  uest belongings\, we have implemented the following bag policy: CLEAR PLAS
@@ -380,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Tyler Childers: Send in the Hounds Tour
 DTSTART;VALUE=DATE-TIME:20230811T000000Z
 DTEND;VALUE=DATE-TIME:20230811T020000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004625Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004817Z
 DESCRIPTION:Info: https://themetphilly.com/event/tyler-childers/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\n$1 from every ticket sold will be 
  going to Hickman Holler Appalachian Relief Fund. Established in 2020 by Se
@@ -393,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Lady A *NEW DATE*: Request Line Tour
 DTSTART;VALUE=DATE-TIME:20231021T233000Z
 DTEND;VALUE=DATE-TIME:20231022T013000Z
-DTSTAMP;VALUE=DATE-TIME:20221119T004625Z
+DTSTAMP;VALUE=DATE-TIME:20221120T004817Z
 DESCRIPTION:Info: https://themetphilly.com/event/lady-a-new-date/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30 PM.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
