@@ -40,11 +40,12 @@ jobs:
         run: |
           git config --global user.name "Amanda Kreider"
           git config --global user.email "akreid@wharton.upenn.edu"  
-
+          
+          git pull --rebase
           git add ./calendars/fillmore_events.ics 
           git add ./csv/fillmore_events.csv
+          git rebase --continue
           git commit -m "Update Fillmore calendar"
-          git pull --rebase
           git push
 
       # Run jbscal.py        
