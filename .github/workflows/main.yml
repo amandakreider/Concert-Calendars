@@ -37,8 +37,8 @@ jobs:
           git config --global user.name "Amanda Kreider"
           git config --global user.email "akreid@wharton.upenn.edu"  
 
-          git rm -f ./csv/fillmore_events.csv
-          git rm -f ./csv/fillmore_events.ics
+          git rm -f ./csv/fillmore_events.csv --continue
+          git rm -f ./csv/fillmore_events.ics --continue
           git commit -m "Delete Fillmore calendars"
           git pull --rebase
           git push
