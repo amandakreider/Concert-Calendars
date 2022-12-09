@@ -43,11 +43,9 @@ jobs:
 
           git add ./calendars/fillmore_events.ics 
           git add ./csv/fillmore_events.csv
-          git commit -m "Update Fillmore calendar" 
           git commit -m "Update Fillmore calendar"
-
           git pull --rebase
-          git push
+          git push 
 
       # Run jbscal.py        
       - run: python jbscal.py 
