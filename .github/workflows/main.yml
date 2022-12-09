@@ -32,7 +32,16 @@ jobs:
       - run: pip install -r requirements.txt     
 
       # Remove fillmorecal.py
-      - run: git rm -f ./csv/fillmore_events.csv
+      - name: temporarily remove fillmorecal.py
+        run: |
+          git config --global user.name "Amanda Kreider"
+          git config --global user.email "akreid@wharton.upenn.edu"  
+
+          git rm -f ./csv/fillmore_events.csv
+          git rm -f ./csv/fillmore_events.ics
+          git commit -m "Delete Fillmore calendars"
+          git pull --rebase
+          git push
         
       # Run fillmorecal.py        
       - run: python fillmorecal.py 
