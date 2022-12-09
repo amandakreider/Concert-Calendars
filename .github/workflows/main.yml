@@ -42,7 +42,7 @@ jobs:
           git config --global user.email "akreid@wharton.upenn.edu"  
 
           git add ./calendars/fillmore_events.ics 
-          git add ./csv/fillmore_events.csv
+          git rm ./csv/fillmore_events.csv
           git commit -m "Update Fillmore calendar"
           git pull --rebase
           git push
