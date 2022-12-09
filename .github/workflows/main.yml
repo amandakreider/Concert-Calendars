@@ -31,6 +31,9 @@ jobs:
       # Install dependencies
       - run: pip install -r requirements.txt     
 
+      # Remove fillmorecal.py
+      - run: git rm ./csv/fillmore_events.csv
+        
       # Run fillmorecal.py        
       - run: python fillmorecal.py 
         working-directory: ./scripts
@@ -42,7 +45,7 @@ jobs:
           git config --global user.email "akreid@wharton.upenn.edu"  
 
           git add ./calendars/fillmore_events.ics 
-          git rm ./csv/fillmore_events.csv
+          git add ./csv/fillmore_events.csv
           git commit -m "Update Fillmore calendar"
           git pull --rebase
           git push
