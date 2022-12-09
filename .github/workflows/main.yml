@@ -32,7 +32,7 @@ jobs:
       - run: pip install -r requirements.txt     
 
       # Remove fillmorecal.py
-      - run: git rm ./csv/fillmore_events.csv
+      - run: git rm -f ./csv/fillmore_events.csv
         
       # Run fillmorecal.py        
       - run: python fillmorecal.py 
