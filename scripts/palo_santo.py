@@ -53,6 +53,7 @@ for elem in mydays:
 					print(teacher)
 
 					# Get class time
+					print(thisclass.find('strong').contents)
 					try:
 						time = thisclass.find('strong').contents[2].strip()
 					except TypeError:
