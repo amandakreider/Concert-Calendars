@@ -68,32 +68,44 @@ for elem in mydays:
 					time = strongtext.contents[-1].strip()
 
 					if time.find('am') != -1: 
-						am_str = time.find('am')
-						pm_str = -1
+						am_str1 = time.find('am')
+						am_str2 = time.rfind('am')
+						pm_str1 = -1
+						pm_str2 = -1
 					elif time.find('AM') != -1:
-						am_str = time.find('AM')
-						pm_str = -1
+						am_str1 = time.find('AM')
+						am_str2 = time.rfind('AM')
+						pm_str1 = -1
+						pm_str2 = -1
 					elif time.find('pm') != -1:
-						pm_str = time.find('pm')
-						am_str = -1
+						pm_str1 = time.find('pm')
+						pm_str2 = time.rfind('pm')
+						am_str1 = -1
+						am_str2 = -1
 					elif time.find('PM') != -1:
-						pm_str = time.find('PM')
-						am_str = -1
+						pm_str1 = time.find('PM')
+						pm_str2 = time.rfind('PM')
+						am_str1 = -1
+						am_str2 = -1
 					else:
-						am_str = -1
-						pm_str = -1
+						am_str1 = -1
+						am_str2 = -1
+						pm_str1 = -1
+						pm_str2 = -1
 
-					if am_str != -1:
-						timestr=time[0:am_str]
-						start_time = timestr[0:timestr.find('-')]
+					if am_str1 != -1:
+						timestr=time[0:am_str2]
+						stophere=min(am_str1,timestr.find('-'))
+						start_time = timestr[0:stophere]
 						start_time = start_time+" am"
 						print("Start time is: "+start_time)
 						end_time = timestr[timestr.find('-')+1:]
 						end_time = end_time+" am"
 						print("End time is: "+end_time)
-					elif pm_str != -1:
-						timestr=time[0:pm_str]
-						start_time = timestr[0:timestr.find('-')]
+					elif pm_str1 != -1:
+						timestr=time[0:pm_str2]
+						stophere=min(pm_str1,timestr.find('-'))
+						start_time = timestr[0:stophere]
 						start_time = start_time+" pm"
 						print("Start time is: "+start_time)
 						end_time = timestr[timestr.find('-')+1:]
