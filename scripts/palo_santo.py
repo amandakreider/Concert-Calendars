@@ -54,10 +54,7 @@ for elem in mydays:
 
 					# Get class time
 					print(thisclass.find('strong').contents)
-					try:
-						time = thisclass.find('strong').contents[2].strip()
-					except TypeError:
-						time = thisclass.find('strong').contents[3].strip()
+					time = thisclass.find('strong').contents[-1].strip()
 
 					am_str = time.find('am')
 					pm_str = time.find('pm')
