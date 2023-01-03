@@ -59,7 +59,7 @@ for elem in mydays:
 
 					for tag in thisclass.find_all('strong'):
 						count = count+1
-						if count = 1:
+						if count == 1:
 							strongtext = tag
 						else:
 							strongtext = strongtext + '<br/>' + tag
