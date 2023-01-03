@@ -55,7 +55,14 @@ for elem in mydays:
 					print(teacher)
 
 					# Get class time
-					print(thisclass.find('strong').contents)
+					count = 0
+
+					for tag in thisclass.find_all('strong'):
+						count = count+1
+						print(count)
+						print(tag.contents)
+						print(tag.contents[-1].strip())
+
 					time = thisclass.find('strong').contents[-1].strip()
 
 					if time.find('am') != -1: 
