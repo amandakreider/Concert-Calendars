@@ -59,11 +59,13 @@ for elem in mydays:
 
 					for tag in thisclass.find_all('strong'):
 						count = count+1
-						print(count)
-						print(tag.contents)
-						print(tag.contents[-1].strip())
+						if count = 1:
+							strongtext = tag
+						else:
+							strongtext = strongtext + '<br/>' + tag
+						print(strongtext)
 
-					time = thisclass.find('strong').contents[-1].strip()
+					time = strongtext.contents[-1].strip()
 
 					if time.find('am') != -1: 
 						am_str = time.find('am')
