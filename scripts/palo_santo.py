@@ -68,7 +68,7 @@ for elem in mydays:
 						print("Start time is: "+start_time)
 						end_time = timestr[timestr.find('-')+1:]
 						end_time = end_time+" am"
-						print("End time is: "+end_time+)
+						print("End time is: "+end_time)
 					else:
 						timestr=time[0:pm_str]
 						start_time = timestr[0:timestr.find('-')]
