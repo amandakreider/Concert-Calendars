@@ -48,6 +48,8 @@ for elem in mydays:
 
 				try:
 
+					print(thisclass)
+
 					# Get teacher
 					teacher = thisclass.text[thisclass.text.rfind(':')+1:].strip()
 					print(teacher)
