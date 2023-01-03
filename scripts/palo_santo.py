@@ -56,8 +56,21 @@ for elem in mydays:
 					print(thisclass.find('strong').contents)
 					time = thisclass.find('strong').contents[-1].strip()
 
-					am_str = time.find('am')
-					pm_str = time.find('pm')
+					if time.find('am') != -1: 
+						am_str = time.find('am')
+						pm_str = -1
+					elif time.find('AM') != -1:
+						am_str = time.find('AM')
+						pm_str = -1
+					elif time.find('pm') != -1:
+						pm_str = time.find('pm')
+						am_str = -1
+					elif time.find('PM') != -1:
+						pm_str = time.find('PM')
+						am_str = -1
+					else:
+						am_str = -1
+						pm_str = -1
 
 					if am_str != -1:
 						timestr=time[0:am_str]
@@ -67,7 +80,7 @@ for elem in mydays:
 						end_time = timestr[timestr.find('-')+1:]
 						end_time = end_time+" am"
 						print("End time is: "+end_time)
-					else:
+					elif pm_str != -1:
 						timestr=time[0:pm_str]
 						start_time = timestr[0:timestr.find('-')]
 						start_time = start_time+" pm"
@@ -75,6 +88,11 @@ for elem in mydays:
 						end_time = timestr[timestr.find('-')+1:]
 						end_time = end_time+" pm"
 						print("End time is: "+end_time)	
+					else:
+						timestr=''
+						start_time = '12:00 am'
+						end_time = '1:00 am'
+						print('COULD NOT FIND START TIME OR END TIME')
 
 					# Get class title
 					title1 = thisclass.find('strong').contents[0].strip()
