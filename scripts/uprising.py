@@ -39,6 +39,7 @@ for h in schedule:
 		title = schedule[h]['class'].strip()
 		title = title + ' with ' + teacher
 		event.add('summary', title)
+		print(title)
 
 		# Add times to calendar event
 		logstart = schedule[h]['time']
@@ -47,10 +48,12 @@ for h in schedule:
 		# Add dates to calendar event
 		eventday = schedule[h]['day']
 		date = today + timedelta(days=-today.weekday()+days[eventday], weeks=i-1)
-		print(date)
 		datestr = date.strftime('%m/%d/%y')
 		timefull = datestr+" at "+logstart
 		endtimefull = datestr+" at "+logend
+
+		print(timefull)
+		print(endtimefull)
 
 		start_time = eastern.localize(parse(timefull))
 		end_time = eastern.localize(parse(endtimefull))
@@ -61,9 +64,11 @@ for h in schedule:
 		event.add('dtstart', utcstart)
 		event.add('dtend', utcend)
 
+		print('Adding timestamp')
 		# Add timestamp
 		event.add('dtstamp', datetime.now())
 
+		print('Adding location')
 		# Add location
 		event['location'] = "Uprising ACM, 1839 E Passyunk Ave, Philadelphia, PA 19148"
 
@@ -74,6 +79,7 @@ for h in schedule:
 		# Add event to calendar
 		cal.add_component(event)	
 
+print('Saving ice file')
 # Save .ics file
 directory = str(Path(__file__).parent.parent) + "/calendars/"
 print("ics file will be generated at ", directory)
