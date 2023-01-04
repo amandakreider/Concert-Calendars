@@ -1,5 +1,3 @@
-import requests
-from bs4 import BeautifulSoup as bs
 import calendar
 from icalendar import Calendar, Event, vCalAddress, vText
 import pytz
@@ -8,15 +6,11 @@ import os
 from pathlib import Path
 from dateutil.parser import parse
 from dateutil import parser
-import re
 import pandas as pd
 
 # Read in csv of Uprising class schedule
 csv_dir = str(Path(__file__).parent.parent) + "/csv/"
-#csv_dir = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/concert-calendars/Concert-Calendars/csv/'
-
 df = pd.read_csv(csv_dir+'uprising_acm.csv').transpose()
-print(df)
 schedule = df.to_dict()
 
 # Define days of the week, today's date, and timezone
@@ -27,6 +21,7 @@ eastern = pytz.timezone("America/New_York")
 # Initiate calendar
 cal = Calendar()
 
+# Create weekly calendar events for each yoga class
 for h in schedule:
 
 	for i in range(4):
@@ -52,9 +47,6 @@ for h in schedule:
 		timefull = datestr+" at "+logstart
 		endtimefull = datestr+" at "+logend
 
-		print(timefull)
-		print(endtimefull)
-
 		start_time = eastern.localize(parse(timefull))
 		end_time = eastern.localize(parse(endtimefull))
 
@@ -64,11 +56,9 @@ for h in schedule:
 		event.add('dtstart', utcstart)
 		event.add('dtend', utcend)
 
-		print('Adding timestamp')
 		# Add timestamp
 		event.add('dtstamp', datetime.now())
 
-		print('Adding location')
 		# Add location
 		event['location'] = "Uprising ACM, 1839 E Passyunk Ave, Philadelphia, PA 19148"
 
@@ -79,7 +69,6 @@ for h in schedule:
 		# Add event to calendar
 		cal.add_component(event)	
 
-print('Saving ice file')
 # Save .ics file
 directory = str(Path(__file__).parent.parent) + "/calendars/"
 print("ics file will be generated at ", directory)
