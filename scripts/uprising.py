@@ -46,7 +46,7 @@ for h in schedule:
 		logend = schedule[h]['end_time']
 
 		# Add dates to calendar event
-		eventday = schedule[h]['day']
+		eventday = schedule[h]['day'].strip()
 		date = today + timedelta(days=-today.weekday()+days[eventday], weeks=i-1)
 		datestr = date.strftime('%m/%d/%y')
 		timefull = datestr+" at "+logstart
