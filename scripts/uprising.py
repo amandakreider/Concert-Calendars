@@ -77,7 +77,7 @@ for h in schedule:
 # Save .ics file
 directory = str(Path(__file__).parent.parent) + "/calendars/"
 print("ics file will be generated at ", directory)
-f = open(os.path.join(directory, 'palo_santo_classes.ics'), 'wb')
+f = open(os.path.join(directory, 'uprising_classes.ics'), 'wb')
 f.write(cal.to_ical())
 f.close()		
 
