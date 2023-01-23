@@ -1,6 +1,6 @@
-# This workflow refreshes all calendars daily
+# This workflow refreshes the Uprising calendar weekly
 
-name: uprising_daily
+name: uprising_weekly
 
 # Controls when the workflow will run
 on:
