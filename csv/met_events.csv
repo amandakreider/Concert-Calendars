@@ -1,7 +1,7 @@
 ,Show,Date,Doors,Showtime,Postponed?,Sold Out,Link
 0,Jill Scott: Who Is Jill Scott? 2023 Tour,"Thu Mar 16th, 2023",7:00 pm,8:00 pm,,Sold Out,https://themetphilly.com/event/jill-scott-2/
 1,Jill Scott: Who Is Jill Scott? 2023 Tour,"Sat Mar 18th, 2023",7:00 pm,8:00 pm,,Sold Out,https://themetphilly.com/event/jill-scott/
-2,Jill Scott: Limited Tickets Remain!,"Sun Mar 19th, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/jill-scott-3/
+2,Jill Scott: Limited Tickets Remain!,"Sun Mar 19th, 2023",7:00 pm,8:00 pm,,Sold Out,https://themetphilly.com/event/jill-scott-3/
 3,Goose: Spring Tour 2023,"Fri Mar 24th, 2023",7:00 pm,8:30 pm,,Sold Out,https://themetphilly.com/event/goose-2/
 4,Goose: Spring Tour 2023,"Sat Mar 25th, 2023",7:00 pm,8:30 pm,,Sold Out,https://themetphilly.com/event/goose/
 5,Lewis Capaldi: North American 2023 Tour,"Tue Apr 4th, 2023",7:00 pm,8:00 pm,,Sold Out,https://themetphilly.com/event/lewis-capaldi/
@@ -18,15 +18,16 @@
 16,Crowded House: Dreamers Are Waiting North American Tour,"Wed May 24th, 2023",6:30 pm,7:30 pm,,,https://themetphilly.com/event/crowded-house-2/
 17,Billy Porter: Black Mona Lisa Tour: Volume One,"Thu Jun 1st, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/billy-porter/
 18,Bill Maher,"Sat Jun 3rd, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/bill-maher-2/
-19,Logic: with special guest Juicy J,"Wed Jun 7th, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/logic-2/
-20,PIXIES: Plus special guests Franz Ferdinand & Bully,"Fri Jun 9th, 2023",6:00 pm,6:45 pm,,,https://themetphilly.com/event/pixies/
-21,Bad Friends Podcast: with Andrew Santino & Bobby Lee,"Sat Jun 17th, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/bad-friends-podcast/
-22,Barenaked Ladies: Last Summer On Earth 2023,"Wed Jul 19th, 2023",6:00 pm,7:00 pm,,,https://themetphilly.com/event/barenaked-ladies/
-23,Jenny Lewis: WXPN Welcomes,"Thu Jul 20th, 2023",6:00 pm,7:00 pm,,,https://themetphilly.com/event/jenny-lewis-2/
-24,Caamp: WXPN Welcomes,"Thu Jul 27th, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/caamp/
-25,The National: with The Beths,"Tue Aug 1st, 2023",6:30 pm,7:30 pm,,Sold Out,https://themetphilly.com/event/the-national/
-26,The National: with The Beths,"Wed Aug 2nd, 2023",6:30 pm,7:30 pm,,,https://themetphilly.com/event/the-national-2/
-27,Tyler Childers: Send in the Hounds Tour,"Thu Aug 10th, 2023",6:30 pm,7:30 pm,,Sold Out,https://themetphilly.com/event/tyler-childers/
-28,Macklemore: The BEN Tour,"Sat Sep 23rd, 2023",6:30 pm,7:30 pm,,,https://themetphilly.com/event/macklemore/
-29,Lady A *NEW DATE*: Request Line Tour,"Sat Oct 21st, 2023",6:30 pm,7:30 pm,,,https://themetphilly.com/event/lady-a-new-date/
-30,Gov’t Mule: New Date!,"Fri Dec 29th, 2023",6:30 pm,8:00 pm,,,https://themetphilly.com/event/govt-mule-4/
+19,Feid: Ferxxo Nitro Jam Underground,"Sun Jun 4th, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/feid/
+20,Logic: with special guest Juicy J,"Wed Jun 7th, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/logic-2/
+21,PIXIES: Plus special guests Franz Ferdinand & Bully,"Fri Jun 9th, 2023",6:00 pm,6:45 pm,,,https://themetphilly.com/event/pixies/
+22,Bad Friends Podcast: with Andrew Santino & Bobby Lee,"Sat Jun 17th, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/bad-friends-podcast/
+23,Barenaked Ladies: Last Summer On Earth 2023,"Wed Jul 19th, 2023",6:00 pm,7:00 pm,,,https://themetphilly.com/event/barenaked-ladies/
+24,Jenny Lewis: WXPN Welcomes,"Thu Jul 20th, 2023",6:00 pm,7:00 pm,,,https://themetphilly.com/event/jenny-lewis-2/
+25,Caamp: WXPN Welcomes,"Thu Jul 27th, 2023",7:00 pm,8:00 pm,,,https://themetphilly.com/event/caamp/
+26,The National: with The Beths,"Tue Aug 1st, 2023",6:30 pm,7:30 pm,,Sold Out,https://themetphilly.com/event/the-national/
+27,The National: with The Beths,"Wed Aug 2nd, 2023",6:30 pm,7:30 pm,,,https://themetphilly.com/event/the-national-2/
+28,Tyler Childers: Send in the Hounds Tour,"Thu Aug 10th, 2023",6:30 pm,7:30 pm,,Sold Out,https://themetphilly.com/event/tyler-childers/
+29,Macklemore: The BEN Tour,"Sat Sep 23rd, 2023",6:30 pm,7:30 pm,,,https://themetphilly.com/event/macklemore/
+30,Lady A *NEW DATE*: Request Line Tour,"Sat Oct 21st, 2023",6:30 pm,7:30 pm,,,https://themetphilly.com/event/lady-a-new-date/
+31,Gov’t Mule: New Date!,"Fri Dec 29th, 2023",6:30 pm,8:00 pm,,,https://themetphilly.com/event/govt-mule-4/
