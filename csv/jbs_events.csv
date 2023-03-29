@@ -1,5 +1,5 @@
 ,Show,Date,Doors,Location,Link
-0,Etran De L’Aïr,03/28/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/etran-de-la%c3%afr/johnny-brendas/philadelphia-pennsylvania/
+0,Etran De L’Aïr,03/28/24 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/etran-de-la%c3%afr/johnny-brendas/philadelphia-pennsylvania/
 1,Charlotte Adigéry & Bolis Pupul,03/29/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/charlotte-adig%c3%a9ry-bolis-pupul/johnny-brendas/philadelphia-pennsylvania/
 2,Knifeplay,03/30/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/knifeplay/johnny-brendas/philadelphia-pennsylvania/
 3,Kiwi Jr.,03/31/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/kiwi-jr/johnny-brendas/philadelphia-pennsylvania/
@@ -12,7 +12,7 @@
 10,Great Time & Taylor Kelly,04/12/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/great-time-taylor-kelly/johnny-brendas/philadelphia-pennsylvania/
 11,Poison Ruïn,04/13/23 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/poison-ru%c3%afn-2/johnny-brendas/philadelphia-pennsylvania/
 12,Mustard Service,04/14/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/mustard-service/johnny-brendas/philadelphia-pennsylvania/
-13,Fake Names,04/15/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/fake-names/johnny-brendas/philadelphia-pennsylvania/
+13,Fake Names,04/15/23 at 9PM, 8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/fake-names/johnny-brendas/philadelphia-pennsylvania/
 14,Midwife & Nyxy Nyx,04/16/23 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/midwife-nyxy-nyx/johnny-brendas/philadelphia-pennsylvania/
 15,Black Belt Eagle Scout,04/17/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/black-belt-eagle-scout/johnny-brendas/philadelphia-pennsylvania/
 16,The Sadies,04/18/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/the-sadies/johnny-brendas/philadelphia-pennsylvania/
@@ -50,13 +50,15 @@
 48,Alex Lahey,06/09/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/alex-lahey/johnny-brendas/philadelphia-pennsylvania/
 49,American Trappist,06/10/23 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/american-trappist/johnny-brendas/philadelphia-pennsylvania/
 50,Surprise Chef,06/15/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/surprise-chef/johnny-brendas/philadelphia-pennsylvania/
-51,Protomartyr – Night 1,06/17/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/protomartyr-night-1/johnny-brendas/philadelphia-pennsylvania/
-52,Protomartyr – Night 2,06/18/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/protomartyr-night-2/johnny-brendas/philadelphia-pennsylvania/
-53,Bayonne,06/21/23 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/bayonne/johnny-brendas/philadelphia-pennsylvania/
-54,Kiltro,06/25/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/kiltro/johnny-brendas/philadelphia-pennsylvania/
-55,Feeble Little Horse,06/27/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/feeble-little-horse-2/johnny-brendas/philadelphia-pennsylvania/
-56,Sloan,06/28/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/sloan/johnny-brendas/philadelphia-pennsylvania/
-57,Spacin’ & Elison Jackson,06/29/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/spacin-elison-jackson/johnny-brendas/philadelphia-pennsylvania/
-58,Remember Sports,07/25/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/remember-sports/johnny-brendas/philadelphia-pennsylvania/
-59,Pile,10/19/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/pile-2/johnny-brendas/philadelphia-pennsylvania/
-60,Joe Pug,10/28/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/joe-pug/johnny-brendas/philadelphia-pennsylvania/
+51,Stuck & Mesh,06/16/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/stuck-mesh/johnny-brendas/philadelphia-pennsylvania/
+52,Protomartyr – Night 1,06/17/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/protomartyr-night-1/johnny-brendas/philadelphia-pennsylvania/
+53,Protomartyr – Night 2,06/18/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/protomartyr-night-2/johnny-brendas/philadelphia-pennsylvania/
+54,Califone,06/19/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/califone/johnny-brendas/philadelphia-pennsylvania/
+55,Bayonne,06/21/23 at 8PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/bayonne/johnny-brendas/philadelphia-pennsylvania/
+56,Kiltro,06/25/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/kiltro/johnny-brendas/philadelphia-pennsylvania/
+57,Feeble Little Horse,06/27/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/feeble-little-horse-2/johnny-brendas/philadelphia-pennsylvania/
+58,Sloan,06/28/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/sloan/johnny-brendas/philadelphia-pennsylvania/
+59,Spacin’ & Elison Jackson,06/29/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/spacin-elison-jackson/johnny-brendas/philadelphia-pennsylvania/
+60,Remember Sports,07/25/23 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/remember-sports/johnny-brendas/philadelphia-pennsylvania/
+61,Pile,10/19/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/pile-2/johnny-brendas/philadelphia-pennsylvania/
+62,Joe Pug,10/28/23 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/joe-pug/johnny-brendas/philadelphia-pennsylvania/
