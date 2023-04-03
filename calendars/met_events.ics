@@ -1,169 +1,32 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Alt 104.5 Presents Vance Joy: In Our Own Sweet Time Tour 2023
-DTSTART;VALUE=DATE-TIME:20230208T010000Z
-DTEND;VALUE=DATE-TIME:20230208T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003844Z
-DESCRIPTION:Info: https://themetphilly.com/event/vance-joy/\n\nDoors at 6:
- 30 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact wi
- th guest belongings\, we have implemented the following bag policy: BAGS N
- O LARGER THAN 12″X6″X12″\nAlt 104.5 Presents\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boyz II Men
-DTSTART;VALUE=DATE-TIME:20230212T010000Z
-DTEND;VALUE=DATE-TIME:20230212T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003845Z
-DESCRIPTION:Info: https://themetphilly.com/event/boyz-ii-men-4/\n\nDoors a
- t \nShow starts at 8:00 pm\n\n\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUBTRONICS: ANTIFRACTAL Tour 2023
-DTSTART;VALUE=DATE-TIME:20230218T010000Z
-DTEND;VALUE=DATE-TIME:20230218T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003846Z
-DESCRIPTION:Info: https://themetphilly.com/event/subtronics/\n\nDoors at \
- nShow starts at 8:00 pm\n\n\nThis is an All Ages event.\nSupport Lineup:\n
- Peekaboo\nJantsen\nA Hundred Drums\nAUSTERIA\nPLEASE NOTE: To reduce staff
-  contact with guest belongings\, we have implemented the following bag pol
- icy: BAGS NO LARGER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAV: Never Sleep Tour
-DTSTART;VALUE=DATE-TIME:20230222T010000Z
-DTEND;VALUE=DATE-TIME:20230222T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003846Z
-DESCRIPTION:Info: https://themetphilly.com/event/nav/\n\nDoors at 7:00 pm\
- nShow starts at 8:00 pm\n\n\nDoors at 7p.m.\nSupport: SoFaygo\, realestK\n
- PLEASE NOTE: To reduce staff contact with guest belongings\, we have imple
- mented the following bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Deck Investigates: with Ashley Flowers
-DTSTART;VALUE=DATE-TIME:20230226T010000Z
-DTEND;VALUE=DATE-TIME:20230226T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003847Z
-DESCRIPTION:Info: https://themetphilly.com/event/the-deck/\n\nDoors at 7:0
- 0 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact wit
- h guest belongings\, we have implemented the following bag policy: BAGS NO
-  LARGER THAN 12″X6″X12″\nAward-winning podcast producer and New York
-  Times bestselling author Ashley Flowers  is bringing her chart-topping p
- odcast\, The Deck\, to you LIVE for the first time ever with The Deck Inve
- stigates tour. Every week for the past year\, Ashley has been bringing you
-  the details of some of the coldest cases across the country but now she
- ’s dealing you in\, in a whole new way. Join Ashley in this 11-city expe
- rience as she takes you through all of the twists and turns of the on-the-
- ground reporting in real time with The Deck Investigates tour.\nThe tour\,
-  which begins February 1\, will feature a 90-minute live show with Ashley 
- as she walks you through the details of an unsolved and underreported case
-  that happened in the same region where she grew up. In the Summer of 1984
- \, Darlene Hulse was brutally killed in her own home and despite the immed
- iate manhunt\, eyewitnesses\, hundreds of leads\, and investigative suppor
- t from local\, state\, and federal levels\, Darlene’s killer has gone un
- detected for nearly 40 years. Join Ashley as she shares newly uncovered de
- tails from exclusive interviews with the victim’s family\, witnesses\, l
- aw enforcement\, and even the suspects themselves in hopes of finally brin
- ging justice to Darlene and her family.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wizkid: More Love\, Less Ego Tour
-DTSTART;VALUE=DATE-TIME:20230312T003000Z
-DTEND;VALUE=DATE-TIME:20230312T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003847Z
-DESCRIPTION:Info: https://themetphilly.com/event/wizkid/\n\nDoors at 6:30 
- pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30p.m.\nPLEASE NOTE: To reduce 
- staff contact with guest belongings\, we have implemented the following ba
- g policy: BAGS NO LARGER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:keshi: HELL & BACK TOUR
-DTSTART;VALUE=DATE-TIME:20230313T000000Z
-DTEND;VALUE=DATE-TIME:20230313T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003848Z
-DESCRIPTION:Info: https://themetphilly.com/event/keshi/\n\nDoors at 7:00 p
- m\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nDelivery is delayed for th
- is event\, tickets will be released 72 hours prior to the show.\nPLEASE NO
- TE: To reduce staff contact with guest belongings\, we have implemented th
- e following bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jill Scott: Who Is Jill Scott? 2023 Tour
-DTSTART;VALUE=DATE-TIME:20230317T000000Z
-DTEND;VALUE=DATE-TIME:20230317T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003848Z
-DESCRIPTION:Info: https://themetphilly.com/event/jill-scott-2/\n\nDoors at
-  \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with g
- uest belongings\, we have implemented the following bag policy: BAGS NO LA
- RGER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jill Scott: Who Is Jill Scott? 2023 Tour
-DTSTART;VALUE=DATE-TIME:20230319T000000Z
-DTEND;VALUE=DATE-TIME:20230319T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003849Z
-DESCRIPTION:Info: https://themetphilly.com/event/jill-scott/\n\nDoors at \
- nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with gue
- st belongings\, we have implemented the following bag policy: BAGS NO LARG
- ER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jill Scott: Who Is Jill Scott? 2023 Tour
-DTSTART;VALUE=DATE-TIME:20230320T000000Z
-DTEND;VALUE=DATE-TIME:20230320T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003849Z
-DESCRIPTION:Info: https://themetphilly.com/event/jill-scott-3/\n\nDoors at
-  \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with g
- uest belongings\, we have implemented the following bag policy: BAGS NO LA
- RGER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goose: Spring Tour 2023
-DTSTART;VALUE=DATE-TIME:20230325T000000Z
-DTEND;VALUE=DATE-TIME:20230325T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003850Z
-DESCRIPTION:Info: https://themetphilly.com/event/goose-2/\n\nDoors at 7:00
-  pm\nShow starts at 8:00 pm\n\n\nDoors open at 7p.m.\nPLEASE NOTE: To redu
- ce staff contact with guest belongings\, we have implemented the following
-  bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goose: Spring Tour 2023
-DTSTART;VALUE=DATE-TIME:20230326T000000Z
-DTEND;VALUE=DATE-TIME:20230326T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003850Z
-DESCRIPTION:Info: https://themetphilly.com/event/goose/\n\nDoors at 7:00 p
- m\nShow starts at 8:00 pm\n\n\nDoors at 7p.m.\nPLEASE NOTE: To reduce staf
- f contact with guest belongings\, we have implemented the following bag po
- licy: BAGS NO LARGER THAN 12″X6″X12″\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lewis Capaldi: North American 2023 Tour
 DTSTART;VALUE=DATE-TIME:20230405T000000Z
 DTEND;VALUE=DATE-TIME:20230405T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003851Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003838Z
 DESCRIPTION:Info: https://themetphilly.com/event/lewis-capaldi/\n\nDoors a
- t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nPLEASE NOTE: To re
- duce staff contact with guest belongings\, we have implemented the followi
- ng bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
+ t 7:00 pm\nShow starts at 8:00 pm\n\n\nw/ Em Beihold\nDoors at 7 p.m.\nPL
+ EASE NOTE: To reduce staff contact with guest belongings\, we have impleme
+ nted the following bag policy: BAGS NO LARGER THAN 12″X6″X12″\n \n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skinny Puppy
+DTSTART;VALUE=DATE-TIME:20230419T000000Z
+DTEND;VALUE=DATE-TIME:20230419T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003839Z
+DESCRIPTION:Info: https://themetphilly.com/event/skinny-puppy/\n\nDoors at
+  7:00 pm\nShow starts at 8:00 pm\n\n\nThis event has been moved from Theat
+ re of Living Arts to The Met Philadelphia.\nPLEASE NOTE: To reduce staff c
+ ontact with guest belongings\, we have implemented the following bag polic
+ y: BAGS NO LARGER THAN 12″X6″X12″\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brett Young: Five\, TOUR\, Three\, Two\, One
 DTSTART;VALUE=DATE-TIME:20230421T233000Z
 DTEND;VALUE=DATE-TIME:20230422T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003851Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003839Z
 DESCRIPTION:Info: https://themetphilly.com/event/brett-young/\n\nDoors at 
  6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff contact 
  with guest belongings\, we have implemented the following bag policy: BAGS
@@ -175,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Can Dance
 DTSTART;VALUE=DATE-TIME:20230423T000000Z
 DTEND;VALUE=DATE-TIME:20230423T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003852Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003839Z
 DESCRIPTION:Info: https://themetphilly.com/event/dead-can-dance-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff con
  tact with guest belongings\, we have implemented the following bag policy:
@@ -183,10 +46,21 @@ DESCRIPTION:Info: https://themetphilly.com/event/dead-can-dance-2/\n\nDoor
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sarah Silverman: Grow Some Lips Tour
+DTSTART;VALUE=DATE-TIME:20230504T233000Z
+DTEND;VALUE=DATE-TIME:20230505T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003840Z
+DESCRIPTION:Info: https://themetphilly.com/event/sarah-silverman/\n\nDoors
+  at 6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff cont
+ act with guest belongings\, we have implemented the following bag policy: 
+ BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WXPN Welcomes MUNA: Life's So Fun Tour
 DTSTART;VALUE=DATE-TIME:20230506T000000Z
 DTEND;VALUE=DATE-TIME:20230506T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003852Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003840Z
 DESCRIPTION:Info: https://themetphilly.com/event/muna/\n\nDoors at 7:00 pm
  \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with gu
  est belongings\, we have implemented the following bag policy: BAGS NO LAR
@@ -198,7 +72,7 @@ SUMMARY:It’s Time Feat: Naomi Raine\, Tasha Cobbs Leonard\, Natalie Gran
  t and Taya: FKA Women Who Worship
 DTSTART;VALUE=DATE-TIME:20230506T230000Z
 DTEND;VALUE=DATE-TIME:20230507T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003853Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003840Z
 DESCRIPTION:Info: https://themetphilly.com/event/its-time-feat-naomi-raine
  -tasha-cobbs-leonard-natalie-grant-and-taya/\n\nDoors at 6:00 pm\nShow sta
  rts at 7:00 pm\n\n\nThe Time is Now! For the first time in history\, we se
@@ -212,10 +86,35 @@ DESCRIPTION:Info: https://themetphilly.com/event/its-time-feat-naomi-raine
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kali Uchis: Red Moon In Venus Tour
+DTSTART;VALUE=DATE-TIME:20230508T000000Z
+DTEND;VALUE=DATE-TIME:20230508T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003841Z
+DESCRIPTION:Info: https://themetphilly.com/event/kali-uchis/\n\nDoors at 7
+ :00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact w
+ ith guest belongings\, we have implemented the following bag policy: BAGS 
+ NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seal: with special guest The Buggles
+DTSTART;VALUE=DATE-TIME:20230511T233000Z
+DTEND;VALUE=DATE-TIME:20230512T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003841Z
+DESCRIPTION:Info: https://themetphilly.com/event/seal/\n\nDoors at 6:30 pm
+ \nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff contact with gu
+ est belongings\, we have implemented the following bag policy: BAGS NO LAR
+ GER THAN 12″X6″X12″\nSeal is a British singer. He has sold over 20 m
+ illion records worldwide. These include hit songs “Crazy” and “Kille
+ r”\, the latter of which went to number one in the UK\, and his most cel
+ ebrated song\, “Kiss from a Rose”\, which was released in 1994.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kountry Wayne: Help Is On The Way Comedy Tour
 DTSTART;VALUE=DATE-TIME:20230513T233000Z
 DTEND;VALUE=DATE-TIME:20230514T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003854Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003842Z
 DESCRIPTION:Info: https://themetphilly.com/event/kountry-wayne/\n\nDoors a
  t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE
  : To reduce staff contact with guest belongings\, we have implemented the 
@@ -266,21 +165,10 @@ DESCRIPTION:Info: https://themetphilly.com/event/kountry-wayne/\n\nDoors a
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:YUNGBLUD: The World Tour
-DTSTART;VALUE=DATE-TIME:20230524T000000Z
-DTEND;VALUE=DATE-TIME:20230524T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003854Z
-DESCRIPTION:Info: https://themetphilly.com/event/yungblud/\n\nDoors at 7:0
- 0 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact wit
- h guest belongings\, we have implemented the following bag policy: BAGS NO
-  LARGER THAN 12″X6″X12″\nDoors open at 7:00 PM.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crowded House: Dreamers Are Waiting North American Tour
 DTSTART;VALUE=DATE-TIME:20230524T233000Z
 DTEND;VALUE=DATE-TIME:20230525T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003855Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003842Z
 DESCRIPTION:Info: https://themetphilly.com/event/crowded-house-2/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nThis event has been postponed to 
  Tuesday\, May 24\, 2023. All previously purchased tickets will be honored.
@@ -290,60 +178,218 @@ DESCRIPTION:Info: https://themetphilly.com/event/crowded-house-2/\n\nDoors
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Billy Porter: Black Mona Lisa Tour: Volume One
+DTSTART;VALUE=DATE-TIME:20230602T000000Z
+DTEND;VALUE=DATE-TIME:20230602T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003842Z
+DESCRIPTION:Info: https://themetphilly.com/event/billy-porter/\n\nDoors at
+  7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nPLEASE NOTE: To red
+ uce staff contact with guest belongings\, we have implemented the followin
+ g bag policy: BAGS NO LARGER THAN 12″X6″X12″\n______________________
+ ___________________________________________\nBilly Porter is a Grammy\, Em
+ my\, and Tony award winner. Porter began his music career in 1997 with the
+  release of his debut album\, Untitled\, that generated the Top 10 single 
+ “Show Me\,” and “Love Is On The Way\,” which appeared in the hit m
+ ovie First Wives Club. In 2019\, Porter scored his first #1 on the Billboa
+ rd US Dance Club Chart with “Love Yourself.” Porter is a veteran of th
+ e theater performing in Miss Saigon\, Angels in America and Grease before 
+ being awarded the “Best Leading Actor in a Musical” in 2013 for his po
+ rtrayal of Lola in Kinky Boots. The following year he brought home a “Be
+ st Musical Theater Album” Grammy for the Official Kinky Boots Soundtrack
+ . In 2019\, Porter made history as the first openly gay man to take home t
+ he “Outstanding Lead Actor in a Drama Series” Emmy award for his work 
+ as Pray Tell in the FX drama series Pose. Time Magazine named him one of t
+ he “100 Most Influential People” of 2020. The following year Billy rel
+ eased his highly anticipated memoir\, Unprotected\, in addition to recordi
+ ng a song for the Red Hot +Free album which supports underserved communiti
+ es affected with HIV/AIDS. The summer of 2022 began with Billy receiving h
+ is second Tony award as a producer of “Best Musical” A Strange Loop an
+ d making his directorial film debut\, Anything’s Possible. This year\, B
+ illy returns to his first love\, music\, with the release of his album Bla
+ ck Mona Lisa and a national tour.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bill Maher
 DTSTART;VALUE=DATE-TIME:20230604T000000Z
 DTEND;VALUE=DATE-TIME:20230604T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003855Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003843Z
 DESCRIPTION:Info: https://themetphilly.com/event/bill-maher-2/\n\nDoors at
-  \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with g
- uest belongings\, we have implemented the following bag policy: BAGS NO LA
- RGER THAN 12″X6″X12″\nFor more than twenty-five years\, Bill Maher h
- as set the boundaries of where funny\, political talk can go on American t
- elevision. First on “Politically Incorrect” (Comedy Central\, ABC\, 19
- 93-2002)\, and for the last nineteen years on HBO’s “Real Time\,” Ma
- her’s combination of unflinching honesty and big laughs have garnered hi
- m 41 Emmy nominations. Maher won his first Emmy in 2014 as executive produ
- cer for the HBO series\, “VICE.” In October of 2008\, this same combin
- ation was on display in Maher’s uproarious and unprecedented swipe at or
- ganized religion\, “Religulous\,” directed by Larry Charles (“Borat
- ”).\nMost recently\, Bill launched a new podcast\, “Club Random with B
- ill Maher.” The podcast records at the bar on Bill’s property in Los A
- ngeles\, called Club Random\, where he hosts hour-long\, one-on-one interv
- iews with a wide range of eclectic guests. Each episode features free flow
- ing\, longform conversations about anything and everything\, except politi
- cs. Guests have included William Shatner\, Quentin Tarantino\, Bella Thorn
- e\, Adam Carolla\, Killer Mike\, Judd Apatow\, and many more. Within a wee
- k of launching\, the podcast hit #1 on Apple Podcasts.\nIn addition to his
-  television program – which has featured such visitors as President Bara
- ck Obama\, Vice President Joseph Biden\, Bernie Sanders\, Elizabeth Warren
- \, Mayor Pete Buttigieg\, Howard Stern\, Barbra Streisand\, Kerry Washingt
- on\, Michael Steele\, Megyn Kelly\, Ronan Farrow\, Howard Dean\, Michael M
- oore\, Eva Longoria\, Rev. Jesse Jackson\, Jim Carrey\, Gen. Wesley Clark\
- , Susan Sarandon\, Gary Hart and Pat Buchanan – Maher has written five b
- estsellers: “True Story\,” “Does Anybody Have a Problem with That? P
- olitically Incorrect’s Greatest Hits\,” “When You Ride Alone\, You R
- ide with Bin Laden\,” “New Rules: Polite\nMusings from a Timid Observe
- r\,” and\, “The New New Rules: A Funny Look at How Everybody But Me Ha
- s Their Head Up Their Ass.”\nMaher started his career as a stand-up come
- dian in 1979\, and still performs at least fifty dates a year in Las Vegas
-  and in sold out theaters all across the country. Bill has also been recog
- nized with numerous Emmy nominations for his stand-up specials for HBO. He
- ’s done 11 solo specials for the premium cable channel including\, “Bi
- ll Maher: Be More Cynical” (2000)\, “I’m Swiss” (2005)\, “Bill M
- aher … But I’m Not Wrong” (2010)\, and his most recent\, “Bill Mah
- er: Live From Oklahoma“ (2018). His 12th HBO solo special\, “#Adulting
- ” aired in Spring 2022.\nMaher was born in New York City\, raised in Riv
- er Vale\, N.J. and went to Cornell University. He now resides in Los Angel
- es.\n
+  7:00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact
+  with guest belongings\, we have implemented the following bag policy: BAG
+ S NO LARGER THAN 12″X6″X12″\nFor more than twenty-five years\, Bill 
+ Maher has set the boundaries of where funny\, political talk can go on Ame
+ rican television. First on “Politically Incorrect” (Comedy Central\, A
+ BC\, 1993-2002)\, and for the last nineteen years on HBO’s “Real Time\
+ ,” Maher’s combination of unflinching honesty and big laughs have garn
+ ered him 41 Emmy nominations. Maher won his first Emmy in 2014 as executiv
+ e producer for the HBO series\, “VICE.” In October of 2008\, this same
+  combination was on display in Maher’s uproarious and unprecedented swip
+ e at organized religion\, “Religulous\,” directed by Larry Charles (
+ “Borat”).\nMost recently\, Bill launched a new podcast\, “Club Rando
+ m with Bill Maher.” The podcast records at the bar on Bill’s property 
+ in Los Angeles\, called Club Random\, where he hosts hour-long\, one-on-on
+ e interviews with a wide range of eclectic guests. Each episode features f
+ ree flowing\, longform conversations about anything and everything\, excep
+ t politics. Guests have included William Shatner\, Quentin Tarantino\, Bel
+ la Thorne\, Adam Carolla\, Killer Mike\, Judd Apatow\, and many more. With
+ in a week of launching\, the podcast hit #1 on Apple Podcasts.\nIn additio
+ n to his television program – which has featured such visitors as Presid
+ ent Barack Obama\, Vice President Joseph Biden\, Bernie Sanders\, Elizabet
+ h Warren\, Mayor Pete Buttigieg\, Howard Stern\, Barbra Streisand\, Kerry 
+ Washington\, Michael Steele\, Megyn Kelly\, Ronan Farrow\, Howard Dean\, M
+ ichael Moore\, Eva Longoria\, Rev. Jesse Jackson\, Jim Carrey\, Gen. Wesle
+ y Clark\, Susan Sarandon\, Gary Hart and Pat Buchanan – Maher has writte
+ n five bestsellers: “True Story\,” “Does Anybody Have a Problem with
+  That? Politically Incorrect’s Greatest Hits\,” “When You Ride Alone
+ \, You Ride with Bin Laden\,” “New Rules: Polite\nMusings from a Timid
+  Observer\,” and\, “The New New Rules: A Funny Look at How Everybody B
+ ut Me Has Their Head Up Their Ass.”\nMaher started his career as a stand
+ -up comedian in 1979\, and still performs at least fifty dates a year in L
+ as Vegas and in sold out theaters all across the country. Bill has also be
+ en recognized with numerous Emmy nominations for his stand-up specials for
+  HBO. He’s done 11 solo specials for the premium cable channel including
+ \, “Bill Maher: Be More Cynical” (2000)\, “I’m Swiss” (2005)\, 
+ “Bill Maher … But I’m Not Wrong” (2010)\, and his most recent\, 
+ “Bill Maher: Live From Oklahoma“ (2018). His 12th HBO solo special\, 
+ “#Adulting” aired in Spring 2022.\nMaher was born in New York City\, r
+ aised in River Vale\, N.J. and went to Cornell University. He now resides 
+ in Los Angeles.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feid: Ferxxo Nitro Jam Underground
+DTSTART;VALUE=DATE-TIME:20230605T000000Z
+DTEND;VALUE=DATE-TIME:20230605T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003843Z
+DESCRIPTION:Info: https://themetphilly.com/event/feid/\n\nDoors at 7:00 pm
+ \nShow starts at 8:00 pm\n\n\nDoors at 7:00PM.\nPLEASE NOTE: To reduce sta
+ ff contact with guest belongings\, we have implemented the following bag p
+ olicy: BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Logic: with special guest Juicy J
+DTSTART;VALUE=DATE-TIME:20230608T000000Z
+DTEND;VALUE=DATE-TIME:20230608T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003843Z
+DESCRIPTION:Info: https://themetphilly.com/event/logic-2/\n\nDoors at 7:00
+  pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nPLEASE NOTE: To reduce s
+ taff contact with guest belongings\, we have implemented the following bag
+  policy: BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PIXIES: Plus special guests Franz Ferdinand & Bully
+DTSTART;VALUE=DATE-TIME:20230609T224500Z
+DTEND;VALUE=DATE-TIME:20230610T004500Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003844Z
+DESCRIPTION:Info: https://themetphilly.com/event/pixies/\n\nDoors at 6:00 
+ pm\nShow starts at 6:45 pm\n\n\nPLEASE NOTE: To reduce staff contact with 
+ guest belongings\, we have implemented the following bag policy: BAGS NO L
+ ARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Friends Podcast: with Andrew Santino & Bobby Lee
+DTSTART;VALUE=DATE-TIME:20230618T000000Z
+DTEND;VALUE=DATE-TIME:20230618T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003844Z
+DESCRIPTION:Info: https://themetphilly.com/event/bad-friends-podcast/\n\nD
+ oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 P.M.\nPLEA
+ SE NOTE: To reduce staff contact with guest belongings\, we have implement
+ ed the following bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YUNGBLUD: The World Tour
+DTSTART;VALUE=DATE-TIME:20230701T000000Z
+DTEND;VALUE=DATE-TIME:20230701T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003845Z
+DESCRIPTION:Info: https://themetphilly.com/event/yungblud/\n\nDoors at 7:0
+ 0 pm\nShow starts at 8:00 pm\n\n\nANNOUNCEMENT: YUNGBLUD at The Met Philad
+ elphia on Tuesday\, May 23 is rescheduled to Friday\, June 30. All previou
+ sly purchased tickets will be honored for the new date.\nSupport: The Regr
+ ettes\, Caspr\n___________________________________________________________
+ ________________\nTo reduce staff contact with guest belongings\, we have 
+ implemented the following bag policy: BAGS NO LARGER THAN 12″X6″X12″
+ \nDoors open at 7:00 PM.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elvis Costello: & the Imposters
+DTSTART;VALUE=DATE-TIME:20230714T233000Z
+DTEND;VALUE=DATE-TIME:20230715T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003845Z
+DESCRIPTION:Info: https://themetphilly.com/event/elvis-costello/\n\nDoors 
+ at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30pm\nPLEASE NOTE: To r
+ educe staff contact with guest belongings\, we have implemented the follow
+ ing bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barenaked Ladies: Last Summer On Earth 2023
+DTSTART;VALUE=DATE-TIME:20230719T230000Z
+DTEND;VALUE=DATE-TIME:20230720T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003845Z
+DESCRIPTION:Info: https://themetphilly.com/event/barenaked-ladies/\n\nDoor
+ s at 6:00 pm\nShow starts at 7:00 pm\n\n\nwith Five For Fighting & Del Ami
+ tri\nPLEASE NOTE: To reduce staff contact with guest belongings\, we have 
+ implemented the following bag policy: BAGS NO LARGER THAN 12″X6″X12″
+ \n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jenny Lewis: WXPN Welcomes
+DTSTART;VALUE=DATE-TIME:20230720T230000Z
+DTEND;VALUE=DATE-TIME:20230721T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003846Z
+DESCRIPTION:Info: https://themetphilly.com/event/jenny-lewis-2/\n\nDoors a
+ t 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00P.M.\nPLEASE NOTE
+ : To reduce staff contact with guest belongings\, we have implemented the 
+ following bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caamp: WXPN Welcomes
+DTSTART;VALUE=DATE-TIME:20230728T000000Z
+DTEND;VALUE=DATE-TIME:20230728T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003846Z
+DESCRIPTION:Info: https://themetphilly.com/event/caamp/\n\nDoors at 7:00 p
+ m\nShow starts at 8:00 pm\n\n\nDoors at 7:00 P.M.\nPLEASE NOTE: To reduce 
+ staff contact with guest belongings\, we have implemented the following ba
+ g policy: BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The National: with The Beths
+DTSTART;VALUE=DATE-TIME:20230801T233000Z
+DTEND;VALUE=DATE-TIME:20230802T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003846Z
+DESCRIPTION:Info: https://themetphilly.com/event/the-national/\n\nDoors at
+  6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff contact
+  with guest belongings\, we have implemented the following bag policy: BAG
+ S NO LARGER THAN 12″X6″X12″\n \n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The National: with The Beths
+DTSTART;VALUE=DATE-TIME:20230802T233000Z
+DTEND;VALUE=DATE-TIME:20230803T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003847Z
+DESCRIPTION:Info: https://themetphilly.com/event/the-national-2/\n\nDoors 
+ at 6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff conta
+ ct with guest belongings\, we have implemented the following bag policy: B
+ AGS NO LARGER THAN 12″X6″X12″\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tyler Childers: Send in the Hounds Tour
-DTSTART;VALUE=DATE-TIME:20230811T000000Z
-DTEND;VALUE=DATE-TIME:20230811T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003856Z
+DTSTART;VALUE=DATE-TIME:20230810T233000Z
+DTEND;VALUE=DATE-TIME:20230811T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003847Z
 DESCRIPTION:Info: https://themetphilly.com/event/tyler-childers/\n\nDoors 
- at 7:00 pm\nShow starts at 8:00 pm\n\n\nSupport: Margo Price\n$1 from ever
+ at 6:30 pm\nShow starts at 7:30 pm\n\n\nSupport: Margo Price\n$1 from ever
  y ticket sold will be going to Hickman Holler Appalachian Relief Fund. Est
  ablished in 2020 by Senora May and Tyler Childers\, HHARF brings awareness
   and financial support for philanthropic efforts in the Appalachian Region
@@ -353,14 +399,58 @@ DESCRIPTION:Info: https://themetphilly.com/event/tyler-childers/\n\nDoors
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Macklemore: The BEN Tour
+DTSTART;VALUE=DATE-TIME:20230923T233000Z
+DTEND;VALUE=DATE-TIME:20230924T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003847Z
+DESCRIPTION:Info: https://themetphilly.com/event/macklemore/\n\nDoors at 6
+ :30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30 P.M.\nPLEASE NOTE: To re
+ duce staff contact with guest belongings\, we have implemented the followi
+ ng bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lady A *NEW DATE*: Request Line Tour
 DTSTART;VALUE=DATE-TIME:20231021T233000Z
 DTEND;VALUE=DATE-TIME:20231022T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230114T003856Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003848Z
 DESCRIPTION:Info: https://themetphilly.com/event/lady-a-new-date/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30 PM.\nPLEASE NO
  TE: To reduce staff contact with guest belongings\, we have implemented th
  e following bag policy: BAGS NO LARGER THAN 12″X6″X12″\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stavros Halkias: The Fat Rascal Tour
+DTSTART;VALUE=DATE-TIME:20231104T230000Z
+DTEND;VALUE=DATE-TIME:20231105T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003848Z
+DESCRIPTION:Info: https://themetphilly.com/event/stavros-halkias/\n\nDoors
+  at 6:00 pm\nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff cont
+ act with guest belongings\, we have implemented the following bag policy: 
+ BAGS NO LARGER THAN 12″X6″X12″\nDoors open at 6:00p.m.\nStavros Halk
+ ias is a comedian\, actor and writer originally from Baltimore\, Maryland 
+ and currently based in Queens\, New York. His debut special\, “Live at t
+ he Lodge Room” reached a million views in the first four days of its rel
+ ease and has currently garnered over 3.3 million views. He’s a former co
+ -host and founding member of the popular podcast “Cum Town\,” which ra
+ n from 2016-2022 and was a staff writer and regular performer on the MSG n
+ etwork’s late night show\, “People Talking Sports and Other Stuff.” 
+ He’s appeared in Comedy Central’s Stand Up Featuring series and recent
+ ly starred in the independent film Salesmen. He’s trying to get just fam
+ ous enough to buy his mother a nice home and then quit show business to op
+ en a surf and turf restaurant in East Baltimore. \n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gov’t Mule: New Date!
+DTSTART;VALUE=DATE-TIME:20231230T010000Z
+DTEND;VALUE=DATE-TIME:20231230T030000Z
+DTSTAMP;VALUE=DATE-TIME:20230403T003848Z
+DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-4/\n\nDoors at 
+ 6:30 pm\nShow starts at 8:00 pm\n\n\nANNOUNCEMENT: Gov’t Mule at The Met
+  Philadelphia is rescheduled to December 29\, 2023. All previously purchas
+ ed tickets will be honored for the new date.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 END:VCALENDAR
