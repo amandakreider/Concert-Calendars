@@ -3,7 +3,7 @@ BEGIN:VEVENT
 SUMMARY:Twen
 DTSTART;VALUE=DATE-TIME:20230412T000000Z
 DTEND;VALUE=DATE-TIME:20230412T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003612Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003811Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nTWEN\n \nOn July 22\, DIYers twe
  n self-released their 2nd LP ‘One Stop Shop’\; a collection of 10 song
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Great Time & Taylor Kelly
 DTSTART;VALUE=DATE-TIME:20230413T000000Z
 DTEND;VALUE=DATE-TIME:20230413T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003614Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003812Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7PM – Doors8PM
   – Show\n\n \nTAYLOR KELLY (10:00 PM)\n \nBorn and raised in the suburbs
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Poison Ruïn
 DTSTART;VALUE=DATE-TIME:20230414T000000Z
 DTEND;VALUE=DATE-TIME:20230414T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003614Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003812Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nPOISON RUÏN\n \nHärvest Releas
  e Show\n \nEvoking a rich tapestry of ice-caked forests\, peasant revolts\
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Mustard Service
 DTSTART;VALUE=DATE-TIME:20230415T010000Z
 DTEND;VALUE=DATE-TIME:20230415T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003615Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003813Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nMUSTARD SERVICE\n \nMustard Servi
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Fake Names
 DTSTART;VALUE=DATE-TIME:20230416T010000Z
 DTEND;VALUE=DATE-TIME:20230416T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003617Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003814Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\n \nFAKE NAMES\n \nIf credibility were currency\, Fake Names
@@ -242,40 +242,41 @@ BEGIN:VEVENT
 SUMMARY:Midwife & Nyxy Nyx
 DTSTART;VALUE=DATE-TIME:20230417T000000Z
 DTEND;VALUE=DATE-TIME:20230417T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003617Z
-DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM 
- – Doors\n8PM – Show\n \nMIDWIFE\nMadeline Johnston is a self taught m
- ulti-instrumentalist and recording engineer\, currently based in Southern 
- New Mexico by way of Denver\, Colorado\, where she spent the last decade +
-  developing her sound and focusing on her artistic community. Midwife bega
- n while Madeline was a resident of the beloved DIY space Rhinoceropolis in
-  2014. She has released three albums with The Flenser\, most recently\, Lu
- minol (2021)\, which received National and International acclaim. On stage
- \, Johnston is known for her sparse\, emotionally charged experimental pop
-  music that can silence a room. On record\, she produces intricate and lus
- h sonic environments in her own little corner of the heavy music scene. Sh
- e describes her sound as “Heaven Metal\,” AKA emotional music about de
- vastation: catharsis. Johnston writes primarily about grief\, and the many
-  faces it can inhabit. \nNYXY NYX\nnyxy nyx are a self-described psychede
- lic gothic punk art rock band learning how to play the recorder in 3rd gra
- de. brian\, ben\, tim & alex write & perform haunted pop songs of love\, p
- ain\, the profound\, the mundane.\nWEBB CHAPEL\nFollowing the dissolution 
- of Austin-based experimental band Beth Israel\, primary songwriter Zack Cl
- axton began using intense versatility\; blending fuzzy\, melodic pop hooks
- \, no-wave freak outs\, bizarre instrumentation and acoustic ballads.  
- ”I sing about my ex-girlfriend\, flower pots\, how Cafe Brazil won’t h
- ire me.”\nPERMASQUELCH\nPermasquelch is the dreamy experimental\, ambien
- t sound project of Philadelphia artist Emily Milano. The projects recent r
- elease “Some Kind Of Ugly” is a record that showcases a wide spectrum 
- of mind bending soundscapes. Other recent projects include “Ubiquiton\,
- ” a take on American primitive guitar style. \n \n
+DTSTAMP;VALUE=DATE-TIME:20230411T003815Z
+DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
+ 7PM – Doors\n \n8PM – Show\n \n \n \nMIDWIFE\n \nMadeline Johnston is
+  a self taught multi-instrumentalist and recording engineer\, currently ba
+ sed in Southern New Mexico by way of Denver\, Colorado\, where she spent t
+ he last decade + developing her sound and focusing on her artistic communi
+ ty. Midwife began while Madeline was a resident of the beloved DIY space R
+ hinoceropolis in 2014. She has released three albums with The Flenser\, mo
+ st recently\, Luminol (2021)\, which received National and International a
+ cclaim. On stage\, Johnston is known for her sparse\, emotionally charged 
+ experimental pop music that can silence a room. On record\, she produces i
+ ntricate and lush sonic environments in her own little corner of the heavy
+  music scene. She describes her sound as “Heaven Metal\,” AKA emotiona
+ l music about devastation: catharsis. Johnston writes primarily about grie
+ f\, and the many faces it can inhabit. \n \nNYXY NYX\n \nnyxy nyx are a s
+ elf-described psychedelic gothic punk art rock band learning how to play t
+ he recorder in 3rd grade. brian\, ben\, tim & alex write & perform haunted
+  pop songs of love\, pain\, the profound\, the mundane.\n \nWEBB CHAPEL\n 
+ \nFollowing the dissolution of Austin-based experimental band Beth Israel\
+ , primary songwriter Zack Claxton began using intense versatility\; blendi
+ ng fuzzy\, melodic pop hooks\, no-wave freak outs\, bizarre instrumentatio
+ n and acoustic ballads.  ”I sing about my ex-girlfriend\, flower pots\,
+  how Cafe Brazil won’t hire me.”\n \nPERMASQUELCH\n \nPermasquelch is 
+ the dreamy experimental\, ambient sound project of Philadelphia artist Emi
+ ly Milano. The projects recent release “Some Kind Of Ugly” is a record
+  that showcases a wide spectrum of mind bending soundscapes. Other recent 
+ projects include “Ubiquiton\,” a take on American primitive guitar sty
+ le. \n \n \n
 LOCATION:Johnny Brenda’s
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Belt Eagle Scout
 DTSTART;VALUE=DATE-TIME:20230418T000000Z
 DTEND;VALUE=DATE-TIME:20230418T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003618Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003816Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nBLACK BELT EAGLE SCOUT\n \nThe L
  and\,The Water\, The Sky\n \nThis land runs through Katherine Paul’s blo
@@ -328,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:The Sadies
 DTSTART;VALUE=DATE-TIME:20230419T000000Z
 DTEND;VALUE=DATE-TIME:20230419T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003618Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003817Z
 DESCRIPTION:\n \n*All events are 21+ valid ID required for entry*\n \n*Att
  endees are encouraged to wear masks while not actively drinking*\n \n \n 
  \n7PM – Doors\n \n8PM – Show\n\n\n \n \n \n \n \nTHE SADIES\n \nWith
@@ -354,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:Told Slant
 DTSTART;VALUE=DATE-TIME:20230420T000000Z
 DTEND;VALUE=DATE-TIME:20230420T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003619Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003819Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nTOLD SLANT\n \nTold Slant is the
   music of Brooklyn-raised songwriter and drummer Felix Walworth. They’ve
@@ -381,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Langan\, Frost & Wane + Superinfinity
 DTSTART;VALUE=DATE-TIME:20230421T003000Z
 DTEND;VALUE=DATE-TIME:20230421T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003620Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003820Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8 PM – Door
  s8:30 PM – Show\nLANGAN\, FROST & WANE (10:30 PM)\nLANGAN\, FROST & WANE
@@ -412,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Purling Hiss & Chris Forsyth
 DTSTART;VALUE=DATE-TIME:20230422T010000Z
 DTEND;VALUE=DATE-TIME:20230422T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003622Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003821Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n8PM 
  – Doors\n \n9PM – Show\n \n \n \nPURLING HISS\n \nthe colliding circl
@@ -452,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:William Elliott Whitmore
 DTSTART;VALUE=DATE-TIME:20230423T010000Z
 DTEND;VALUE=DATE-TIME:20230423T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003623Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003822Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nWILLIAM ELLIOTT WHITMORE\n \n \nA
@@ -488,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Long Beard
 DTSTART;VALUE=DATE-TIME:20230424T000000Z
 DTEND;VALUE=DATE-TIME:20230424T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003624Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003823Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nLONG BEARDMeans To Me is the sec
@@ -539,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Charly Bliss
 DTSTART;VALUE=DATE-TIME:20230425T000000Z
 DTEND;VALUE=DATE-TIME:20230425T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003624Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003824Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7PM – Doors8PM
   – Show\nCHARLY BLISS\n \n“I don’t know why it’s easiest for me to
@@ -578,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:Overcoats
 DTSTART;VALUE=DATE-TIME:20230426T000000Z
 DTEND;VALUE=DATE-TIME:20230426T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003626Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003825Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \n \n \nOVERCOATS\n \nThe third full-length album from Ove
@@ -607,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:Bailter Space
 DTSTART;VALUE=DATE-TIME:20230427T000000Z
 DTEND;VALUE=DATE-TIME:20230427T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003627Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003826Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nBAILTER SPACE\n \n“Simultaneous
@@ -630,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Fucked Up
 DTSTART;VALUE=DATE-TIME:20230428T010000Z
 DTEND;VALUE=DATE-TIME:20230428T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003628Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003827Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  8PM – Doors\n \n9PM – Show\n \n \n \nFUCKED UP\n \nI was sent an unfi
  nished version of Dose Your Dreams so that I might contribute string par
@@ -674,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:Restorations: Performing Songs New & Old
 DTSTART;VALUE=DATE-TIME:20230429T010000Z
 DTEND;VALUE=DATE-TIME:20230429T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003630Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003828Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n8PM 
  – Doors\n \n9PM – Show\n \n \n \nJB’s & R5 Productions Present\n \n
@@ -707,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:Restorations: Performing LP2
 DTSTART;VALUE=DATE-TIME:20230430T010000Z
 DTEND;VALUE=DATE-TIME:20230430T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003631Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003829Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n8PM 
  – Doors\n \n9PM – Show\n \n \n \nJB’s & R5 Productions Present\n \n
@@ -763,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:Kristine Leschper
 DTSTART;VALUE=DATE-TIME:20230501T000000Z
 DTEND;VALUE=DATE-TIME:20230501T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003632Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003830Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n \n \n7PM 
  – Doors8PM – Show\nKRISTINE LESCHPER\n \nKristine Leschper is an inter
@@ -807,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:Tanukichan
 DTSTART;VALUE=DATE-TIME:20230504T000000Z
 DTEND;VALUE=DATE-TIME:20230504T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003632Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003831Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nTANUKICHAN\n \nTanukichan is the 
@@ -855,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:Muscle Tough
 DTSTART;VALUE=DATE-TIME:20230507T010000Z
 DTEND;VALUE=DATE-TIME:20230507T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003634Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003832Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nMUSCLE TOUGH\n \nPhiladelphia’s
@@ -875,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:David Wax Museum
 DTSTART;VALUE=DATE-TIME:20230508T000000Z
 DTEND;VALUE=DATE-TIME:20230508T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003636Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003833Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n7PM – Doors8PM
   – Show\nDAVID WAX MUSEUM (9:00 PM)\n \nDavid Wax and Suz Slezak\, the p
@@ -904,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:The Natural Lines fka Matt Pond PA
 DTSTART;VALUE=DATE-TIME:20230510T000000Z
 DTEND;VALUE=DATE-TIME:20230510T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003636Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003834Z
 DESCRIPTION:\n \n*All events are 21+ valid ID required for entry*\n \n*Att
  endees are encouraged to wear masks while not actively drinking*\n \n \n 
  \n7PM – Doors\n \n8PM – Show\n\n\n \n \n \nTHE NATURAL LINES (fka Mat
@@ -937,7 +938,7 @@ BEGIN:VEVENT
 SUMMARY:The Cactus Blossoms
 DTSTART;VALUE=DATE-TIME:20230511T000000Z
 DTEND;VALUE=DATE-TIME:20230511T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003637Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003835Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nTHE CACTUS BLOSSOMS\n \n“Hey ba
@@ -971,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:Mr Twin Sister
 DTSTART;VALUE=DATE-TIME:20230512T010000Z
 DTEND;VALUE=DATE-TIME:20230512T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003638Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003836Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nMR TWIN SISTER\n \nMr Twin Sister
@@ -1006,7 +1007,7 @@ BEGIN:VEVENT
 SUMMARY:BAILEN
 DTSTART;VALUE=DATE-TIME:20230513T010000Z
 DTEND;VALUE=DATE-TIME:20230513T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003639Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003837Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
   PM – Doors\n \n9 PM – Show\n \n \n \nBAILENTired Hearts\, the new al
@@ -1040,7 +1041,7 @@ BEGIN:VEVENT
 SUMMARY:Come
 DTSTART;VALUE=DATE-TIME:20230516T000000Z
 DTEND;VALUE=DATE-TIME:20230516T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003640Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003838Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nCOME\n \nCome is a cult American
   alternative rock band\, formed in Boston by Thalia Zedek (vocals\, guitar
@@ -1094,7 +1095,7 @@ BEGIN:VEVENT
 SUMMARY:Mareux
 DTSTART;VALUE=DATE-TIME:20230517T000000Z
 DTEND;VALUE=DATE-TIME:20230517T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003641Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003839Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nMAREUX\n \nMareux is the decade l
@@ -1116,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:Y La Bamba
 DTSTART;VALUE=DATE-TIME:20230518T000000Z
 DTEND;VALUE=DATE-TIME:20230518T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003643Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003840Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nY LA BAMBATo declare one thematic
@@ -1136,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:Acid Mothers Temple
 DTSTART;VALUE=DATE-TIME:20230519T010000Z
 DTEND;VALUE=DATE-TIME:20230519T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003643Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003840Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nACID MOTHERS TEMPLE\nMetaReboot N
@@ -1170,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:Mo Troper
 DTSTART;VALUE=DATE-TIME:20230520T010000Z
 DTEND;VALUE=DATE-TIME:20230520T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003644Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003841Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\nMO TROPERMo Troper is truly one of a kind\,
@@ -1208,7 +1209,7 @@ BEGIN:VEVENT
 SUMMARY:Matthew Logan Vasquez
 DTSTART;VALUE=DATE-TIME:20230521T010000Z
 DTEND;VALUE=DATE-TIME:20230521T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003645Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003843Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nMATTHEW LOGAN VASQUEZ\n \nBest-kn
@@ -1226,7 +1227,7 @@ BEGIN:VEVENT
 SUMMARY:Helen
 DTSTART;VALUE=DATE-TIME:20230522T000000Z
 DTEND;VALUE=DATE-TIME:20230522T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003646Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003844Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nHELEN\n \nHelen is a pop group f
  rom Oregon. Liz Harris (vocals/lead guitar)\, Jed Bindeman (drums/tambouri
@@ -1248,7 +1249,7 @@ BEGIN:VEVENT
 SUMMARY:Big Joanie
 DTSTART;VALUE=DATE-TIME:20230524T000000Z
 DTEND;VALUE=DATE-TIME:20230524T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003647Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003845Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nBIG JOANIE\n \nChampioned by BBC 
@@ -1266,7 +1267,7 @@ BEGIN:VEVENT
 SUMMARY:Westerman
 DTSTART;VALUE=DATE-TIME:20230525T000000Z
 DTEND;VALUE=DATE-TIME:20230525T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003648Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003846Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nWESTERMAN\n \nUK artist Westerman
@@ -1317,7 +1318,7 @@ BEGIN:VEVENT
 SUMMARY:Narrow Head
 DTSTART;VALUE=DATE-TIME:20230526T010000Z
 DTEND;VALUE=DATE-TIME:20230526T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003649Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003847Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nNARROW HEAD\n \nTruly great pop s
@@ -1351,7 +1352,7 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Daughter
 DTSTART;VALUE=DATE-TIME:20230527T010000Z
 DTEND;VALUE=DATE-TIME:20230527T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003651Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003848Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nBUFFALO DAUGHTER\n \nBuffalo Daug
@@ -1374,7 +1375,7 @@ BEGIN:VEVENT
 SUMMARY:Wunderhorse
 DTSTART;VALUE=DATE-TIME:20230528T010000Z
 DTEND;VALUE=DATE-TIME:20230528T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003652Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003849Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\nWUNDERHORSE\n \n“The best new band just released the best 
@@ -1403,7 +1404,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Lahey
 DTSTART;VALUE=DATE-TIME:20230610T010000Z
 DTEND;VALUE=DATE-TIME:20230610T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003653Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003850Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nALEX LAHEY\n \n“Living in a wor
@@ -1435,7 +1436,7 @@ BEGIN:VEVENT
 SUMMARY:American Trappist
 DTSTART;VALUE=DATE-TIME:20230611T000000Z
 DTEND;VALUE=DATE-TIME:20230611T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003654Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003851Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\nAMERICAN TRAPPIST \n \nThe American Trappist is a non-binar
@@ -1456,7 +1457,7 @@ BEGIN:VEVENT
 SUMMARY:Surprise Chef
 DTSTART;VALUE=DATE-TIME:20230616T010000Z
 DTEND;VALUE=DATE-TIME:20230616T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003655Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003852Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nSURPRISE CHEF\n \nSurprise Chef
@@ -1492,7 +1493,7 @@ BEGIN:VEVENT
 SUMMARY:Stuck & Mesh
 DTSTART;VALUE=DATE-TIME:20230617T010000Z
 DTEND;VALUE=DATE-TIME:20230617T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003656Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003853Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  8PM – Doors\n \n9PM – Show\n \n \n \nSTUCK\n \nWorking at a mixing bo
  ard one night\, a catchphrase popped into Greg Obis’ head: “freak freq
@@ -1523,7 +1524,7 @@ BEGIN:VEVENT
 SUMMARY:Protomartyr – Night 1
 DTSTART;VALUE=DATE-TIME:20230618T010000Z
 DTEND;VALUE=DATE-TIME:20230618T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003657Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003854Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors\n \n9PM – Show\n\n \nSecond Show Added Due To Popular Demand!\n \nTw
  o Nights of Protomartyr at Johnny Brenda’s — June 17th & 18th!\n \nCli
@@ -1555,7 +1556,7 @@ BEGIN:VEVENT
 SUMMARY:Protomartyr – Night 2
 DTSTART;VALUE=DATE-TIME:20230619T000000Z
 DTEND;VALUE=DATE-TIME:20230619T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003658Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003855Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7PM – Do
  ors\n \n8PM – Show\n\n \nSecond Show Added Due To Popular Demand!\n \nTw
  o Nights of Protomartyr at Johnny Brenda’s — June 17th & 18th!\nPROTOM
@@ -1587,7 +1588,7 @@ BEGIN:VEVENT
 SUMMARY:Califone
 DTSTART;VALUE=DATE-TIME:20230620T000000Z
 DTEND;VALUE=DATE-TIME:20230620T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003659Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003856Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nCALIFONE \n \nWith 25 years of C
@@ -1606,7 +1607,7 @@ BEGIN:VEVENT
 SUMMARY:Bayonne
 DTSTART;VALUE=DATE-TIME:20230622T000000Z
 DTEND;VALUE=DATE-TIME:20230622T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003700Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003857Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nBAYONNE\n \nSince his 2016 debut
   album Primitives\, Bayonne has channeled his vast imagination into an ele
@@ -1627,7 +1628,7 @@ BEGIN:VEVENT
 SUMMARY:Kiltro
 DTSTART;VALUE=DATE-TIME:20230626T000000Z
 DTEND;VALUE=DATE-TIME:20230626T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003702Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003857Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nKILTRO\n \nTitled Underbelly\, Ki
@@ -1651,7 +1652,7 @@ BEGIN:VEVENT
 SUMMARY:Feeble Little Horse
 DTSTART;VALUE=DATE-TIME:20230628T000000Z
 DTEND;VALUE=DATE-TIME:20230628T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003703Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003858Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nfeeble little horse\n \nfeeble l
  ittle horse makes thrilling and wildly unpredictable songs that are a refl
@@ -1673,7 +1674,7 @@ BEGIN:VEVENT
 SUMMARY:Sloan
 DTSTART;VALUE=DATE-TIME:20230629T000000Z
 DTEND;VALUE=DATE-TIME:20230629T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003704Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003859Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nSLOAN\n \nSloan is a Toronto-base
@@ -1694,7 +1695,7 @@ BEGIN:VEVENT
 SUMMARY:Spacin’ & Elison Jackson
 DTSTART;VALUE=DATE-TIME:20230630T000000Z
 DTEND;VALUE=DATE-TIME:20230630T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003705Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003900Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n7PM – Doors
  8PM – Show\n \nSPACIN’ (10:00 PM)\nSpacin’ is a jam collective led b
@@ -1742,7 +1743,7 @@ BEGIN:VEVENT
 SUMMARY:The Frights
 DTSTART;VALUE=DATE-TIME:20230715T010000Z
 DTEND;VALUE=DATE-TIME:20230715T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003706Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003901Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nTHE FRIGHTS\n \nSince their 2013 
@@ -1759,7 +1760,7 @@ BEGIN:VEVENT
 SUMMARY:Remember Sports
 DTSTART;VALUE=DATE-TIME:20230726T000000Z
 DTEND;VALUE=DATE-TIME:20230726T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003707Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003903Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nREMEMBER SPORTS\n \nAfter four al
@@ -1790,7 +1791,7 @@ BEGIN:VEVENT
 SUMMARY:Pile
 DTSTART;VALUE=DATE-TIME:20231020T010000Z
 DTEND;VALUE=DATE-TIME:20231020T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003708Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003904Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n\n \n8PM 
  – Doors\n \n9PM – Show\nPILE\n \n“I want to do what makes me feel li
  ke a kid: experimenting\, having fun\, and trying to discover new things a
@@ -1819,7 +1820,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Pug
 DTSTART;VALUE=DATE-TIME:20231029T010000Z
 DTEND;VALUE=DATE-TIME:20231029T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003709Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003905Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nJOE PUG\n \nA singer-songwriter k
@@ -1843,7 +1844,7 @@ BEGIN:VEVENT
 SUMMARY:Pansy Division
 DTSTART;VALUE=DATE-TIME:20231117T020000Z
 DTEND;VALUE=DATE-TIME:20231117T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230410T003710Z
+DTSTAMP;VALUE=DATE-TIME:20230411T003906Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nPANSY DIVISION\n \nThere have bee
@@ -1856,7 +1857,9 @@ DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  rote in-your-face lyrics\, but did it with a sense of humor. Not only did 
  their music and stance defy stereotypic norms of rock musicians being open
  ly gay\, they also broke gay cultural stereotypes that rock wouldn’t int
- erest gay people.\n
+ erest gay people.\nTHE RITCHIE WHITE ORCHESTRA \nThe Ritchie White Orches
+ tra is a hard rocking poppy psychedelic trip to Detention Hall. Music for 
+ bad boys and girls and those in between.\n
 LOCATION:Johnny Brenda’s
 END:VEVENT
 END:VCALENDAR
