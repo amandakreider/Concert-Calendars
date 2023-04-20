@@ -3,7 +3,7 @@ BEGIN:VEVENT
 SUMMARY:Brett Young: Five\, TOUR\, Three\, Two\, One
 DTSTART;VALUE=DATE-TIME:20230421T233000Z
 DTEND;VALUE=DATE-TIME:20230422T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003918Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003659Z
 DESCRIPTION:Info: https://themetphilly.com/event/brett-young/\n\nDoors at 
  6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff contact 
  with guest belongings\, we have implemented the following bag policy: BAGS
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Can Dance
 DTSTART;VALUE=DATE-TIME:20230423T000000Z
 DTEND;VALUE=DATE-TIME:20230423T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003919Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003659Z
 DESCRIPTION:Info: https://themetphilly.com/event/dead-can-dance-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff con
  tact with guest belongings\, we have implemented the following bag policy:
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Sarah Silverman: Grow Some Lips Tour
 DTSTART;VALUE=DATE-TIME:20230504T233000Z
 DTEND;VALUE=DATE-TIME:20230505T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003919Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003700Z
 DESCRIPTION:Info: https://themetphilly.com/event/sarah-silverman/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff cont
  act with guest belongings\, we have implemented the following bag policy: 
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes MUNA: Life's So Fun Tour
 DTSTART;VALUE=DATE-TIME:20230506T000000Z
 DTEND;VALUE=DATE-TIME:20230506T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003919Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003700Z
 DESCRIPTION:Info: https://themetphilly.com/event/muna/\n\nDoors at 7:00 pm
  \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with gu
  est belongings\, we have implemented the following bag policy: BAGS NO LAR
@@ -49,7 +49,7 @@ SUMMARY:It’s Time Feat: Naomi Raine\, Tasha Cobbs Leonard\, Natalie Gran
  t and Taya: FKA Women Who Worship
 DTSTART;VALUE=DATE-TIME:20230506T230000Z
 DTEND;VALUE=DATE-TIME:20230507T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003919Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003700Z
 DESCRIPTION:Info: https://themetphilly.com/event/its-time-feat-naomi-raine
  -tasha-cobbs-leonard-natalie-grant-and-taya/\n\nDoors at 6:00 pm\nShow sta
  rts at 7:00 pm\n\n\nThe Time is Now! For the first time in history\, we se
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Kali Uchis: Red Moon In Venus Tour
 DTSTART;VALUE=DATE-TIME:20230508T000000Z
 DTEND;VALUE=DATE-TIME:20230508T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003920Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003701Z
 DESCRIPTION:Info: https://themetphilly.com/event/kali-uchis/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact w
  ith guest belongings\, we have implemented the following bag policy: BAGS 
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Seal: with special guest The Buggles
 DTSTART;VALUE=DATE-TIME:20230511T233000Z
 DTEND;VALUE=DATE-TIME:20230512T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003920Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003701Z
 DESCRIPTION:Info: https://themetphilly.com/event/seal/\n\nDoors at 6:30 pm
  \nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff contact with gu
  est belongings\, we have implemented the following bag policy: BAGS NO LAR
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Kountry Wayne: Help Is On The Way Comedy Tour
 DTSTART;VALUE=DATE-TIME:20230513T233000Z
 DTEND;VALUE=DATE-TIME:20230514T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003920Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003701Z
 DESCRIPTION:Info: https://themetphilly.com/event/kountry-wayne/\n\nDoors a
  t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE
  : To reduce staff contact with guest belongings\, we have implemented the 
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:RnB Fest 2023: 100.3 RnB Presents
 DTSTART;VALUE=DATE-TIME:20230521T000000Z
 DTEND;VALUE=DATE-TIME:20230521T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003921Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003702Z
 DESCRIPTION:Info: https://themetphilly.com/event/rnb-fest-2023/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7P.M.\nPLEASE NOTE: T
  o reduce staff contact with guest belongings\, we have implemented the fol
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Crowded House: Dreamers Are Waiting North American Tour
 DTSTART;VALUE=DATE-TIME:20230524T233000Z
 DTEND;VALUE=DATE-TIME:20230525T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003921Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003702Z
 DESCRIPTION:Info: https://themetphilly.com/event/crowded-house-2/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nThis event has been postponed to 
  Tuesday\, May 24\, 2023. All previously purchased tickets will be honored.
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Billy Porter: Black Mona Lisa Tour: Volume One
 DTSTART;VALUE=DATE-TIME:20230602T000000Z
 DTEND;VALUE=DATE-TIME:20230602T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003921Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003703Z
 DESCRIPTION:Info: https://themetphilly.com/event/billy-porter/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nPLEASE NOTE: To red
  uce staff contact with guest belongings\, we have implemented the followin
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Bill Maher
 DTSTART;VALUE=DATE-TIME:20230604T000000Z
 DTEND;VALUE=DATE-TIME:20230604T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003921Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003703Z
 DESCRIPTION:Info: https://themetphilly.com/event/bill-maher-2/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact
   with guest belongings\, we have implemented the following bag policy: BAG
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Feid: Ferxxo Nitro Jam Underground
 DTSTART;VALUE=DATE-TIME:20230605T000000Z
 DTEND;VALUE=DATE-TIME:20230605T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003921Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003703Z
 DESCRIPTION:Info: https://themetphilly.com/event/feid/\n\nDoors at 7:00 pm
  \nShow starts at 8:00 pm\n\n\nDoors at 7:00PM.\nPLEASE NOTE: To reduce sta
  ff contact with guest belongings\, we have implemented the following bag p
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Logic: with special guest Juicy J
 DTSTART;VALUE=DATE-TIME:20230608T000000Z
 DTEND;VALUE=DATE-TIME:20230608T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003922Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003704Z
 DESCRIPTION:Info: https://themetphilly.com/event/logic-2/\n\nDoors at 7:00
   pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nPLEASE NOTE: To reduce s
  taff contact with guest belongings\, we have implemented the following bag
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:PIXIES: Plus special guests Franz Ferdinand & Bully
 DTSTART;VALUE=DATE-TIME:20230609T224500Z
 DTEND;VALUE=DATE-TIME:20230610T004500Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003922Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003704Z
 DESCRIPTION:Info: https://themetphilly.com/event/pixies/\n\nDoors at 6:00 
  pm\nShow starts at 6:45 pm\n\n\nPLEASE NOTE: To reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: BAGS NO L
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Bad Friends Podcast: with Andrew Santino & Bobby Lee
 DTSTART;VALUE=DATE-TIME:20230618T000000Z
 DTEND;VALUE=DATE-TIME:20230618T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003922Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003704Z
 DESCRIPTION:Info: https://themetphilly.com/event/bad-friends-podcast/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 P.M.\nPLEA
  SE NOTE: To reduce staff contact with guest belongings\, we have implement
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:House Of Cheer: The Level Up Tour 2023
 DTSTART;VALUE=DATE-TIME:20230623T000000Z
 DTEND;VALUE=DATE-TIME:20230623T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003922Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003705Z
 DESCRIPTION:Info: https://themetphilly.com/event/house-of-cheer/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff conta
  ct with guest belongings\, we have implemented the following bag policy: B
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:YUNGBLUD: The World Tour
 DTSTART;VALUE=DATE-TIME:20230701T000000Z
 DTEND;VALUE=DATE-TIME:20230701T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003923Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003705Z
 DESCRIPTION:Info: https://themetphilly.com/event/yungblud/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nANNOUNCEMENT: YUNGBLUD at The Met Philad
  elphia on Tuesday\, May 23 is rescheduled to Friday\, June 30. All previou
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Dream Theater: Dream Theater\, Devin Townsend\, Animals As Leaders
 DTSTART;VALUE=DATE-TIME:20230701T230000Z
 DTEND;VALUE=DATE-TIME:20230702T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003923Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003705Z
 DESCRIPTION:Info: https://themetphilly.com/event/dream-theater/\n\nDoors a
  t \nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: BAGS NO L
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Elvis Costello: & the Imposters
 DTSTART;VALUE=DATE-TIME:20230714T233000Z
 DTEND;VALUE=DATE-TIME:20230715T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003923Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003706Z
 DESCRIPTION:Info: https://themetphilly.com/event/elvis-costello/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30pm\nPLEASE NOTE: To r
  educe staff contact with guest belongings\, we have implemented the follow
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Barenaked Ladies: Last Summer On Earth 2023
 DTSTART;VALUE=DATE-TIME:20230719T230000Z
 DTEND;VALUE=DATE-TIME:20230720T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003923Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003706Z
 DESCRIPTION:Info: https://themetphilly.com/event/barenaked-ladies/\n\nDoor
  s at 6:00 pm\nShow starts at 7:00 pm\n\n\nwith Five For Fighting & Del Ami
  tri\nPLEASE NOTE: To reduce staff contact with guest belongings\, we have 
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Jenny Lewis: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20230720T230000Z
 DTEND;VALUE=DATE-TIME:20230721T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003923Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003706Z
 DESCRIPTION:Info: https://themetphilly.com/event/jenny-lewis-2/\n\nDoors a
  t 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00P.M.\nPLEASE NOTE
  : To reduce staff contact with guest belongings\, we have implemented the 
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Caamp: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20230728T000000Z
 DTEND;VALUE=DATE-TIME:20230728T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003924Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003707Z
 DESCRIPTION:Info: https://themetphilly.com/event/caamp/\n\nDoors at 7:00 p
  m\nShow starts at 8:00 pm\n\n\nDoors at 7:00 P.M.\nPLEASE NOTE: To reduce 
  staff contact with guest belongings\, we have implemented the following ba
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:The National: with The Beths
 DTSTART;VALUE=DATE-TIME:20230801T233000Z
 DTEND;VALUE=DATE-TIME:20230802T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003924Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003707Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-national/\n\nDoors at
   6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff contact
   with guest belongings\, we have implemented the following bag policy: BAG
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:The National: with The Beths
 DTSTART;VALUE=DATE-TIME:20230802T233000Z
 DTEND;VALUE=DATE-TIME:20230803T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003924Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003708Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-national-2/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff conta
  ct with guest belongings\, we have implemented the following bag policy: B
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Tyler Childers: Send in the Hounds Tour
 DTSTART;VALUE=DATE-TIME:20230810T233000Z
 DTEND;VALUE=DATE-TIME:20230811T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003924Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003708Z
 DESCRIPTION:Info: https://themetphilly.com/event/tyler-childers/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nSupport: Margo Price\n$1 from ever
  y ticket sold will be going to Hickman Holler Appalachian Relief Fund. Est
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Macklemore: The BEN Tour
 DTSTART;VALUE=DATE-TIME:20230923T233000Z
 DTEND;VALUE=DATE-TIME:20230924T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003925Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003708Z
 DESCRIPTION:Info: https://themetphilly.com/event/macklemore/\n\nDoors at 6
  :30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30 P.M.\nPLEASE NOTE: To re
  duce staff contact with guest belongings\, we have implemented the followi
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:92.5 XTU Presents Jordan Davis: Damn Good Time Tour
 DTSTART;VALUE=DATE-TIME:20231006T000000Z
 DTEND;VALUE=DATE-TIME:20231006T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003925Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003709Z
 DESCRIPTION:Info: https://themetphilly.com/event/92-5-xtu-presents-jordan-
  davis/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00pm.\n
  PLEASE NOTE: To reduce staff contact with guest belongings\, we have imple
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Rainbow Kitten Surprise
 DTSTART;VALUE=DATE-TIME:20231011T000000Z
 DTEND;VALUE=DATE-TIME:20231011T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003925Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003709Z
 DESCRIPTION:Info: https://themetphilly.com/event/rainbow-kitten-surprise/\
  n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00 P.M.\nPLEAS
  E NOTE: To reduce staff contact with guest belongings\, we have implemente
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:Lady A *NEW DATE*: Request Line Tour
 DTSTART;VALUE=DATE-TIME:20231021T233000Z
 DTEND;VALUE=DATE-TIME:20231022T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003925Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003709Z
 DESCRIPTION:Info: https://themetphilly.com/event/lady-a-new-date/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30 PM.\nPLEASE NO
  TE: To reduce staff contact with guest belongings\, we have implemented th
@@ -479,57 +479,56 @@ BEGIN:VEVENT
 SUMMARY:Iliza Shlesinger: Hard Feelings Tour 
 DTSTART;VALUE=DATE-TIME:20231103T230000Z
 DTEND;VALUE=DATE-TIME:20231104T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003925Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003710Z
 DESCRIPTION:Info: https://themetphilly.com/event/iliza-shlesinger/\n\nDoor
  s at 6:00 pm\nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff con
  tact with guest belongings\, we have implemented the following bag policy:
   BAGS NO LARGER THAN 12″X6″X12″\nDoors open at 6:00PM.\n____________
- ________________________________________________\nIliza Shlesinger is an 
- award-winning comedian\, actor\, writer\, producer and author\, selling o
- ut theaters around\nthe globe with a devoted fan base who are known for cr
- eating their own Iliza-inspired swag to wear to her\nshows. She’s curren
- tly on her Back In Action comedy tour.\n\nIliza has five Netflix stand u
- p specials. She coined the term “Elder Millennial” in her eponymous 2
- 018’s Elder\nMillennial\, which is also the subject of Iliza Shlesinge
- r: Over & Over\, her “fan-u-mentary” giving fans an\ninside look into
-  her life on tour. Her other specials are Unveiled (2019)\, Confirmed Ki
- lls (2016)\, Freezing Hot\n(2015) and War Paint (2013).   She’s prep
- aring to tape her 6th  special in the summer of 2022.\n\nShe wrote and st
- arred in the Netflix Rom-Con movie Good On Paper and played opposite Ma
- rk Wahlberg in\nthe #1 Netflix film Spenser Confidential. She also appe
- ared in the critically-acclaimed indie drama Pieces of a\nWoman with Va
- nessa Kirby.  Other credits include\, Instant Family\, starring Wahlberg
-  and Rose Byrne\,\nand The Iliza Shlesinger Sketch Show\, a comedy series
-  she created and starred in for Netflix.\n\nIn March 2020\, in response to
-  the pandemic\, she and her husband\, Chef/James Beard Award nominated\na
- uthor Noah Galuten\, launched Don’t Panic Pantry as a way to encourage
-  people to stay at home and flatten\nthe curve. The fun\, follow-along at
- -home cooking show streamed live via Iliza’s Instagram and Facebook page
- \nwith more than 250 episodes. It has been featured TODAY Show\, The Talk
- \, and has been sponsored by\ncompanies like Le Creuset\, Dansk and Bob
- ’s Red Mill. The Don’t Panic Pantry Cookbook is set to be published\
- nin January of 2023 by AA Knopf.\n\nIliza has completed her second book\,
-  All Things Aside (Abrams Books and Blackstone Audio) and will be\navail
- able in the Fall of 2022.  Her first book\, Girl Logic: The Genius and t
- he Absurdity (Hachette Book Group)\nwas a subversively funny collection o
- f essays offering her unique perspective on women’s behavior. Her\npodca
- st\, AIA: Ask Iliza Anything\, is a fan favorite and features Iliza givi
- ng out her barefaced life advice\nto fans’ questions.  She recently gu
- est hosted Jimmy Kimmel Live and previously hosted her own limited run\nla
- te night talk show Truth & Iliza on Freeform. She is the only female and
-  youngest comedian to hold the title\nof NBC’s Last Comic Standing.\n\n
- Iliza regularly supports a variety of causes including Team Rubicon\, Cyst
- ic Fibrosis\, Best Friends Animal\nSociety\, various environmental causes\
- , and has performed abroad several times with the USO.\nShe lives in Los A
- ngeles\, California with her husband Noah\, their newborn daughter Sierra 
- Mae and their\nChinese rescue dog\, Tian Fu.\n
+ ________________________________________________\nIliza Shlesinger is an a
+ ward-winning comedian\, actor\, writer\, producer and author\, selling out
+  theaters around the globe with a devoted fan base who are known for creat
+ ing their own Iliza-inspired swag to wear to her shows. She’s currently 
+ on her Back In Action comedy tour.\nIliza has five Netflix stand up spec
+ ials. She coined the term “Elder Millennial” in her eponymous 2018’
+ s Elder Millennial\, which is also the subject of Iliza Shlesinger: Over
+  & Over\, her “fan-u-mentary” giving fans an inside look into her life
+  on tour. Her other specials are Unveiled (2019)\, Confirmed Kills (2016)
+ \, Freezing Hot (2015) and War Paint (2013).   She’s preparing to t
+ ape her 6th  special in the summer of 2022.\nShe wrote and starred in the
+  Netflix Rom-Con movie Good On Paper and played opposite Mark Wahlberg i
+ n the #1 Netflix film Spenser Confidential. She also appeared in the c
+ ritically-acclaimed indie drama Pieces of a Woman with Vanessa Kirby.  
+ Other credits include\, Instant Family\, starring Wahlberg and Rose Byrne
+ \, and The Iliza Shlesinger Sketch Show\, a comedy series she created and
+  starred in for Netflix.\nIn March 2020\, in response to the pandemic\, sh
+ e and her husband\, Chef/James Beard Award nominated author Noah Galuten\,
+  launched Don’t Panic Pantry as a way to encourage people to stay at ho
+ me and flatten the curve. The fun\, follow-along at-home cooking show stre
+ amed live via Iliza’s Instagram and Facebook page with more than 250 epi
+ sodes. It has been featured TODAY Show\, The Talk\, and has been sponsored
+  by companies like Le Creuset\, Dansk and Bob’s Red Mill. The Don’t Pa
+ nic Pantry Cookbook is set to be published in January of 2023 by AA Knopf.
+ \nIliza has completed her second book\, All Things Aside (Abrams Books an
+ d Blackstone Audio) and will be available in the Fall of 2022.  Her first
+  book\, Girl Logic: The Genius and the Absurdity (Hachette Book Group) wa
+ s a subversively funny collection of essays offering her unique perspectiv
+ e on women’s behavior. Her podcast\, AIA: Ask Iliza Anything\, is a fan
+  favorite and features Iliza giving out her barefaced life advice to fans
+ ’ questions.  She recently guest hosted Jimmy Kimmel Live and previousl
+ y hosted her own limited run late night talk show Truth & Iliza on Freefo
+ rm. She is the only female and youngest comedian to hold the title of NBC
+ ’s Last Comic Standing.\nIliza regularly supports a variety of causes i
+ ncluding Team Rubicon\, Cystic Fibrosis\, Best Friends Animal Society\, va
+ rious environmental causes\, and has performed abroad several times with t
+ he USO.\nShe lives in Los Angeles\, California with her husband Noah\, the
+ ir newborn daughter Sierra Mae and their Chinese rescue dog\, Tian Fu.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stavros Halkias: The Fat Rascal Tour
 DTSTART;VALUE=DATE-TIME:20231104T230000Z
 DTEND;VALUE=DATE-TIME:20231105T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003926Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003710Z
 DESCRIPTION:Info: https://themetphilly.com/event/stavros-halkias/\n\nDoors
   at 6:00 pm\nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff cont
  act with guest belongings\, we have implemented the following bag policy: 
@@ -551,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule: New Date!
 DTSTART;VALUE=DATE-TIME:20231230T010000Z
 DTEND;VALUE=DATE-TIME:20231230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230419T003926Z
+DTSTAMP;VALUE=DATE-TIME:20230420T003711Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-4/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nANNOUNCEMENT: Gov’t Mule at The Met
   Philadelphia is rescheduled to December 29\, 2023. All previously purchas
