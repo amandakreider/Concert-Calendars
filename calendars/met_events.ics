@@ -3,7 +3,7 @@ BEGIN:VEVENT
 SUMMARY:Sarah Silverman: Grow Some Lips Tour
 DTSTART;VALUE=DATE-TIME:20230504T233000Z
 DTEND;VALUE=DATE-TIME:20230505T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003802Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004008Z
 DESCRIPTION:Info: https://themetphilly.com/event/sarah-silverman/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff cont
  act with guest belongings\, we have implemented the following bag policy: 
@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes MUNA: Life's So Fun Tour
 DTSTART;VALUE=DATE-TIME:20230506T000000Z
 DTEND;VALUE=DATE-TIME:20230506T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003802Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004009Z
 DESCRIPTION:Info: https://themetphilly.com/event/muna/\n\nDoors at 7:00 pm
  \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with gu
  est belongings\, we have implemented the following bag policy: BAGS NO LAR
@@ -26,7 +26,7 @@ SUMMARY:It’s Time Feat: Naomi Raine\, Tasha Cobbs Leonard\, Natalie Gran
  t and Taya: FKA Women Who Worship
 DTSTART;VALUE=DATE-TIME:20230506T230000Z
 DTEND;VALUE=DATE-TIME:20230507T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003803Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004009Z
 DESCRIPTION:Info: https://themetphilly.com/event/its-time-feat-naomi-raine
  -tasha-cobbs-leonard-natalie-grant-and-taya/\n\nDoors at 6:00 pm\nShow sta
  rts at 7:00 pm\n\n\nThe Time is Now! For the first time in history\, we se
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Kali Uchis: Red Moon In Venus Tour
 DTSTART;VALUE=DATE-TIME:20230508T000000Z
 DTEND;VALUE=DATE-TIME:20230508T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003803Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004010Z
 DESCRIPTION:Info: https://themetphilly.com/event/kali-uchis/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact w
  ith guest belongings\, we have implemented the following bag policy: BAGS 
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Seal: with special guest The Buggles
 DTSTART;VALUE=DATE-TIME:20230511T233000Z
 DTEND;VALUE=DATE-TIME:20230512T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003804Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004010Z
 DESCRIPTION:Info: https://themetphilly.com/event/seal/\n\nDoors at 6:30 pm
  \nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff contact with gu
  est belongings\, we have implemented the following bag policy: BAGS NO LAR
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Kountry Wayne: Help Is On The Way Comedy Tour
 DTSTART;VALUE=DATE-TIME:20230513T233000Z
 DTEND;VALUE=DATE-TIME:20230514T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003804Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004011Z
 DESCRIPTION:Info: https://themetphilly.com/event/kountry-wayne/\n\nDoors a
  t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE
  : To reduce staff contact with guest belongings\, we have implemented the 
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:RnB Fest 2023: 100.3 RnB Presents
 DTSTART;VALUE=DATE-TIME:20230521T000000Z
 DTEND;VALUE=DATE-TIME:20230521T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003805Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004011Z
 DESCRIPTION:Info: https://themetphilly.com/event/rnb-fest-2023/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7P.M.\nPLEASE NOTE: T
  o reduce staff contact with guest belongings\, we have implemented the fol
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Crowded House: Dreamers Are Waiting North American Tour
 DTSTART;VALUE=DATE-TIME:20230524T233000Z
 DTEND;VALUE=DATE-TIME:20230525T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003805Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004012Z
 DESCRIPTION:Info: https://themetphilly.com/event/crowded-house-2/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nThis event has been postponed to 
  Tuesday\, May 24\, 2023. All previously purchased tickets will be honored.
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Billy Porter: Black Mona Lisa Tour: Volume One
 DTSTART;VALUE=DATE-TIME:20230602T000000Z
 DTEND;VALUE=DATE-TIME:20230602T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003805Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004012Z
 DESCRIPTION:Info: https://themetphilly.com/event/billy-porter/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nPLEASE NOTE: To red
  uce staff contact with guest belongings\, we have implemented the followin
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Bill Maher
 DTSTART;VALUE=DATE-TIME:20230604T000000Z
 DTEND;VALUE=DATE-TIME:20230604T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003806Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004013Z
 DESCRIPTION:Info: https://themetphilly.com/event/bill-maher-2/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact
   with guest belongings\, we have implemented the following bag policy: BAG
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Feid: Ferxxo Nitro Jam Underground
 DTSTART;VALUE=DATE-TIME:20230605T000000Z
 DTEND;VALUE=DATE-TIME:20230605T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003806Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004013Z
 DESCRIPTION:Info: https://themetphilly.com/event/feid/\n\nDoors at 7:00 pm
  \nShow starts at 8:00 pm\n\n\nDoors at 7:00PM.\nPLEASE NOTE: To reduce sta
  ff contact with guest belongings\, we have implemented the following bag p
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Logic: with special guest Juicy J
 DTSTART;VALUE=DATE-TIME:20230608T000000Z
 DTEND;VALUE=DATE-TIME:20230608T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003807Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004014Z
 DESCRIPTION:Info: https://themetphilly.com/event/logic-2/\n\nDoors at 7:00
   pm\nShow starts at 8:00 pm\n\n\nDoors at 7 p.m.\nPLEASE NOTE: To reduce s
  taff contact with guest belongings\, we have implemented the following bag
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:PIXIES: Plus special guests Franz Ferdinand & Bully
 DTSTART;VALUE=DATE-TIME:20230609T224500Z
 DTEND;VALUE=DATE-TIME:20230610T004500Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003807Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004014Z
 DESCRIPTION:Info: https://themetphilly.com/event/pixies/\n\nDoors at 6:00 
  pm\nShow starts at 6:45 pm\n\n\nPLEASE NOTE: To reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: BAGS NO L
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Bad Friends Podcast: with Andrew Santino & Bobby Lee
 DTSTART;VALUE=DATE-TIME:20230618T000000Z
 DTEND;VALUE=DATE-TIME:20230618T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003808Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004014Z
 DESCRIPTION:Info: https://themetphilly.com/event/bad-friends-podcast/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 P.M.\nPLEA
  SE NOTE: To reduce staff contact with guest belongings\, we have implement
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:House Of Cheer: The Level Up Tour 2023
 DTSTART;VALUE=DATE-TIME:20230623T000000Z
 DTEND;VALUE=DATE-TIME:20230623T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003808Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004015Z
 DESCRIPTION:Info: https://themetphilly.com/event/house-of-cheer/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff conta
  ct with guest belongings\, we have implemented the following bag policy: B
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:YUNGBLUD: The World Tour
 DTSTART;VALUE=DATE-TIME:20230701T000000Z
 DTEND;VALUE=DATE-TIME:20230701T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003808Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004015Z
 DESCRIPTION:Info: https://themetphilly.com/event/yungblud/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nANNOUNCEMENT: YUNGBLUD at The Met Philad
  elphia on Tuesday\, May 23 is rescheduled to Friday\, June 30. All previou
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Dream Theater: Dream Theater\, Devin Townsend\, Animals As Leaders
 DTSTART;VALUE=DATE-TIME:20230701T230000Z
 DTEND;VALUE=DATE-TIME:20230702T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003809Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004016Z
 DESCRIPTION:Info: https://themetphilly.com/event/dream-theater/\n\nDoors a
  t \nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with 
  guest belongings\, we have implemented the following bag policy: BAGS NO L
@@ -330,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:Elvis Costello: & the Imposters
 DTSTART;VALUE=DATE-TIME:20230714T233000Z
 DTEND;VALUE=DATE-TIME:20230715T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003809Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004016Z
 DESCRIPTION:Info: https://themetphilly.com/event/elvis-costello/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30pm\nPLEASE NOTE: To r
  educe staff contact with guest belongings\, we have implemented the follow
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Barenaked Ladies: Last Summer On Earth 2023
 DTSTART;VALUE=DATE-TIME:20230719T230000Z
 DTEND;VALUE=DATE-TIME:20230720T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003810Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004017Z
 DESCRIPTION:Info: https://themetphilly.com/event/barenaked-ladies/\n\nDoor
  s at 6:00 pm\nShow starts at 7:00 pm\n\n\nwith Five For Fighting & Del Ami
  tri\nPLEASE NOTE: To reduce staff contact with guest belongings\, we have 
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Jenny Lewis: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20230720T230000Z
 DTEND;VALUE=DATE-TIME:20230721T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003810Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004017Z
 DESCRIPTION:Info: https://themetphilly.com/event/jenny-lewis-2/\n\nDoors a
  t 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00P.M.\nPLEASE NOTE
  : To reduce staff contact with guest belongings\, we have implemented the 
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Caamp: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20230728T000000Z
 DTEND;VALUE=DATE-TIME:20230728T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003811Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004018Z
 DESCRIPTION:Info: https://themetphilly.com/event/caamp/\n\nDoors at 7:00 p
  m\nShow starts at 8:00 pm\n\n\nDoors at 7:00 P.M.\nPLEASE NOTE: To reduce 
  staff contact with guest belongings\, we have implemented the following ba
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:The National: with The Beths
 DTSTART;VALUE=DATE-TIME:20230801T233000Z
 DTEND;VALUE=DATE-TIME:20230802T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003811Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004018Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-national/\n\nDoors at
   6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff contact
   with guest belongings\, we have implemented the following bag policy: BAG
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:The National: with The Beths
 DTSTART;VALUE=DATE-TIME:20230802T233000Z
 DTEND;VALUE=DATE-TIME:20230803T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003812Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004018Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-national-2/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff conta
  ct with guest belongings\, we have implemented the following bag policy: B
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Tyler Childers: Send in the Hounds Tour
 DTSTART;VALUE=DATE-TIME:20230810T233000Z
 DTEND;VALUE=DATE-TIME:20230811T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003812Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004019Z
 DESCRIPTION:Info: https://themetphilly.com/event/tyler-childers/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nSupport: Margo Price\n$1 from ever
  y ticket sold will be going to Hickman Holler Appalachian Relief Fund. Est
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Macklemore: The BEN Tour
 DTSTART;VALUE=DATE-TIME:20230923T233000Z
 DTEND;VALUE=DATE-TIME:20230924T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003812Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004019Z
 DESCRIPTION:Info: https://themetphilly.com/event/macklemore/\n\nDoors at 6
  :30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30 P.M.\nPLEASE NOTE: To re
  duce staff contact with guest belongings\, we have implemented the followi
@@ -423,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:92.5 XTU Presents Jordan Davis: Damn Good Time Tour
 DTSTART;VALUE=DATE-TIME:20231006T000000Z
 DTEND;VALUE=DATE-TIME:20231006T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003813Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004020Z
 DESCRIPTION:Info: https://themetphilly.com/event/92-5-xtu-presents-jordan-
  davis/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00pm.\n
  PLEASE NOTE: To reduce staff contact with guest belongings\, we have imple
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Rainbow Kitten Surprise
 DTSTART;VALUE=DATE-TIME:20231011T000000Z
 DTEND;VALUE=DATE-TIME:20231011T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003813Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004020Z
 DESCRIPTION:Info: https://themetphilly.com/event/rainbow-kitten-surprise/\
  n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00 P.M.\nPLEAS
  E NOTE: To reduce staff contact with guest belongings\, we have implemente
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:Lady A *NEW DATE*: Request Line Tour
 DTSTART;VALUE=DATE-TIME:20231021T233000Z
 DTEND;VALUE=DATE-TIME:20231022T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003814Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004021Z
 DESCRIPTION:Info: https://themetphilly.com/event/lady-a-new-date/\n\nDoors
   at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30 PM.\nPLEASE NO
  TE: To reduce staff contact with guest belongings\, we have implemented th
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Iliza Shlesinger: Hard Feelings Tour 
 DTSTART;VALUE=DATE-TIME:20231103T230000Z
 DTEND;VALUE=DATE-TIME:20231104T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003814Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004021Z
 DESCRIPTION:Info: https://themetphilly.com/event/iliza-shlesinger/\n\nDoor
  s at 6:00 pm\nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff con
  tact with guest belongings\, we have implemented the following bag policy:
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Stavros Halkias: The Fat Rascal Tour
 DTSTART;VALUE=DATE-TIME:20231104T230000Z
 DTEND;VALUE=DATE-TIME:20231105T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003814Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004022Z
 DESCRIPTION:Info: https://themetphilly.com/event/stavros-halkias/\n\nDoors
   at 6:00 pm\nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff cont
  act with guest belongings\, we have implemented the following bag policy: 
@@ -527,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule: New Date!
 DTSTART;VALUE=DATE-TIME:20231230T010000Z
 DTEND;VALUE=DATE-TIME:20231230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230426T003815Z
+DTSTAMP;VALUE=DATE-TIME:20230427T004022Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-4/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nANNOUNCEMENT: Gov’t Mule at The Met
   Philadelphia is rescheduled to December 29\, 2023. All previously purchas
