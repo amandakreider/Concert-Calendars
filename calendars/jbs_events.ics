@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Movin’ Co.
-DTSTART;VALUE=DATE-TIME:20230718T010000Z
-DTEND;VALUE=DATE-TIME:20230718T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005142Z
+DTSTART;VALUE=DATE-TIME:20240718T010000Z
+DTEND;VALUE=DATE-TIME:20240718T030000Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010617Z
 DESCRIPTION:\nTICKETS FOR THIS EVENT ARE AVAILABLE AT THE DOOR*All events 
  are 21+ valid ID required for entry*\n9PM – DOORSKicking off Monday\, Ju
  ly 10th\, Johnny Brenda’s presents MOVIN’ CO. – a weekly dance party
@@ -16,46 +16,46 @@ BEGIN:VEVENT
 SUMMARY:Squawk Brothers
 DTSTART;VALUE=DATE-TIME:20230721T000000Z
 DTEND;VALUE=DATE-TIME:20230721T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005143Z
-DESCRIPTION:\n \n*All events are 21+ valid ID required for entry*\n \n7PM 
- – Doors8PM – Show\n \nSQUAWK BROTHERS (10:00 PM)Squawk Brothers was fo
- rmed by the members of Philly indie rock band Purples/The Teeth in order t
- o explore a country-influenced aesthetic. As the scope of the band evolved
- \, the members finally grew tired of the “four dudes” template and hav
- e blossomed into a six-piece harmonic family with the addition of Eliza Be
- cker and Nakita Beauregard. The newer members have thus far raised no obje
- ction to keeping the name as it is.\n \nSquawk Brothers released their deb
- ut album Melody Bird in early 2021. It is available on most of the main pl
- atforms that you’re familiar with.\n \nBIRDIE BUSCH (9:00 PM)Birdie Busc
- h makes and records independent music from her home base of Philadelphia. 
- The music is put out by both herself and on adventurous independents like 
- Bar None Records\, Be Frank\, and Styles Upon Styles creating a constellat
- ion of connect the dots that has people listening to her music all over th
- e world.She creates sonic song soundscapes with some of Philly’s finest 
- musicians\, producers\, and engineers. Critics from American Songwriter to
-  Village Voice have found her of kindred spirit from everyone from Syd Bar
- rett to Eudora Welty\, and seem to just keep referring to what she does as
-  her own thing and appreciating that strange place where it resides. City 
- Paper says\, “She’s noisy when she might’ve hushed up\, nervy when m
- ost are relaxed\, funny when others stay forlorn and dressy when she could
-  be buttoned-up.”  It’s this comfort to contain multitudes that has h
- ad her and her band sharing stages with everyone from Buffy Sainte-Marie a
- nd Richie Havens to Dr.Dog and Juni\nLEV (8:00 PM)\n \n \nJenkintown-based
-  singer/songwriter Josh Levandoski is once again active after a 7 year sab
- batical\, regularly releasing singles mononymously as LEV. The project lau
- nched on Bandcamp in 2020 and on a live-and-in-person basis last year. Lev
- andoski regrouped with old pals like New Motels drummer Kyle McDonough\, a
- nd linked with new folks like Brendan Duffey of Camera Thief on keys\, Jas
- on Dooney of S P ∆ C E S on bass\, and Glenside experimental guitarist 
- Doug Wartman. Together\, their sound is bold and expansive\, drawing influ
- ence from whatever.\n\n\n
+DTSTAMP;VALUE=DATE-TIME:20230718T010618Z
+DESCRIPTION:\n\n\n\n\n\n\n\n \n*All events are 21+ valid ID required for e
+ ntry*7PM – Doors8PM – Show\nSQUAWK BROTHERS (10:00 PM)Squawk Brothers 
+ was formed by the members of Philly indie rock band Purples/The Teeth in o
+ rder to explore a country-influenced aesthetic. As the scope of the band e
+ volved\, the members finally grew tired of the “four dudes” template a
+ nd have blossomed into a six-piece harmonic family with the addition of El
+ iza Becker and Nakita Beauregard. The newer members have thus far raised n
+ o objection to keeping the name as it is.\n\nSquawk Brothers released thei
+ r debut album Melody Bird in early 2021. It is available on most of the ma
+ in platforms that you’re familiar with.\n \n\n\nBIRDIE BUSCH (9:00 PM)B
+ irdie Busch makes and records independent music from her home base of Phil
+ adelphia. The music is put out by both herself and on adventurous independ
+ ents like Bar None Records\, Be Frank\, and Styles Upon Styles creating a 
+ constellation of connect the dots that has people listening to her music a
+ ll over the world.\nShe creates sonic song soundscapes with some of Philly
+ ’s finest musicians\, producers\, and engineers. Critics from American S
+ ongwriter to Village Voice have found her of kindred spirit from everyone 
+ from Syd Barrett to Eudora Welty\, and seem to just keep referring to what
+  she does as her own thing and appreciating that strange place where it re
+ sides. City Paper says\, “She’s noisy when she might’ve hushed up\, 
+ nervy when most are relaxed\, funny when others stay forlorn and dressy wh
+ en she could be buttoned-up.”  It’s this comfort to contain multitude
+ s that has had her and her band sharing stages with everyone from Buffy Sa
+ inte-Marie and Richie Havens to Dr.Dog and Juni.\nLEV (8:00 PM)Jenkintown-
+ based singer/songwriter Josh Levandoski is once again active after a 7 yea
+ r sabbatical\, regularly releasing singles mononymously as LEV. The projec
+ t launched on Bandcamp in 2020 and on a live-and-in-person basis last year
+ . Levandoski regrouped with old pals like New Motels drummer Kyle McDonoug
+ h\, and linked with new folks like Brendan Duffey of Camera Thief on keys\
+ , Jason Dooney of S P ∆ C E S on bass\, and Glenside experimental guita
+ rist Doug Wartman. Together\, their sound is bold and expansive\, drawing 
+ influence from whatever. \n\n\n\n\n\n\n
 LOCATION:Johnny Brenda’s
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downward
 DTSTART;VALUE=DATE-TIME:20230722T010000Z
 DTEND;VALUE=DATE-TIME:20230722T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005144Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010619Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  8PM – Doors\n \n9PM – Show\n \n \n \nDOWNWARD\n \nTulsa\, Oklahoma\n 
  \n \n \nBLEARY EYED\n \nPhiladelphia\, Pennsylvania\n
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Velvet Rouge
 DTSTART;VALUE=DATE-TIME:20230723T000000Z
 DTEND;VALUE=DATE-TIME:20230723T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005146Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010620Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7PM – Do
  ors8PM – Show\nVELVET ROUGE\nIn 2016\, Gina Castanzo (AKA Gina Zo) was f
  eatured on NBC’s The Voice\, Team Blake for the show’s tenth season.\n
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Remember Sports
 DTSTART;VALUE=DATE-TIME:20230726T000000Z
 DTEND;VALUE=DATE-TIME:20230726T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005147Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010621Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nREMEMBER SPORTS\n \nAfter four al
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Baby Family Values – Drag Night
 DTSTART;VALUE=DATE-TIME:20230729T010000Z
 DTEND;VALUE=DATE-TIME:20230729T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005149Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010621Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\nOn Friday\, July 28th\, Johnny Brenda’s welcomes “
  Baby Family Values”!\nHosted by DIVA BABY – with performances by ANGEL
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Reyna Tropical
 DTSTART;VALUE=DATE-TIME:20230730T010000Z
 DTEND;VALUE=DATE-TIME:20230730T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005150Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010622Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nREYNA TROPICALReyna Tropical is led by guitarist\, singer
  \, songwriter and co-producer Fabiola Reyna (founder of She Shreds Media).
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Molly Ringworm
 DTSTART;VALUE=DATE-TIME:20230804T010000Z
 DTEND;VALUE=DATE-TIME:20230804T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005151Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010623Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n \n8PM – Doors
  9PM – Show\nMOLLY RINGWORM\n \nMolly Ringworm is an indie rock band from
@@ -223,10 +223,41 @@ DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
 LOCATION:Johnny Brenda’s
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Black Celebration – Depeche Mode Heavy Dance Party
+DTSTART;VALUE=DATE-TIME:20230805T010000Z
+DTEND;VALUE=DATE-TIME:20230805T030000Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010624Z
+DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n\n9PM D
+ oors\n\n \nA BLACK CELEBRATION \n \nPHILLY’S FAVORITE DEPECHE MODE DANCE
+  PARTY!\n \n \n \nThis month ABC is proud to present -  Endless Summer o
+ f the Damned (GOTH “BEACH” PARTY)\n \n \n \nGoth Beach themed drink s
+ pecials\, visuals\, music\, and more! Goth Resort/ Beach attire encouraged
+  but not required. \n \n \n \nDJ BABY BERLIN+ Special Guest: DJ Another 
+ Ghost\n \n \n \n*Handmade spooky Finery from: Bone Mami Shop*\n \nhttps:/
+ /www.bonemamishop.com/\n \n \n \nBlack Celebration is the fifth studio al
+ bum by Depeche Mode. This album further cemented the darkening sound and s
+ tyle of DM. ABC the party celebrates this darkening depeche mood as wel
+ l. This event is an inclusive safe space goth party. Homophobia\, misogyny
+ \, transphobia\, racism\, xenophobia\, physical violence or hate of any ki
+ nd will not be tolerated.\n \n \n \nExpect to hear:TONS OF DEPECHE MODENE
+ W WAVEDARK WAVEPOST-PUNKDEATH ROCKEARLY INDUSTRIALWAX TRAXGOTH CLUB HITSFA
+ CTORY RECORDS\n \nDepeche Mode\, New Order\, Ministry\, Sisters Of Mercy\,
+  Bauhaus\, Front 242\, Cabaret Voltaire\, Siouxsie and the Banshees\, The 
+ Cure\, The Cult\, Xmal Deutschland\, Pet Shop Boys\, Tears for Fears\, Era
+ sure. INXS\, Love and Rockets\, Soft Cell\, Killing Joke\, Tones On Tail\,
+  Visage\, NIN\, Skinny Puppy\, Nitzer Ebb\, Kate Bush\, Cold Cave\, Joy Di
+ vision\, She Past Away\, Visage\, Lords Of The New Church\, Lebanon Hanove
+ r\, Front Line Assembly\, and more!\n\n \n#abcphilly #ablackcelebration #a
+ blackcelebrationphilly #goth #gothnight #gothphilly #newwave #darkwave #de
+ pechemode #postpunk #synthpop #tradgoth \n \nLet’s have a black celebra
+ tion…\n\n\n\n\n\n\n\n\n
+LOCATION:Johnny Brenda’s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Strange Ranger
 DTSTART;VALUE=DATE-TIME:20230806T010000Z
 DTEND;VALUE=DATE-TIME:20230806T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005152Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010624Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nSTRANGE RANGER\n \nIn one of the few recorded inter
  views with the elusive Burial\, the producer admitted to spending much of 
@@ -251,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Andy Loebs & Starcleaner Reunion
 DTSTART;VALUE=DATE-TIME:20230807T000000Z
 DTEND;VALUE=DATE-TIME:20230807T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005154Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010625Z
 DESCRIPTION:\n \n*All events are 21+ valid ID required for entry*\n \n7PM 
  – Doors8PM – Show\n \nANDY LOEBS\n\n \nAndy Loebs is a Philadelphia ba
  sed producer & multi-instrumentalist. Combining a slew of contrasting styl
@@ -265,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:Sweeping Promises
 DTSTART;VALUE=DATE-TIME:20230809T000000Z
 DTEND;VALUE=DATE-TIME:20230809T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005154Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010626Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nSWEEPING PROMISESSweeping Promises are Lira Mondal 
  and Caufield Schnug. A chance meeting in Arkansas led to a decade of playi
@@ -286,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Hurry
 DTSTART;VALUE=DATE-TIME:20230812T003000Z
 DTEND;VALUE=DATE-TIME:20230812T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005155Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010627Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8:00PM 
  – Doors8:30PM – Show\n \nHURRY\n \nWhen Matt Scottoline formed his ban
  d Hurry in 2012\, he wasn’t even sure what power pop meant. “I only fo
@@ -320,10 +351,48 @@ DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8:00PM
 LOCATION:Johnny Brenda’s
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Atmospheric Streams + Reeder Station
+DTSTART;VALUE=DATE-TIME:20230813T000000Z
+DTEND;VALUE=DATE-TIME:20230813T020000Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010627Z
+DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
+  Doors8PM – Show\n \n\nATMOSPHERIC STREAMS (10:00 PM)\nWith a new sound 
+ clearly apparent following lineup changes and an evolving songwriting appr
+ oach\, Atmospheric Streams is the latest iteration of Britt Thomas and her
+  group (formerly Britt Thomas and the Breaker Boys). Combining dream-inspi
+ red lyrics\, a new appreciation for technical chord and rhythmic choices\,
+  and a collaborative group ethos\, the new album Looking Sideways is a r
+ omp through psychedelia\, rock and world music-inspired compositions. Back
+ ed up by drummer Danny Albi\, guitarist Todd Faustnacht\, keyboardist Jeff
+  Gregorio\, and bassist Aaron Jollay\, Atmospheric Streams crafts mystery 
+ and elation into their songs with a nod to Echoes-era Pink Floyd\, early 
+ Fairport Convention\, and the Velvet Underground’s Loaded. Experimentat
+ ion and technicality are focus points on the new album\, and you can hear 
+ a certain Krautrock influence on tunes like Walls and Looking Sideways
+  ‒ inspired in part by Britt’s birthplace of Frankfurt\, Germany\, wh
+ ere she spent portions of her childhood. The vocals and harmonies on songs
+  like Edge of a Dream and Thought Sound Vibration allude to the styles
+  of Hope Sandoval\, Grace Slick and Jefferson Airplane\, and Neko Case. Mo
+ dern comparisons to the band’s vocal vibrations include Julia Jacklin\, 
+ Big Thief\, and Lucy Dacus of Boygenius.\nREEDER STATION (9:00 PM)\nNew Ho
+ pe power trio Reeder Station features Mancunian bassist Steve Garvey (form
+ erly of the Buzzcocks)\, guitarist and singer James Seward\, and drummer B
+ rad Smith. With influences from a broad spectrum\, they blend Americana\, 
+ rock\, and punk for an eclectic sound rooted in their diverse tastes. Expe
+ ct a slew of original material as well as a few Buzzcocks hits for good me
+ asure.\nSKIP WINTERS (8:00 PM)\n \nSkip Winters (previously known as The F
+ ourth Son) is a singer-songwriter and multi-instrumentalist based in Phila
+ delphia\, PA. His genre-bending music primarily draws from indie rock\, Am
+ ericana\, and reggae\, often being characterized as “beach folk.” He i
+ s accompanied by Griffin Edwards (drums)\, Chris Butrico (guitar)\, and Ma
+ rk Butrico (bass).\n
+LOCATION:Johnny Brenda’s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sargasso (Record Release)
 DTSTART;VALUE=DATE-TIME:20230817T233000Z
 DTEND;VALUE=DATE-TIME:20230818T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005157Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010628Z
 DESCRIPTION:\n \n \n*All events are 21+ valid ID required for entry*\n \n7
  PM – Doors7:30 PM – Show\nMITAMU (9:00 PM)\n\n\n \n \nTammy Huynh\, ak
  a “mitamu”\, is an interdisciplinary multi-award winning artist who dr
@@ -370,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:draag me
 DTSTART;VALUE=DATE-TIME:20230819T010000Z
 DTEND;VALUE=DATE-TIME:20230819T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005158Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010629Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \ndraag mePhilly’s lord of the shithouse\, the proj
  ect of Spirit of the Beehive’s Zack Schwartz and Corey Wichlin materiali
@@ -387,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Friends of Jerry
 DTSTART;VALUE=DATE-TIME:20230820T010000Z
 DTEND;VALUE=DATE-TIME:20230820T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005159Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010630Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nFRIENDS OF JERRY (Playing Two Sets)\n \nFriends of Jerry 
  is a Grateful Dead cover band based out of Philadelphia. With youthful en
@@ -403,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Sacramentum
 DTSTART;VALUE=DATE-TIME:20230821T000000Z
 DTEND;VALUE=DATE-TIME:20230821T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005200Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010630Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n\n \n7PM 
  – Doors8PM – Show\n\n \nSACRAMENTUM\nSacramentum is a melodic black/de
  ath metal band from Göteborg\, Sweden and was formed in 1990. The band wa
@@ -438,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:Model Citizen
 DTSTART;VALUE=DATE-TIME:20230824T000000Z
 DTEND;VALUE=DATE-TIME:20230824T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005202Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010631Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nMODEL CITIZEN\n \nA rock n roll 
  band based in Birmingham\, AL featuring members of Drive-By Truckers\, Dex
@@ -462,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Nick Thune
 DTSTART;VALUE=DATE-TIME:20230825T010000Z
 DTEND;VALUE=DATE-TIME:20230825T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005203Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010632Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nNICK THUNE\nNick Thune\, comedian / actor\, hails from th
  e Great Northwest (Seattle)\, where he spent his early years growing up. N
@@ -480,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:annonXL
 DTSTART;VALUE=DATE-TIME:20230826T010000Z
 DTEND;VALUE=DATE-TIME:20230826T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005204Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010633Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  8PM – Doors\n \n9PM – Show\n \n \n \nANNONXL\n \nannonXL is no strang
  er to chaos\, so it only makes sense that their music reflects nothing but
@@ -503,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:Red Touch Black & Full Bush
 DTSTART;VALUE=DATE-TIME:20230827T010000Z
 DTEND;VALUE=DATE-TIME:20230827T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005205Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010633Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry**Attendees a
  re encouraged to wear masks while not actively drinking*\n\n \n8PM – Doo
  rs9PM – Show\nRED TOUCH BLACK (Record Release)\n \nEmbark with Red Touch
@@ -525,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:The March Violets
 DTSTART;VALUE=DATE-TIME:20230830T000000Z
 DTEND;VALUE=DATE-TIME:20230830T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005207Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010634Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nTHE MARCH VIOLETS\n \n \n
 LOCATION:Johnny Brenda’s
@@ -534,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:Smoking Popes
 DTSTART;VALUE=DATE-TIME:20230901T010000Z
 DTEND;VALUE=DATE-TIME:20230901T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005208Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010635Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nSMOKING POPES\n \n“Ever wonder what a traditional
   lounge singer would sound like backed up by a punk band? The Smoking Pope
@@ -556,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:Your Neighbors
 DTSTART;VALUE=DATE-TIME:20230904T000000Z
 DTEND;VALUE=DATE-TIME:20230904T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005209Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010636Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nYOUR NEIGHBORS\n \nYour Neighbors is headed by an i
  nsecure\, low rent\, drunken has-been with high expectations and a damning
@@ -573,7 +642,7 @@ BEGIN:VEVENT
 SUMMARY:Speedy Ortiz
 DTSTART;VALUE=DATE-TIME:20230906T000000Z
 DTEND;VALUE=DATE-TIME:20230906T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005211Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010637Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nSPEEDY ORTIZ\n \n \n \n“Necessary brattiness” i
  s the motto for Speedy Ortiz’s dauntless new collection of songs\, Twerp
@@ -619,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:Rose City Band
 DTSTART;VALUE=DATE-TIME:20230907T000000Z
 DTEND;VALUE=DATE-TIME:20230907T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005212Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010637Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nROSE CITY BANDRose City Band’s country psychedeli
  c rock evokes the wide-open spaces of the American west and free spirits w
@@ -662,7 +731,7 @@ BEGIN:VEVENT
 SUMMARY:Amy Shark
 DTSTART;VALUE=DATE-TIME:20230910T010000Z
 DTEND;VALUE=DATE-TIME:20230910T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005213Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010638Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nAmy SharkAfter bursting on to the global music scen
  e in 2016\, Amy Shark’s 6x Platinum single ‘Adore’ put her on the ma
@@ -693,7 +762,7 @@ BEGIN:VEVENT
 SUMMARY:Stop Light Observations
 DTSTART;VALUE=DATE-TIME:20230911T000000Z
 DTEND;VALUE=DATE-TIME:20230911T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005215Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010639Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nSTOP LIGHT OBSERVATIONS\n \nStop 
@@ -709,7 +778,7 @@ BEGIN:VEVENT
 SUMMARY:Palm
 DTSTART;VALUE=DATE-TIME:20230913T000000Z
 DTEND;VALUE=DATE-TIME:20230913T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005216Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010640Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nPALMPalm — the Philly-based band of Hugo Stanley 
  (drums)\, Gerasimos Livitsanos (bass)\, Eve Alpert (guitars/vocals)\, and 
@@ -732,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:Protex
 DTSTART;VALUE=DATE-TIME:20230914T000000Z
 DTEND;VALUE=DATE-TIME:20230914T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005218Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010640Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  7PM – Doors\n \n8PM – Show\n \n \n \nPROTEX\n \nFormed in 1978\, Prot
  ex were early pioneers of the Belfast Punk Movement. Signed to the now leg
@@ -769,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:Palm
 DTSTART;VALUE=DATE-TIME:20230915T010000Z
 DTEND;VALUE=DATE-TIME:20230915T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005219Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010641Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nPALMPalm — the Philly-based band of Hugo Stanley 
  (drums)\, Gerasimos Livitsanos (bass)\, Eve Alpert (guitars/vocals)\, and 
@@ -792,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:David Longstreth
 DTSTART;VALUE=DATE-TIME:20230918T000000Z
 DTEND;VALUE=DATE-TIME:20230918T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005220Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010642Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nDAVID LONGSTRETH (of Dirty Projectors)David Longstr
  eth is a Grammy-nominated songwriter\, producer\, and composer\, and is pl
@@ -813,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Pureka
 DTSTART;VALUE=DATE-TIME:20230920T000000Z
 DTEND;VALUE=DATE-TIME:20230920T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005221Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010643Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7PM – Do
  ors8PM – Show\nCHRIS PUREKAIt’s rare for an artist to bridge the divid
  e between critical acclaim and dedicated fan engagement. Chris Pureka is a
@@ -866,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:Teenage Wrist
 DTSTART;VALUE=DATE-TIME:20230921T000000Z
 DTEND;VALUE=DATE-TIME:20230921T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005223Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010643Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7 PM 
  – Doors8 PM – Show\n \nTEENAGE WRISTThe world may seem like a pretty s
  trange place right now\, but if nothing else that’s forced us into reali
@@ -889,7 +958,7 @@ BEGIN:VEVENT
 SUMMARY:Islands
 DTSTART;VALUE=DATE-TIME:20230923T010000Z
 DTEND;VALUE=DATE-TIME:20230923T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005224Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010644Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nISLANDS\n \nIf Islands’ last record\, (2021’s I
  slomania) was a Saturday Night Fever dream\, then the follow up–And That
@@ -915,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:BabyJake
 DTSTART;VALUE=DATE-TIME:20230924T010000Z
 DTEND;VALUE=DATE-TIME:20230924T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005225Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010645Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nBabyJakehttps://www.itsbabyjake.com/\n
 LOCATION:Johnny Brenda’s
@@ -924,7 +993,7 @@ BEGIN:VEVENT
 SUMMARY:Nuovo Testamento
 DTSTART;VALUE=DATE-TIME:20230925T000000Z
 DTEND;VALUE=DATE-TIME:20230925T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005227Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010646Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nNUOVO TESTAMENTO\n \nThe Los Angeles & Bologna-base
  d trio\, Nuovo Testamento\, is lighting up the dance floor with their uniq
@@ -955,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:Ratboys
 DTSTART;VALUE=DATE-TIME:20230927T000000Z
 DTEND;VALUE=DATE-TIME:20230927T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005228Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010647Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nRatboys\n \nRatboys have been recording and releasi
  ng music for over a decade\, but their newest album\, The Window\, marks t
@@ -981,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:Hand Habits
 DTSTART;VALUE=DATE-TIME:20230928T000000Z
 DTEND;VALUE=DATE-TIME:20230928T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005230Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010648Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nHAND HABITS\n \nThere is a moment halfway through H
  and Habits’ Fun House at which musician Meg Duffy asks the question\, 
@@ -1024,7 +1093,7 @@ BEGIN:VEVENT
 SUMMARY:Deeper
 DTSTART;VALUE=DATE-TIME:20230929T010000Z
 DTEND;VALUE=DATE-TIME:20230929T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005231Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010648Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nDEEPERYou can’t get Deeper if you’re standing s
  till. That’s intentional\, says the Chicago quartet’s Nic Gohl. “Doe
@@ -1065,7 +1134,7 @@ BEGIN:VEVENT
 SUMMARY:Bush Tetras
 DTSTART;VALUE=DATE-TIME:20230930T010000Z
 DTEND;VALUE=DATE-TIME:20230930T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005232Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010649Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nBUSH TETRASThe Bush Tetras have made punk music at the fr
  inges for over four decades. Flashes of reggae\, bursts of noise\, guitars
@@ -1088,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:Crooks & Nannies
 DTSTART;VALUE=DATE-TIME:20231001T010000Z
 DTEND;VALUE=DATE-TIME:20231001T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005234Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010650Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nCROOKS & NANNIESCrooks & Nannies make absorbing\, d
  ynamic indie rock that evokes the intimacy and vulnerability of the duo’
@@ -1108,7 +1177,7 @@ BEGIN:VEVENT
 SUMMARY:Mapache
 DTSTART;VALUE=DATE-TIME:20231006T010000Z
 DTEND;VALUE=DATE-TIME:20231006T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005235Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010650Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nMAPACHERoscoe is a road dog. The 14-year-old Boston
   Terrier has been there for the whole ride of Mapache\, Clay Finch and Sam
@@ -1146,7 +1215,7 @@ BEGIN:VEVENT
 SUMMARY:Molly Burch
 DTSTART;VALUE=DATE-TIME:20231008T010000Z
 DTEND;VALUE=DATE-TIME:20231008T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005236Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010651Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  8PM – Doors9PM – Show\n \n \n \nMOLLY BURCH\n\n \nSinger-songwriter M
  olly Burch\, renowned for her captivating vocals and vivid depictions of l
@@ -1181,7 +1250,7 @@ BEGIN:VEVENT
 SUMMARY:CIVIC
 DTSTART;VALUE=DATE-TIME:20231009T000000Z
 DTEND;VALUE=DATE-TIME:20231009T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005238Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010652Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n7
  PM – Doors\n \n8PM – Show\n \n \n \nCIVIC\n \nOne of the most exhilar
@@ -1215,7 +1284,7 @@ BEGIN:VEVENT
 SUMMARY:Tré Burt
 DTSTART;VALUE=DATE-TIME:20231011T000000Z
 DTEND;VALUE=DATE-TIME:20231011T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005238Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010652Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nTRE BURT\n \nTré Burt was standing on a stage in P
  hiladelphia in early 2023 when the latest bit of bad news arrived: His gra
@@ -1252,7 +1321,7 @@ BEGIN:VEVENT
 SUMMARY:CHAI: We The Chai Tour!
 DTSTART;VALUE=DATE-TIME:20231012T000000Z
 DTEND;VALUE=DATE-TIME:20231012T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005239Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010654Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7 PM 
  – Doors8 PM – Show\n \nCHAI: We The Chai Tour! Since breaking out in 
  2018\, CHAI have been associated with explosive joy. At their live shows\,
@@ -1280,7 +1349,7 @@ BEGIN:VEVENT
 SUMMARY:Tigers Jaw
 DTSTART;VALUE=DATE-TIME:20231013T010000Z
 DTEND;VALUE=DATE-TIME:20231013T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005240Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010654Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nTIGERS JAW\n \nI Won’t Care How You Remember Me\, by th
  e Scranton\, Pennsylvania-based band Tigers Jaw\, is an ode to living in t
@@ -1314,7 +1383,7 @@ BEGIN:VEVENT
 SUMMARY:This Is The Kit
 DTSTART;VALUE=DATE-TIME:20231014T010000Z
 DTEND;VALUE=DATE-TIME:20231014T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005242Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010655Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nTHIS IS THE KITIn today’s fast-paced mid-apocalyptic wo
  rld it can feel like a waste of time to speak about time at all. Why dwell
@@ -1346,7 +1415,7 @@ BEGIN:VEVENT
 SUMMARY:Jenny Owen Youngs
 DTSTART;VALUE=DATE-TIME:20231015T010000Z
 DTEND;VALUE=DATE-TIME:20231015T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005243Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010656Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM –
   Doors9PM – Show\n \nJENNY OWEN YOUNGSIn the decade since Jenny Owen You
  ngs last released a full – length album\, she’s toured the world\, co 
@@ -1376,7 +1445,7 @@ BEGIN:VEVENT
 SUMMARY:A Giant Dog
 DTSTART;VALUE=DATE-TIME:20231016T000000Z
 DTEND;VALUE=DATE-TIME:20231016T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005244Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010657Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nA GIANT DOG\n \nThe moment the needle drops on Bite
  \, the new A Giant Dog record\, one’s conception of what an A Giant Dog 
@@ -1406,7 +1475,7 @@ BEGIN:VEVENT
 SUMMARY:Orions Belte
 DTSTART;VALUE=DATE-TIME:20231018T000000Z
 DTEND;VALUE=DATE-TIME:20231018T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005246Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010657Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nORIONS BELTE\n \nThere are some places and moments 
  that tie people together forever\, whether it be a place\, a song or somet
@@ -1436,7 +1505,7 @@ BEGIN:VEVENT
 SUMMARY:Death Bells & Blackwater Holylight
 DTSTART;VALUE=DATE-TIME:20231019T000000Z
 DTEND;VALUE=DATE-TIME:20231019T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005247Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010658Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nDEATH BELLS\n \nAdopting a collaborative approach f
  or the recording of their third album\, Death Bells have returned Between 
@@ -1476,7 +1545,7 @@ BEGIN:VEVENT
 SUMMARY:Pile
 DTSTART;VALUE=DATE-TIME:20231020T010000Z
 DTEND;VALUE=DATE-TIME:20231020T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005248Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010659Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n\n \n8PM 
  – Doors\n \n9PM – Show\nPILE\n \n“I want to do what makes me feel li
  ke a kid: experimenting\, having fun\, and trying to discover new things a
@@ -1505,7 +1574,7 @@ BEGIN:VEVENT
 SUMMARY:Undergang & Pissgrave
 DTSTART;VALUE=DATE-TIME:20231022T010000Z
 DTEND;VALUE=DATE-TIME:20231022T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005249Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010700Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  8PM – Doors\n \n9PM – Show\n \n \n \nUNDERGANG\n \nUNDERGANG was form
  ed in the summer of 2008 in the heart of Copenhagen\, Denmark\, and was th
@@ -1551,7 +1620,7 @@ BEGIN:VEVENT
 SUMMARY:Small Black: 10 Years of Limits of Desire
 DTSTART;VALUE=DATE-TIME:20231023T000000Z
 DTEND;VALUE=DATE-TIME:20231023T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005251Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010700Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nSMALL BLACK: 10 Years of Limits of Desire\n
 LOCATION:Johnny Brenda’s
@@ -1560,7 +1629,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Pug
 DTSTART;VALUE=DATE-TIME:20231029T010000Z
 DTEND;VALUE=DATE-TIME:20231029T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005252Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010701Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nJOE PUG\n \nA singer-songwriter k
@@ -1581,10 +1650,51 @@ DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
 LOCATION:Johnny Brenda’s
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sun June & Runnner
+DTSTART;VALUE=DATE-TIME:20231109T010000Z
+DTEND;VALUE=DATE-TIME:20231109T030000Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010702Z
+DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
+  Doors8PM – Show\n \nSUN JUNEThe five members of Sun June spent their ea
+ rly years spread out across the United States\, from the boonies of the Hu
+ dson Valley to the sprawling outskirts of LA. Having spent their college y
+ ears within the gloomy\, cold winters of the North East\, Laura Colwell an
+ d Stephen Salisbury found themselves in the vibrant melting-pot of inspira
+ tion that is Austin\, Texas. Meeting each other while working on Terrence 
+ Malick’s ‘Song to Song’\, the pair were immediately taken by the cit
+ y’s bustling small clubs and honky-tonk scene\, and the fact that there 
+ was always an instrument within reach\, always someone to play alongside.C
+ oming alive in this newly discovered landscape\, Colwell and Salisbury for
+ med Sun June alongside Michael Bain on lead guitar\, Sarah Schultz on drum
+ s\, and Justin Harris on bass and recorded their debut album live to tape\
+ , releasing it via the city’s esteemed Keeled Scales label in 2018. The 
+ band coined the term ‘regret pop’ to describe the music they made on t
+ he ‘Years’ LP. Though somewhat tongue in cheek\, it made perfect sense
+  ~ the gentle sway of their country leaning pop songs seeped in melancholy
+ \, as if each subtle turn of phrase was always grasping for something just
+  out of reach.\n \nRUNNNERFor the last five years\, Los Angeles-based musi
+ cian Noah Weinman has been Runnner\, and for much of those five years\, Ru
+ nnner has been working. Working on his 2021 collection album\, Always Repe
+ ating\; working as a producer on the Skullcrusher records\; and\, of cours
+ e\, working towards his debut full-length\, Like Dying Stars\, We’re Rea
+ ching Out. From LA to Ohio and the Northeast and back\, he’s been deep i
+ n the craft of sound. This is music made at home\, using anything and ever
+ ything: cell phones and handheld tape recorders\, the hum of an a/c unit\,
+  voicemails from friends. Rubbing cardboard together\, stretching acoustic
+  sounds out to near liquid\, or stacking delay pedals at random to scrambl
+ e the smoothness of a song can make something known into something unknown
+  — something ordinary into something cosmic. These are songs where the e
+ dges have been left deliberately rough because perfection invites predicta
+ bility\, and imperfection imbalances\, and those imbalances ask the listen
+ er to listen again\, and again. And in that listening\, the sound can beco
+ me earnest\, can ask a question\, can hold a conversation.\nGREG FREEMAN\n
+LOCATION:Johnny Brenda’s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Far Caspian
 DTSTART;VALUE=DATE-TIME:20231110T020000Z
 DTEND;VALUE=DATE-TIME:20231110T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005253Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010703Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n \n \n
  8PM – Doors9PM – Show\n \n \n \nFAR CASPIAN\n \nFar Caspian is the pr
  oject of singer\, multi-instrumentalist and producer Joel Johnston. Choosi
@@ -1614,7 +1724,7 @@ BEGIN:VEVENT
 SUMMARY:Pansy Division
 DTSTART;VALUE=DATE-TIME:20231117T020000Z
 DTEND;VALUE=DATE-TIME:20231117T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005255Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010703Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n*Attend
  ees are encouraged to wear masks while not actively drinking*\n \n \n \n8
  PM – Doors\n \n9PM – Show\n \n \n \nPANSY DIVISION\n \nThere have bee
@@ -1636,7 +1746,7 @@ BEGIN:VEVENT
 SUMMARY:Mipso
 DTSTART;VALUE=DATE-TIME:20231120T010000Z
 DTEND;VALUE=DATE-TIME:20231120T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005256Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010704Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM –
   Doors8PM – Show\n \nMIPSO\n
 LOCATION:Johnny Brenda’s
@@ -1645,7 +1755,7 @@ BEGIN:VEVENT
 SUMMARY:The Teeth – Night 1
 DTSTART;VALUE=DATE-TIME:20240113T020000Z
 DTEND;VALUE=DATE-TIME:20240113T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005258Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010705Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nTHE TEETH – NIGHT 1\nAfter abruptly breaking up 15 year
  s ago The Teeth are reuniting for a pair of special shows at Johnny Brenda
@@ -1684,7 +1794,7 @@ BEGIN:VEVENT
 SUMMARY:The Teeth – Night 2
 DTSTART;VALUE=DATE-TIME:20240114T020000Z
 DTEND;VALUE=DATE-TIME:20240114T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005259Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010706Z
 DESCRIPTION:\n \n*All events are 21+ valid ID required for entry*\n8PM –
   Doors9PM – Show\nTHE TEETH – NIGHT 2\nAfter abruptly breaking up 15 y
  ears ago The Teeth are reuniting for a pair of special shows at Johnny Bre
@@ -1723,7 +1833,7 @@ BEGIN:VEVENT
 SUMMARY:The Teeth – Night 3
 DTSTART;VALUE=DATE-TIME:20240120T020000Z
 DTEND;VALUE=DATE-TIME:20240120T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T005300Z
+DTSTAMP;VALUE=DATE-TIME:20230718T010706Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nTHE TEETH – NIGHT 3\nAfter abruptly breaking up 15 year
  s ago The Teeth are reuniting for a pair of special shows at Johnny Brenda
