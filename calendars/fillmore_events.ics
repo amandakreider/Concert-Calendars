@@ -1,19 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Ditch Day Phl
-DTSTART;VALUE=DATE-TIME:20230927T150000Z
-DTEND;VALUE=DATE-TIME:20230927T170000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
-DESCRIPTION:Artists:\n\n\nTickets: https://concerts.livenation.com/ditch-d
- ay-phl-philadelphia-pennsylvania-09-27-2023/event/02005EF58B1F347B\n\nOn s
- ale on 7/21/2023 at 07:00 PM\n\nGenre: Witchstep
-LOCATION:The Fillmore Philadelphia\, Philadelphia\, PA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:So Far Gone (21+ event)
 DTSTART;VALUE=DATE-TIME:20230929T020000Z
 DTEND;VALUE=DATE-TIME:20230929T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nSo Far Gone\n\nTickets: https://concerts.livenation.
  com/so-far-gone-21-event-philadelphia-pennsylvania-09-28-2023/event/02005F
  2F0E4C8F8B\n\nOn sale on 9/20/2023 at 04:00 PM\n\nGenre: Witchstep
@@ -23,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:IDK
 DTSTART;VALUE=DATE-TIME:20231001T000000Z
 DTEND;VALUE=DATE-TIME:20231001T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nIDK\nLute\nLuna Elle\n\nTickets: https://concerts.li
  venation.com/idk-philadelphia-pennsylvania-09-30-2023/event/02005E93F4BD62
  AF\n\nOn sale on 4/27/2023 at 04:00 PM\n\nGenre: French Rap
@@ -33,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:93.3 WMMR Presents: Royal Blood - SKIP THE LINE
 DTSTART;VALUE=DATE-TIME:20231001T010000Z
 DTEND;VALUE=DATE-TIME:20231001T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nRoyal Blood\nBad Nerves\n\nTickets: https://concerts
  .livenation.com/933-wmmr-presents-royal-blood-philadelphia-pennsylvania-09
  -30-2023/event/02005EB6A3BD28A6\n\nOn sale on 6/2/2023 at 02:00 PM\n\nGenr
@@ -44,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Noah Gundersen
 DTSTART;VALUE=DATE-TIME:20231002T000000Z
 DTEND;VALUE=DATE-TIME:20231002T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nNoah Gundersen\nCasey Dubie\n\nTickets: https://conc
  erts.livenation.com/noah-gundersen-philadelphia-pennsylvania-10-01-2023/ev
  ent/02005ECFA8036532\n\nOn sale on 6/23/2023 at 02:00 PM\n\nGenre: Pop
@@ -54,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:RAYE: My 21st Century Blues World Tour
 DTSTART;VALUE=DATE-TIME:20231002T000000Z
 DTEND;VALUE=DATE-TIME:20231002T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nRaye\nAbsolutely\n\nTickets: https://concerts.livena
  tion.com/raye-my-21st-century-blues-world-philadelphia-pennsylvania-10-01-
  2023/event/02005EB6BA2335AE\n\nOn sale on 6/9/2023 at 02:00 PM\n\nGenre: P
@@ -65,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Fit For A King & The Devil Wears Prada: Metalcore Dropouts
 DTSTART;VALUE=DATE-TIME:20231003T230000Z
 DTEND;VALUE=DATE-TIME:20231004T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nThe Devil Wears Prada\nCounterparts\nFit for a King\
  nLandmvrks\n\nTickets: https://concerts.livenation.com/fit-for-a-king-the-
  devil-philadelphia-pennsylvania-10-03-2023/event/02005EA3937924B3\n\nOn sa
@@ -76,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Underscores
 DTSTART;VALUE=DATE-TIME:20231004T000000Z
 DTEND;VALUE=DATE-TIME:20231004T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nUnderscores\ntorr\n\nTickets: https://concerts.liven
  ation.com/underscores-philadelphia-pennsylvania-10-03-2023/event/02005EB89
  FB53537\n\nOn sale on 6/9/2023 at 02:00 PM\n\nGenre: Pop
@@ -86,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:NoCap: The BirdNest Tour
 DTSTART;VALUE=DATE-TIME:20231006T010000Z
 DTEND;VALUE=DATE-TIME:20231006T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nLil Poppa\nNoCap\nLG Malique\nITS HAB\n\nTickets: ht
  tps://concerts.livenation.com/nocap-the-birdnest-tour-philadelphia-pennsyl
  vania-10-05-2023/event/02005EE7BF5154AB\n\nOn sale on 7/21/2023 at 04:00 P
@@ -97,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Small Town Murder
 DTSTART;VALUE=DATE-TIME:20231007T000000Z
 DTEND;VALUE=DATE-TIME:20231007T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nSmall Town Murder Podcast\n\nTickets: https://concer
  ts.livenation.com/small-town-murder-philadelphia-pennsylvania-10-06-2023/e
  vent/02005E55CF2E57C8\n\nOn sale on 3/3/2023 at 03:00 PM\n\nGenre: Comedy
@@ -105,9 +95,9 @@ LOCATION:The Fillmore Philadelphia\, Philadelphia\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eric Nam
-DTSTART;VALUE=DATE-TIME:20231007T230000Z
-DTEND;VALUE=DATE-TIME:20231008T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTART;VALUE=DATE-TIME:20231007T233000Z
+DTEND;VALUE=DATE-TIME:20231008T013000Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAlexander Stewart\nEric Nam\n\nTickets: https://conc
  erts.livenation.com/eric-nam-philadelphia-pennsylvania-10-07-2023/event/02
  005ECD6C5F15FC\n\nOn sale on 6/30/2023 at 02:00 PM\n\nGenre: Volleyball
@@ -117,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Miya Folick - The Roach Tour
 DTSTART;VALUE=DATE-TIME:20231009T000000Z
 DTEND;VALUE=DATE-TIME:20231009T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nMiya Folick\nBabebee\n\nTickets: https://concerts.li
  venation.com/miya-folick-the-roach-tour-philadelphia-pennsylvania-10-08-20
  23/event/02005EB0F04F7A8F\n\nOn sale on 6/2/2023 at 02:00 PM\n\nGenre: Ind
@@ -128,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Maisie Peters: The Good Witch Comes To North America
 DTSTART;VALUE=DATE-TIME:20231011T000000Z
 DTEND;VALUE=DATE-TIME:20231011T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\n\n\nTickets: https://concerts.livenation.com/event/0
  2005E77BBC44383?f_tmol_prefix=true&f_ras_manifest_attributes=true\n\nOn sa
  le on 3/31/2023 at 10:00 AM\n\nGenre: Volleyball
@@ -138,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Russell Howard Live
 DTSTART;VALUE=DATE-TIME:20231011T233000Z
 DTEND;VALUE=DATE-TIME:20231012T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nRussell Howard\n\nTickets: https://concerts.livenati
  on.com/russell-howard-live-philadelphia-pennsylvania-10-11-2023/event/0200
  5EA594D64021\n\nOn sale on 5/12/2023 at 02:00 PM\n\nGenre: Comedy
@@ -148,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:The Mary Wallopers
 DTSTART;VALUE=DATE-TIME:20231012T000000Z
 DTEND;VALUE=DATE-TIME:20231012T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nThe Mary Wallopers\nSam Shackleton\n\nTickets: https
  ://concerts.livenation.com/the-mary-wallopers-philadelphia-pennsylvania-10
  -11-2023/event/02005E9BE8E46E5D\n\nOn sale on 5/5/2023 at 02:00 PM\n\nGenr
@@ -159,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Chicks in the Office Humble Fans Tour
 DTSTART;VALUE=DATE-TIME:20231012T233000Z
 DTEND;VALUE=DATE-TIME:20231013T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nChicks in the Office\n\nTickets: https://concerts.li
  venation.com/chicks-in-the-office-humble-fans-philadelphia-pennsylvania-10
  -12-2023/event/02005F27E29D60F5\n\nOn sale on 9/12/2023 at 04:00 PM\n\nGen
@@ -170,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Terror Reid Presents: House Of Terror
 DTSTART;VALUE=DATE-TIME:20231013T000000Z
 DTEND;VALUE=DATE-TIME:20231013T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nTerror Reid\nZotiyac\nYvncc\nNOGOOD\n\nTickets: http
  s://concerts.livenation.com/terror-reid-presents-house-of-terror-philadelp
  hia-pennsylvania-10-12-2023/event/02005EB8E2966568\n\nOn sale on 6/2/2023 
@@ -181,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Trousdale: Catching A Ride Tour
 DTSTART;VALUE=DATE-TIME:20231014T000000Z
 DTEND;VALUE=DATE-TIME:20231014T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAnna Vaus\nTrousdale\n\nTickets: https://concerts.li
  venation.com/trousdale-catching-a-ride-tour-philadelphia-pennsylvania-10-1
  3-2023/event/02005ECDBDB962A6\n\nOn sale on 6/23/2023 at 02:00 PM\n\nGenre
@@ -192,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:The Good Life
 DTSTART;VALUE=DATE-TIME:20231015T000000Z
 DTEND;VALUE=DATE-TIME:20231015T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nGood Life\nDoom Flower\n\nTickets: https://concerts.
  livenation.com/the-good-life-philadelphia-pennsylvania-10-14-2023/event/02
  005ED6E62577A6\n\nOn sale on 6/28/2023 at 02:00 PM\n\nGenre: Alternative R
@@ -203,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Chappell Roan
 DTSTART;VALUE=DATE-TIME:20231015T010000Z
 DTEND;VALUE=DATE-TIME:20231015T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nChappell Roan\n\nTickets: https://concerts.livenatio
  n.com/chappell-roan-philadelphia-pennsylvania-10-14-2023/event/02005E9B00D
  17CFF\n\nOn sale on 5/18/2023 at 02:00 PM\n\nGenre: Volleyball
@@ -213,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Veeze
 DTSTART;VALUE=DATE-TIME:20231016T000000Z
 DTEND;VALUE=DATE-TIME:20231016T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nVeeze\n\nTickets: https://concerts.livenation.com/ve
  eze-philadelphia-pennsylvania-10-15-2023/event/02005EEBE48080FE\n\nOn sale
   on 7/14/2023 at 04:00 PM\n\nGenre: French Rap
@@ -223,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Omar Apollo
 DTSTART;VALUE=DATE-TIME:20231016T000000Z
 DTEND;VALUE=DATE-TIME:20231016T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nOmar Apollo\n\nTickets: https://concerts.livenation.
  com/omar-apollo-philadelphia-pennsylvania-10-15-2023/event/02005F2F0574899
  E\n\nOn sale on 9/22/2023 at 02:00 PM\n\nGenre: R&B
@@ -233,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Why Is This Happening? The Chris Hayes Podcast 2023 Live Tour
 DTSTART;VALUE=DATE-TIME:20231016T233000Z
 DTEND;VALUE=DATE-TIME:20231017T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nChris Hayes\nNaomi Klein\n\nTickets: https://concert
  s.livenation.com/why-is-this-happening-the-chris-philadelphia-pennsylvania
  -10-16-2023/event/02005F04A8A35861\n\nOn sale on 8/24/2023 at 10:00 PM\n\n
@@ -244,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Sorcha Richardson
 DTSTART;VALUE=DATE-TIME:20231017T000000Z
 DTEND;VALUE=DATE-TIME:20231017T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nSorcha Richardson\n\nTickets: https://concerts.liven
  ation.com/sorcha-richardson-philadelphia-pennsylvania-10-16-2023/event/020
  05ED6DA306D28\n\nOn sale on 6/28/2023 at 03:00 PM\n\nGenre: Pop
@@ -254,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:BETWEEN FRIENDS: I Love My Girl\, She's My Boy Tour
 DTSTART;VALUE=DATE-TIME:20231018T000000Z
 DTEND;VALUE=DATE-TIME:20231018T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBlaketheman1000\nBetween Friends\n\nTickets: https:/
  /concerts.livenation.com/between-friends-i-love-my-girl-philadelphia-penns
  ylvania-10-17-2023/event/02005EF3A490587E\n\nOn sale on 7/28/2023 at 02:00
@@ -265,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Christine and the Queens Presents Paranoïa Angels True Love
 DTSTART;VALUE=DATE-TIME:20231018T000000Z
 DTEND;VALUE=DATE-TIME:20231018T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nChristine and the Queens\n\nTickets: https://concert
  s.livenation.com/christine-and-the-queens-presents-paranoia-philadelphia-p
  ennsylvania-10-17-2023/event/02005EB7A4AF28DE\n\nOn sale on 6/2/2023 at 02
@@ -276,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:HAARPER w/ Sxmpra\, Sinizter
 DTSTART;VALUE=DATE-TIME:20231018T230000Z
 DTEND;VALUE=DATE-TIME:20231019T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nSinizter\nHaarper\nSXMPRA\n\nTickets: https://concer
  ts.livenation.com/haarper-w-sxmpra-sinizter-philadelphia-pennsylvania-10-1
  8-2023/event/02005EE6D19C5DA4\n\nOn sale on 7/14/2023 at 02:00 PM\n\nGenre
@@ -287,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Michelle Wolf: It's Great to Be Here
 DTSTART;VALUE=DATE-TIME:20231019T230000Z
 DTEND;VALUE=DATE-TIME:20231020T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nMichelle Wolf\n\nTickets: https://concerts.livenatio
  n.com/michelle-wolf-its-great-to-be-philadelphia-pennsylvania-10-19-2023/e
  vent/02005E960AA25B5B\n\nOn sale on 5/5/2023 at 02:00 PM\n\nGenre: Comedy
@@ -297,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Frenship  W/ Special Guests
 DTSTART;VALUE=DATE-TIME:20231020T000000Z
 DTEND;VALUE=DATE-TIME:20231020T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBizzy\nFRENSHIP\n\nTickets: https://concerts.livenat
  ion.com/frenship-w-special-guests-philadelphia-pennsylvania-10-19-2023/eve
  nt/02005ED0BE3277FB\n\nOn sale on 6/23/2023 at 01:00 PM\n\nGenre: Pop
@@ -307,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Jared Freid: The Family Business Tour *SOLD OUT*
 DTSTART;VALUE=DATE-TIME:20231020T233000Z
 DTEND;VALUE=DATE-TIME:20231021T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nJared Freid\n\nTickets: https://concerts.livenation.
  com/jared-freid-the-family-business-tour-philadelphia-pennsylvania-10-20-2
  023/event/02005ED0A9B95F90\n\nOn sale on 7/14/2023 at 02:00 PM\n\nGenre: C
@@ -318,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Palehound - 'Eye On The Bat' Tour
 DTSTART;VALUE=DATE-TIME:20231021T000000Z
 DTEND;VALUE=DATE-TIME:20231021T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nPalehound\nEmpath\n\nTickets: https://concerts.liven
  ation.com/palehound-eye-on-the-bat-tour-philadelphia-pennsylvania-10-20-20
  23/event/02005EB9AFA43037\n\nOn sale on 6/2/2023 at 02:00 PM\n\nGenre: Alt
@@ -329,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Jared Freid: The Family Business Tour
 DTSTART;VALUE=DATE-TIME:20231021T020000Z
 DTEND;VALUE=DATE-TIME:20231021T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nJared Freid\n\nTickets: https://concerts.livenation.
  com/jared-freid-the-family-business-tour-philadelphia-pennsylvania-10-20-2
  023/event/02005F1FF2098C36\n\nOn sale on 9/8/2023 at 02:00 PM\n\nGenre: Co
@@ -340,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:Rawayana
 DTSTART;VALUE=DATE-TIME:20231022T000000Z
 DTEND;VALUE=DATE-TIME:20231022T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nRawayana\n\nTickets: https://concerts.livenation.com
  /rawayana-philadelphia-pennsylvania-10-21-2023/event/02005EB897332B6F\n\nO
  n sale on 6/2/2023 at 02:00 PM\n\nGenre: Pop
@@ -350,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:Noname
 DTSTART;VALUE=DATE-TIME:20231023T000000Z
 DTEND;VALUE=DATE-TIME:20231023T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nNoname\n\nTickets: https://concerts.livenation.com/n
  oname-philadelphia-pennsylvania-10-22-2023/event/02005F128AB31E67\n\nOn sa
  le on 8/25/2023 at 02:00 PM\n\nGenre: French Rap
@@ -360,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Eddie Zuko
 DTSTART;VALUE=DATE-TIME:20231024T000000Z
 DTEND;VALUE=DATE-TIME:20231024T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nEddie Zuko\nVel the Wonder\n\nTickets: https://conce
  rts.livenation.com/eddie-zuko-philadelphia-pennsylvania-10-23-2023/event/0
  2005EAAC6117E91\n\nOn sale on 5/19/2023 at 02:00 PM\n\nGenre: French Rap
@@ -370,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Aidan Bissett: Supernova Tour
 DTSTART;VALUE=DATE-TIME:20231025T000000Z
 DTEND;VALUE=DATE-TIME:20231025T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAnna Shoemaker\nAiden Bissett\n\nTickets: https://co
  ncerts.livenation.com/aidan-bissett-supernova-tour-philadelphia-pennsylvan
  ia-10-24-2023/event/02005EF391F73425\n\nOn sale on 7/28/2023 at 02:00 PM\n
@@ -381,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Reneé Rapp - Snow Hard Feelings Tour
 DTSTART;VALUE=DATE-TIME:20231025T000000Z
 DTEND;VALUE=DATE-TIME:20231025T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAlexander 23\nRene Rapp\nTowa Bird\n\nTickets: https
  ://concerts.livenation.com/renee-rapp-snow-hard-feelings-tour-philadelphia
  -pennsylvania-10-24-2023/event/02005ECC0AFF7EFA\n\nOn sale on 6/23/2023 at
@@ -392,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Thomas Day
 DTSTART;VALUE=DATE-TIME:20231025T000000Z
 DTEND;VALUE=DATE-TIME:20231025T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nThomas Day\n\nTickets: https://concerts.livenation.c
  om/thomas-day-philadelphia-pennsylvania-10-24-2023/event/02005F35FD60708E\
  n\nOn sale on 9/27/2023 at 04:00 PM\n\nGenre: Pop
@@ -402,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:midwxst
 DTSTART;VALUE=DATE-TIME:20231026T000000Z
 DTEND;VALUE=DATE-TIME:20231026T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nMidwxst\nCaspar\nCasper Sage\n\nTickets: https://con
  certs.livenation.com/midwxst-philadelphia-pennsylvania-10-25-2023/event/02
  005F02AB805C6B\n\nOn sale on 8/11/2023 at 02:00 PM\n\nGenre: Pop
@@ -413,7 +403,7 @@ SUMMARY:An Evening With Les Claypool's Fearless Flying Frog Brigade - SKIP
   THE LINE
 DTSTART;VALUE=DATE-TIME:20231026T000000Z
 DTEND;VALUE=DATE-TIME:20231026T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nLes Claypool's Frog Brigade\n\nTickets: https://conc
  erts.livenation.com/an-evening-with-les-claypools-fearless-philadelphia-pe
  nnsylvania-10-25-2023/event/02005EDCF11A7E16\n\nOn sale on 7/14/2023 at 02
@@ -424,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Charlotte Cardin
 DTSTART;VALUE=DATE-TIME:20231029T000000Z
 DTEND;VALUE=DATE-TIME:20231029T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nNew West\nCharlotte Cardin\n\nTickets: https://conce
  rts.livenation.com/charlotte-cardin-philadelphia-pennsylvania-10-28-2023/e
  vent/02005EA1D9586118\n\nOn sale on 5/12/2023 at 02:00 PM\n\nGenre: Pop
@@ -434,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Big Gigantic - SKIP THE LINE
 DTSTART;VALUE=DATE-TIME:20231029T003000Z
 DTEND;VALUE=DATE-TIME:20231029T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBig Gigantic\nLevity\n\nTickets: https://concerts.li
  venation.com/big-gigantic-philadelphia-pennsylvania-10-28-2023/event/02005
  F0988BE1973\n\nOn sale on 8/18/2023 at 02:00 PM\n\nGenre: Witchstep
@@ -444,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Tyla Yaweh - WØRLD FULL ØF RAGE TOUR
 DTSTART;VALUE=DATE-TIME:20231030T000000Z
 DTEND;VALUE=DATE-TIME:20231030T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nTyla Yaweh\n\nTickets: https://concerts.livenation.c
  om/tyla-yaweh-wrld-full-f-rage-philadelphia-pennsylvania-10-29-2023/event/
  02005F0ECDA044F0\n\nOn sale on 8/18/2023 at 02:00 PM\n\nGenre: French Rap
@@ -455,7 +445,7 @@ SUMMARY:Boys Like Girls - The Speaking Our Language Tour presented by Emo
  Nite
 DTSTART;VALUE=DATE-TIME:20231030T230000Z
 DTEND;VALUE=DATE-TIME:20231031T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBoys Like Girls\nThe Summer Set\nState Champs\nLolo\
  n\nTickets: https://concerts.livenation.com/boys-like-girls-the-speaking-o
  ur-philadelphia-pennsylvania-10-30-2023/event/02005EB2D4675F82\n\nOn sale 
@@ -466,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Hojean
 DTSTART;VALUE=DATE-TIME:20231031T000000Z
 DTEND;VALUE=DATE-TIME:20231031T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nHojean\nJereena Montemayor\n\nTickets: https://conce
  rts.livenation.com/hojean-philadelphia-pennsylvania-10-30-2023/event/02005
  EC7A4362C83\n\nOn sale on 6/16/2023 at 02:00 PM\n\nGenre: R&B
@@ -476,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:Slow Pulp
 DTSTART;VALUE=DATE-TIME:20231101T000000Z
 DTEND;VALUE=DATE-TIME:20231101T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nSlow Pulp\nBabehoven\n\nTickets: https://concerts.li
  venation.com/slow-pulp-philadelphia-pennsylvania-10-31-2023/event/02005ECF
  9CB2598D\n\nOn sale on 6/30/2023 at 02:00 PM\n\nGenre: Pop
@@ -486,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes: Japanese Breakfast
 DTSTART;VALUE=DATE-TIME:20231101T000000Z
 DTEND;VALUE=DATE-TIME:20231101T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nJapanese Breakfast\nThe Original Crooks and Nannies\
  n\nTickets: https://concerts.livenation.com/wxpn-welcomes-japanese-breakfa
  st-philadelphia-pennsylvania-10-31-2023/event/02005EE6E8247546\n\nOn sale 
@@ -497,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Krooked Kings
 DTSTART;VALUE=DATE-TIME:20231102T000000Z
 DTEND;VALUE=DATE-TIME:20231102T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nToledo\nKrooked Kings\n\nTickets: https://concerts.l
  ivenation.com/krooked-kings-philadelphia-pennsylvania-11-01-2023/event/020
  05EA4D95D70E6\n\nOn sale on 5/12/2023 at 02:00 PM\n\nGenre: Alternative Ro
@@ -508,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:Noah Reid
 DTSTART;VALUE=DATE-TIME:20231102T000000Z
 DTEND;VALUE=DATE-TIME:20231102T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nNoah Reid\nClerel\n\nTickets: https://concerts.liven
  ation.com/noah-reid-philadelphia-pennsylvania-11-01-2023/event/02005E931D8
  6785A\n\nOn sale on 4/28/2023 at 02:00 PM\n\nGenre: Pop
@@ -518,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Have Mercy
 DTSTART;VALUE=DATE-TIME:20231103T000000Z
 DTEND;VALUE=DATE-TIME:20231103T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nHave Mercy\nA Will Away\nValleyheart\nSleep Cycle\n\
  nTickets: https://concerts.livenation.com/have-mercy-philadelphia-pennsylv
  ania-11-02-2023/event/02005F0BC5666FBB\n\nOn sale on 8/17/2023 at 02:00 PM
@@ -529,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Flo Milli - Thanks For Coming Here\, Ho - Tour W/ Maiya The Don
 DTSTART;VALUE=DATE-TIME:20231104T000000Z
 DTEND;VALUE=DATE-TIME:20231104T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nFlo Milli\nMaiya the Don\n\nTickets: https://concert
  s.livenation.com/flo-milli-thanks-for-coming-here-philadelphia-pennsylvani
  a-11-03-2023/event/02005F1DDC7E78FF\n\nOn sale on 9/8/2023 at 02:00 PM\n\n
@@ -540,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Ritt Momney
 DTSTART;VALUE=DATE-TIME:20231104T000000Z
 DTEND;VALUE=DATE-TIME:20231104T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nRitt Momney\ngirlpuppy\n\nTickets: https://concerts.
  livenation.com/ritt-momney-philadelphia-pennsylvania-11-03-2023/event/0200
  5EEED7747B35\n\nOn sale on 7/21/2023 at 02:00 PM\n\nGenre: Pop
@@ -550,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Addison Grace
 DTSTART;VALUE=DATE-TIME:20231104T233000Z
 DTEND;VALUE=DATE-TIME:20231105T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAddison Grace\nMadilyn Mei\nBrye\n\nTickets: https:/
  /concerts.livenation.com/addison-grace-philadelphia-pennsylvania-11-04-202
  3/event/02005EEEF64E8DE1\n\nOn sale on 7/28/2023 at 04:00 PM\n\nGenre: Pop
@@ -560,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:Jeremy Zucker: is nothing sacred? The Tour
 DTSTART;VALUE=DATE-TIME:20231104T233000Z
 DTEND;VALUE=DATE-TIME:20231105T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nJeremy Zucker\n\nTickets: https://concerts.livenatio
  n.com/jeremy-zucker-is-nothing-sacred-the-philadelphia-pennsylvania-11-04-
  2023/event/02005EB98B061AFB\n\nOn sale on 6/9/2023 at 02:00 PM\n\nGenre: P
@@ -571,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:AKON Super Fan Tour
 DTSTART;VALUE=DATE-TIME:20231106T003000Z
 DTEND;VALUE=DATE-TIME:20231106T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAkon\n\nTickets: https://concerts.livenation.com/ako
  n-super-fan-tour-philadelphia-pennsylvania-11-05-2023/event/02005F28C65350
  E7\n\nOn sale on 9/15/2023 at 02:00 PM\n\nGenre: R&B
@@ -581,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:grentperez: growing up? tour 2023
 DTSTART;VALUE=DATE-TIME:20231106T010000Z
 DTEND;VALUE=DATE-TIME:20231106T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nFIG\ngrentperez\n\nTickets: https://concerts.livenat
  ion.com/grentperez-growing-up-tour-2023-philadelphia-pennsylvania-11-05-20
  23/event/02005F01010A8603\n\nOn sale on 8/11/2023 at 02:00 PM\n\nGenre: Po
@@ -592,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:NETTA
 DTSTART;VALUE=DATE-TIME:20231108T010000Z
 DTEND;VALUE=DATE-TIME:20231108T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nLoren Gray\nNetta\n\nTickets: https://concerts.liven
  ation.com/netta-philadelphia-pennsylvania-11-07-2023/event/02005EAFF896621
  9\n\nOn sale on 5/19/2023 at 02:00 PM\n\nGenre: Pop
@@ -602,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:GAYLE - scared but trying tour
 DTSTART;VALUE=DATE-TIME:20231109T010000Z
 DTEND;VALUE=DATE-TIME:20231109T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nDylan\nGayle\n\nTickets: https://concerts.livenation
  .com/gayle-scared-but-trying-tour-philadelphia-pennsylvania-11-08-2023/eve
  nt/02005EC7D9015A39\n\nOn sale on 6/16/2023 at 02:00 PM\n\nGenre: Pop
@@ -612,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Under The Rug
 DTSTART;VALUE=DATE-TIME:20231110T010000Z
 DTEND;VALUE=DATE-TIME:20231110T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nUnder The Rug\n\nTickets: https://concerts.livenatio
  n.com/under-the-rug-philadelphia-pennsylvania-11-09-2023/event/02005EE7492
  EA711\n\nOn sale on 7/11/2023 at 04:00 PM\n\nGenre: Alternative Rock
@@ -622,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:A R I Z O N A - LIVE FOR A NIGHT
 DTSTART;VALUE=DATE-TIME:20231111T010000Z
 DTEND;VALUE=DATE-TIME:20231111T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nA R I Z O N A\nFly By Midnight\n\nTickets: https://c
  oncerts.livenation.com/a-r-i-z-o-n-philadelphia-pennsylvania-11-10-2023/ev
  ent/02005ECDD291783B\n\nOn sale on 6/23/2023 at 02:00 PM\n\nGenre: Pop
@@ -632,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:Geese
 DTSTART;VALUE=DATE-TIME:20231111T010000Z
 DTEND;VALUE=DATE-TIME:20231111T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nWinter\nGeese\n\nTickets: https://concerts.livenatio
  n.com/geese-philadelphia-pennsylvania-11-10-2023/event/02005E9CF78B7802\n\
  nOn sale on 5/12/2023 at 02:00 PM\n\nGenre: Pop
@@ -642,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Warren Zeiders
 DTSTART;VALUE=DATE-TIME:20231112T010000Z
 DTEND;VALUE=DATE-TIME:20231112T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nA Thousand Horses\nWarren Zeiders\n\nTickets: https:
  //concerts.livenation.com/warren-zeiders-philadelphia-pennsylvania-11-11-2
  023/event/02005E93189E752A\n\nOn sale on 4/28/2023 at 02:00 PM\n\nGenre: C
@@ -653,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:Eem Triplin - Still Pretty North American Tour
 DTSTART;VALUE=DATE-TIME:20231112T010000Z
 DTEND;VALUE=DATE-TIME:20231112T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nEem Triplin\nWolfacejoeyy\n\nTickets: https://concer
  ts.livenation.com/eem-triplin-still-pretty-north-american-philadelphia-pen
  nsylvania-11-11-2023/event/02005F30FE189FE8\n\nOn sale on 9/20/2023 at 02:
@@ -664,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:modernlove.
 DTSTART;VALUE=DATE-TIME:20231113T010000Z
 DTEND;VALUE=DATE-TIME:20231113T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nModernlove\nYoste\n\nTickets: https://concerts.liven
  ation.com/modernlove-philadelphia-pennsylvania-11-12-2023/event/02005EAF02
  927012\n\nOn sale on 5/19/2023 at 04:00 PM\n\nGenre: Pop
@@ -674,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:Half Moon Run
 DTSTART;VALUE=DATE-TIME:20231115T010000Z
 DTEND;VALUE=DATE-TIME:20231115T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nHalf Moon Run\nLe Ren\n\nTickets: https://concerts.l
  ivenation.com/half-moon-run-philadelphia-pennsylvania-11-14-2023/event/020
  05E629C154453\n\nOn sale on 3/10/2023 at 03:00 PM\n\nGenre: Alternative Ro
@@ -685,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:Teddy Swims | Ive Tried Everything But Therapy Tour
 DTSTART;VALUE=DATE-TIME:20231116T010000Z
 DTEND;VALUE=DATE-TIME:20231116T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nElley Duh\nTeddy Swims\n\nTickets: https://concerts.
  livenation.com/teddy-swims-ive-tried-everything-but-philadelphia-pennsylva
  nia-11-15-2023/event/02005EB2F78780B5\n\nOn sale on 6/9/2023 at 02:00 PM\n
@@ -696,7 +686,7 @@ BEGIN:VEVENT
 SUMMARY:6LACK - Since I Have A Lover Tour
 DTSTART;VALUE=DATE-TIME:20231117T010000Z
 DTEND;VALUE=DATE-TIME:20231117T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\n6LACK\nQuin\nJordan Ward\n\nTickets: https://concert
  s.livenation.com/6lack-since-i-have-a-lover-philadelphia-pennsylvania-11-1
  6-2023/event/02005E9331377E06\n\nOn sale on 4/28/2023 at 02:00 PM\n\nGenre
@@ -707,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Sultan + Shepard present Forever\, Now Fall Tour
 DTSTART;VALUE=DATE-TIME:20231117T020000Z
 DTEND;VALUE=DATE-TIME:20231117T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nSultan + Shepard\n\nTickets: https://concerts.livena
  tion.com/sultan-shepard-present-forever-now-fall-philadelphia-pennsylvania
  -11-16-2023/event/02005EF6FF46B371\n\nOn sale on 7/26/2023 at 05:00 PM\n\n
@@ -718,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:Hot Mulligan
 DTSTART;VALUE=DATE-TIME:20231118T000000Z
 DTEND;VALUE=DATE-TIME:20231118T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nHot Mulligan\nHeart Attack Man\nSpanish Love Songs\n
  Ben Quad\n\nTickets: https://concerts.livenation.com/hot-mulligan-philadel
  phia-pennsylvania-11-17-2023/event/02005EF4D56280CB\n\nOn sale on 8/4/2023
@@ -729,7 +719,7 @@ BEGIN:VEVENT
 SUMMARY:Couch
 DTSTART;VALUE=DATE-TIME:20231118T010000Z
 DTEND;VALUE=DATE-TIME:20231118T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nCouch\nAlisa Amador\n\nTickets: https://concerts.liv
  enation.com/couch-philadelphia-pennsylvania-11-17-2023/event/02005EEAD7EE6
  CAF\n\nOn sale on 7/21/2023 at 04:00 PM\n\nGenre: Pop
@@ -739,7 +729,7 @@ BEGIN:VEVENT
 SUMMARY:Slaughter Beach\, Dog
 DTSTART;VALUE=DATE-TIME:20231119T010000Z
 DTEND;VALUE=DATE-TIME:20231119T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nSlaughter Beach\, Dog\nBonny Doon\n\nTickets: https:
  //concerts.livenation.com/slaughter-beach-dog-philadelphia-pennsylvania-11
  -18-2023/event/02005EC90F53A8B6\n\nOn sale on 6/16/2023 at 02:00 PM\n\nGen
@@ -750,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes: An Evening With Mike Doughty And Ghost Of Vroom
 DTSTART;VALUE=DATE-TIME:20231120T000000Z
 DTEND;VALUE=DATE-TIME:20231120T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nMike Doughty\n\nTickets: https://concerts.livenation
  .com/wxpn-welcomes-an-evening-with-mike-philadelphia-pennsylvania-11-19-20
  23/event/02005F079E6F1C35\n\nOn sale on 8/18/2023 at 04:00 PM\n\nGenre: Al
@@ -761,7 +751,7 @@ BEGIN:VEVENT
 SUMMARY:Bob Dylan: Rough And Rowdy Ways Tour
 DTSTART;VALUE=DATE-TIME:20231120T010000Z
 DTEND;VALUE=DATE-TIME:20231120T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBob Dylan\n\nTickets: https://concerts.livenation.co
  m/bob-dylan-rough-and-rowdy-ways-philadelphia-pennsylvania-11-19-2023/even
  t/02005F25B23B2D62\n\nOn sale on 9/15/2023 at 02:00 PM\n\nGenre: Pop
@@ -771,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:Arin Ray - Phases Tour
 DTSTART;VALUE=DATE-TIME:20231121T010000Z
 DTEND;VALUE=DATE-TIME:20231121T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nArin Ray\n\nTickets: https://concerts.livenation.com
  /arin-ray-phases-tour-philadelphia-pennsylvania-11-20-2023/event/02005F15E
  5436920\n\nOn sale on 9/1/2023 at 02:00 PM\n\nGenre: Soul
@@ -781,7 +771,7 @@ BEGIN:VEVENT
 SUMMARY:Cochise
 DTSTART;VALUE=DATE-TIME:20231122T010000Z
 DTEND;VALUE=DATE-TIME:20231122T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nCochise\n\nTickets: https://concerts.livenation.com/
  cochise-philadelphia-pennsylvania-11-21-2023/event/02005F25ABEB2BDC\n\nOn 
  sale on 9/8/2023 at 03:00 PM\n\nGenre: Pop
@@ -791,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:Andrew McMahon In The Wilderness - New Friends Tour 2023
 DTSTART;VALUE=DATE-TIME:20231123T000000Z
 DTEND;VALUE=DATE-TIME:20231123T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAndrew McMahon in the Wilderness\nWildermiss\nMichig
  ander\n\nTickets: https://concerts.livenation.com/andrew-mcmahon-in-the-wi
  lderness-new-philadelphia-pennsylvania-11-22-2023/event/02005EC6C9004518\n
@@ -802,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:Effin Presents: Cheap Thrills Tour
 DTSTART;VALUE=DATE-TIME:20231125T030000Z
 DTEND;VALUE=DATE-TIME:20231125T050000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nEffin\nOkayJakee\n\nTickets: https://concerts.livena
  tion.com/effin-presents-cheap-thrills-tour-philadelphia-pennsylvania-11-24
  -2023/event/02005EEDDD067B0E\n\nOn sale on 7/20/2023 at 02:00 PM\n\nGenre:
@@ -813,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:Ama Lou
 DTSTART;VALUE=DATE-TIME:20231126T010000Z
 DTEND;VALUE=DATE-TIME:20231126T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAma Lou\n\nTickets: https://concerts.livenation.com/
  ama-lou-philadelphia-pennsylvania-11-25-2023/event/02005EF5F2BBA9F1\n\nOn 
  sale on 9/8/2023 at 02:00 PM\n\nGenre: Witchstep
@@ -823,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:This Wild Life
 DTSTART;VALUE=DATE-TIME:20231127T000000Z
 DTEND;VALUE=DATE-TIME:20231127T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nThis Wild Life\nBroadside\nNot My Weekend\nWorry Clu
  b\n\nTickets: https://concerts.livenation.com/this-wild-life-philadelphia-
  pennsylvania-11-26-2023/event/02005F16F2177F62\n\nOn sale on 8/30/2023 at 
@@ -834,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:Ramy Youssef: More Feelings
 DTSTART;VALUE=DATE-TIME:20231201T000000Z
 DTEND;VALUE=DATE-TIME:20231201T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nRamy Youssef\n\nTickets: https://concerts.livenation
  .com/ramy-youssef-more-feelings-philadelphia-pennsylvania-11-30-2023/event
  /02005F258BFA1AC2\n\nOn sale on 9/8/2023 at 02:00 PM\n\nGenre: Comedy
@@ -844,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:The Moss
 DTSTART;VALUE=DATE-TIME:20231201T010000Z
 DTEND;VALUE=DATE-TIME:20231201T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nThe Moss\nfuture.exboyfriend\n\nTickets: https://con
  certs.livenation.com/the-moss-philadelphia-pennsylvania-11-30-2023/event/0
  2005EABAC6D5947\n\nOn sale on 5/19/2023 at 02:00 PM\n\nGenre: Alternative 
@@ -855,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:Jazmin Bean - The Terrified Tour
 DTSTART;VALUE=DATE-TIME:20231202T010000Z
 DTEND;VALUE=DATE-TIME:20231202T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nLucy Loone\nJazmin Bean\n\nTickets: https://concerts
  .livenation.com/jazmin-bean-the-terrified-tour-philadelphia-pennsylvania-1
  2-01-2023/event/02005F02D5458862\n\nOn sale on 8/11/2023 at 02:00 PM\n\nGe
@@ -866,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:Flatbush Zombies: BetterOffDead 10 Year Anniversary
 DTSTART;VALUE=DATE-TIME:20231202T020000Z
 DTEND;VALUE=DATE-TIME:20231202T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nFlatbush Zombies\nQuadie Diesel\n\nTickets: https://
  concerts.livenation.com/flatbush-zombies-betteroffdead-10-year-anniversary
  -philadelphia-pennsylvania-12-01-2023/event/02005EEE96563E5F\n\nOn sale on
@@ -877,7 +867,7 @@ BEGIN:VEVENT
 SUMMARY:Mayday Parade
 DTSTART;VALUE=DATE-TIME:20231203T000000Z
 DTEND;VALUE=DATE-TIME:20231203T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nMayday Parade\nOrigami Angel\n\nTickets: https://con
  certs.livenation.com/mayday-parade-philadelphia-pennsylvania-12-02-2023/ev
  ent/02005F3512A98576\n\nOn sale on 9/29/2023 at 02:00 PM\n\nGenre: Pop
@@ -887,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:milk.
 DTSTART;VALUE=DATE-TIME:20231204T003000Z
 DTEND;VALUE=DATE-TIME:20231204T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nMilk.\n\nTickets: https://concerts.livenation.com/mi
  lk-philadelphia-pennsylvania-12-03-2023/event/02005F28A396306E\n\nOn sale 
  on 9/15/2023 at 02:00 PM\n\nGenre: Pop
@@ -897,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua
 DTSTART;VALUE=DATE-TIME:20231206T010000Z
 DTEND;VALUE=DATE-TIME:20231206T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAqua\n\nTickets: https://concerts.livenation.com/aqu
  a-philadelphia-pennsylvania-12-05-2023/event/02005F0FCC74770A\n\nOn sale o
  n 8/30/2023 at 02:00 PM\n\nGenre: Pop
@@ -907,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:DURRY
 DTSTART;VALUE=DATE-TIME:20231206T010000Z
 DTEND;VALUE=DATE-TIME:20231206T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nDURRY\nMega Mango\n\nTickets: https://concerts.liven
  ation.com/durry-philadelphia-pennsylvania-12-05-2023/event/02005EBFA6EF378
  6\n\nOn sale on 6/9/2023 at 03:00 PM\n\nGenre: Alternative Rock
@@ -917,7 +907,7 @@ BEGIN:VEVENT
 SUMMARY:La Goony Chonga - THE GOONYVERSO TOUR
 DTSTART;VALUE=DATE-TIME:20231207T010000Z
 DTEND;VALUE=DATE-TIME:20231207T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nLa Goony Chonga\n\nTickets: https://concerts.livenat
  ion.com/la-goony-chonga-the-goonyverso-tour-philadelphia-pennsylvania-12-0
  6-2023/event/02005F33FA588B06\n\nOn sale on 9/22/2023 at 02:00 PM\n\nGenre
@@ -928,7 +918,7 @@ BEGIN:VEVENT
 SUMMARY:The Eric Andre Explosion
 DTSTART;VALUE=DATE-TIME:20231208T000000Z
 DTEND;VALUE=DATE-TIME:20231208T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nEric Andre\n\nTickets: https://concerts.livenation.c
  om/the-eric-andre-explosion-philadelphia-pennsylvania-12-07-2023/event/020
  05F17AF9254D6\n\nOn sale on 8/30/2023 at 02:00 PM\n\nGenre: Comedy
@@ -938,7 +928,7 @@ BEGIN:VEVENT
 SUMMARY:Princess Chelsea
 DTSTART;VALUE=DATE-TIME:20231208T010000Z
 DTEND;VALUE=DATE-TIME:20231208T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nPrincess Chelsea\nKitty\n\nTickets: https://concerts
  .livenation.com/princess-chelsea-philadelphia-pennsylvania-12-07-2023/even
  t/02005F1EBBB94D60\n\nOn sale on 9/7/2023 at 02:00 PM\n\nGenre: Pop
@@ -948,7 +938,7 @@ BEGIN:VEVENT
 SUMMARY:Get the Led Out
 DTSTART;VALUE=DATE-TIME:20231209T010000Z
 DTEND;VALUE=DATE-TIME:20231209T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nGet the Led Out\n\nTickets: https://concerts.livenat
  ion.com/get-the-led-out-philadelphia-pennsylvania-12-08-2023/event/02005EE
  7D3776E9C\n\nOn sale on 9/22/2023 at 02:00 PM\n\nGenre: Undefined
@@ -958,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:Emo Night Brooklyn (21+ event)
 DTSTART;VALUE=DATE-TIME:20231209T040000Z
 DTEND;VALUE=DATE-TIME:20231209T060000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nEmo Night Brooklyn\n\nTickets: https://concerts.live
  nation.com/emo-night-brooklyn-21-event-philadelphia-pennsylvania-12-08-202
  3/event/02005F159F33226A\n\nOn sale on 9/14/2023 at 02:00 PM\n\nGenre: Pop
@@ -968,7 +958,7 @@ BEGIN:VEVENT
 SUMMARY:Pete Correale: Authentic
 DTSTART;VALUE=DATE-TIME:20231210T003000Z
 DTEND;VALUE=DATE-TIME:20231210T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nPete Correale\n\nTickets: https://concerts.livenatio
  n.com/pete-correale-authentic-philadelphia-pennsylvania-12-09-2023/event/0
  2005F0FC6DA6677\n\nOn sale on 8/25/2023 at 02:00 PM\n\nGenre: Comedy
@@ -978,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:The Bouncing Souls
 DTSTART;VALUE=DATE-TIME:20231216T000000Z
 DTEND;VALUE=DATE-TIME:20231216T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\n7 Seconds\nThe Bouncing Souls\nCatbite\nBlind Adam &
   The Federal League\n\nTickets: https://concerts.livenation.com/the-bounci
  ng-souls-philadelphia-pennsylvania-12-15-2023/event/02005E3195B62886\n\nOn
@@ -989,7 +979,7 @@ BEGIN:VEVENT
 SUMMARY:Dan Soder
 DTSTART;VALUE=DATE-TIME:20231217T000000Z
 DTEND;VALUE=DATE-TIME:20231217T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nDan Soder\n\nTickets: https://concerts.livenation.co
  m/dan-soder-philadelphia-pennsylvania-12-16-2023/event/02005EA5B3236A66\n\
  nOn sale on 5/12/2023 at 02:00 PM\n\nGenre: Comedy
@@ -999,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:Are You Garbage Podcast
 DTSTART;VALUE=DATE-TIME:20231221T010000Z
 DTEND;VALUE=DATE-TIME:20231221T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAre You Garbage Podcast\n\nTickets: https://concerts
  .livenation.com/are-you-garbage-podcast-philadelphia-pennsylvania-12-20-20
  23/event/02005ED7A0964369\n\nOn sale on 8/25/2023 at 02:00 PM\n\nGenre: Co
@@ -1010,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:Are You Garbage Podcast
 DTSTART;VALUE=DATE-TIME:20231222T000000Z
 DTEND;VALUE=DATE-TIME:20231222T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAre You Garbage Podcast\n\nTickets: https://concerts
  .livenation.com/are-you-garbage-podcast-philadelphia-pennsylvania-12-21-20
  23/event/02005ED7A0954355\n\nOn sale on 6/29/2023 at 02:00 PM\n\nGenre: Co
@@ -1021,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:Grayscale: The 2nd Annual Holiday Show
 DTSTART;VALUE=DATE-TIME:20231223T003000Z
 DTEND;VALUE=DATE-TIME:20231223T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAaron West and the Roaring Twenties\nGrayscale\nSupe
  r American\nArrows In Action\n\nTickets: https://concerts.livenation.com/g
  rayscale-the-2nd-annual-holiday-show-philadelphia-pennsylvania-12-22-2023/
@@ -1033,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED: Tall Heights
 DTSTART;VALUE=DATE-TIME:20240107T000000Z
 DTEND;VALUE=DATE-TIME:20240107T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nTall Heights\nAndrea Von Kampen\n\nTickets: https://
  concerts.livenation.com/tall-heights-philadelphia-pennsylvania-01-06-2024/
  event/02005B5D13E27439\n\nOn sale on 11/12/2021 at 05:00 PM\n\nGenre: Pop
@@ -1043,7 +1033,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes: Black Pumas
 DTSTART;VALUE=DATE-TIME:20240119T010000Z
 DTEND;VALUE=DATE-TIME:20240119T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nDigable Planets\nBlack Pumas\n\nTickets: https://con
  certs.livenation.com/wxpn-welcomes-black-pumas-philadelphia-pennsylvania-0
  1-18-2024/event/02005F357037146B\n\nOn sale on 9/29/2023 at 02:00 PM\n\nGe
@@ -1054,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:Steez Promo Presents G Jones - Paths Live
 DTSTART;VALUE=DATE-TIME:20240121T010000Z
 DTEND;VALUE=DATE-TIME:20240121T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nKoan Sound\nG Jones\nSayer\nImanu\n\nTickets: https:
  //concerts.livenation.com/steez-promo-presents-g-jones-paths-philadelphia-
  pennsylvania-01-20-2024/event/02005EF1A6CF2BE5\n\nOn sale on 7/21/2023 at 
@@ -1065,7 +1055,7 @@ BEGIN:VEVENT
 SUMMARY:Mir Fontane
 DTSTART;VALUE=DATE-TIME:20240212T010000Z
 DTEND;VALUE=DATE-TIME:20240212T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nCaleborate\nMir Fontane\n\nTickets: https://concerts
  .livenation.com/mir-fontane-philadelphia-pennsylvania-02-11-2024/event/020
  05F2DE4D35095\n\nOn sale on 9/22/2023 at 04:00 PM\n\nGenre: French Rap
@@ -1075,7 +1065,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes: Sammy Rae & The Friends: Camp The Tour
 DTSTART;VALUE=DATE-TIME:20240215T010000Z
 DTEND;VALUE=DATE-TIME:20240215T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nSammy Rae & The Friends\n\nTickets: https://concerts
  .livenation.com/wxpn-welcomes-sammy-rae-the-friends-philadelphia-pennsylva
  nia-02-14-2024/event/02005F1F8E8A1DD9\n\nOn sale on 9/15/2023 at 02:00 PM\
@@ -1086,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Ass Podcast Presents: The Love Against The World Tour
 DTSTART;VALUE=DATE-TIME:20240217T010000Z
 DTEND;VALUE=DATE-TIME:20240217T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nDead Ass Podcast\n\nTickets: https://concerts.livena
  tion.com/dead-ass-podcast-presents-the-love-philadelphia-pennsylvania-02-1
  6-2024/event/02005F2F2FA79CAC\n\nOn sale on 9/20/2023 at 02:00 PM\n\nGenre
@@ -1097,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:Ericdoa - Dead On Arrival Tour
 DTSTART;VALUE=DATE-TIME:20240218T010000Z
 DTEND;VALUE=DATE-TIME:20240218T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nericdoa\nbixby\n\nTickets: https://concerts.livenati
  on.com/ericdoa-dead-on-arrival-tour-philadelphia-pennsylvania-02-17-2024/e
  vent/02005F2E920A1FF6\n\nOn sale on 9/29/2023 at 02:00 PM\n\nGenre: Pop
@@ -1107,7 +1097,7 @@ BEGIN:VEVENT
 SUMMARY:The Prize Fighter Inferno - Before They Bury Me Tour 2024
 DTSTART;VALUE=DATE-TIME:20240219T010000Z
 DTEND;VALUE=DATE-TIME:20240219T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nThe Prize Fighter Inferno\n\nTickets: https://concer
  ts.livenation.com/the-prize-fighter-inferno-before-they-philadelphia-penns
  ylvania-02-18-2024/event/02005EEE9C984A85\n\nOn sale on 7/21/2023 at 02:00
@@ -1118,7 +1108,7 @@ BEGIN:VEVENT
 SUMMARY:Two Door Cinema Club
 DTSTART;VALUE=DATE-TIME:20240227T010000Z
 DTEND;VALUE=DATE-TIME:20240227T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nTwo Door Cinema Club\nJoywave\n\nTickets: https://co
  ncerts.livenation.com/two-door-cinema-club-philadelphia-pennsylvania-02-26
  -2024/event/02005F32E95E7AB9\n\nOn sale on 9/29/2023 at 02:00 PM\n\nGenre:
@@ -1129,7 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:Cold War Kids - 20 Years Tour
 DTSTART;VALUE=DATE-TIME:20240304T010000Z
 DTEND;VALUE=DATE-TIME:20240304T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nCold War Kids\njoe p\n\nTickets: https://concerts.li
  venation.com/cold-war-kids-20-years-tour-philadelphia-pennsylvania-03-03-2
  024/event/02005F28BE474AF5\n\nOn sale on 9/15/2023 at 02:00 PM\n\nGenre: P
@@ -1140,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:JIMBO's DRAG CIRCUS World Tour
 DTSTART;VALUE=DATE-TIME:20240309T010000Z
 DTEND;VALUE=DATE-TIME:20240309T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nJimbo the Drag Clown\n\nTickets: https://concerts.li
  venation.com/jimbos-drag-circus-world-tour-philadelphia-pennsylvania-03-08
  -2024/event/02005EEDDB497A66\n\nOn sale on 7/28/2023 at 02:00 PM\n\nGenre:
@@ -1151,7 +1141,7 @@ BEGIN:VEVENT
 SUMMARY:Dope Shows Presents: Moneybagg Yo
 DTSTART;VALUE=DATE-TIME:20240313T000000Z
 DTEND;VALUE=DATE-TIME:20240313T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nMoneybagg Yo\n\nTickets: https://concerts.livenation
  .com/dope-shows-presents-moneybagg-yo-philadelphia-pennsylvania-03-12-2024
  /event/02005837AF5EB441\n\nOn sale on 1/29/2020 at 03:00 PM\n\nGenre: Fren
@@ -1162,7 +1152,7 @@ BEGIN:VEVENT
 SUMMARY:Bailey Zimmerman: RELIGIOUSLY.THE TOUR.
 DTSTART;VALUE=DATE-TIME:20240314T233000Z
 DTEND;VALUE=DATE-TIME:20240315T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBailey Zimmerman\nJosh Ross\n\nTickets: https://conc
  erts.livenation.com/bailey-zimmerman-religiouslythe-tour-philadelphia-penn
  sylvania-03-14-2024/event/02005EC8638F1393\n\nOn sale on 6/14/2023 at 02:0
@@ -1173,7 +1163,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED: Kash Doll
 DTSTART;VALUE=DATE-TIME:20240317T000000Z
 DTEND;VALUE=DATE-TIME:20240317T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nKash Doll\nJucee Froot\nRubi Rose\n\nTickets: https:
  //concerts.livenation.com/kash-doll-philadelphia-pennsylvania-03-16-2024/e
  vent/0200578BE4A5B3BD\n\nOn sale on 1/17/2020 at 03:00 PM\n\nGenre: French
@@ -1184,7 +1174,7 @@ BEGIN:VEVENT
 SUMMARY:Beach Weather - Pineapple Sunrise The Tour
 DTSTART;VALUE=DATE-TIME:20240317T233000Z
 DTEND;VALUE=DATE-TIME:20240318T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBeach Weather\nPhoneboy\nRec Hall\n\nTickets: https:
  //concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-philade
  lphia-pennsylvania-03-17-2024/event/02005F2EBF9B4AAC\n\nOn sale on 9/22/20
@@ -1195,7 +1185,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED: Boogie T.RIO (18+ event)
 DTSTART;VALUE=DATE-TIME:20240318T010000Z
 DTEND;VALUE=DATE-TIME:20240318T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBoogie T\n\nTickets: https://concerts.livenation.com
  /boogie-trio-18-event-philadelphia-pennsylvania-03-17-2024/event/0200578DD
  867CF63\n\nOn sale on 12/20/2019 at 03:00 PM\n\nGenre: Witchstep
@@ -1205,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:Steez Promo presents: Adventure Club x Carnage
 DTSTART;VALUE=DATE-TIME:20240321T000000Z
 DTEND;VALUE=DATE-TIME:20240321T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nAdventure Club\nCarnage\n\nTickets: https://concerts
  .livenation.com/steez-promo-presents-adventure-club-x-philadelphia-pennsyl
  vania-03-20-2024/event/02005843D6D8E28C\n\nOn sale on 2/6/2020 at 06:00 PM
@@ -1216,7 +1206,7 @@ BEGIN:VEVENT
 SUMMARY:Dylan - The Rebel Child Tour
 DTSTART;VALUE=DATE-TIME:20240415T000000Z
 DTEND;VALUE=DATE-TIME:20240415T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nDylan\n\nTickets: https://concerts.livenation.com/dy
  lan-the-rebel-child-tour-philadelphia-pennsylvania-09-22-2023/event/02005F
  03D8D6796E\n\nOn sale on 8/11/2023 at 02:00 PM\n\nGenre: Pop
@@ -1226,7 +1216,7 @@ BEGIN:VEVENT
 SUMMARY:Big Something: Headspace Tour
 DTSTART;VALUE=DATE-TIME:20240510T000000Z
 DTEND;VALUE=DATE-TIME:20240510T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nBig Something\nThe Ries Brothers\n\nTickets: https:/
  /concerts.livenation.com/big-something-headspace-tour-philadelphia-pennsyl
  vania-05-09-2024/event/02005F1F94EC28B2\n\nOn sale on 9/8/2023 at 02:00 PM
@@ -1237,7 +1227,7 @@ BEGIN:VEVENT
 SUMMARY:Frank Carter & the Rattlesnakes
 DTSTART;VALUE=DATE-TIME:20240521T000000Z
 DTEND;VALUE=DATE-TIME:20240521T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230930T003231Z
+DTSTAMP;VALUE=DATE-TIME:20231001T003835Z
 DESCRIPTION:Artists:\nFrank Carter & the Rattlesnakes\n\nTickets: https://
  concerts.livenation.com/frank-carter-the-rattlesnakes-philadelphia-pennsyl
  vania-05-20-2024/event/02005F3A16CE6064\n\nOn sale on 10/6/2023 at 02:00 P
