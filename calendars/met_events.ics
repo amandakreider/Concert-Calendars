@@ -3,12 +3,45 @@ BEGIN:VEVENT
 SUMMARY:My Morning Jacket: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20231028T000000Z
 DTEND;VALUE=DATE-TIME:20231028T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003450Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003445Z
 DESCRIPTION:Info: https://themetphilly.com/event/my-morning-jacket-2/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\n\nStop by our pop-up beer gar
  den before the show! Come early for food\, drinks & live music – open at
   6:00p.m. on Poplar Street. See you there! (Must have a ticket to the show
-  to enter.)\n\nDoors open at 7:00 P.M.\n\nPLEASE NOTE: To reduce staff con
+  to enter.)\n\n\nDoors open at 7:00 P.M.\n\n\nPLEASE NOTE: To reduce staff
+  contact with guest belongings\, we have implemented the following bag pol
+ icy: BAGS NO LARGER THAN 12″X6″X12″\n_______________________________
+ _________________________________\n\nMy Morning Jacket has released nine s
+ tudio albums\, with 2008’s EVIL URGES\, 2011’s CIRCUITAL\, and 2015’
+ s THE WATERFALL each receiving GRAMMY® Award nominations for “Best Alte
+ rnative Album.” Summer 2020 saw the surprise release of THE WATERFALL II
+ \, with the single\, “Feel You\,” making history by reaching #1 at Tri
+ ple A radio outlets nationwide and on Billboard’s “Adult Alternative S
+ ongs” chart–My Morning Jacket’s first ever #1 on a Billboard songs c
+ hart. The album was further met by worldwide critical acclaim\, with Pitch
+ fork writing\, “I fits predecessor was about conflict and healing–it
+ ’s My Morning Jacket’s thorniest album\, emotionally speaking–then t
+ his follow-up is more about what comes after that healing.” In 2021\, My
+  Morning Jacket released their self-titled album that reaffirmed the raref
+ ied magic that’s made the band so beloved\, embedding every groove with 
+ moments of discovery\, revelation\, and ecstatic catharsis. Esquire said\,
+  “Its killer ninth album\, My Morning Jacket\, is an 11-song set that ch
+ annels an energy as loose and loud as their bombastic live act\,” while 
+ Rolling Stone hailed\,”What keeps MMJ interesting is that their music ne
+ ver becomes too comfortable. It’s a spectacular vision where nothing eve
+ r seems quite settled.”\n\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Morning Jacket: WXPN Welcomes
+DTSTART;VALUE=DATE-TIME:20231029T000000Z
+DTEND;VALUE=DATE-TIME:20231029T020000Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003445Z
+DESCRIPTION:Info: https://themetphilly.com/event/my-morning-jacket/\n\nDoo
+ rs at 7:00 pm\nShow starts at 8:00 pm\n\n\nStop by our pop-up beer garden 
+ before the show! Come early for food\, drinks & live music – open at 6:0
+ 0p.m. on Poplar Street. See you there! (Must have a ticket to the show to 
+ enter.)\n\n\nDoors open at 7:00 P.M.\n\n\nPLEASE NOTE: To reduce staff con
  tact with guest belongings\, we have implemented the following bag policy:
   BAGS NO LARGER THAN 12″X6″X12″\n___________________________________
  _____________________________\n\nMy Morning Jacket has released nine studi
@@ -29,47 +62,14 @@ DESCRIPTION:Info: https://themetphilly.com/event/my-morning-jacket-2/\n\nD
   an energy as loose and loud as their bombastic live act\,” while Rollin
  g Stone hailed\,”What keeps MMJ interesting is that their music never be
  comes too comfortable. It’s a spectacular vision where nothing ever seem
- s quite settled.”\n\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Morning Jacket: WXPN Welcomes
-DTSTART;VALUE=DATE-TIME:20231029T000000Z
-DTEND;VALUE=DATE-TIME:20231029T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003451Z
-DESCRIPTION:Info: https://themetphilly.com/event/my-morning-jacket/\n\nDoo
- rs at 7:00 pm\nShow starts at 8:00 pm\n\n\nStop by our pop-up beer garden 
- before the show! Come early for food\, drinks & live music – open at 6:0
- 0p.m. on Poplar Street. See you there! (Must have a ticket to the show to 
- enter.)\n\nDoors open at 7:00 P.M.\n\nPLEASE NOTE: To reduce staff contact
-  with guest belongings\, we have implemented the following bag policy: BAG
- S NO LARGER THAN 12″X6″X12″\n_______________________________________
- _________________________\n\nMy Morning Jacket has released nine studio al
- bums\, with 2008’s EVIL URGES\, 2011’s CIRCUITAL\, and 2015’s THE WA
- TERFALL each receiving GRAMMY® Award nominations for “Best Alternative 
- Album.” Summer 2020 saw the surprise release of THE WATERFALL II\, with 
- the single\, “Feel You\,” making history by reaching #1 at Triple A ra
- dio outlets nationwide and on Billboard’s “Adult Alternative Songs” 
- chart–My Morning Jacket’s first ever #1 on a Billboard songs chart. Th
- e album was further met by worldwide critical acclaim\, with Pitchfork wri
- ting\, “I fits predecessor was about conflict and healing–it’s My Mo
- rning Jacket’s thorniest album\, emotionally speaking–then this follow
- -up is more about what comes after that healing.” In 2021\, My Morning J
- acket released their self-titled album that reaffirmed the rarefied magic 
- that’s made the band so beloved\, embedding every groove with moments of
-  discovery\, revelation\, and ecstatic catharsis. Esquire said\, “Its ki
- ller ninth album\, My Morning Jacket\, is an 11-song set that channels an 
- energy as loose and loud as their bombastic live act\,” while Rolling St
- one hailed\,”What keeps MMJ interesting is that their music never become
- s too comfortable. It’s a spectacular vision where nothing ever seems qu
- ite settled.”\n
+ s quite settled.”\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kesha: The Only Love Tour
 DTSTART;VALUE=DATE-TIME:20231101T000000Z
 DTEND;VALUE=DATE-TIME:20231101T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003451Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003446Z
 DESCRIPTION:Info: https://themetphilly.com/event/kesha-2/\n\nDoors at 7:00
   pm\nShow starts at 8:00 pm\n\n\nStop by our spooky pop-up beer garden bef
  ore the show! Come early for food\, drinks & live music – open at 6:00p.
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Iliza Shlesinger: Hard Feelings Tour 
 DTSTART;VALUE=DATE-TIME:20231103T230000Z
 DTEND;VALUE=DATE-TIME:20231104T010000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003451Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003446Z
 DESCRIPTION:Info: https://themetphilly.com/event/iliza-shlesinger/\n\nDoor
  s at 6:00 pm\nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff con
  tact with guest belongings\, we have implemented the following bag policy:
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Stavros Halkias: The Fat Rascal Tour
 DTSTART;VALUE=DATE-TIME:20231104T230000Z
 DTEND;VALUE=DATE-TIME:20231105T010000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003452Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003447Z
 DESCRIPTION:Info: https://themetphilly.com/event/stavros-halkias/\n\nDoors
   at 6:00 pm\nShow starts at 7:00 pm\n\n\nPLEASE NOTE: To reduce staff cont
  act with guest belongings\, we have implemented the following bag policy: 
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Stavros Halkias: Late Show Added!
 DTSTART;VALUE=DATE-TIME:20231105T020000Z
 DTEND;VALUE=DATE-TIME:20231105T040000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003452Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003447Z
 DESCRIPTION:Info: https://themetphilly.com/event/stavros-halkias-2/\n\nDoo
  rs at 9:30 pm\nShow starts at 10:00 pm\n\n\nPLEASE NOTE: To reduce staff c
  ontact with guest belongings\, we have implemented the following bag polic
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Anthony Hamilton and Friends: Creative Nation Presents
 DTSTART;VALUE=DATE-TIME:20231106T010000Z
 DTEND;VALUE=DATE-TIME:20231106T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003453Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003448Z
 DESCRIPTION:Info: https://themetphilly.com/event/anthony-hamilton-and-frie
  nds/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\n*THIS EVENT HAS BEEN
   POSTPONED FROM SATURDAY\, JULY 29 TO SUNDAY\, NOVEMBER 5. ALL PREVIOUSLY 
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Yeah Yeah Yeahs
 DTSTART;VALUE=DATE-TIME:20231109T000000Z
 DTEND;VALUE=DATE-TIME:20231109T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003453Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003448Z
 DESCRIPTION:Info: https://themetphilly.com/event/yeah-yeah-yeahs/\n\nDoors
   at 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors at 6:00 p.m.\nPLEASE NOTE: 
  To reduce staff contact with guest belongings\, we have implemented the fo
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Call Her Daddy Podcast: Alex Cooper: The Unwell Tour
 DTSTART;VALUE=DATE-TIME:20231110T010000Z
 DTEND;VALUE=DATE-TIME:20231110T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003454Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003449Z
 DESCRIPTION:Info: https://themetphilly.com/event/alex-cooper-2/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nAlex Cooper
   is the creator\, host and executive producer of the hugely successful pod
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:Call Her Daddy Podcast: Alex Cooper: The Unwell Tour
 DTSTART;VALUE=DATE-TIME:20231111T010000Z
 DTEND;VALUE=DATE-TIME:20231111T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003454Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003449Z
 DESCRIPTION:Info: https://themetphilly.com/event/alex-cooper/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nAlex Cooper i
  s the creator\, host and executive producer of the hugely successful podca
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Myke Towers: La Vida Es Una Tour
 DTSTART;VALUE=DATE-TIME:20231112T010000Z
 DTEND;VALUE=DATE-TIME:20231112T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003455Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003450Z
 DESCRIPTION:Info: https://themetphilly.com/event/myke-towers/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact 
  with guest belongings\, we have implemented the following bag policy: BAGS
@@ -494,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:NEEDTOBREATHE: THE CAVES WORLD TOUR
 DTSTART;VALUE=DATE-TIME:20231114T000000Z
 DTEND;VALUE=DATE-TIME:20231114T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003456Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003450Z
 DESCRIPTION:Info: https://themetphilly.com/event/needtobreathe/\n\nDoors a
  t 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors at 6 p.m.\nSupport: Judah & T
  he Lion\nPLEASE NOTE: To reduce staff contact with guest belongings\, we h
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:GEDDY LEE: MY EFFIN' LIFE In Conversation
 DTSTART;VALUE=DATE-TIME:20231116T010000Z
 DTEND;VALUE=DATE-TIME:20231116T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003456Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003450Z
 DESCRIPTION:Info: https://themetphilly.com/event/geddy-lee/\n\nDoors at \n
  Show starts at 8:00 pm\n\n\nJoin GEDDY LEE for MY EFFIN’ LIFE In Convers
  ation with Special Guest Interviewer + Fan Q&A. Every ticket sold will inc
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Russo’s Almost Dead
 DTSTART;VALUE=DATE-TIME:20231118T010000Z
 DTEND;VALUE=DATE-TIME:20231118T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003457Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003451Z
 DESCRIPTION:Info: https://themetphilly.com/event/joe-russos-almost-dead-4/
  \n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors at 6:30pm\nPLEASE 
  NOTE: To reduce staff contact with guest belongings\, we have implemented 
@@ -556,7 +556,7 @@ SUMMARY:Dope Shows Presents: Jeezy & Fabolous: 50TH ANNIVERSARY OF HIP HOP
   CELEBRATION
 DTSTART;VALUE=DATE-TIME:20231119T010000Z
 DTEND;VALUE=DATE-TIME:20231119T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003457Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003451Z
 DESCRIPTION:Info: https://themetphilly.com/event/dope-shows-presents-jeezy
  -fabulous/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDOPE SHOWS PRE
  SENTS JEEZY & FABOLOUS 50TH ANNIVERSARY OF HIP HOP CELEBRATION\nDoors at
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:Monica: Femme It Forward Presents
 DTSTART;VALUE=DATE-TIME:20231123T000000Z
 DTEND;VALUE=DATE-TIME:20231123T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003458Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003452Z
 DESCRIPTION:Info: https://themetphilly.com/event/monica-2/\n\nDoors at 6:0
  0 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE: To 
  reduce staff contact with guest belongings\, we have implemented the follo
@@ -578,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:Lil Tjay: Beat The Odds Tour
 DTSTART;VALUE=DATE-TIME:20231202T010000Z
 DTEND;VALUE=DATE-TIME:20231202T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003458Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003452Z
 DESCRIPTION:Info: https://themetphilly.com/event/lil-tjay/\n\nDoors at \nS
  how starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contact with guest
   belongings\, we have implemented the following bag policy: BAGS NO LARGER
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:Brett Eldredge: Glow Live Tour
 DTSTART;VALUE=DATE-TIME:20231207T010000Z
 DTEND;VALUE=DATE-TIME:20231207T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003459Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003453Z
 DESCRIPTION:Info: https://themetphilly.com/event/brett-eldredge/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00p.m.\nPLEASE NOTE: To
   reduce staff contact with guest belongings\, we have implemented the foll
@@ -619,7 +619,7 @@ BEGIN:VEVENT
 SUMMARY:Patti LaBelle
 DTSTART;VALUE=DATE-TIME:20231210T003000Z
 DTEND;VALUE=DATE-TIME:20231210T023000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003459Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003453Z
 DESCRIPTION:Info: https://themetphilly.com/event/patti-labelle/\n\nDoors a
  t 6:00 pm\nShow starts at 7:30 pm\n\n\nDoors at 6 P.M.\nPLEASE NOTE: To re
  duce staff contact with guest belongings\, we have implemented the followi
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:Tina Fey & Amy Poehler: Restless Leg Tour
 DTSTART;VALUE=DATE-TIME:20231215T010000Z
 DTEND;VALUE=DATE-TIME:20231215T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003500Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003454Z
 DESCRIPTION:Info: https://themetphilly.com/event/tina-fey-amy-poehler/\n\n
  Doors at \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff contac
  t with guest belongings\, we have implemented the following bag policy: BA
@@ -681,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:Tina Fey & Amy Poehler: Restless Leg Tour
 DTSTART;VALUE=DATE-TIME:20231216T010000Z
 DTEND;VALUE=DATE-TIME:20231216T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003500Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003454Z
 DESCRIPTION:Info: https://themetphilly.com/event/tina-fey-amy-poehler-2/\n
  \nDoors at \nShow starts at 8:00 pm\n\n\nPLEASE NOTE: To reduce staff cont
  act with guest belongings\, we have implemented the following bag policy: 
@@ -732,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Tina Fey & Amy Poehler: Restless Leg Tour
 DTSTART;VALUE=DATE-TIME:20231217T003000Z
 DTEND;VALUE=DATE-TIME:20231217T023000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003501Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003455Z
 DESCRIPTION:Info: https://themetphilly.com/event/tina-fey-amy-poehler-3/\n
  \nDoors at \nShow starts at 7:30 pm\n\n\nPLEASE NOTE: To reduce staff cont
  act with guest belongings\, we have implemented the following bag policy: 
@@ -783,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:Tina Fey & Amy Poehler: Restless Leg Tour
 DTSTART;VALUE=DATE-TIME:20231216T210000Z
 DTEND;VALUE=DATE-TIME:20231216T230000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003501Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003455Z
 DESCRIPTION:Info: https://themetphilly.com/event/tina-fey-amy-poehler-4/\n
  \nDoors at \nShow starts at 4:00 pm\n\n\nPLEASE NOTE: To reduce staff cont
  act with guest belongings\, we have implemented the following bag policy: 
@@ -834,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Nimesh Patel: Fast and Loose Tour
 DTSTART;VALUE=DATE-TIME:20231229T010000Z
 DTEND;VALUE=DATE-TIME:20231229T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003502Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003455Z
 DESCRIPTION:Info: https://themetphilly.com/event/nimesh-patel/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 P.M.\nPLEASE NOTE
  : To reduce staff contact with guest belongings\, we have implemented the 
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:Gov’t Mule: New Date!
 DTSTART;VALUE=DATE-TIME:20231230T010000Z
 DTEND;VALUE=DATE-TIME:20231230T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003502Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003456Z
 DESCRIPTION:Info: https://themetphilly.com/event/govt-mule-4/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nANNOUNCEMENT: Gov’t Mule at The Met
   Philadelphia is rescheduled to December 29\, 2023. All previously purchas
@@ -871,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Gatto: Night Of Comedy
 DTSTART;VALUE=DATE-TIME:20240120T010000Z
 DTEND;VALUE=DATE-TIME:20240120T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003503Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003456Z
 DESCRIPTION:Info: https://themetphilly.com/event/joe-gatto/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nPLEASE NOTE: To
   reduce staff contact with guest belongings\, we have implemented the foll
@@ -883,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:Oliver Tree: Alone In A Crowd
 DTSTART;VALUE=DATE-TIME:20240121T010000Z
 DTEND;VALUE=DATE-TIME:20240121T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003503Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003457Z
 DESCRIPTION:Info: https://themetphilly.com/event/oliver-tree/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nPLEASE NOTE: 
  To reduce staff contact with guest belongings\, we have implemented the fo
@@ -892,10 +892,28 @@ DESCRIPTION:Info: https://themetphilly.com/event/oliver-tree/\n\nDoors at
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ronny Chieng: The Love To Hate It Tour
+DTSTART;VALUE=DATE-TIME:20240204T000000Z
+DTEND;VALUE=DATE-TIME:20240204T020000Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003457Z
+DESCRIPTION:Info: https://themetphilly.com/event/ronny-chieng/\n\nDoors at
+  6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00PM\nPLEASE NOTE: T
+ o reduce staff contact with guest belongings\, we have implemented the fol
+ lowing bag policy: BAGS NO LARGER THAN 12″X6″X12″\n_________________
+ _______________________________________________________\nRonny Chieng is a
+  stand up comedian\, actor and Correspondent on “The Daily Show”. In a
+ ddition to two Netflix stand-up comedy specials\, Ronny has starred in “
+ Crazy Rich Asians”\, Marvel’s “Shang-Chi and the Legend of the Ten R
+ ings”\, “M3GAN”\, “American Born Chinese”\, “Doogie Kamealoha\
+ , M.D.”\, “Vacation Friends 2”\, “Joy Ride” and will star in the
+  upcoming Hulu series “Interior Chinatown”.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mitski: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20240207T010000Z
 DTEND;VALUE=DATE-TIME:20240207T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003504Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003458Z
 DESCRIPTION:Info: https://themetphilly.com/event/mitski/\n\nDoors at 6:30 
  pm\nShow starts at 8:00 pm\n\n\nWXPN Welcomes Mitski with special guest Ta
  mino\nDoors open at 6:30p.m.\nPLEASE NOTE: To reduce staff contact with gu
@@ -908,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:Mitski: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20240208T010000Z
 DTEND;VALUE=DATE-TIME:20240208T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003504Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003458Z
 DESCRIPTION:Info: https://themetphilly.com/event/mitski-2/\n\nDoors at \nS
  how starts at 8:00 pm\n\n\nWXPN Welcomes Mitski with special guest Tamino\
  nDoors open at 6:30p.m.\nPLEASE NOTE: To reduce staff contact with guest b
@@ -921,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:Boyz II Men
 DTSTART;VALUE=DATE-TIME:20240218T010000Z
 DTEND;VALUE=DATE-TIME:20240218T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003505Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003459Z
 DESCRIPTION:Info: https://themetphilly.com/event/boyz-ii-men-5/\n\nDoors a
  t 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE
  : To reduce staff contact with guest belongings\, we have implemented the 
@@ -932,7 +950,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea Cutler: with Yoke Lore
 DTSTART;VALUE=DATE-TIME:20240223T010000Z
 DTEND;VALUE=DATE-TIME:20240223T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003505Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003459Z
 DESCRIPTION:Info: https://themetphilly.com/event/chelsea-cutler/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00PM\nSince 2017\, inti
  mate candor has defined Chelsea Cutler’s artistry. The Platinum singer\,
@@ -962,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:Jason Isbell and the 400 Unit: WXPN Welcomes
 DTSTART;VALUE=DATE-TIME:20240224T010000Z
 DTEND;VALUE=DATE-TIME:20240224T030000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003506Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003500Z
 DESCRIPTION:Info: https://themetphilly.com/event/jason-isbell-and-the-400-
  unit/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -971,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:Scotty McCreery: Solo In A Cab Tour
 DTSTART;VALUE=DATE-TIME:20240301T000000Z
 DTEND;VALUE=DATE-TIME:20240301T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003506Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003500Z
 DESCRIPTION:Info: https://themetphilly.com/event/scotty-mccreery/\n\nDoors
   at \nShow starts at 7:00 pm\n\n\nWith special guests Anne Wilson & Noah H
  icks\n92.5 XTU Welcomes\n
@@ -981,7 +999,7 @@ BEGIN:VEVENT
 SUMMARY:Matt Rife: Late Show Added!
 DTSTART;VALUE=DATE-TIME:20240427T020000Z
 DTEND;VALUE=DATE-TIME:20240427T040000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003507Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003501Z
 DESCRIPTION:Info: https://themetphilly.com/event/matt-rife-2/\n\nDoors at 
  9:00 pm\nShow starts at 10:00 pm\n\n\nDoors open at 9:00p.m.\nPLEASE NOTE 
  THIS SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with
@@ -1020,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:Matt Rife: ProbleMATTic World Tour
 DTSTART;VALUE=DATE-TIME:20240426T230000Z
 DTEND;VALUE=DATE-TIME:20240427T010000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003507Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003501Z
 DESCRIPTION:Info: https://themetphilly.com/event/matt-rife/\n\nDoors at 6:
  00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE THI
  S SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with gu
@@ -1059,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:Matt Rife: Third Show Added!
 DTSTART;VALUE=DATE-TIME:20240427T230000Z
 DTEND;VALUE=DATE-TIME:20240428T010000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003508Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003502Z
 DESCRIPTION:Info: https://themetphilly.com/event/matt-rife-3/\n\nDoors at 
  6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE T
  HIS SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with 
@@ -1098,7 +1116,7 @@ BEGIN:VEVENT
 SUMMARY:Matt Rife: Fourth Show Added!
 DTSTART;VALUE=DATE-TIME:20240428T020000Z
 DTEND;VALUE=DATE-TIME:20240428T040000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003508Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003502Z
 DESCRIPTION:Info: https://themetphilly.com/event/matt-rife-4/\n\nDoors at 
  9:00 pm\nShow starts at 10:00 pm\n\n\nDoors open at 9:00p.m.\nPLEASE NOTE 
  THIS SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with
@@ -1137,7 +1155,7 @@ BEGIN:VEVENT
 SUMMARY:Jacob Collier: DJESSE VOL. 4 NORTH AMERICA TOUR
 DTSTART;VALUE=DATE-TIME:20240429T230000Z
 DTEND;VALUE=DATE-TIME:20240430T010000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003509Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003503Z
 DESCRIPTION:Info: https://themetphilly.com/event/jacob-collier/\n\nDoors a
  t 6:00 pm\nShow starts at 7:00 pm\n\n\nwith special guest Kimbra\nDoors op
  en at 6:00PM\nRecognized by audiences\, critics and fellow musicians alike
@@ -1160,7 +1178,7 @@ BEGIN:VEVENT
 SUMMARY:Bonnie Raitt: Just Like That... Tour 2024
 DTSTART;VALUE=DATE-TIME:20240608T000000Z
 DTEND;VALUE=DATE-TIME:20240608T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003509Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003503Z
 DESCRIPTION:Info: https://themetphilly.com/event/bonnie-raitt/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 PM\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1169,7 +1187,7 @@ BEGIN:VEVENT
 SUMMARY:Keane: Celebrating 20 Years Of Hopes And Fears
 DTSTART;VALUE=DATE-TIME:20240922T000000Z
 DTEND;VALUE=DATE-TIME:20240922T020000Z
-DTSTAMP;VALUE=DATE-TIME:20231024T003510Z
+DTSTAMP;VALUE=DATE-TIME:20231025T003504Z
 DESCRIPTION:Info: https://themetphilly.com/event/keane/\n\nDoors at 6:30 p
  m\nShow starts at 8:00 pm\n\n\nDoors at 6:30p.m.\nPLEASE NOTE: To reduce s
  taff contact with guest belongings\, we have implemented the following bag
