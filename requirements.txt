@@ -1,10 +1,6 @@
-backports.zoneinfo==0.2.1
-DateTime==5.3
-icalendar==5.0.11
-numpy==1.24.4
-pandas==2.0.3
-python-dateutil==2.8.2
-pytz==2023.3.post1
-six==1.16.0
-tzdata==2023.3
-zope.interface==6.1
+beautifulsoup4==4.12.3
+icalendar==5.0.12
+pandas==2.2.1
+python_dateutil==2.9.0.post0
+pytz==2024.1
+Requests==2.31.0
