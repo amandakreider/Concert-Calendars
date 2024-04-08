@@ -12,7 +12,7 @@ To subscribe to the Johnny Brenda's calendar, use [this .ics link](https://raw.g
 
 ## Fillmore/Foundry
 
-To subscribe to the Fillmore/Foundry calendar, use [this .ics link](https://raw.githubusercontent.com/amandakreider/Concert-Calendars/main/calendars/fillmore_events.ics). 
+The script and calendar for the Fillmore and Foundry are defunct as of April 2024.
 
 ## The Met
 
