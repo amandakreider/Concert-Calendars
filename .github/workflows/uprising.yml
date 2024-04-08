@@ -31,7 +31,7 @@ jobs:
       # Install dependencies
       - run: pip install -r requirements.txt     
         
-      # Run palo_santo.py        
+      # Run uprising.py        
       - run: python uprising.py 
         working-directory: ./scripts
 
