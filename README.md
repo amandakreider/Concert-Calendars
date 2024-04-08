@@ -2,7 +2,7 @@
  
 Concert Calendars scrapes local Philadelphia concert listings and creates up-to-date calendar files in iCal format that users can subscribe to. You can find the Python scripts [in this folder](https://github.com/amandakreider/Concert-Calendars/blob/main/scripts). The scripts save concert listings in both [.ics](https://github.com/amandakreider/Concert-Calendars/blob/main/calendars/) and [.csv](https://github.com/amandakreider/Concert-Calendars/tree/main/csv) formats.
 
-To subscribe to one of the calendars below in Google calendar, first navigate to <a target="_blank" href="https://calendar.google.com">your calendar</a>. In the left sidebar, next to "Other calendars," click on the "+" button. Then click "From URL," and add one of the links below. You're all set! 
+To subscribe to one of the calendars below in Google calendar, first navigate to [your calendar](https://calendar.google.com/). In the left sidebar, next to "Other calendars," click on the "+" button. Then click "From URL," and add one of the links below. You're all set! 
 
 All calendars are refreshed daily.
 
