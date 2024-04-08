@@ -30,22 +30,6 @@ jobs:
 
       # Install dependencies
       - run: pip install -r requirements.txt     
-        
-      # Run fillmorecal.py        
-      - run: python fillmorecal.py 
-        working-directory: ./scripts
-
-      # Push changes
-      - name: push changes to remote
-        run: |
-          git config --global user.name "Amanda Kreider"
-          git config --global user.email "akreid@wharton.upenn.edu"  
-
-          git add ./calendars/fillmore_events.ics 
-          git add ./csv/fillmore_events.csv
-          git commit -m "Update Fillmore calendar"
-          git pull --rebase
-          git push 
 
       # Run jbscal.py        
       - run: python jbscal.py 
