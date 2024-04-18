@@ -1,18 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:girl in red: Doing It Again World Tour!
-DTSTART:20240417T230000Z
-DTEND:20240418T010000Z
-DTSTAMP:20240417T005455Z
-DESCRIPTION:Info: https://themetphilly.com/event/girl-in-red/\n\nDoors at 
- 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:girl in red: Second Show Added
 DTSTART:20240418T230000Z
 DTEND:20240419T010000Z
-DTSTAMP:20240417T005456Z
+DTSTAMP:20240418T005343Z
 DESCRIPTION:Info: https://themetphilly.com/event/girl-in-red-2/\n\nDoors a
  t 6:00 pm\nShow starts at 7:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -21,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Brothers Osborne: MIGHT AS WELL BE US TOUR
 DTSTART:20240420T000000Z
 DTEND:20240420T020000Z
-DTSTAMP:20240417T005456Z
+DTSTAMP:20240418T005343Z
 DESCRIPTION:Info: https://themetphilly.com/event/brothers-osborne/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nSupport: Jackson Dean\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -30,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Super Freak: The Rick James Story: Je’Caryous Johnson Presents
 DTSTART:20240421T000000Z
 DTEND:20240421T020000Z
-DTSTAMP:20240417T005456Z
+DTSTAMP:20240418T005343Z
 DESCRIPTION:Info: https://themetphilly.com/event/super-freak-the-rick-jame
  s-story/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:
  00 p.m.\nEvent All Ages\n
@@ -40,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Matt Rife: Late Show Added!
 DTSTART:20240427T020000Z
 DTEND:20240427T040000Z
-DTSTAMP:20240417T005456Z
+DTSTAMP:20240418T005344Z
 DESCRIPTION:Info: https://themetphilly.com/event/matt-rife-2/\n\nDoors at 
  9:00 pm\nShow starts at 10:00 pm\n\n\nDoors open at 9:00p.m.\nPLEASE NOTE 
  THIS SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with
@@ -79,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Matt Rife: ProbleMATTic World Tour
 DTSTART:20240426T230000Z
 DTEND:20240427T010000Z
-DTSTAMP:20240417T005457Z
+DTSTAMP:20240418T005344Z
 DESCRIPTION:Info: https://themetphilly.com/event/matt-rife/\n\nDoors at 6:
  00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE THI
  S SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with gu
@@ -115,49 +106,10 @@ DESCRIPTION:Info: https://themetphilly.com/event/matt-rife/\n\nDoors at 6:
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matt Rife: Third Show Added!
-DTSTART:20240427T230000Z
-DTEND:20240428T010000Z
-DTSTAMP:20240417T005457Z
-DESCRIPTION:Info: https://themetphilly.com/event/matt-rife-3/\n\nDoors at 
- 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE T
- HIS SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with 
- guest belongings\, we have implemented the following bag policy: BAGS NO L
- ARGER THAN 12″X6″X12″\n_____________________________________________
- ________\nMatt Rife has exploded as one of the fastest growing comedians t
- hrough his viral content and remarkable engagement on TikTok\, where he h
- as amassed over 13 million followers\, and more than 2 billion views gl
- obally. As one of the most buzzed about comedians in the business\, Rife
-  has been selling–out comedy clubs and theaters across the country and i
- s gearing up to embark on his biggest tour to–date with Live Nation\, t
- he Matt Rife: ProbleMATTic World Tour\, kicking off on July 20th. Rife
-  brings forth his refreshingly genuine presence along with elevated materi
- al that is quick witted and vulnerable. From a small town near Columbus O
- hio\, Matt started performing at the age of fifteen then moved out to Lo
- s Angeles two years later where he began his career in Hollywood.\nIn ad
- dition to stand–up\, he made his television debut on MTV’s Wild ‘N 
- Out as the youngest cast member in history for four seasons before movin
- g on to other MTV properties\, such as hosting the reboot of TRL and ap
- pearing on The Challenge. Other credits include Brooklyn Nine–Nine\,
-  Fresh Off The Boat\, BET’s North Of The 10\, and NBC’s comedy com
- petition show Bring The Funny.\nIn 2021\, Rife self–produced and distr
- ibuted through YouTube his first one–hour comedy special\, “Only Fa
- ns”. This past April\, the comedian bet on himself again and self–rele
- ased his highly anticipated second stand–up special\, “Matthew Steve
- n Rife” on YouTube. The special was taped in Austin\, TX and is ded
- icated to his biggest role model\, his grandfather Steven who had recent
- ly passed. He’ll be taping his third stand–up special this fall in 
- Washington\, DC.\nWEBSITE: https://www.mattrifeofficial.com/TIKTOK: http
- s://www.tiktok.com/@matt_rifeFACEBOOK: https://www.facebook.com/ItsMattRi
- fe/YOUTUBE: https://www.youtube.com/@MattRifeComedyTWITTER: https://twit
- ter.com/mattrifeINSTAGRAM: https://www.instagram.com/mattrife\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Matt Rife: Fourth Show Added!
 DTSTART:20240428T020000Z
 DTEND:20240428T040000Z
-DTSTAMP:20240417T005457Z
+DTSTAMP:20240418T005344Z
 DESCRIPTION:Info: https://themetphilly.com/event/matt-rife-4/\n\nDoors at 
  9:00 pm\nShow starts at 10:00 pm\n\n\nDoors open at 9:00p.m.\nPLEASE NOTE 
  THIS SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with
@@ -193,10 +145,49 @@ DESCRIPTION:Info: https://themetphilly.com/event/matt-rife-4/\n\nDoors at
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Matt Rife: Third Show Added!
+DTSTART:20240427T230000Z
+DTEND:20240428T010000Z
+DTSTAMP:20240418T005345Z
+DESCRIPTION:Info: https://themetphilly.com/event/matt-rife-3/\n\nDoors at 
+ 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE T
+ HIS SHOW IS 18+ WITH VALID ID.\nPLEASE NOTE: To reduce staff contact with 
+ guest belongings\, we have implemented the following bag policy: BAGS NO L
+ ARGER THAN 12″X6″X12″\n_____________________________________________
+ ________\nMatt Rife has exploded as one of the fastest growing comedians t
+ hrough his viral content and remarkable engagement on TikTok\, where he h
+ as amassed over 13 million followers\, and more than 2 billion views gl
+ obally. As one of the most buzzed about comedians in the business\, Rife
+  has been selling–out comedy clubs and theaters across the country and i
+ s gearing up to embark on his biggest tour to–date with Live Nation\, t
+ he Matt Rife: ProbleMATTic World Tour\, kicking off on July 20th. Rife
+  brings forth his refreshingly genuine presence along with elevated materi
+ al that is quick witted and vulnerable. From a small town near Columbus O
+ hio\, Matt started performing at the age of fifteen then moved out to Lo
+ s Angeles two years later where he began his career in Hollywood.\nIn ad
+ dition to stand–up\, he made his television debut on MTV’s Wild ‘N 
+ Out as the youngest cast member in history for four seasons before movin
+ g on to other MTV properties\, such as hosting the reboot of TRL and ap
+ pearing on The Challenge. Other credits include Brooklyn Nine–Nine\,
+  Fresh Off The Boat\, BET’s North Of The 10\, and NBC’s comedy com
+ petition show Bring The Funny.\nIn 2021\, Rife self–produced and distr
+ ibuted through YouTube his first one–hour comedy special\, “Only Fa
+ ns”. This past April\, the comedian bet on himself again and self–rele
+ ased his highly anticipated second stand–up special\, “Matthew Steve
+ n Rife” on YouTube. The special was taped in Austin\, TX and is ded
+ icated to his biggest role model\, his grandfather Steven who had recent
+ ly passed. He’ll be taping his third stand–up special this fall in 
+ Washington\, DC.\nWEBSITE: https://www.mattrifeofficial.com/TIKTOK: http
+ s://www.tiktok.com/@matt_rifeFACEBOOK: https://www.facebook.com/ItsMattRi
+ fe/YOUTUBE: https://www.youtube.com/@MattRifeComedyTWITTER: https://twit
+ ter.com/mattrifeINSTAGRAM: https://www.instagram.com/mattrife\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jacob Collier: DJESSE VOL. 4 NORTH AMERICA TOUR
 DTSTART:20240429T230000Z
 DTEND:20240430T010000Z
-DTSTAMP:20240417T005457Z
+DTSTAMP:20240418T005345Z
 DESCRIPTION:Info: https://themetphilly.com/event/jacob-collier/\n\nDoors a
  t 6:00 pm\nShow starts at 7:00 pm\n\n\nwith special guest Kimbra\nDoors op
  en at 6:00PM\nRecognized by audiences\, critics and fellow musicians alike
@@ -219,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:The Black Crowes: Happiness Bastards Tour '24
 DTSTART:20240508T000000Z
 DTEND:20240508T020000Z
-DTSTAMP:20240417T005458Z
+DTSTAMP:20240418T005345Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-black-crowes/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nWMMR Presents\nwith The Asteroid
   No.4\nDoors open at 6:30pm.\n
@@ -229,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Dr. Jordan Peterson
 DTSTART:20240509T233000Z
 DTEND:20240510T013000Z
-DTSTAMP:20240417T005458Z
+DTSTAMP:20240418T005345Z
 DESCRIPTION:Info: https://themetphilly.com/event/dr-jordan-peterson/\n\nDo
  ors at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30P.M.\nDr. Jo
  rdan B Peterson is a best-selling author\, psychologist\, Professor Emerit
@@ -259,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Laufey: Bewitched: The Goddess Tour
 DTSTART:20240511T000000Z
 DTEND:20240511T020000Z
-DTSTAMP:20240417T005458Z
+DTSTAMP:20240418T005345Z
 DESCRIPTION:Info: https://themetphilly.com/event/laufey/\n\nDoors at 7:00 
  pm\nShow starts at 8:00 pm\n\n\n\n\n\nSupport: Wasia Project\n\n\n\n\n\n\n
  \n\nGeneral Onsale:\n\n\n\n\n\n\n\nDec 8\, 2023 • Fri • 10:00 AM – M
@@ -288,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Raffi
 DTSTART:20240512T203000Z
 DTEND:20240512T223000Z
-DTSTAMP:20240417T005458Z
+DTSTAMP:20240418T005346Z
 DESCRIPTION:Info: https://themetphilly.com/event/raffi/\n\nDoors at 3:30 p
  m\nShow starts at 4:30 pm\n\n\nDoors open at 3:30p.m.\nPLEASE NOTE: All gu
  ests over 12 months old will need a ticket to enter the building.\nRaffi\,
@@ -319,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Norah Jones: with special guest Emily King
 DTSTART:20240516T000000Z
 DTEND:20240516T020000Z
-DTSTAMP:20240417T005459Z
+DTSTAMP:20240418T005346Z
 DESCRIPTION:Info: https://themetphilly.com/event/norah-jones/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30 p.m.\nNorah Jones 
  first emerged on the world stage with the 2002 release of Come Away With M
@@ -348,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Tye Tribbett and Friends: Only One Night Tho
 DTSTART:20240516T233000Z
 DTEND:20240517T013000Z
-DTSTAMP:20240417T005459Z
+DTSTAMP:20240418T005346Z
 DESCRIPTION:Info: https://themetphilly.com/event/tye-tribbett/\n\nDoors at
   6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -357,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:The Basement Yard Experience
 DTSTART:20240518T000000Z
 DTEND:20240518T020000Z
-DTSTAMP:20240417T005459Z
+DTSTAMP:20240418T005346Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-basement-yard-experie
  nce/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30p.
  m.\nFor the first time ever\, The Basement Yard boys are hitting th
@@ -372,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:100.3 WRNB Presents RnB Fest 2024: starring Ashanti
 DTSTART:20240520T000000Z
 DTEND:20240520T020000Z
-DTSTAMP:20240417T005459Z
+DTSTAMP:20240418T005346Z
 DESCRIPTION:Info: https://themetphilly.com/event/100-3-wrnb-presents-rnb-f
  est-2024/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7
  :00 p.m.\nLINEUP:\nAshanti (headliner)\nLloyd\nMýa\nMaeta\n
@@ -382,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Sleep Token: The Teeth of God Tour 2024
 DTSTART:20240521T000000Z
 DTEND:20240521T020000Z
-DTSTAMP:20240417T005459Z
+DTSTAMP:20240418T005347Z
 DESCRIPTION:Info: https://themetphilly.com/event/sleep-token/\n\nDoors at 
  6:30 pm\nShow starts at 8:00 pm\n\n\nwith special guest Empire State Basta
  rd\nDoors open at 6:30p.m.\nPLEASE NOTE: To reduce staff contact with gues
@@ -394,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:Khruangbin: A La Sala 2024
 DTSTART:20240521T233000Z
 DTEND:20240522T013000Z
-DTSTAMP:20240417T005500Z
+DTSTAMP:20240418T005347Z
 DESCRIPTION:Info: https://themetphilly.com/event/khruangbin-3/\n\nDoors at
   6:00 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -403,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Khruangbin: A La Sala Tour
 DTSTART:20240522T233000Z
 DTEND:20240523T013000Z
-DTSTAMP:20240417T005500Z
+DTSTAMP:20240418T005347Z
 DESCRIPTION:Info: https://themetphilly.com/event/khruangbin-2/\n\nDoors at
   6:00 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:00p.m.\n \n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -412,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Khruangbin: A La Sala Tour
 DTSTART:20240523T233000Z
 DTEND:20240524T013000Z
-DTSTAMP:20240417T005500Z
+DTSTAMP:20240418T005347Z
 DESCRIPTION:Info: https://themetphilly.com/event/khruangbin/\n\nDoors at 6
  :00 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:00p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -421,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Tank: R&B MONEY TOUR
 DTSTART:20240527T000000Z
 DTEND:20240527T020000Z
-DTSTAMP:20240417T005500Z
+DTSTAMP:20240418T005348Z
 DESCRIPTION:Info: https://themetphilly.com/event/tank/\n\nDoors at 7:00 pm
  \nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -430,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Bonnie Raitt: WXPN Welcomes
 DTSTART:20240608T000000Z
 DTEND:20240608T020000Z
-DTSTAMP:20240417T005500Z
+DTSTAMP:20240418T005348Z
 DESCRIPTION:Info: https://themetphilly.com/event/bonnie-raitt/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nwith special guest James Hunter\nDoo
  rs open at 7:00 PM\nJust Like That… Tour 2024\n
@@ -440,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Gary Clark Jr.
 DTSTART:20240609T000000Z
 DTEND:20240609T020000Z
-DTSTAMP:20240417T005501Z
+DTSTAMP:20240418T005348Z
 DESCRIPTION:Info: https://themetphilly.com/event/gary-clark-jr-2/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00p.m.\nClark achieved
   global impact following his first Grammy Award® in 2014\, winning Best T
@@ -479,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:Bleachers
 DTSTART:20240612T233000Z
 DTEND:20240613T013000Z
-DTSTAMP:20240417T005501Z
+DTSTAMP:20240418T005348Z
 DESCRIPTION:Info: https://themetphilly.com/event/bleachers/\n\nDoors at 6:
  30 pm\nShow starts at 7:30 pm\n\n\nSupport: Samia\n$1 per ticket will go t
  o support TAC’s work to support unhoused LGBTQ youths.\n
@@ -489,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Teskey Brothers: with special guest Trousdale
 DTSTART:20240619T000000Z
 DTEND:20240619T020000Z
-DTSTAMP:20240417T005501Z
+DTSTAMP:20240418T005349Z
 DESCRIPTION:Info: https://themetphilly.com/event/teskey-brothers/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00PM\nSignup for 
  Presale Access here: https://www.theteskeybrothers.com/#tour\nFollowing a 
@@ -517,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:The Kid LAROI: First Time Tour 2024
 DTSTART:20240620T233000Z
 DTEND:20240621T013000Z
-DTSTAMP:20240417T005502Z
+DTSTAMP:20240418T005349Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-kid-laroi/\n\nDoors a
  t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -526,16 +517,17 @@ BEGIN:VEVENT
 SUMMARY:Something Corporate: Out Of Office Tour 2024
 DTSTART:20240623T000000Z
 DTEND:20240623T020000Z
-DTSTAMP:20240417T005502Z
+DTSTAMP:20240418T005349Z
 DESCRIPTION:Info: https://themetphilly.com/event/something-corporate/\n\nD
- oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00 p.m.\n
+ oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nWith special guest: Days Away
+ \nDoors at 7:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lizzy McAlpine: The Older Tour
 DTSTART:20240625T000000Z
 DTEND:20240625T020000Z
-DTSTAMP:20240417T005502Z
+DTSTAMP:20240418T005349Z
 DESCRIPTION:Info: https://themetphilly.com/event/lizzy-mcalpine/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nAn Evening with Lizzy McAlpine\nDo
  ors open at 7:00p.m.\n
@@ -545,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:Lizzy McAlpine: The Older Tour
 DTSTART:20240626T000000Z
 DTEND:20240626T020000Z
-DTSTAMP:20240417T005503Z
+DTSTAMP:20240418T005349Z
 DESCRIPTION:Info: https://themetphilly.com/event/lizzy-mcalpine-2/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nAn Evening with Lizzy McAlpine\n
  Doors open at 7:00p.m.\n
@@ -556,7 +548,7 @@ SUMMARY:It’s Time Presents: Girls Night Out Tour: with Kierra Sheard + m
  ore
 DTSTART:20240718T230000Z
 DTEND:20240719T010000Z
-DTSTAMP:20240417T005503Z
+DTSTAMP:20240418T005350Z
 DESCRIPTION:Info: https://themetphilly.com/event/its-time-presents-girls-n
  ight-out-tour/\n\nDoors at 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open
   at 6:00 p.m.\n \n
@@ -566,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Justice
 DTSTART:20240801T000000Z
 DTEND:20240801T020000Z
-DTSTAMP:20240417T005503Z
+DTSTAMP:20240418T005350Z
 DESCRIPTION:Info: https://themetphilly.com/event/justice/\n\nDoors at 7:00
   pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -575,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:The Marías: The Submarine Tour
 DTSTART:20240804T000000Z
 DTEND:20240804T020000Z
-DTSTAMP:20240417T005503Z
+DTSTAMP:20240418T005350Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-marias/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nSupport: Automatic\nDoors open at 7:00
  p.m.\n
@@ -585,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:Lindsey Stirling: The Duality Tour
 DTSTART:20240814T230000Z
 DTEND:20240815T010000Z
-DTSTAMP:20240417T005503Z
+DTSTAMP:20240418T005350Z
 DESCRIPTION:Info: https://themetphilly.com/event/lindsey-stirling-3/\n\nDo
  ors at 6:00 pm\nShow starts at 7:00 pm\n\n\nSupport: Walk off the Earth\nD
  oors at 6:00p.m.\nFew artists embody boundless creativity quite like Linds
@@ -633,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:St. Vincent: All Born Screaming Tour
 DTSTART:20240907T000000Z
 DTEND:20240907T020000Z
-DTSTAMP:20240417T005504Z
+DTSTAMP:20240418T005350Z
 DESCRIPTION:Info: https://themetphilly.com/event/st-vincent-2/\n\nDoors at
   \nShow starts at 8:00 pm\n\n\nSupport: Yves Tumor\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -642,7 +634,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening With PJ Harvey: WXPN Welcomes
 DTSTART:20240914T000000Z
 DTEND:20240914T020000Z
-DTSTAMP:20240417T005504Z
+DTSTAMP:20240418T005351Z
 DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-pj-harvey
  /\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30p.m.\
  n
@@ -652,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:Dashboard Confessional
 DTSTART:20240915T223000Z
 DTEND:20240916T003000Z
-DTSTAMP:20240417T005505Z
+DTSTAMP:20240418T005351Z
 DESCRIPTION:Info: https://themetphilly.com/event/dashboard-confessional/\n
  \nDoors at 5:30 pm\nShow starts at 6:30 pm\n\n\nSupport: Boys Like Girls\n
  Doors open at 5:30p.m.\n
@@ -662,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrence: The Family Business Tour
 DTSTART:20240918T000000Z
 DTEND:20240918T020000Z
-DTSTAMP:20240417T005505Z
+DTSTAMP:20240418T005351Z
 DESCRIPTION:Info: https://themetphilly.com/event/lawrence/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00pm.\n_________________
  ________________________________________\nAs NPR writes\, “siblings Clyd
@@ -730,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Keane: Celebrating 20 Years Of Hopes And Fears
 DTSTART:20240922T000000Z
 DTEND:20240922T020000Z
-DTSTAMP:20240417T005505Z
+DTSTAMP:20240418T005351Z
 DESCRIPTION:Info: https://themetphilly.com/event/keane/\n\nDoors at 6:30 p
  m\nShow starts at 8:00 pm\n\n\nDoors at 6:30p.m.\nPLEASE NOTE: To reduce s
  taff contact with guest belongings\, we have implemented the following bag
@@ -742,7 +734,7 @@ BEGIN:VEVENT
 SUMMARY:Sigur Rós: WXPN Welcomes
 DTSTART:20240924T000000Z
 DTEND:20240924T020000Z
-DTSTAMP:20240417T005505Z
+DTSTAMP:20240418T005352Z
 DESCRIPTION:Info: https://themetphilly.com/event/sigur-ros-2/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nPerforming with Wordless Music Orches
  tra\nDoors open at 7:00p.m.\n
@@ -752,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:Justin Moore & Randy Houser: The Country Round Here Tonight Tour
 DTSTART:20240928T230000Z
 DTEND:20240929T010000Z
-DTSTAMP:20240417T005506Z
+DTSTAMP:20240418T005352Z
 DESCRIPTION:Info: https://themetphilly.com/event/justin-moore-randy-houser
  /\n\nDoors at 5:30 pm\nShow starts at 7:00 pm\n\n\nDoors at 5:30 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -761,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:Sting 3.0
 DTSTART:20241001T000000Z
 DTEND:20241001T020000Z
-DTSTAMP:20240417T005506Z
+DTSTAMP:20240418T005353Z
 DESCRIPTION:Info: https://themetphilly.com/event/sting-3-0-2/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nSTING 3.0 is a three-piece featuring:
   Sting\, guitarist: Domenic Miller\, & Drummer: Chris Maas\n
@@ -771,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:Sting 3.0
 DTSTART:20241002T000000Z
 DTEND:20241002T020000Z
-DTSTAMP:20240417T005506Z
+DTSTAMP:20240418T005353Z
 DESCRIPTION:Info: https://themetphilly.com/event/sting-3-0/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nSTING 3.0 (as the name suggests) is a
   three-piece featuring: Sting\, guitarist Domenic Miller & Drummer Chris
@@ -782,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:Pod Save America: The Democracy or Else Tour
 DTSTART:20241006T233000Z
 DTEND:20241007T013000Z
-DTSTAMP:20240417T005507Z
+DTSTAMP:20240418T005353Z
 DESCRIPTION:Info: https://themetphilly.com/event/pod-save-america/\n\nDoor
  s at 6:30 pm\nShow starts at 7:30 pm\n\n\nJoin former Obama aides Jon Favr
  eau\, Jon Lovett\, Dan Pfeiffer\, and Tommy Vietor for IRL\, no-bullshit c
@@ -800,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:Avatar: The Last Airbender In Concert
 DTSTART:20241009T233000Z
 DTEND:20241010T013000Z
-DTSTAMP:20240417T005507Z
+DTSTAMP:20240418T005353Z
 DESCRIPTION:Info: https://themetphilly.com/event/avatar-the-last-airbender
  -in-concert/\n\nDoors at 6:00 pm\nShow starts at 7:30 pm\n\n\nDoors open a
  t 6:00p.m.\n
@@ -810,7 +802,7 @@ BEGIN:VEVENT
 SUMMARY:Nothing But Thieves
 DTSTART:20241012T000000Z
 DTEND:20241012T020000Z
-DTSTAMP:20240417T005507Z
+DTSTAMP:20240418T005354Z
 DESCRIPTION:Info: https://themetphilly.com/event/nothing-but-thieves/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nBritish rock band\, formed in
   2012 in Southend-on-Sea\, Essex consisting of lead vocalist and guitarist
@@ -826,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:AIR: performing Moon Safari
 DTSTART:20241018T000000Z
 DTEND:20241018T020000Z
-DTSTAMP:20240417T005507Z
+DTSTAMP:20240418T005354Z
 DESCRIPTION:Info: https://themetphilly.com/event/air/\n\nDoors at 7:00 pm\
  nShow starts at 8:00 pm\n\n\nDoors open at 7:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -835,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:Orville Peck: Stampede Tour
 DTSTART:20241019T000000Z
 DTEND:20241019T020000Z
-DTSTAMP:20240417T005508Z
+DTSTAMP:20240418T005354Z
 DESCRIPTION:Info: https://themetphilly.com/event/orville-peck/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nSupport: Nikki Lane\, Vincent Neil E
  merson\nDoors open at 7:00p.m.\n
@@ -845,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241205T003000Z
 DTEND:20241205T023000Z
-DTSTAMP:20240417T005508Z
+DTSTAMP:20240418T005354Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart/\n\nDoors at 6
  :00 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE: T
  his event will be a phone-free experience. Use of phones\, smart watches a
@@ -902,7 +894,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241213T003000Z
 DTEND:20241213T023000Z
-DTSTAMP:20240417T005508Z
+DTSTAMP:20240418T005355Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-2/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -911,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241214T000000Z
 DTEND:20241214T020000Z
-DTSTAMP:20240417T005509Z
+DTSTAMP:20240418T005355Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-3/\n\nDoors 
  at 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
