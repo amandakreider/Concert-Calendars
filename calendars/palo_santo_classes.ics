@@ -1,19 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:MYSORE YOGA PHILLY - IN-STUDIO with Meghan Marshall
-DTSTART:20240422T100000Z
-DTEND:20240422T130000Z
-DTSTAMP:20240505T012110Z
-DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
- ws?studioid=218661&stype=-7&sView=week&sLoc=0
-LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
-  PA 19148\, USA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MYSORE YOGA PHILLY - IN-STUDIO with Meghan Marshall
 DTSTART:20240429T100000Z
 DTEND:20240429T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -23,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:MYSORE YOGA PHILLY - IN-STUDIO with Meghan Marshall
 DTSTART:20240506T100000Z
 DTEND:20240506T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -33,17 +23,17 @@ BEGIN:VEVENT
 SUMMARY:MYSORE YOGA PHILLY - IN-STUDIO with Meghan Marshall
 DTSTART:20240513T100000Z
 DTEND:20240513T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PEAK ALINE & FLOW - IN-STUDIO & ONLINE with Stef Kroll
-DTSTART:20240422T160000Z
-DTEND:20240422T170000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:MYSORE YOGA PHILLY - IN-STUDIO with Meghan Marshall
+DTSTART:20240520T100000Z
+DTEND:20240520T130000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -53,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:PEAK ALINE & FLOW - IN-STUDIO & ONLINE with Stef Kroll
 DTSTART:20240429T160000Z
 DTEND:20240429T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -63,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:PEAK ALINE & FLOW - IN-STUDIO & ONLINE with Stef Kroll
 DTSTART:20240506T160000Z
 DTEND:20240506T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -73,17 +63,17 @@ BEGIN:VEVENT
 SUMMARY:PEAK ALINE & FLOW - IN-STUDIO & ONLINE with Stef Kroll
 DTSTART:20240513T160000Z
 DTEND:20240513T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LET GO & FLOW - IN-STUDIO with Kirsten Youngren
-DTSTART:20240422T213000Z
-DTEND:20240422T223000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:PEAK ALINE & FLOW - IN-STUDIO & ONLINE with Stef Kroll
+DTSTART:20240520T160000Z
+DTEND:20240520T170000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -93,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:LET GO & FLOW - IN-STUDIO with Kirsten Youngren
 DTSTART:20240429T213000Z
 DTEND:20240429T223000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -103,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:LET GO & FLOW - IN-STUDIO with Kirsten Youngren
 DTSTART:20240506T213000Z
 DTEND:20240506T223000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -113,17 +103,17 @@ BEGIN:VEVENT
 SUMMARY:LET GO & FLOW - IN-STUDIO with Kirsten Youngren
 DTSTART:20240513T213000Z
 DTEND:20240513T223000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:METAL MONDAYS - IN-STUDIO (heavy metal + vinyasa) with Deb Cohen
-DTSTART:20240422T230000Z
-DTEND:20240423T001500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:LET GO & FLOW - IN-STUDIO with Kirsten Youngren
+DTSTART:20240520T213000Z
+DTEND:20240520T223000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -133,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:METAL MONDAYS - IN-STUDIO (heavy metal + vinyasa) with Deb Cohen
 DTSTART:20240429T230000Z
 DTEND:20240430T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -143,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:METAL MONDAYS - IN-STUDIO (heavy metal + vinyasa) with Deb Cohen
 DTSTART:20240506T230000Z
 DTEND:20240507T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -153,17 +143,17 @@ BEGIN:VEVENT
 SUMMARY:METAL MONDAYS - IN-STUDIO (heavy metal + vinyasa) with Deb Cohen
 DTSTART:20240513T230000Z
 DTEND:20240514T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VIBRANT VINYASA - IN-STUDIO & ONLINE with Stef Kroll
-DTSTART:20240423T130000Z
-DTEND:20240423T140000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:METAL MONDAYS - IN-STUDIO (heavy metal + vinyasa) with Deb Cohen
+DTSTART:20240520T230000Z
+DTEND:20240521T001500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -173,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:VIBRANT VINYASA - IN-STUDIO & ONLINE with Stef Kroll
 DTSTART:20240430T130000Z
 DTEND:20240430T140000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -183,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:VIBRANT VINYASA - IN-STUDIO & ONLINE with Stef Kroll
 DTSTART:20240507T130000Z
 DTEND:20240507T140000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -193,17 +183,17 @@ BEGIN:VEVENT
 SUMMARY:VIBRANT VINYASA - IN-STUDIO & ONLINE with Stef Kroll
 DTSTART:20240514T130000Z
 DTEND:20240514T140000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VIGOROUS VINYASA - IN-STUDIO & ONLINE with Aria Trueblood
-DTSTART:20240423T160000Z
-DTEND:20240423T170000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:VIBRANT VINYASA - IN-STUDIO & ONLINE with Stef Kroll
+DTSTART:20240521T130000Z
+DTEND:20240521T140000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -213,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:VIGOROUS VINYASA - IN-STUDIO & ONLINE with Aria Trueblood
 DTSTART:20240430T160000Z
 DTEND:20240430T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -223,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:VIGOROUS VINYASA - IN-STUDIO & ONLINE with Aria Trueblood
 DTSTART:20240507T160000Z
 DTEND:20240507T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -233,17 +223,17 @@ BEGIN:VEVENT
 SUMMARY:VIGOROUS VINYASA - IN-STUDIO & ONLINE with Aria Trueblood
 DTSTART:20240514T160000Z
 DTEND:20240514T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ENLIVENING FIRE FLOW - IN-STUDIO with Laura Zales
-DTSTART:20240423T214500Z
-DTEND:20240423T230000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:VIGOROUS VINYASA - IN-STUDIO & ONLINE with Aria Trueblood
+DTSTART:20240521T160000Z
+DTEND:20240521T170000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -253,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:ENLIVENING FIRE FLOW - IN-STUDIO with Laura Zales
 DTSTART:20240430T214500Z
 DTEND:20240430T230000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -263,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:ENLIVENING FIRE FLOW - IN-STUDIO with Laura Zales
 DTSTART:20240507T214500Z
 DTEND:20240507T230000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -273,18 +263,17 @@ BEGIN:VEVENT
 SUMMARY:ENLIVENING FIRE FLOW - IN-STUDIO with Laura Zales
 DTSTART:20240514T214500Z
 DTEND:20240514T230000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WELL ROUNDED COMMUNITY FLOW - IN-STUDIO with Shannon Corbett & Lau
- ren Van Blunk
-DTSTART:20240423T231500Z
-DTEND:20240424T001500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:ENLIVENING FIRE FLOW - IN-STUDIO with Laura Zales
+DTSTART:20240521T214500Z
+DTEND:20240521T230000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -295,7 +284,7 @@ SUMMARY:WELL ROUNDED COMMUNITY FLOW - IN-STUDIO with Shannon Corbett & Lau
  ren Van Blunk
 DTSTART:20240430T231500Z
 DTEND:20240501T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -306,7 +295,7 @@ SUMMARY:WELL ROUNDED COMMUNITY FLOW - IN-STUDIO with Shannon Corbett & Lau
  ren Van Blunk
 DTSTART:20240507T231500Z
 DTEND:20240508T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -317,17 +306,18 @@ SUMMARY:WELL ROUNDED COMMUNITY FLOW - IN-STUDIO with Shannon Corbett & Lau
  ren Van Blunk
 DTSTART:20240514T231500Z
 DTEND:20240515T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MYSORE YOGA PHILLY  - IN-STUDIO with Aria Trueblood
-DTSTART:20240424T100000Z
-DTEND:20240424T130000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:WELL ROUNDED COMMUNITY FLOW - IN-STUDIO with Shannon Corbett & Lau
+ ren Van Blunk
+DTSTART:20240521T231500Z
+DTEND:20240522T001500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -337,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:MYSORE YOGA PHILLY  - IN-STUDIO with Aria Trueblood
 DTSTART:20240501T100000Z
 DTEND:20240501T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -347,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:MYSORE YOGA PHILLY  - IN-STUDIO with Aria Trueblood
 DTSTART:20240508T100000Z
 DTEND:20240508T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -357,17 +347,17 @@ BEGIN:VEVENT
 SUMMARY:MYSORE YOGA PHILLY  - IN-STUDIO with Aria Trueblood
 DTSTART:20240515T100000Z
 DTEND:20240515T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALIGN & FLOW VINYASA - IN-STUDIO & ONLINE with Shannon Corbett
-DTSTART:20240424T130000Z
-DTEND:20240424T140000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:MYSORE YOGA PHILLY  - IN-STUDIO with Aria Trueblood
+DTSTART:20240522T100000Z
+DTEND:20240522T130000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -377,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:ALIGN & FLOW VINYASA - IN-STUDIO & ONLINE with Shannon Corbett
 DTSTART:20240501T130000Z
 DTEND:20240501T140000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -387,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:ALIGN & FLOW VINYASA - IN-STUDIO & ONLINE with Shannon Corbett
 DTSTART:20240508T130000Z
 DTEND:20240508T140000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -397,17 +387,17 @@ BEGIN:VEVENT
 SUMMARY:ALIGN & FLOW VINYASA - IN-STUDIO & ONLINE with Shannon Corbett
 DTSTART:20240515T130000Z
 DTEND:20240515T140000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
-DTSTART:20240424T160000Z
-DTEND:20240424T170000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:ALIGN & FLOW VINYASA - IN-STUDIO & ONLINE with Shannon Corbett
+DTSTART:20240522T130000Z
+DTEND:20240522T140000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -417,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
 DTSTART:20240501T160000Z
 DTEND:20240501T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -427,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
 DTSTART:20240508T160000Z
 DTEND:20240508T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -437,17 +427,17 @@ BEGIN:VEVENT
 SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
 DTSTART:20240515T160000Z
 DTEND:20240515T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POWER & PRESENCE FLOW - IN-STUDIO with Dave Walling
-DTSTART:20240424T213000Z
-DTEND:20240424T223000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
+DTSTART:20240522T160000Z
+DTEND:20240522T170000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -457,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:POWER & PRESENCE FLOW - IN-STUDIO with Dave Walling
 DTSTART:20240501T213000Z
 DTEND:20240501T223000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -467,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:POWER & PRESENCE FLOW - IN-STUDIO with Dave Walling
 DTSTART:20240508T213000Z
 DTEND:20240508T223000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -477,17 +467,17 @@ BEGIN:VEVENT
 SUMMARY:POWER & PRESENCE FLOW - IN-STUDIO with Dave Walling
 DTSTART:20240515T213000Z
 DTEND:20240515T223000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:YIN + RESTORATIVE YOGA - IN-STUDIO with Rotating Teachers
-DTSTART:20240424T230000Z
-DTEND:20240425T001500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:POWER & PRESENCE FLOW - IN-STUDIO with Dave Walling
+DTSTART:20240522T213000Z
+DTEND:20240522T223000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -497,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:YIN + RESTORATIVE YOGA - IN-STUDIO with Rotating Teachers
 DTSTART:20240501T230000Z
 DTEND:20240502T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -507,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:YIN + RESTORATIVE YOGA - IN-STUDIO with Rotating Teachers
 DTSTART:20240508T230000Z
 DTEND:20240509T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -517,17 +507,17 @@ BEGIN:VEVENT
 SUMMARY:YIN + RESTORATIVE YOGA - IN-STUDIO with Rotating Teachers
 DTSTART:20240515T230000Z
 DTEND:20240516T001500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Sarah Crake
-DTSTART:20240425T100000Z
-DTEND:20240425T130000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:YIN + RESTORATIVE YOGA - IN-STUDIO with Rotating Teachers
+DTSTART:20240522T230000Z
+DTEND:20240523T001500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -537,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Sarah Crake
 DTSTART:20240502T100000Z
 DTEND:20240502T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -547,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Sarah Crake
 DTSTART:20240509T100000Z
 DTEND:20240509T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -557,17 +547,17 @@ BEGIN:VEVENT
 SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Sarah Crake
 DTSTART:20240516T100000Z
 DTEND:20240516T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PRANA VINYASA -  IN-STUDIO & ONLINE with MJ Heart
-DTSTART:20240425T130000Z
-DTEND:20240425T141500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Sarah Crake
+DTSTART:20240523T100000Z
+DTEND:20240523T130000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -577,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:PRANA VINYASA -  IN-STUDIO & ONLINE with MJ Heart
 DTSTART:20240502T130000Z
 DTEND:20240502T141500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -587,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:PRANA VINYASA -  IN-STUDIO & ONLINE with MJ Heart
 DTSTART:20240509T130000Z
 DTEND:20240509T141500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -597,17 +587,17 @@ BEGIN:VEVENT
 SUMMARY:PRANA VINYASA -  IN-STUDIO & ONLINE with MJ Heart
 DTSTART:20240516T130000Z
 DTEND:20240516T141500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HEART FIRE FLOW - with Damodar Cordua
-DTSTART:20240425T160000Z
-DTEND:20240425T170000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:PRANA VINYASA -  IN-STUDIO & ONLINE with MJ Heart
+DTSTART:20240523T130000Z
+DTEND:20240523T141500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -617,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:HEART FIRE FLOW - with Damodar Cordua
 DTSTART:20240502T160000Z
 DTEND:20240502T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -627,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:HEART FIRE FLOW - with Damodar Cordua
 DTSTART:20240509T160000Z
 DTEND:20240509T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -637,17 +627,17 @@ BEGIN:VEVENT
 SUMMARY:HEART FIRE FLOW - with Damodar Cordua
 DTSTART:20240516T160000Z
 DTEND:20240516T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MAHA PRANA: HIMALAYAN KRIYA YOGA- IN-STUDIO with Josh Evans
-DTSTART:20240425T214500Z
-DTEND:20240425T230000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:HEART FIRE FLOW - with Damodar Cordua
+DTSTART:20240523T160000Z
+DTEND:20240523T170000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -657,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:MAHA PRANA: HIMALAYAN KRIYA YOGA- IN-STUDIO with Josh Evans
 DTSTART:20240502T214500Z
 DTEND:20240502T230000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -667,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:MAHA PRANA: HIMALAYAN KRIYA YOGA- IN-STUDIO with Josh Evans
 DTSTART:20240509T214500Z
 DTEND:20240509T230000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -677,17 +667,17 @@ BEGIN:VEVENT
 SUMMARY:MAHA PRANA: HIMALAYAN KRIYA YOGA- IN-STUDIO with Josh Evans
 DTSTART:20240516T214500Z
 DTEND:20240516T230000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
-DTSTART:20240425T231500Z
-DTEND:20240426T004500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:MAHA PRANA: HIMALAYAN KRIYA YOGA- IN-STUDIO with Josh Evans
+DTSTART:20240523T214500Z
+DTEND:20240523T230000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -697,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
 DTSTART:20240502T231500Z
 DTEND:20240503T004500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -707,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
 DTSTART:20240509T231500Z
 DTEND:20240510T004500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -717,17 +707,17 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
 DTSTART:20240516T231500Z
 DTEND:20240517T004500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Meghan Marshall
-DTSTART:20240426T100000Z
-DTEND:20240426T130000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
+DTSTART:20240523T231500Z
+DTEND:20240524T004500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -737,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Meghan Marshall
 DTSTART:20240503T100000Z
 DTEND:20240503T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -747,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Meghan Marshall
 DTSTART:20240510T100000Z
 DTEND:20240510T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -757,17 +747,17 @@ BEGIN:VEVENT
 SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Meghan Marshall
 DTSTART:20240517T100000Z
 DTEND:20240517T130000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
-DTSTART:20240426T160000Z
-DTEND:20240426T170000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:MYSORE  YOGA PHILLY  - IN-STUDIO with Meghan Marshall
+DTSTART:20240524T100000Z
+DTEND:20240524T130000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -777,7 +767,7 @@ BEGIN:VEVENT
 SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
 DTSTART:20240503T160000Z
 DTEND:20240503T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -787,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
 DTSTART:20240510T160000Z
 DTEND:20240510T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -797,18 +787,17 @@ BEGIN:VEVENT
 SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
 DTSTART:20240517T160000Z
 DTEND:20240517T170000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HAPPY HOUR VINYASA  - IN-STUDIO with Rotating MJ Heart & Damodar C
- ordua
-DTSTART:20240426T211500Z
-DTEND:20240426T221500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:JOY FULL HOUR FLOW - IN-STUDIO & ONLINE with Renee G
+DTSTART:20240524T160000Z
+DTEND:20240524T170000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -819,7 +808,7 @@ SUMMARY:HAPPY HOUR VINYASA  - IN-STUDIO with Rotating MJ Heart & Damodar C
  ordua
 DTSTART:20240503T211500Z
 DTEND:20240503T221500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -830,7 +819,7 @@ SUMMARY:HAPPY HOUR VINYASA  - IN-STUDIO with Rotating MJ Heart & Damodar C
  ordua
 DTSTART:20240510T211500Z
 DTEND:20240510T221500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -841,17 +830,18 @@ SUMMARY:HAPPY HOUR VINYASA  - IN-STUDIO with Rotating MJ Heart & Damodar C
  ordua
 DTSTART:20240517T211500Z
 DTEND:20240517T221500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VARIETY FLOW - IN-STUDIO with Rotating Teacher
-DTSTART:20240427T143000Z
-DTEND:20240427T154500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:HAPPY HOUR VINYASA  - IN-STUDIO with Rotating MJ Heart & Damodar C
+ ordua
+DTSTART:20240524T211500Z
+DTEND:20240524T221500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -861,7 +851,7 @@ BEGIN:VEVENT
 SUMMARY:VARIETY FLOW - IN-STUDIO with Rotating Teacher
 DTSTART:20240504T143000Z
 DTEND:20240504T154500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -871,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:VARIETY FLOW - IN-STUDIO with Rotating Teacher
 DTSTART:20240511T143000Z
 DTEND:20240511T154500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -881,18 +871,17 @@ BEGIN:VEVENT
 SUMMARY:VARIETY FLOW - IN-STUDIO with Rotating Teacher
 DTSTART:20240518T143000Z
 DTEND:20240518T154500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:YTT COMMUNITY YOGA CLASS - IN-STUDIO (donation-based) *STARTS MAY 
- 18TH* with Yoga Teacher Training Graduates
-DTSTART:20240427T161500Z
-DTEND:20240427T171500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:VARIETY FLOW - IN-STUDIO with Rotating Teacher
+DTSTART:20240525T143000Z
+DTEND:20240525T154500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -903,7 +892,7 @@ SUMMARY:YTT COMMUNITY YOGA CLASS - IN-STUDIO (donation-based) *STARTS MAY
  18TH* with Yoga Teacher Training Graduates
 DTSTART:20240504T161500Z
 DTEND:20240504T171500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -914,7 +903,7 @@ SUMMARY:YTT COMMUNITY YOGA CLASS - IN-STUDIO (donation-based) *STARTS MAY
  18TH* with Yoga Teacher Training Graduates
 DTSTART:20240511T161500Z
 DTEND:20240511T171500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -925,17 +914,18 @@ SUMMARY:YTT COMMUNITY YOGA CLASS - IN-STUDIO (donation-based) *STARTS MAY
  18TH* with Yoga Teacher Training Graduates
 DTSTART:20240518T161500Z
 DTEND:20240518T171500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SATTVIC SUNDAY VINYASA - IN-STUDIO with Seth Sheffler-Collins
-DTSTART:20240428T130000Z
-DTEND:20240428T141500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:YTT COMMUNITY YOGA CLASS - IN-STUDIO (donation-based) *STARTS MAY 
+ 18TH* with Yoga Teacher Training Graduates
+DTSTART:20240525T161500Z
+DTEND:20240525T171500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -945,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:SATTVIC SUNDAY VINYASA - IN-STUDIO with Seth Sheffler-Collins
 DTSTART:20240505T130000Z
 DTEND:20240505T141500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -955,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:SATTVIC SUNDAY VINYASA - IN-STUDIO with Seth Sheffler-Collins
 DTSTART:20240512T130000Z
 DTEND:20240512T141500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -965,17 +955,17 @@ BEGIN:VEVENT
 SUMMARY:SATTVIC SUNDAY VINYASA - IN-STUDIO with Seth Sheffler-Collins
 DTSTART:20240519T130000Z
 DTEND:20240519T141500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPIRITUALIZED! BHAKTI FLOW - IN-STUDIO with Bob Healey
-DTSTART:20240428T143000Z
-DTEND:20240428T154500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:SATTVIC SUNDAY VINYASA - IN-STUDIO with Seth Sheffler-Collins
+DTSTART:20240526T130000Z
+DTEND:20240526T141500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -985,7 +975,7 @@ BEGIN:VEVENT
 SUMMARY:SPIRITUALIZED! BHAKTI FLOW - IN-STUDIO with Bob Healey
 DTSTART:20240505T143000Z
 DTEND:20240505T154500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -995,7 +985,7 @@ BEGIN:VEVENT
 SUMMARY:SPIRITUALIZED! BHAKTI FLOW - IN-STUDIO with Bob Healey
 DTSTART:20240512T143000Z
 DTEND:20240512T154500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -1005,17 +995,17 @@ BEGIN:VEVENT
 SUMMARY:SPIRITUALIZED! BHAKTI FLOW - IN-STUDIO with Bob Healey
 DTSTART:20240519T143000Z
 DTEND:20240519T154500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RECOVERY YOGA - *SELECT SUNDAYS with Joe Huntenburg
-DTSTART:20240428T220000Z
-DTEND:20240428T224500Z
-DTSTAMP:20240505T012110Z
+SUMMARY:SPIRITUALIZED! BHAKTI FLOW - IN-STUDIO with Bob Healey
+DTSTART:20240526T143000Z
+DTEND:20240526T154500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -1025,7 +1015,7 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY YOGA - *SELECT SUNDAYS with Joe Huntenburg
 DTSTART:20240505T220000Z
 DTEND:20240505T224500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -1035,7 +1025,7 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY YOGA - *SELECT SUNDAYS with Joe Huntenburg
 DTSTART:20240512T220000Z
 DTEND:20240512T224500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -1045,17 +1035,17 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY YOGA - *SELECT SUNDAYS with Joe Huntenburg
 DTSTART:20240519T220000Z
 DTEND:20240519T224500Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
   PA 19148\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
-DTSTART:20240428T230000Z
-DTEND:20240429T003000Z
-DTSTAMP:20240505T012110Z
+SUMMARY:RECOVERY YOGA - *SELECT SUNDAYS with Joe Huntenburg
+DTSTART:20240526T220000Z
+DTEND:20240526T224500Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -1065,7 +1055,7 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
 DTSTART:20240505T230000Z
 DTEND:20240506T003000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -1075,7 +1065,7 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
 DTSTART:20240512T230000Z
 DTEND:20240513T003000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
@@ -1085,7 +1075,17 @@ BEGIN:VEVENT
 SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
 DTSTART:20240519T230000Z
 DTEND:20240520T003000Z
-DTSTAMP:20240505T012110Z
+DTSTAMP:20240506T011748Z
+DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
+ ws?studioid=218661&stype=-7&sView=week&sLoc=0
+LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
+  PA 19148\, USA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOVERY DHARMA MEETING - IN-STUDIO with More Info Here
+DTSTART:20240526T230000Z
+DTEND:20240527T003000Z
+DTSTAMP:20240506T011748Z
 DESCRIPTION:Registration link: https://clients.mindbodyonline.com/classic/
  ws?studioid=218661&stype=-7&sView=week&sLoc=0
 LOCATION:Palo Santo Yoga & Wellness\, 1707 E Passyunk Ave\, Philadelphia\,
