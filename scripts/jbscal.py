@@ -75,8 +75,12 @@ for elem in myevents:
 	date = parse_future(date, default=datetime.now() - timedelta(days=1)).date().strftime('%m/%d/%y')
 
 	# Grab venue
-	venue = elem.find('a', {'class': 'venueLink'}).text	
-	venues.append(venue)
+	if elem.find('a', {'class': 'venueLink'}):
+		venue = elem.find('a', {'class': 'venueLink'}).text	
+		venues.append(venue)
+	else:
+		venue = ''
+		venues.append(venue)
 
 	# Grab door time
 	doors = elem.find('div', {'class': 'eventDoorStartDate'}).text.replace('\n', '').replace('\t', '').replace('Doors: ','')
