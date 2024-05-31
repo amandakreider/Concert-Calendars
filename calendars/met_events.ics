@@ -3,7 +3,7 @@ BEGIN:VEVENT
 SUMMARY:U+ME+RNB
 DTSTART:20240601T010000Z
 DTEND:20240601T030000Z
-DTSTAMP:20240530T005804Z
+DTSTAMP:20240531T005910Z
 DESCRIPTION:Info: https://themetphilly.com/event/umernb-21/\n\nDoors at 9:
  00 pm\nShow starts at 9:00 pm\n\n\nThis event is 21+\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Bonnie Raitt: WXPN Welcomes
 DTSTART:20240608T000000Z
 DTEND:20240608T020000Z
-DTSTAMP:20240530T005804Z
+DTSTAMP:20240531T005910Z
 DESCRIPTION:Info: https://themetphilly.com/event/bonnie-raitt/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nwith special guest James Hunter\nDoo
  rs open at 7:00 PM\nJust Like That… Tour 2024\n
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Gary Clark Jr.
 DTSTART:20240609T000000Z
 DTEND:20240609T020000Z
-DTSTAMP:20240530T005804Z
+DTSTAMP:20240531T005911Z
 DESCRIPTION:Info: https://themetphilly.com/event/gary-clark-jr-2/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00p.m.\nClark achieved
   global impact following his first Grammy Award® in 2014\, winning Best T
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Bleachers
 DTSTART:20240612T233000Z
 DTEND:20240613T013000Z
-DTSTAMP:20240530T005804Z
+DTSTAMP:20240531T005911Z
 DESCRIPTION:Info: https://themetphilly.com/event/bleachers/\n\nDoors at 6:
  30 pm\nShow starts at 7:30 pm\n\n\nSupport: Samia\n$1 per ticket will go t
  o support TAC’s work to support unhoused LGBTQ youths.\n
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Teskey Brothers: with special guest Trousdale
 DTSTART:20240619T000000Z
 DTEND:20240619T020000Z
-DTSTAMP:20240530T005804Z
+DTSTAMP:20240531T005911Z
 DESCRIPTION:Info: https://themetphilly.com/event/teskey-brothers/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00PM\nSignup for 
  Presale Access here: https://www.theteskeybrothers.com/#tour\nFollowing a 
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:The Kid LAROI: First Time Tour 2024
 DTSTART:20240620T233000Z
 DTEND:20240621T013000Z
-DTSTAMP:20240530T005805Z
+DTSTAMP:20240531T005911Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-kid-laroi/\n\nDoors a
  t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:30 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Something Corporate: Out Of Office Tour 2024
 DTSTART:20240623T000000Z
 DTEND:20240623T020000Z
-DTSTAMP:20240530T005805Z
+DTSTAMP:20240531T005912Z
 DESCRIPTION:Info: https://themetphilly.com/event/something-corporate/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nWith special guest: Days Away
  \nDoors at 7:00 p.m.\n
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Lizzy McAlpine: The Older Tour
 DTSTART:20240625T000000Z
 DTEND:20240625T020000Z
-DTSTAMP:20240530T005805Z
+DTSTAMP:20240531T005912Z
 DESCRIPTION:Info: https://themetphilly.com/event/lizzy-mcalpine/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nAn Evening with Lizzy McAlpine\nDo
  ors open at 7:00p.m.\n
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Lizzy McAlpine: The Older Tour
 DTSTART:20240626T000000Z
 DTEND:20240626T020000Z
-DTSTAMP:20240530T005806Z
+DTSTAMP:20240531T005912Z
 DESCRIPTION:Info: https://themetphilly.com/event/lizzy-mcalpine-2/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nAn Evening with Lizzy McAlpine\n
  Doors open at 7:00p.m.\n
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes Regina Spektor
 DTSTART:20240728T000000Z
 DTEND:20240728T020000Z
-DTSTAMP:20240530T005806Z
+DTSTAMP:20240531T005913Z
 DESCRIPTION:Info: https://themetphilly.com/event/regina-spektor/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Justice
 DTSTART:20240801T000000Z
 DTEND:20240801T020000Z
-DTSTAMP:20240530T005806Z
+DTSTAMP:20240531T005913Z
 DESCRIPTION:Info: https://themetphilly.com/event/justice/\n\nDoors at 7:00
   pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:The Marías: The Submarine Tour
 DTSTART:20240804T000000Z
 DTEND:20240804T020000Z
-DTSTAMP:20240530T005806Z
+DTSTAMP:20240531T005913Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-marias/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nSupport: Automatic\nDoors open at 7:00
  p.m.\n
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:PJ Morton: Cape Town to Cairo Tour
 DTSTART:20240805T000000Z
 DTEND:20240805T020000Z
-DTSTAMP:20240530T005807Z
+DTSTAMP:20240531T005913Z
 DESCRIPTION:Info: https://themetphilly.com/event/pj-morton/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nDoors at 7:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Lindsey Stirling: The Duality Tour
 DTSTART:20240814T230000Z
 DTEND:20240815T010000Z
-DTSTAMP:20240530T005807Z
+DTSTAMP:20240531T005914Z
 DESCRIPTION:Info: https://themetphilly.com/event/lindsey-stirling-3/\n\nDo
  ors at 6:00 pm\nShow starts at 7:00 pm\n\n\nSupport: Walk off the Earth\nD
  oors at 6:00p.m.\nFew artists embody boundless creativity quite like Linds
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Avatar: The Last Airbender In Concert
 DTSTART:20240828T233000Z
 DTEND:20240829T013000Z
-DTSTAMP:20240530T005807Z
+DTSTAMP:20240531T005914Z
 DESCRIPTION:Info: https://themetphilly.com/event/avatar-the-last-airbender
  -in-concert-2/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open
   at 6:30 p.m.\n
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Young Miko: XOXO Tour
 DTSTART:20240901T000000Z
 DTEND:20240901T020000Z
-DTSTAMP:20240530T005807Z
+DTSTAMP:20240531T005914Z
 DESCRIPTION:Info: https://themetphilly.com/event/young-miko/\n\nDoors at 7
  :00 pm\nShow starts at 8:00 pm\n\n\nBillboard‘s 2023 Latin Rookie of the
   Year has broken out of her native Puerto Rico’s música urbana scene\, 
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Tems: Born In The Wild Tour
 DTSTART:20240904T000000Z
 DTEND:20240904T020000Z
-DTSTAMP:20240530T005807Z
+DTSTAMP:20240531T005914Z
 DESCRIPTION:Info: https://themetphilly.com/event/tems/\n\nDoors at 6:30 pm
  \nShow starts at 8:00 pm\n\n\nSupport: Naomi Sharon\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:St. Vincent: All Born Screaming Tour
 DTSTART:20240907T000000Z
 DTEND:20240907T020000Z
-DTSTAMP:20240530T005807Z
+DTSTAMP:20240531T005915Z
 DESCRIPTION:Info: https://themetphilly.com/event/st-vincent-2/\n\nDoors at
   \nShow starts at 8:00 pm\n\n\nSupport: Yves Tumor\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:beabadoobee: This Is How Tomorrow Moves Tour
 DTSTART:20240908T233000Z
 DTEND:20240909T013000Z
-DTSTAMP:20240530T005807Z
+DTSTAMP:20240531T005915Z
 DESCRIPTION:Info: https://themetphilly.com/event/beabadoobee/\n\nDoors at 
  6:30 pm\nShow starts at 7:30 pm\n\n\nSupport: Hovvdy\nLondon artist Beatri
  ce Laus\, known as Beabadoobee\, has emerged as a British indie icon. With
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:NIKI: with Allison Ponthier
 DTSTART:20240913T000000Z
 DTEND:20240913T020000Z
-DTSTAMP:20240530T005808Z
+DTSTAMP:20240531T005915Z
 DESCRIPTION:Info: https://themetphilly.com/event/niki/\n\nDoors at 7:00 pm
  \nShow starts at 8:00 pm\n\n\nWhat eventually became Buzz\, the third stud
  io album by singer-songwriter and globally- renowned star NIKI\, started w
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening With PJ Harvey: WXPN Welcomes
 DTSTART:20240914T000000Z
 DTEND:20240914T020000Z
-DTSTAMP:20240530T005808Z
+DTSTAMP:20240531T005916Z
 DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-pj-harvey
  /\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30p.m.\
  n
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Dashboard Confessional
 DTSTART:20240915T223000Z
 DTEND:20240916T003000Z
-DTSTAMP:20240530T005808Z
+DTSTAMP:20240531T005916Z
 DESCRIPTION:Info: https://themetphilly.com/event/dashboard-confessional/\n
  \nDoors at 5:30 pm\nShow starts at 6:30 pm\n\n\nSupport: Boys Like Girls\n
  Doors open at 5:30p.m.\n
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Lawrence: The Family Business Tour
 DTSTART:20240918T000000Z
 DTEND:20240918T020000Z
-DTSTAMP:20240530T005808Z
+DTSTAMP:20240531T005916Z
 DESCRIPTION:Info: https://themetphilly.com/event/lawrence/\n\nDoors at 7:0
  0 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00pm.\n_________________
  ________________________________________\nAs NPR writes\, “siblings Clyd
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:WXPN Welcomes The Sisters Of Mercy
 DTSTART:20240919T000000Z
 DTEND:20240919T020000Z
-DTSTAMP:20240530T005808Z
+DTSTAMP:20240531T005917Z
 DESCRIPTION:Info: https://themetphilly.com/event/wxpn-welcomes-the-sisters
  -of-mercy/\n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Keane: Celebrating 20 Years Of Hopes And Fears
 DTSTART:20240922T000000Z
 DTEND:20240922T020000Z
-DTSTAMP:20240530T005808Z
+DTSTAMP:20240531T005917Z
 DESCRIPTION:Info: https://themetphilly.com/event/keane/\n\nDoors at 6:30 p
  m\nShow starts at 8:00 pm\n\n\nDoors at 6:30p.m.\nPLEASE NOTE: To reduce s
  taff contact with guest belongings\, we have implemented the following bag
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Sigur Rós: WXPN Welcomes
 DTSTART:20240924T000000Z
 DTEND:20240924T020000Z
-DTSTAMP:20240530T005808Z
+DTSTAMP:20240531T005917Z
 DESCRIPTION:Info: https://themetphilly.com/event/sigur-ros-2/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nPerforming with Wordless Music Orches
  tra\nDoors open at 7:00p.m.\n
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Dropkick Murphys: with Pennywise and The Scratch
 DTSTART:20240925T230000Z
 DTEND:20240926T010000Z
-DTSTAMP:20240530T005809Z
+DTSTAMP:20240531T005917Z
 DESCRIPTION:Info: https://themetphilly.com/event/dropkick-murphys/\n\nDoor
  s at 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors at 6:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Justin Moore & Randy Houser: The Country Round Here Tonight Tour
 DTSTART:20240928T230000Z
 DTEND:20240929T010000Z
-DTSTAMP:20240530T005809Z
+DTSTAMP:20240531T005918Z
 DESCRIPTION:Info: https://themetphilly.com/event/justin-moore-randy-houser
  /\n\nDoors at 5:30 pm\nShow starts at 7:00 pm\n\n\nDoors at 5:30 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Michael Kiwanuka & Brittany Howard
 DTSTART:20240929T233000Z
 DTEND:20240930T013000Z
-DTSTAMP:20240530T005809Z
+DTSTAMP:20240531T005918Z
 DESCRIPTION:Info: https://themetphilly.com/event/brittany-howard-michael-k
  iwanuka/\n\nDoors at 6:00 pm\nShow starts at 7:30 pm\n\n\nDoors at 6:00p.m
  .\nBrittany Howard:\nThere’s a double meaning to the title of What Now\,
@@ -602,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Sting 3.0
 DTSTART:20241001T000000Z
 DTEND:20241001T020000Z
-DTSTAMP:20240530T005809Z
+DTSTAMP:20240531T005918Z
 DESCRIPTION:Info: https://themetphilly.com/event/sting-3-0-2/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nSTING 3.0 is a three-piece featuring:
   Sting\, guitarist: Domenic Miller\, & Drummer: Chris Maas\n
@@ -612,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:Sting 3.0
 DTSTART:20241002T000000Z
 DTEND:20241002T020000Z
-DTSTAMP:20240530T005809Z
+DTSTAMP:20240531T005918Z
 DESCRIPTION:Info: https://themetphilly.com/event/sting-3-0/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nSTING 3.0 (as the name suggests) is a
   three-piece featuring: Sting\, guitarist Domenic Miller & Drummer Chris
@@ -623,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:Pod Save America: The Democracy or Else Tour
 DTSTART:20241006T233000Z
 DTEND:20241007T013000Z
-DTSTAMP:20240530T005810Z
+DTSTAMP:20240531T005919Z
 DESCRIPTION:Info: https://themetphilly.com/event/pod-save-america/\n\nDoor
  s at 6:30 pm\nShow starts at 7:30 pm\n\n\nJoin former Obama aides Jon Favr
  eau\, Jon Lovett\, Dan Pfeiffer\, and Tommy Vietor for IRL\, no-bullshit c
@@ -641,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:Avatar: The Last Airbender In Concert
 DTSTART:20241009T233000Z
 DTEND:20241010T013000Z
-DTSTAMP:20240530T005810Z
+DTSTAMP:20240531T005919Z
 DESCRIPTION:Info: https://themetphilly.com/event/avatar-the-last-airbender
  -in-concert/\n\nDoors at 6:00 pm\nShow starts at 7:30 pm\n\n\nDoors open a
  t 6:00p.m.\n
@@ -651,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:Nothing But Thieves
 DTSTART:20241012T000000Z
 DTEND:20241012T020000Z
-DTSTAMP:20240530T005810Z
+DTSTAMP:20240531T005919Z
 DESCRIPTION:Info: https://themetphilly.com/event/nothing-but-thieves/\n\nD
  oors at 7:00 pm\nShow starts at 8:00 pm\n\n\nBritish rock band\, formed in
   2012 in Southend-on-Sea\, Essex consisting of lead vocalist and guitarist
@@ -667,7 +667,7 @@ BEGIN:VEVENT
 SUMMARY:Dane Cook: Fresh New Flavor
 DTSTART:20241012T233000Z
 DTEND:20241013T013000Z
-DTSTAMP:20240530T005810Z
+DTSTAMP:20240531T005920Z
 DESCRIPTION:Info: https://themetphilly.com/event/dane-cook-2/\n\nDoors at 
  6:30 pm\nShow starts at 7:30 pm\n\n\nComedy trailblazer and actor\, Dane C
  ook\, is known for his legendary stand-up comedy specials\, unparalleled s
@@ -697,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:AIR: performing Moon Safari
 DTSTART:20241018T000000Z
 DTEND:20241018T020000Z
-DTSTAMP:20240530T005810Z
+DTSTAMP:20240531T005920Z
 DESCRIPTION:Info: https://themetphilly.com/event/air/\n\nDoors at 7:00 pm\
  nShow starts at 8:00 pm\n\n\nDoors open at 7:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -706,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:Orville Peck: Stampede Tour
 DTSTART:20241019T000000Z
 DTEND:20241019T020000Z
-DTSTAMP:20240530T005811Z
+DTSTAMP:20240531T005920Z
 DESCRIPTION:Info: https://themetphilly.com/event/orville-peck/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nSupport: Nikki Lane\, Vincent Neil E
  merson\nDoors open at 7:00p.m.\n
@@ -716,7 +716,7 @@ BEGIN:VEVENT
 SUMMARY:Stephen Sanchez: with Special Guest The Paper Kites
 DTSTART:20241020T000000Z
 DTEND:20241020T020000Z
-DTSTAMP:20240530T005811Z
+DTSTAMP:20240531T005920Z
 DESCRIPTION:Info: https://themetphilly.com/event/stephen-sanchez/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nSinger-songwriter Stephen Sanchez
   has materialized at the forefront of popular culture with a sound that’
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:Lee Brice
 DTSTART:20241025T000000Z
 DTEND:20241025T020000Z
-DTSTAMP:20240530T005811Z
+DTSTAMP:20240531T005921Z
 DESCRIPTION:Info: https://themetphilly.com/event/lee-brice/\n\nDoors at 6:
  30 pm\nShow starts at 8:00 pm\n\n\nWhen Curb Records recording artist\, Le
  e Brice\, isn’t selling out arenas\, writing and recording songs\, or bu
@@ -790,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:The String Cheese Incident: with special guests Stolen Gin
 DTSTART:20241031T230000Z
 DTEND:20241101T010000Z
-DTSTAMP:20240530T005811Z
+DTSTAMP:20240531T005921Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-string-cheese-inciden
  t/\n\nDoors at 6:00 pm\nShow starts at 7:00 pm\n\n\nThe past three decades
   have written a story packed full of surreal experiences\, epic moments\, 
@@ -835,7 +835,7 @@ BEGIN:VEVENT
 SUMMARY:Cory Wong featuring Mark Lettieri: with special guest Couch
 DTSTART:20241109T010000Z
 DTEND:20241109T030000Z
-DTSTAMP:20240530T005811Z
+DTSTAMP:20240531T005921Z
 DESCRIPTION:Info: https://themetphilly.com/event/cory-wong/\n\nDoors at 7:
  00 pm\nShow starts at 8:00 pm\n\n\nCory Wong is a Grammy Nominated guitari
  st\, producer\, variety show host\, and podcast host. In addition to his s
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea Handler
 DTSTART:20241111T000000Z
 DTEND:20241111T020000Z
-DTSTAMP:20240530T005812Z
+DTSTAMP:20240531T005921Z
 DESCRIPTION:Info: https://themetphilly.com/event/chelsea-cutler-2/\n\nDoor
  s at \nShow starts at 7:00 pm\n\n\nThis event will be a phone-free experie
  nce. Use of phones\, smart watches and accessories\, will not be permitted
@@ -878,7 +878,7 @@ BEGIN:VEVENT
 SUMMARY:Sonic Symphony: Presented by MGP Live
 DTSTART:20241124T010000Z
 DTEND:20241124T030000Z
-DTSTAMP:20240530T005812Z
+DTSTAMP:20240531T005922Z
 DESCRIPTION:Info: https://themetphilly.com/event/sonic-symphony/\n\nDoors 
  at \nShow starts at 8:00 pm\n\n\nGet ready to run down memory lane at Soni
  c speed!\nSonic Symphony is an immersive live experience that celebrates m
@@ -896,7 +896,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241205T003000Z
 DTEND:20241205T023000Z
-DTSTAMP:20240530T005812Z
+DTSTAMP:20240531T005922Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart/\n\nDoors at 6
  :00 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE: T
  his event will be a phone-free experience. Use of phones\, smart watches a
@@ -953,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241213T003000Z
 DTEND:20241213T023000Z
-DTSTAMP:20240530T005812Z
+DTSTAMP:20240531T005922Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-2/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -962,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241214T000000Z
 DTEND:20241214T020000Z
-DTSTAMP:20240530T005813Z
+DTSTAMP:20240531T005922Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-3/\n\nDoors 
  at 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:Max Richter
 DTSTART:20250504T040000Z
 DTEND:20250504T060000Z
-DTSTAMP:20240530T005813Z
+DTSTAMP:20240531T005923Z
 DESCRIPTION:Info: https://themetphilly.com/event/max-richter/\n\nDoors at 
  \nShow starts at \n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
