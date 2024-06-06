@@ -1,5 +1,5 @@
 ,Show,Date,Doors,Location,Link
-0,Fishtown Choir,06/05/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/fishtown-choir-3/johnny-brendas/philadelphia-pennsylvania/
+0,Fishtown Choir,06/05/25 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/fishtown-choir-3/johnny-brendas/philadelphia-pennsylvania/
 1,Kyle Sparkman,06/06/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/kyle-sparkman/johnny-brendas/philadelphia-pennsylvania/
 2,A Black Celebration – Depeche Mode Heavy Dance Party,06/07/24 at 9pm ,9pm ,Johnny Brenda’s,https://johnnybrendas.com/event/a-black-celebration-depeche-mode-heavy-dance-party-21/johnny-brendas/philadelphia-pennsylvania/
 3,Nourished By Time,06/08/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/nourished-by-time/johnny-brendas/philadelphia-pennsylvania/
@@ -7,7 +7,7 @@
 5,Martha Graham Cracker,06/10/24 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/martha-graham-cracker/johnny-brendas/philadelphia-pennsylvania/
 6,"BOECKNER (of Wolf Parade, Handsome Furs)",06/13/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/boeckner-of-wolf-parade-handsome-furs/johnny-brendas/philadelphia-pennsylvania/
 7,Crypt Sermon (Album Release),06/14/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/crypt-sermon-album-release/johnny-brendas/philadelphia-pennsylvania/
-8,Put It Down,06/15/24 at 9PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/put-it-down-3/johnny-brendas/philadelphia-pennsylvania/
+8,Put It Down,06/15/24 at 8:30 PM,7:30pm ,Johnny Brenda’s,https://johnnybrendas.com/event/put-it-down-3/johnny-brendas/philadelphia-pennsylvania/
 9,Boobs and Bikes – A Burlesque Benefit for Braking AIDS,06/16/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/boobs-and-bikes-a-burlesque-benefit-for-braking-aids/johnny-brendas/philadelphia-pennsylvania/
 10,Twen,06/18/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/twen-2/johnny-brendas/philadelphia-pennsylvania/
 11,Airiel,06/19/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/airiel/johnny-brendas/philadelphia-pennsylvania/
@@ -58,17 +58,16 @@
 56,Neil Hamburger,09/08/24 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/neil-hamburger/johnny-brendas/philadelphia-pennsylvania/
 57,Marika Hackman,09/11/24 at 8PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/marika-hackman/johnny-brendas/philadelphia-pennsylvania/
 58,Sour Widows & Youbet,09/13/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/sour-widows-youbet/johnny-brendas/philadelphia-pennsylvania/
-59,The dBs,09/14/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/the-dbs/johnny-brendas/philadelphia-pennsylvania/
-60,Great Good Fine Ok,09/18/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/great-good-fine-ok/johnny-brendas/philadelphia-pennsylvania/
-61,Chanel Beads,09/19/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/chanel-beads/johnny-brendas/philadelphia-pennsylvania/
-62,Cassandra Jenkins,09/21/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/cassandra-jenkins-2/johnny-brendas/philadelphia-pennsylvania/
-63,Stop Light Observations,10/02/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/stop-light-observations-2/johnny-brendas/philadelphia-pennsylvania/
-64,ULTRA SUNN,10/03/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/ultra-sunn/johnny-brendas/philadelphia-pennsylvania/
-65,La Luz,10/08/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/la-luz/johnny-brendas/philadelphia-pennsylvania/
-66,The Hypos,10/10/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/the-hypos/johnny-brendas/philadelphia-pennsylvania/
-67,Sheer Mag,10/23/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/sheer-mag-2/johnny-brendas/philadelphia-pennsylvania/
-68,French Police,10/25/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/french-police/johnny-brendas/philadelphia-pennsylvania/
-69,Drinking Boys and Girls Choir,10/30/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/drinking-boys-and-girls-choir/johnny-brendas/philadelphia-pennsylvania/
-70,Donovan Woods,11/03/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/donovan-woods/johnny-brendas/philadelphia-pennsylvania/
-71,Finom,11/13/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/finom/johnny-brendas/philadelphia-pennsylvania/
-72,Six Organs of Admittance,11/15/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/six-organs-of-admittance/johnny-brendas/philadelphia-pennsylvania/
+59,Great Good Fine Ok,09/18/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/great-good-fine-ok/johnny-brendas/philadelphia-pennsylvania/
+60,Chanel Beads,09/19/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/chanel-beads/johnny-brendas/philadelphia-pennsylvania/
+61,Cassandra Jenkins,09/21/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/cassandra-jenkins-2/johnny-brendas/philadelphia-pennsylvania/
+62,Stop Light Observations,10/02/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/stop-light-observations-2/johnny-brendas/philadelphia-pennsylvania/
+63,ULTRA SUNN,10/03/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/ultra-sunn/johnny-brendas/philadelphia-pennsylvania/
+64,La Luz,10/08/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/la-luz/johnny-brendas/philadelphia-pennsylvania/
+65,The Hypos,10/10/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/the-hypos/johnny-brendas/philadelphia-pennsylvania/
+66,Sheer Mag,10/23/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/sheer-mag-2/johnny-brendas/philadelphia-pennsylvania/
+67,French Police,10/25/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/french-police/johnny-brendas/philadelphia-pennsylvania/
+68,Drinking Boys and Girls Choir,10/30/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/drinking-boys-and-girls-choir/johnny-brendas/philadelphia-pennsylvania/
+69,Donovan Woods,11/03/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/donovan-woods/johnny-brendas/philadelphia-pennsylvania/
+70,Finom,11/13/24 at 8 PM,7pm ,Johnny Brenda’s,https://johnnybrendas.com/event/finom/johnny-brendas/philadelphia-pennsylvania/
+71,Six Organs of Admittance,11/15/24 at 9 PM,8pm ,Johnny Brenda’s,https://johnnybrendas.com/event/six-organs-of-admittance/johnny-brendas/philadelphia-pennsylvania/
