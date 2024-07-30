@@ -1,40 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Taylor Kelly
-DTSTART:20250729T000000Z
-DTEND:20250729T020000Z
-DTSTAMP:20240729T010218Z
-DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
- oors8 PM – Show\nTAYLOR KELLY \nBorn and raised in Rochester\, NY\, Tayl
- or Kelly is now a fixture in the vibrant Philadelphia music scene further 
- honing her introspective take on jazz\, soul\, and funk. She combines her 
- smooth\, powerful\, technically-informed voice with addictive hip hop and 
- electronic beats and complex arrangements. Her sound is a dynamic blend of
-  several genres but ultimately establishes a strikingly authentic niche al
- l its own – rich with melodic contour\, intricate harmonies\, and deeply
-  personal but anthemic lyricism. Kelly has released six albums and EPs and
-  has shared the stage with St. Paul and the Broken Bones\, Dirty Loops\, M
- oonchild\, Becca Stevens\, Monophonics\, Neal Francis and Giacomo Turra. S
- he has amassed over 800k listens for her single “California” on stream
- ing platforms worldwide while her singles “Maybe” (2021) and “Let Yo
- u Go” (2023) were featured on Chicago’s Vocalo Radio (where she was al
- so interviewed). Kelly released a Key Session recorded live at WXPN’s st
- udios for NPR Music in April of this year and in June released an album en
- titled ‘Live in Philly’ which was recorded live at Brooklyn Bowl Phila
- delphia on December 30 th of 2022 when she opened for St. Paul. Kelly has 
- uplifted\, inspired and energized thousands of ardent concertgoers at hund
- reds of live shows with her immersively freeing performance style. She has
-  an unyielding\, marrow-deep commitment to self-expression through music a
- nd has continued to transfer this passion to her listeners with ‘Live in
-  Philly’. Her upcoming EP ‘The Spins’ releases on July 19th on Head 
- Bitch Music.\nHUMAN BLOOM\nRACHEL ANDIE\n
-LOCATION:Johnny Brenda’s
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Clientele
-DTSTART:20240730T000000Z
-DTEND:20240730T020000Z
-DTSTAMP:20240729T010220Z
+DTSTART:20250730T000000Z
+DTEND:20250730T020000Z
+DTSTAMP:20240730T010031Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nTHE CLIENTELE\nThe Clientele’s ‘I Am Not There Anym
  ore’ follows 2017’s ‘Music for the Age of Miracles’ (which arrived
@@ -84,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:In The Valley Below
 DTSTART:20240731T000000Z
 DTEND:20240731T020000Z
-DTSTAMP:20240729T010221Z
+DTSTAMP:20240730T010031Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7PM 
  – Doors\n8PM – Show\n \nIN THE VALLEY BELOW\nDream indie pop duo In T
  he Valley Below bring their enchanting and powerful live show on tour with
@@ -108,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Palmyra & Brittany Ann Tranbaugh
 DTSTART:20240801T000000Z
 DTEND:20240801T020000Z
-DTSTAMP:20240729T010221Z
+DTSTAMP:20240730T010033Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nPALMYRAEstablished in Virginia’s Shenandoah Valley\, 
  Palmyra explores the fusion of traditional folk string instruments\, lush 
@@ -139,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Kind Hearted Strangers & XIXIX
 DTSTART:20240802T010000Z
 DTEND:20240802T030000Z
-DTSTAMP:20240729T010222Z
+DTSTAMP:20240730T010034Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nKIND HEARTED STRANGERSHailing from all corners of the c
  ountry\, Kind Hearted Strangers began in the foothills of Colorado – whe
@@ -183,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:A Black Celebration – Depeche Mode Heavy Dance Party
 DTSTART:20240803T010000Z
 DTEND:20240803T030000Z
-DTSTAMP:20240729T010224Z
+DTSTAMP:20240730T010036Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n9PM Doors\
  nA BLACK CELEBRATION – PHILLY’S FAVORITE DEPECHE MODE DANCE PARTY!\n\n
  \n\n\n\n\n\n\n\nDJ Baby Berlin + Special Guest: Ronnie Stone (NYC)\n \nR
@@ -219,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Bodega Sound System Fest with Guachinangos
 DTSTART:20240804T000000Z
 DTEND:20240804T020000Z
-DTSTAMP:20240729T010224Z
+DTSTAMP:20240730T010037Z
 DESCRIPTION:\nBODEGA SOUND SYSTEM FEST \n+++ SATURDAY AUGUST 3RD +++\nJoi
  n us for the first BODEGA SOUND SYSTEM FEST\, brought to you by GUACHINANG
  OS at Johnny Brenda’s on Sat. August 3rd. starting at 11AM! \n \nStreet
@@ -257,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:10th Anniversary Screening of “Beer Runners”\; The Documentary
 DTSTART:20240804T160000Z
 DTEND:20240804T180000Z
-DTSTAMP:20240729T010224Z
+DTSTAMP:20240730T010037Z
 DESCRIPTION:\n10th Anniversary Screening of “Beer Runners”\nProceeds b
  enefitting the David April Legacy Fund\nAfter enduring a personal struggle
  \, David April began to search for positive ways to heal himself. Running 
@@ -277,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:The Body & Dis Fig
 DTSTART:20240805T000000Z
 DTEND:20240805T020000Z
-DTSTAMP:20240729T010226Z
+DTSTAMP:20240730T010039Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nTHE BODY & DIS FIGThe Body & Dis Fig are a natural pair
  . Each has pioneered instantly recognizable worlds of sound all their own 
@@ -304,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Juan Wauters
 DTSTART:20240808T000000Z
 DTEND:20240808T020000Z
-DTSTAMP:20240729T010227Z
+DTSTAMP:20240730T010040Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nJUAN WAUTERS\nThere’s freedom to be found in consiste
  ncy. Until recently\, Juan Wauters may not have agreed with this statement
@@ -322,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Winged Wheel
 DTSTART:20240809T010000Z
 DTEND:20240809T030000Z
-DTSTAMP:20240729T010229Z
+DTSTAMP:20240730T010041Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nWINGED WHEELBig Hotel’\, the sophomore effort of Wing
  ed Wheel\, is an evolutionary document. Core members Cory Plump (Spray Pai
@@ -351,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Labretta Suede and The Motel 6
 DTSTART:20240810T010000Z
 DTEND:20240810T030000Z
-DTSTAMP:20240729T010229Z
+DTSTAMP:20240730T010043Z
 DESCRIPTION:\n\n\n*All events are 21+ valid ID required for entry*\n8 PM 
  – Doors9 PM – Show\n \n\nLABRETTA SUEDE AND THE MOTEL 6\nLabretta Sue
  de and The Motel 6 are a bunch of crazed rock ‘n’ rollers with a reckl
@@ -378,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Grade & Jeanines
 DTSTART:20240811T010000Z
 DTEND:20240811T030000Z
-DTSTAMP:20240729T010230Z
+DTSTAMP:20240730T010044Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors\n9PM – Show\n \n2ND GRADE\n \nRinging from hi-fi headphones and bl
  own-out boombox speakers alike comes the overloaded guitar genius of Easy 
@@ -422,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Good Looks
 DTSTART:20240812T000000Z
 DTEND:20240812T020000Z
-DTSTAMP:20240729T010231Z
+DTSTAMP:20240730T010045Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGOOD LOOKSGood Looks write kindhearted and cathartic ro
  ck songs about the persistence required to make it through hard times. In 
@@ -443,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Friendship
 DTSTART:20240815T000000Z
 DTEND:20240815T020000Z
-DTSTAMP:20240729T010233Z
+DTSTAMP:20240730T010047Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFRIENDSHIPFriendship’s Merge debut\, Love the Strange
  r\, moves like a country record skipping in just the right spot\, leaving 
@@ -458,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Shallow Alcove
 DTSTART:20240816T010000Z
 DTEND:20240816T030000Z
-DTSTAMP:20240729T010234Z
+DTSTAMP:20240730T010048Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nSHALLOW ALCOVEShallow Alcove is a band of friends front
  ed by Grace Krichbaum and Dan Harris\, with Peter Groppe\, Jack Harrington
@@ -477,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Lindsay Reamer
 DTSTART:20240817T000000Z
 DTEND:20240817T020000Z
-DTSTAMP:20240729T010234Z
+DTSTAMP:20240730T010050Z
 DESCRIPTION:\n**All events are 21+ valid ID required for entry**\n \n7 PM
   – Doors\n8 PM – Show\n \nLINDSAY REAMER \nFrom 2019 to 2023 Lindsay 
  Reamer worked as a field scientist. With a guitar and a bag of books in to
@@ -509,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Moonroof
 DTSTART:20240818T010000Z
 DTEND:20240818T030000Z
-DTSTAMP:20240729T010235Z
+DTSTAMP:20240730T010051Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8 PM 
  – Doors\n9 PM – Show\n \n \nMOONROOF \nMoonroof is a Philadelphia-ba
  sed band that plays upbeat\, catchy indie rock and alt-pop. Moonroof have 
@@ -536,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Webbed Wing
 DTSTART:20240819T000000Z
 DTEND:20240819T020000Z
-DTSTAMP:20240729T010235Z
+DTSTAMP:20240730T010052Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nWEBBED WING\nWebbed Wing is a Philadelphia-based rock b
  and that blends pop-rock\, heavy sounds\, and other genres into a unique s
@@ -550,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Melaina Kol & Hooky
 DTSTART:20240820T000000Z
 DTEND:20240820T020000Z
-DTSTAMP:20240729T010237Z
+DTSTAMP:20240730T010054Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7 PM 
  – Doors\n8 PM – Show\n \nMELAINA KOL\nMelaina Kol is an avant-garde r
  ock band from Nashville. \n \nHOOKY\nHooky is a 2 piece electronic band 
@@ -562,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Daniel Romano’s Outfit
 DTSTART:20240821T000000Z
 DTEND:20240821T020000Z
-DTSTAMP:20240729T010238Z
+DTSTAMP:20240730T010055Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nDANIEL ROMANO’S OUTFITDaniel Romano’s Outfit is a C
  anadian indie rock band shrouded in mystery\, and known for their high int
@@ -576,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:Gyedu-Blay Ambolley
 DTSTART:20240822T000000Z
 DTEND:20240822T020000Z
-DTSTAMP:20240729T010239Z
+DTSTAMP:20240730T010056Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGYEDU-BLAY AMBOLLEYGyedu-Blay Ambolley is a musical lum
  inary hailing from Ghana\, West Africa\, with a staggering 29 albums under
@@ -616,10 +585,35 @@ DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
 LOCATION:Johnny Brenda’s
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sweet Dreams
+DTSTART:20240823T010000Z
+DTEND:20240823T030000Z
+DTSTAMP:20240730T010056Z
+DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n9 PM – D
+ oors\nSWEET DREAMS – PRESENTED BY PARASOCIAL\nMGNA CRRRTA (DJ SET)\nMGNA
+  Crrrta is an electro pop duo consisting of Farheen Khan and Ginger Scott.
+  Inspired by early 2010s pop hits\, MGNA Crrrta blends trashy girl pop wit
+ h EDM & experimental electronic music. The girls have garnered a cult foll
+ owing through their unique sound and striking visual aesthetic. Fashion is
+  integral to MGNA Crrrta. The girls love shiny dresses\, fake hair\, rhine
+ stone heels\, golden tattoos\, pounds of jewelry\, and glitter. In 2024 so
+  far\, the girls have toured with Ninajirachi as well as Cowgirl Clue whil
+ e continuously dropping tracks that culminated in their April EP\, “Isla
+ nd Paradise.” The girls have captured the attention of industry veterans
+ : Hedi Slimane invited them to DJ at Celine’s Homme Summer afterparty in
+  Paris\, Uffie remixed their song “Girl Party\,” and Ke$ha made a spec
+ ial appearance during their Freakquencies DJ set at LeBain in NYC. MGNA Cr
+ rrta merch featuring the girls’ names\, faces\, and lyrics\, sells out r
+ apidly online. The girls have a lot in store for the rest of the year and 
+ are excited for new releases\, fashion work & touring.\nGAVIN DJ ARC\nMANI
+ C ENVY & ORCHID CRANE\nLASTSTOPMART\n
+LOCATION:Johnny Brenda’s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Super Infinity
 DTSTART:20240824T000000Z
 DTEND:20240824T020000Z
-DTSTAMP:20240729T010241Z
+DTSTAMP:20240730T010057Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7 PM 
  – Doors\n8 PM – Show\n \nSUPER INFINITY\n \nPINE BARONS\n \nBRIAN M
  EITZ\nBrian Mietz is a musician from New Jersey. Some have called Brian th
@@ -632,7 +626,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Bachmann
 DTSTART:20240825T010000Z
 DTEND:20240825T030000Z
-DTSTAMP:20240729T010242Z
+DTSTAMP:20240730T010059Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nERIC BACHMANNNorth Carolinian Eric Bachmann’s debut s
  olo album may have been called Short Careers\, but his musical career has 
@@ -665,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:Two-Man Giant Squid & CLOAKZ (Album Release)
 DTSTART:20240826T000000Z
 DTEND:20240826T020000Z
-DTSTAMP:20240729T010243Z
+DTSTAMP:20240730T010100Z
 DESCRIPTION:\n\n\n\n*All events are 21+ valid ID required for entry*\n7 PM
   – Doors8 PM – Show\n\n \nTWO-MAN GIANT SQUID\nTwo-Man Giant Squid is
   a psych-punk band out of Brooklyn\, NY signed to Mint 400 Records. Last y
@@ -714,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:Eyehategod & Exhorder
 DTSTART:20240829T000000Z
 DTEND:20240829T020000Z
-DTSTAMP:20240729T010244Z
+DTSTAMP:20240730T010101Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7PM – Do
  ors8PM – Show\n \nEYEHATEGOD\nEyehategod (also abbreviated and referred
   to as EHG) is an American sludge metal band from New Orleans\, Louisiana 
@@ -730,7 +724,7 @@ BEGIN:VEVENT
 SUMMARY:Aunt Dracula
 DTSTART:20240830T000000Z
 DTEND:20240830T020000Z
-DTSTAMP:20240729T010245Z
+DTSTAMP:20240730T010103Z
 DESCRIPTION:\n**All events are 21+ valid ID required for entry**\n \n7 PM
   – Doors\n8 PM – Show\nAUNT DRACULA \n\nAunt Dracula are an experiment
  al band formed in Philadelphia in 2007 by principal song writer Scott Daly
@@ -770,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:Spiter
 DTSTART:20240831T010000Z
 DTEND:20240831T030000Z
-DTSTAMP:20240729T010246Z
+DTSTAMP:20240730T010105Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nDECIBEL 20TH ANNIVERSARY PARTY PRE-SHOW\nSPITER\nSPITER
   are a metal-punk band based out of Philadelphia\, Pennsylvania. The band 
@@ -786,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:Honeythunder (Record Release)
 DTSTART:20240901T000000Z
 DTEND:20240901T020000Z
-DTSTAMP:20240729T010247Z
+DTSTAMP:20240730T010106Z
 DESCRIPTION:\n\n**All events are 21+ valid ID required for entry**\n \n7 
  PM – Doors\n8 PM – Show\n \n \nHONEYTHUNDER\nHoneythunder is a brown
   girl fronted\, all-queer 4-piece band based out of Philly\, bringing indi
@@ -810,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:BLK ODYSSY
 DTSTART:20240908T010000Z
 DTEND:20240908T030000Z
-DTSTAMP:20240729T010248Z
+DTSTAMP:20240730T010107Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nBLK ODYSSYBLK ODYSSY project is pushed by liberation. O
  n his first album under this new moniker\, titled BLK VINTAGE\, BLK ODYSSY
@@ -857,7 +851,7 @@ BEGIN:VEVENT
 SUMMARY:Neil Hamburger
 DTSTART:20240909T000000Z
 DTEND:20240909T020000Z
-DTSTAMP:20240729T010250Z
+DTSTAMP:20240730T010109Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*7PM – Door
  s8PM – Show\n*This show is semi-seated. Seating is first come\, first se
  rve. Standing room is available in the balcony.*\nNEIL HAMBURGER“America
@@ -883,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:Marika Hackman
 DTSTART:20240912T000000Z
 DTEND:20240912T020000Z
-DTSTAMP:20240729T010251Z
+DTSTAMP:20240730T010110Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7PM – Do
  ors8PM – Show\nMARIKA HACKMANSongwriter and multi-instrumentalist known 
  for her emotionally honest and personal lyrics\, Marika Hackman first made
@@ -912,7 +906,7 @@ BEGIN:VEVENT
 SUMMARY:The Dare
 DTSTART:20240913T010000Z
 DTEND:20240913T030000Z
-DTSTAMP:20240729T010252Z
+DTSTAMP:20240730T010111Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE DARE\nThe Dare is the solo project of vocalist\, so
  ngwriter and producer Harrison Patrick Smith. After bursting onto the scen
@@ -930,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:Sour Widows & Youbet
 DTSTART:20240914T010000Z
 DTEND:20240914T030000Z
-DTSTAMP:20240729T010253Z
+DTSTAMP:20240730T010113Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nSOUR WIDOWSMaia Sinaiko and Susanna Thomson like to jok
  e that they are delusional about Sour Widows\, the Bay Area band they star
@@ -962,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:The dB’s
 DTSTART:20240915T010000Z
 DTEND:20240915T030000Z
-DTSTAMP:20240729T010255Z
+DTSTAMP:20240730T010114Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE DB’S\nThe dB’s are singer/songwriters Peter Hol
  sapple and Chris Stamey along with Gene Holder on bass and Will Rigby on d
@@ -994,7 +988,7 @@ BEGIN:VEVENT
 SUMMARY:Native Harrow (Album Release)
 DTSTART:20240916T000000Z
 DTEND:20240916T020000Z
-DTSTAMP:20240729T010256Z
+DTSTAMP:20240730T010115Z
 DESCRIPTION:\n\n*All events are 21+ valid ID required for entry*\n7 PM –
   Doors8 PM – Show\nWXPN WelcomesNATIVE HARROW\nPhilly-based Native Harr
  ow have remained largely independent – musically\, professionally\, and
@@ -1033,7 +1027,7 @@ BEGIN:VEVENT
 SUMMARY:Great Good Fine Ok
 DTSTART:20240919T000000Z
 DTEND:20240919T020000Z
-DTSTAMP:20240729T010257Z
+DTSTAMP:20240730T010117Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGREAT GOOD FINE OK\nVIP Package● Early entry to venue
   w/exclusive 2 song acoustic set pre-show● Signed poster● One of a kin
@@ -1044,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:Chanel Beads
 DTSTART:20240920T010000Z
 DTEND:20240920T030000Z
-DTSTAMP:20240729T010258Z
+DTSTAMP:20240730T010118Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nCHANEL BEADSChanel Beads — the project of New York-ba
  sed musician Shane Lavers — announces his debut album\, Your Day Will Co
@@ -1071,7 +1065,7 @@ BEGIN:VEVENT
 SUMMARY:Dougie Poole
 DTSTART:20240921T010000Z
 DTEND:20240921T030000Z
-DTSTAMP:20240729T010259Z
+DTSTAMP:20240730T010119Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nDOUGIE POOLEDougie Poole is a musician and songwriter l
  iving in Los Angeles. Coming of age in Providence\, Rhode Island’s DIY s
@@ -1087,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:Cassandra Jenkins
 DTSTART:20240922T010000Z
 DTEND:20240922T030000Z
-DTSTAMP:20240729T010301Z
+DTSTAMP:20240730T010120Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nCASSANDRA JENKINSLike the night sky itself\, the world 
  of My Light\, My Destroyer is always expanding. Cassandra Jenkins’ third
@@ -1126,7 +1120,7 @@ BEGIN:VEVENT
 SUMMARY:Mystic 100s
 DTSTART:20240924T000000Z
 DTEND:20240924T020000Z
-DTSTAMP:20240729T010302Z
+DTSTAMP:20240730T010122Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry *\n7PM – D
  oors\n8PM – Show\n \nMYSTIC 100s\nMystic 100s\, formerly known as MILK 
  MUSIC are an underground psychedelic rock group from Washington State. The
@@ -1147,7 +1141,7 @@ BEGIN:VEVENT
 SUMMARY:Marnie Stern
 DTSTART:20240926T000000Z
 DTEND:20240926T020000Z
-DTSTAMP:20240729T010303Z
+DTSTAMP:20240730T010123Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nMARNIE STERN\nIt’s been a decade since we last heard 
  from Marnie Stern\, but when her guitar bursts in like a shower of stardus
@@ -1190,7 +1184,7 @@ BEGIN:VEVENT
 SUMMARY:Cass McCombs
 DTSTART:20240927T010000Z
 DTEND:20240927T030000Z
-DTSTAMP:20240729T010304Z
+DTSTAMP:20240730T010124Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nCASS MCCOMBS\nOver the past decade\, Cass McCombs has e
  stablished himself as one of our premier songwriters. It’s a career that
@@ -1204,7 +1198,7 @@ BEGIN:VEVENT
 SUMMARY:The Cactus Blossoms
 DTSTART:20240928T010000Z
 DTEND:20240928T030000Z
-DTSTAMP:20240729T010306Z
+DTSTAMP:20240730T010125Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE CACTUS BLOSSOMS“Hey baby\, do you wanna take a tr
  ip with me? / I’ve got a feeling there might be a silver lining all arou
@@ -1240,7 +1234,7 @@ BEGIN:VEVENT
 SUMMARY:Fruition: How To Make Mistakes Tour
 DTSTART:20240929T010000Z
 DTEND:20240929T030000Z
-DTSTAMP:20240729T010307Z
+DTSTAMP:20240730T010127Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nFRUITION: HOW TO MAKE MISTAKES TOUR\nThree songwriters.
   Five bandmates. More than 15 years together\, building a grassroots audie
@@ -1259,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:The Red Pears
 DTSTART:20241002T000000Z
 DTEND:20241002T020000Z
-DTSTAMP:20240729T010308Z
+DTSTAMP:20240730T010128Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nTHE RED PEARSHailing from El Monte\, a sleepy suburban 
  town just east of Los Angeles\, Henry Vargas (vocals/guitar)\, and Jose Co
@@ -1298,7 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:Stop Light Observations
 DTSTART:20241003T000000Z
 DTEND:20241003T020000Z
-DTSTAMP:20240729T010309Z
+DTSTAMP:20240730T010129Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nSTOP LIGHT OBSERVATIONSStop Light Observations is a dna
  mic five-piece hailing from Charleston\, South Carolina. Their sound is a 
@@ -1312,7 +1306,7 @@ BEGIN:VEVENT
 SUMMARY:ULTRA SUNN
 DTSTART:20241004T010000Z
 DTEND:20241004T030000Z
-DTSTAMP:20240729T010311Z
+DTSTAMP:20240730T010131Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nULTRA SUNN (Brussels)ULTRA SUNN is a contemporary EBM/C
  oldwave/New Beat band from Brussels\, Belgium\, formed in late 2019 by fro
@@ -1366,7 +1360,7 @@ BEGIN:VEVENT
 SUMMARY:A Black Celebration – Depeche Mode Heavy Dance Party
 DTSTART:20241005T010000Z
 DTEND:20241005T030000Z
-DTSTAMP:20240729T010312Z
+DTSTAMP:20240730T010132Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n9PM Doors\
  nA BLACK CELEBRATION – PHILLY’S FAVORITE DEPECHE MODE DANCE PARTY!\n\n
  \n\n\n\n\n\n\n\n\nDJ Baby Berlin + Special Guest: Male Tears (SoCal 100% 
@@ -1398,7 +1392,7 @@ BEGIN:VEVENT
 SUMMARY:Merce Lemon
 DTSTART:20241007T000000Z
 DTEND:20241007T020000Z
-DTSTAMP:20240729T010313Z
+DTSTAMP:20240730T010134Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\n \nMERCE LEMON\nWhen asked how the city of Pittsburhg 
  has inspired her creative practice\, she responds with a characteristic jo
@@ -1447,7 +1441,7 @@ BEGIN:VEVENT
 SUMMARY:French Cassettes
 DTSTART:20241008T000000Z
 DTEND:20241008T020000Z
-DTSTAMP:20240729T010315Z
+DTSTAMP:20240730T010135Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFRENCH CASSETTES\nFrench Cassettes music is filled with
   winding melodies that pop up unexpectedly but grab hold and don’t let g
@@ -1478,7 +1472,7 @@ BEGIN:VEVENT
 SUMMARY:La Luz
 DTSTART:20241009T000000Z
 DTEND:20241009T020000Z
-DTSTAMP:20240729T010316Z
+DTSTAMP:20240730T010136Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nLA LUZ\n“I was in a dream\, but now I can see that ch
  ange is the only law.”With a credo adapted from science fiction author O
@@ -1530,7 +1524,7 @@ BEGIN:VEVENT
 SUMMARY:Little Wings
 DTSTART:20241010T000000Z
 DTEND:20241010T020000Z
-DTSTAMP:20240729T010317Z
+DTSTAMP:20240730T010136Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nLITTLE WINGSKyle Field is a visual artist and the songw
  riter behind the 25-years-running group Little Wings. Over the course of m
@@ -1550,7 +1544,7 @@ BEGIN:VEVENT
 SUMMARY:The Hypos
 DTSTART:20241011T010000Z
 DTEND:20241011T030000Z
-DTSTAMP:20240729T010319Z
+DTSTAMP:20240730T010138Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE HYPOSThe Hypos are an Asheville\, NC band built aro
  und the collaboration of veteran songwriters Greg Cartwright(reigning soun
@@ -1569,7 +1563,7 @@ BEGIN:VEVENT
 SUMMARY:The Bevis Frond
 DTSTART:20241012T010000Z
 DTEND:20241012T030000Z
-DTSTAMP:20240729T010320Z
+DTSTAMP:20240730T010138Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE BEVIS FROND\nIf there is any artist who could be co
  nsidered as having followed a tangential path from Hendrix to Big Star to 
@@ -1592,7 +1586,7 @@ BEGIN:VEVENT
 SUMMARY:Jake Xerxes Fussell
 DTSTART:20241013T010000Z
 DTEND:20241013T030000Z
-DTSTAMP:20240729T010322Z
+DTSTAMP:20240730T010139Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nJAKE XERXES FUSSELL\nReared in Georgia and now settled 
  in North Carolina\, Jake Xerxes Fussell has established himself as a devot
@@ -1612,7 +1606,7 @@ BEGIN:VEVENT
 SUMMARY:Davila 666
 DTSTART:20241014T000000Z
 DTEND:20241014T020000Z
-DTSTAMP:20240729T010323Z
+DTSTAMP:20240730T010141Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nDAVILA 666\nDávila 666 bum rushed the underground rock
   n’ roll scene in 2008 with their self titled debut album\, released on 
@@ -1643,7 +1637,7 @@ BEGIN:VEVENT
 SUMMARY:Genevieve Stokes
 DTSTART:20241016T000000Z
 DTEND:20241016T020000Z
-DTSTAMP:20240729T010324Z
+DTSTAMP:20240730T010141Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGENEVIEVE STOKES\nLILY KERSHAW\n
 LOCATION:Johnny Brenda’s
@@ -1652,7 +1646,7 @@ BEGIN:VEVENT
 SUMMARY:Brooke Candy
 DTSTART:20241018T010000Z
 DTEND:20241018T030000Z
-DTSTAMP:20240729T010325Z
+DTSTAMP:20240730T010142Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nBROOKE CANDY\nAn undisputed icon of the underground mus
  ic\, fashion\, and queer art scenes\, Brooke Candy is a sex-positive pop i
@@ -1670,7 +1664,7 @@ BEGIN:VEVENT
 SUMMARY:Greg Mendez & Allegra Krieger
 DTSTART:20241019T010000Z
 DTEND:20241019T030000Z
-DTSTAMP:20240729T010327Z
+DTSTAMP:20240730T010144Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nGREG MENDEZ\nGreg Mendez is a Philadelphia songwriter w
  hose releases have garnered acclaim for their quiet\, lo-fi urgency. His n
@@ -1703,7 +1697,7 @@ BEGIN:VEVENT
 SUMMARY:LSDXOXO
 DTSTART:20241021T000000Z
 DTEND:20241021T020000Z
-DTSTAMP:20240729T010328Z
+DTSTAMP:20240730T010145Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry* \n7PM – 
  Doors8PM – Show\n \nLSDXOXO\nOriginally from Philadelphia\, RJ Glasgow 
  broke through as LSDXOXO in New York City as part of the GHE20GOTH1K colle
@@ -1739,7 +1733,7 @@ BEGIN:VEVENT
 SUMMARY:Sheer Mag
 DTSTART:20241024T000000Z
 DTEND:20241024T020000Z
-DTSTAMP:20240729T010329Z
+DTSTAMP:20240730T010146Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nSHEER MAGUnderlying every great record\, every career-d
  efining work of art\, is a certain ineffable\, increasingly rarified quali
@@ -1776,7 +1770,7 @@ BEGIN:VEVENT
 SUMMARY:Christina Ward Record Release
 DTSTART:20241025T000000Z
 DTEND:20241025T020000Z
-DTSTAMP:20240729T010330Z
+DTSTAMP:20240730T010148Z
 DESCRIPTION:\n\n\n\n**All events are 21+ valid ID required for entry**\n 
  \n7 PM – Doors\n8 PM – Show\n\n \n \nCHRISTINA WARD\n\nChristina War
  d\, a versatile and boundary-pushing guitarist\, banjoist\, and songwriter
@@ -1808,7 +1802,7 @@ BEGIN:VEVENT
 SUMMARY:French Police
 DTSTART:20241026T010000Z
 DTEND:20241026T030000Z
-DTSTAMP:20240729T010332Z
+DTSTAMP:20240730T010149Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nFRENCH POLICEFormed in Chicago\, French Police is led b
  y vocalist and guitarist Brian Flores. Their music combines raw energy and
@@ -1839,7 +1833,7 @@ BEGIN:VEVENT
 SUMMARY:Cloud Nothings: 10 Years Of Here And Nowhere Else
 DTSTART:20241030T000000Z
 DTEND:20241030T020000Z
-DTSTAMP:20240729T010333Z
+DTSTAMP:20240730T010150Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nCLOUD NOTHINGS\nSome bands never miss. This rare breed 
  consistently puts out great records every couple years\, avoiding the leng
@@ -1859,7 +1853,7 @@ BEGIN:VEVENT
 SUMMARY:Drinking Boys and Girls Choir
 DTSTART:20241031T000000Z
 DTEND:20241031T020000Z
-DTSTAMP:20240729T010334Z
+DTSTAMP:20240730T010152Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nDRINKING BOYS AND GIRLS CHOIRDrinking Boys and Girls Ch
  oir (DBGC) are a three-piece punk band from Daegu\, South Korea. Members c
@@ -1896,7 +1890,7 @@ BEGIN:VEVENT
 SUMMARY:Donovan Woods
 DTSTART:20241104T010000Z
 DTEND:20241104T030000Z
-DTSTAMP:20240729T010335Z
+DTSTAMP:20240730T010153Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nDONOVAN WOODSSince he released his first album a decade
   ago\, singer-songwriter Donovan Woods’ blend of folk\, country and pop 
@@ -1920,7 +1914,7 @@ BEGIN:VEVENT
 SUMMARY:Blitzen Trapper
 DTSTART:20241107T010000Z
 DTEND:20241107T030000Z
-DTSTAMP:20240729T010336Z
+DTSTAMP:20240730T010155Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nBLITZEN TRAPPER\nThere are numbers so vast they exceed 
  the scope of human reckoning\, concepts so immeasurable they surpass our c
@@ -1954,7 +1948,7 @@ BEGIN:VEVENT
 SUMMARY:Hunter Root
 DTSTART:20241110T020000Z
 DTEND:20241110T040000Z
-DTSTAMP:20240729T010338Z
+DTSTAMP:20240730T010157Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nHUNTER ROOT\nFew artists embody the spirit of creative 
  exploration as seamlessly as Pennsylvania-based multi-instrumentalist Hunt
@@ -1980,7 +1974,7 @@ BEGIN:VEVENT
 SUMMARY:Orla Gartland
 DTSTART:20241112T010000Z
 DTEND:20241112T030000Z
-DTSTAMP:20240729T010339Z
+DTSTAMP:20240730T010158Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nORLA GARTLAND\n
 LOCATION:Johnny Brenda’s
@@ -1989,7 +1983,7 @@ BEGIN:VEVENT
 SUMMARY:Gardens & Villa
 DTSTART:20241113T010000Z
 DTEND:20241113T030000Z
-DTSTAMP:20240729T010340Z
+DTSTAMP:20240730T010159Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGARDENS & VILLA\nSome band names take on a talismanic q
  uality\, revealing mystical depths the musicians may never have intended. 
@@ -2005,7 +1999,7 @@ BEGIN:VEVENT
 SUMMARY:Finom
 DTSTART:20241114T010000Z
 DTEND:20241114T030000Z
-DTSTAMP:20240729T010341Z
+DTSTAMP:20240730T010201Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFINOMNot God is the new album from Chicago’s beloved 
  two-headed monster\, Finom (fka Ohmme). You can ask them to go into more d
@@ -2046,7 +2040,7 @@ BEGIN:VEVENT
 SUMMARY:Six Organs of Admittance
 DTSTART:20241116T020000Z
 DTEND:20241116T040000Z
-DTSTAMP:20240729T010343Z
+DTSTAMP:20240730T010202Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nSIX ORGANS OF ADMITTANCEWith Time is Glass\, Six Organs
   of Admittance is captured once again in the intricate tangle of the fretb
@@ -2095,7 +2089,7 @@ BEGIN:VEVENT
 SUMMARY:Futurebirds
 DTSTART:20241119T010000Z
 DTEND:20241119T030000Z
-DTSTAMP:20240729T010344Z
+DTSTAMP:20240730T010203Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFUTUREBIRDS“I’m movin’ on\,” Daniel Womack sing
  s during the first minute of Easy Company\, an album that finds Futurebird
