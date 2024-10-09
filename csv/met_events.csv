@@ -1,11 +1,11 @@
 ,Show,Date,Doors,Showtime,Postponed?,Sold Out,Link
-0,An Evening With Gracie Abrams,"Tue Oct 8th, 2024",7:00 pm,8:00 pm,,,https://themetphilly.com/event/gracie-abrams/
-1,Avatar: The Last Airbender In Concert,"Wed Oct 9th, 2024",6:00 pm,7:30 pm,,Sold Out,https://themetphilly.com/event/avatar-the-last-airbender-in-concert/
-2,Nothing But Thieves,"Fri Oct 11th, 2024",7:00 pm,8:00 pm,,,https://themetphilly.com/event/nothing-but-thieves/
-3,Dane Cook: Fresh New Flavor,"Sat Oct 12th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/dane-cook-2/
-4,The Diary of Black Men: How Do You Love a Black Woman,"Mon Oct 14th, 2024",,7:00 pm,,,https://themetphilly.com/event/the-diary-of-black-men-how-do-you-love-a-black-woman/
+0,Avatar: The Last Airbender In Concert,"Wed Oct 9th, 2024",6:00 pm,7:30 pm,,Sold Out,https://themetphilly.com/event/avatar-the-last-airbender-in-concert/
+1,Nothing But Thieves,"Fri Oct 11th, 2024",7:00 pm,8:00 pm,,,https://themetphilly.com/event/nothing-but-thieves/
+2,Dane Cook: Fresh New Flavor,"Sat Oct 12th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/dane-cook-2/
+3,The Diary of Black Men: How Do You Love a Black Woman,"Mon Oct 14th, 2024",,7:00 pm,,,https://themetphilly.com/event/the-diary-of-black-men-how-do-you-love-a-black-woman/
+4,Gracie Abrams,"Tue Oct 15th, 2024",7:00 pm,8:00 pm,,,https://themetphilly.com/event/gracie-abrams/
 5,AIR: performing Moon Safari,"Thu Oct 17th, 2024",7:00 pm,8:00 pm,,,https://themetphilly.com/event/air/
-6,Orville Peck: Stampede Tour,"Fri Oct 18th, 2024",7:00 pm,8:00 pm,,,https://themetphilly.com/event/orville-peck/
+6,Orville Peck: Stampede Tour,"Fri Oct 18th, 2024",6:00 pm,7:00 pm,,,https://themetphilly.com/event/orville-peck/
 7,Stephen Sanchez: with Special Guest The Paper Kites,"Sat Oct 19th, 2024",7:00 pm,8:00 pm,,,https://themetphilly.com/event/stephen-sanchez/
 8,A Conversation with Larry David,"Tue Oct 22nd, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/in-conversation-with-larry-david/
 9,Lee Brice,"Thu Oct 24th, 2024",6:30 pm,8:00 pm,,,https://themetphilly.com/event/lee-brice/
@@ -34,32 +34,34 @@
 32,Jim Gaffigan: Barely Alive Tour,"Sat Dec 14th, 2024",7:00 pm,8:00 pm,,,https://themetphilly.com/event/jim-gaffigan-4/
 33,‘Twas the Night Before… by Cirque du Soleil,"Thu Dec 19th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-20/
 34,‘Twas the Night Before… by Cirque du Soleil,"Fri Dec 20th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-19/
-35,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 21st, 2024",12:00 pm,1:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-18/
-36,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 21st, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-16/
-37,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 21st, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-17/
+35,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 21st, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-16/
+36,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 21st, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-17/
+37,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 21st, 2024",12:00 pm,1:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-18/
 38,‘Twas the Night Before… by Cirque du Soleil,"Sun Dec 22nd, 2024",5:00 pm,6:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-14/
 39,‘Twas the Night Before… by Cirque du Soleil,"Sun Dec 22nd, 2024",2:00 pm,3:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-15/
-40,‘Twas the Night Before… by Cirque du Soleil,"Mon Dec 23rd, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-12/
-41,‘Twas the Night Before… by Cirque du Soleil,"Mon Dec 23rd, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-13/
-42,‘Twas the Night Before… by Cirque du Soleil,"Tue Dec 24th, 2024",2:00 pm,3:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-10/
-43,‘Twas the Night Before… by Cirque du Soleil,"Tue Dec 24th, 2024",11:00 am,12:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-11/
-44,‘Twas the Night Before… by Cirque du Soleil,"Thu Dec 26th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-8/
-45,‘Twas the Night Before… by Cirque du Soleil,"Thu Dec 26th, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-9/
-46,‘Twas the Night Before… by Cirque du Soleil,"Fri Dec 27th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-6/
-47,‘Twas the Night Before… by Cirque du Soleil,"Fri Dec 27th, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-7/
+40,‘Twas the Night Before… by Cirque du Soleil,"Mon Dec 23rd, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-13/
+41,‘Twas the Night Before… by Cirque du Soleil,"Mon Dec 23rd, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-12/
+42,‘Twas the Night Before… by Cirque du Soleil,"Tue Dec 24th, 2024",11:00 am,12:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-11/
+43,‘Twas the Night Before… by Cirque du Soleil,"Tue Dec 24th, 2024",2:00 pm,3:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-10/
+44,‘Twas the Night Before… by Cirque du Soleil,"Thu Dec 26th, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-9/
+45,‘Twas the Night Before… by Cirque du Soleil,"Thu Dec 26th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-8/
+46,‘Twas the Night Before… by Cirque du Soleil,"Fri Dec 27th, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-7/
+47,‘Twas the Night Before… by Cirque du Soleil,"Fri Dec 27th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-6/
 48,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 28th, 2024",6:30 pm,7:30 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-3/
 49,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 28th, 2024",3:00 pm,4:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-4/
 50,‘Twas the Night Before… by Cirque du Soleil,"Sat Dec 28th, 2024",12:00 pm,1:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-5/
-51,‘Twas the Night Before… by Cirque du Soleil,"Sun Dec 29th, 2024",2:00 pm,3:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-2/
-52,‘Twas the Night Before… by Cirque du Soleil,"Sun Dec 29th, 2024",5:00 pm,6:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil/
+51,‘Twas the Night Before… by Cirque du Soleil,"Sun Dec 29th, 2024",5:00 pm,6:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil/
+52,‘Twas the Night Before… by Cirque du Soleil,"Sun Dec 29th, 2024",2:00 pm,3:00 pm,,,https://themetphilly.com/event/twas-the-night-before-by-cirque-du-soleil-2/
 53,Andrew Santino: Freeze Peach Tour,"Fri Jan 24th, 2025",6:30 pm,7:30 pm,,,https://themetphilly.com/event/andrew-santino/
 54,David Gray: Past & Present Tour,"Sat Jan 25th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/david-gray-3/
-55,Hippo Campus: WXPN Welcomes,"Sat Feb 1st, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/hippo-campus/
-56,An Evening With Dream Theater: 40th Anniversary Tour,"Fri Feb 7th, 2025",6:30 pm,7:30 pm,,,https://themetphilly.com/event/an-evening-with-dream-theater/
-57,Kathy Griffin: My Life On The PTSD-List,"Sat Mar 15th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/kathy-griffin/
-58,Snow Patrol: North American Tour,"Sat Apr 12th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/snow-patrol/
-59,Bright Eyes: WXPN Welcomes,"Sat Apr 19th, 2025",6:30 pm,7:30 pm,,,https://themetphilly.com/event/bright-eyes-2/
-60,Jeff Arcuri: Whole Wide World Tour,"Thu Apr 24th, 2025",6:00 pm,7:00 pm,,,https://themetphilly.com/event/jeff-arcuri/
-61,Nick Cave & The Bad Seeds: WXPN Welcomes,"Sat Apr 26th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/nick-cave-the-bad-seeds/
-62,Max Richter,"Sun May 4th, 2025",,,,,https://themetphilly.com/event/max-richter/
-63,The Driver Era: Obsession Tour,"Wed Jun 11th, 2025",6:30 pm,8:00 pm,,,https://themetphilly.com/event/the-driver-era-2/
+55,Dancing With The Stars,"Sun Jan 26th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/dancing-with-the-stars/
+56,Hippo Campus: WXPN Welcomes,"Sat Feb 1st, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/hippo-campus/
+57,An Evening With Dream Theater: 40th Anniversary Tour,"Fri Feb 7th, 2025",6:30 pm,7:30 pm,,,https://themetphilly.com/event/an-evening-with-dream-theater/
+58,Kathy Griffin: My Life On The PTSD-List,"Sat Mar 15th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/kathy-griffin/
+59,Snow Patrol: North American Tour,"Sat Apr 12th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/snow-patrol/
+60,Bright Eyes: WXPN Welcomes,"Sat Apr 19th, 2025",6:30 pm,7:30 pm,,,https://themetphilly.com/event/bright-eyes-2/
+61,Jeff Arcuri: Whole Wide World Tour,"Thu Apr 24th, 2025",6:00 pm,7:00 pm,,,https://themetphilly.com/event/jeff-arcuri/
+62,Nick Cave & The Bad Seeds: WXPN Welcomes,"Sat Apr 26th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/nick-cave-the-bad-seeds/
+63,Max Richter,"Sun May 4th, 2025",,,,,https://themetphilly.com/event/max-richter/
+64,The Driver Era: Obsession Tour,"Wed Jun 11th, 2025",6:30 pm,8:00 pm,,,https://themetphilly.com/event/the-driver-era-2/
+65,James Blunt,"Fri Jun 20th, 2025",7:00 pm,8:00 pm,,,https://themetphilly.com/event/james-blunt/
