@@ -1,29 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Karl Blau
-DTSTART:20251028T000000Z
-DTEND:20251028T020000Z
-DTSTAMP:20241028T011148Z
-DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
- oors8 PM – Show\nKARL BLAU\nBased in Philadelphia\, Blau has a legendari
- ly broad résumé. He has worked on 250 albums during the last three decad
- es\, his experience ranging from Earth and Microphones to Laura Veirs and 
- Matthew E. White. And his own catalog has forever been that of a polyglot\
- , bending funk and folk and pop and punk into experimental forms with tota
- l glee. To call Vultures of Love the culmination of all that is to imply
-  some stopping point\, as if this is some destination Blau has now reached
- . But he moved to Philadelphia in part because he likes to be part of musi
- c that is going somewhere\, that is seeking some frontier. This is just a 
- particularly compelling step on the path of an under-heralded adventurer\,
-  still finding new ways to locate the space between the expected and unexp
- ected.\nCARLY BRAND\nKOOF\n
-LOCATION:Johnny Brenda’s
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Put It Down
-DTSTART:20241029T000000Z
-DTEND:20241029T020000Z
-DTSTAMP:20241028T011149Z
+DTSTART:20251029T000000Z
+DTEND:20251029T020000Z
+DTSTAMP:20241029T011028Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7:00 PM 
  – Doors8:00 PM – Show\nPUT IT DOWNThis month\, Johnny Brenda’s bring
  s you a disorienting multimedia collage of the absolute funniest people on
@@ -36,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Cloud Nothings: 10 Years Of Here And Nowhere Else
 DTSTART:20241030T000000Z
 DTEND:20241030T020000Z
-DTSTAMP:20241028T011149Z
+DTSTAMP:20241029T011028Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nCLOUD NOTHINGS\nSome bands never miss. This rare breed 
  consistently puts out great records every couple years\, avoiding the leng
@@ -56,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Drinking Boys and Girls Choir
 DTSTART:20241031T000000Z
 DTEND:20241031T020000Z
-DTSTAMP:20241028T011150Z
+DTSTAMP:20241029T011029Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nDRINKING BOYS AND GIRLS CHOIR\nDrinking Boys and Girls 
  Choir (DBGC) are a three-piece punk band from Daegu\, South Korea. Members
@@ -93,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:The Wild Ones
 DTSTART:20241101T010000Z
 DTEND:20241101T030000Z
-DTSTAMP:20241028T011152Z
+DTSTAMP:20241029T011030Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE WILD ONES\nThe Wild Ones are Philadelphia’s (only
  ?) Thin Lizzy cover band.  The band features Greg Karlowitsch (Honey) on 
@@ -118,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:A Black Celebration – Everyday Is Halloween!
 DTSTART:20241102T010000Z
 DTEND:20241102T030000Z
-DTSTAMP:20241028T011153Z
+DTSTAMP:20241029T011030Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n9PM Doors\
  nA BLACK CELEBRATION – PHILLY’S FAVORITE DEPECHE MODE DANCE PARTY!\n\n
  \n\n\n\n\n\n\n\n\n\nSince Halloween is everyday we continue the celebratio
@@ -151,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:New Sound Brass
 DTSTART:20241103T010000Z
 DTEND:20241103T030000Z
-DTSTAMP:20241028T011154Z
+DTSTAMP:20241029T011031Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nNEW SOUND BRASS\nFour years ago\, without a peep (which
   is hard for a brass band) New Sound Brass disappeared. They left no note 
@@ -179,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:*POSTPONED* Donovan Woods
 DTSTART:20241104T010000Z
 DTEND:20241104T030000Z
-DTSTAMP:20241028T011155Z
+DTSTAMP:20241029T011032Z
 DESCRIPTION:\n*THIS EVENT HAS BEEN POSTPONED / NEW DATE TBA*\n*All events 
  are 21+ valid ID required for entry*\n7 PM – Doors8 PM – Show\nDONOVAN
   WOODSSince he released his first album a decade ago\, singer-songwriter D
@@ -203,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Coffins
 DTSTART:20241106T010000Z
 DTEND:20241106T030000Z
-DTSTAMP:20241028T011156Z
+DTSTAMP:20241029T011033Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nCOFFINS\nCoffins is a Japanese doom-death band\, formed
   in 1996\, that has scavenged the depths of evil and darkness throughout t
@@ -225,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Blitzen Trapper
 DTSTART:20241107T010000Z
 DTEND:20241107T030000Z
-DTSTAMP:20241028T011157Z
+DTSTAMP:20241029T011034Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nBLITZEN TRAPPER\nThere are numbers so vast they exceed 
  the scope of human reckoning\, concepts so immeasurable they surpass our c
@@ -279,7 +259,7 @@ SUMMARY:The Philadelphia Tom Petty Appreciation Band – “Wildflowers”
   30th Anniversary Celebration
 DTSTART:20241109T020000Z
 DTEND:20241109T040000Z
-DTSTAMP:20241028T011158Z
+DTSTAMP:20241029T011035Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\nTHE PHILADELPHIA TOM PETTY APPRECIATION BAND \nIf there 
  was ever a record worth celebrating twice\, it’s Wildflowers.\nJust as t
@@ -313,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Hunter Root
 DTSTART:20241110T020000Z
 DTEND:20241110T040000Z
-DTSTAMP:20241028T011200Z
+DTSTAMP:20241029T011035Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nHUNTER ROOT\nFew artists embody the spirit of creative 
  exploration as seamlessly as Pennsylvania-based multi-instrumentalist Hunt
@@ -339,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Orla Gartland
 DTSTART:20241112T010000Z
 DTEND:20241112T030000Z
-DTSTAMP:20241028T011201Z
+DTSTAMP:20241029T011036Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nORLA GARTLAND\nEMMA HARNER\n
 LOCATION:Johnny Brenda’s
@@ -348,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:*Cancelled* Gardens & Villa
 DTSTART:20241113T010000Z
 DTEND:20241113T030000Z
-DTSTAMP:20241028T011202Z
+DTSTAMP:20241029T011037Z
 DESCRIPTION:\n*THIS EVENT HAS BEEN CANCELLED*\n*All events are 21+ valid I
  D required for entry*\n7 PM – Doors8 PM – Show\nGARDENS & VILLA\nSome 
  band names take on a talismanic quality\, revealing mystical depths the mu
@@ -372,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Finom
 DTSTART:20241114T010000Z
 DTEND:20241114T030000Z
-DTSTAMP:20241028T011203Z
+DTSTAMP:20241029T011038Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFINOMNot God is the new album from Chicago’s beloved 
  two-headed monster\, Finom (fka Ohmme). You can ask them to go into more d
@@ -413,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Illiterate Light
 DTSTART:20241115T020000Z
 DTEND:20241115T040000Z
-DTSTAMP:20241028T011203Z
+DTSTAMP:20241029T011039Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nILLITERATE LIGHT\nIt’s dangerous to put Illiterate Li
  ght in a box\, especially with the release of their new album\, Arches. Ar
@@ -442,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:Six Organs of Admittance
 DTSTART:20241116T020000Z
 DTEND:20241116T040000Z
-DTSTAMP:20241028T011205Z
+DTSTAMP:20241029T011040Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nSIX ORGANS OF ADMITTANCEWith Time is Glass\, Six Organs
   of Admittance is captured once again in the intricate tangle of the fretb
@@ -491,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Octave Cat
 DTSTART:20241117T020000Z
 DTEND:20241117T040000Z
-DTSTAMP:20241028T011206Z
+DTSTAMP:20241029T011040Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nOCTAVE CAT\nOctave Cat is a trio of Eli Winderman (Dopa
  pod – keyboards)\, Jesse Miller (Lotus – bass/modular synth) and Charl
@@ -506,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Sam Greenfield
 DTSTART:20241118T010000Z
 DTEND:20241118T030000Z
-DTSTAMP:20241028T011207Z
+DTSTAMP:20241029T011041Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nSAM GREENFIELD\nMulti-instrumentalist and composer Sam 
  Greenfield has made a name for himself in the music industry playing along
@@ -528,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Futurebirds
 DTSTART:20241119T010000Z
 DTEND:20241119T030000Z
-DTSTAMP:20241028T011208Z
+DTSTAMP:20241029T011041Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFUTUREBIRDS\n“I’m movin’ on\,” Daniel Womack si
  ngs during the first minute of Easy Company\, an album that finds Futurebi
@@ -575,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Sam Burchfield
 DTSTART:20241120T010000Z
 DTEND:20241120T030000Z
-DTSTAMP:20241028T011209Z
+DTSTAMP:20241029T011042Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nSAM BURCHFIELD\nSam Burchfield was raised in the foothi
  lls of the Blue Ridge Mountains of South Carolina\, where he learned to pl
@@ -609,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:Twen & Eric Slick
 DTSTART:20241121T010000Z
 DTEND:20241121T030000Z
-DTSTAMP:20241028T011210Z
+DTSTAMP:20241029T011043Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nTWEN\nERIC SLICK\nEric Slick is a singer\, songwriter\,
   and multi-instrumentalist from Nashville\, TN. He’s performed and recor
@@ -622,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Sun June
 DTSTART:20241122T020000Z
 DTEND:20241122T040000Z
-DTSTAMP:20241028T011212Z
+DTSTAMP:20241029T011044Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nSUN JUNE\nThe first two minutes of Sun June’s third a
  lbum\, Bad Dream Jaguar\, is a reverie – Laura Colwell’s voice floats 
@@ -654,7 +634,7 @@ BEGIN:VEVENT
 SUMMARY:Dirty Dollhouse (Album Release)
 DTSTART:20241123T010000Z
 DTEND:20241123T030000Z
-DTSTAMP:20241028T011213Z
+DTSTAMP:20241029T011045Z
 DESCRIPTION:\n\n*All events are 21+ valid ID required for entry*\n \n8PM 
  DOORS\n9PM SHOW\n \nDIRTY DOLLHOUSE \n\nDirty Dollhouse is the multi-gen
  re music of Philadelphia-based artist Chelsea Mitchell\, a folk chanteuse 
@@ -696,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Horse Jumper of Love
 DTSTART:20241124T013000Z
 DTEND:20241124T033000Z
-DTSTAMP:20241028T011213Z
+DTSTAMP:20241029T011045Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors8:30 PM – Show\nHORSE JUMPER OF LOVE\nHorse Jumper of Love thrive on
   patient and uncompromising songs. Thanks to frontman Dimitri Giannopoulos
@@ -731,7 +711,7 @@ BEGIN:VEVENT
 SUMMARY:Salami Rose Joe Louis
 DTSTART:20241126T010000Z
 DTEND:20241126T030000Z
-DTSTAMP:20241028T011214Z
+DTSTAMP:20241029T011046Z
 DESCRIPTION:\n\n*All events are 21+ valid ID required for entry*\n7 PM –
   Doors8 PM – Show\nSALAMI ROSE JOE LOUIS\n\nSalami Rose Joe Louis is an 
  genre traveler multi-instrumentalist female producer and a signee to Flyin
@@ -764,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:High Reeper
 DTSTART:20241130T020000Z
 DTEND:20241130T040000Z
-DTSTAMP:20241028T011215Z
+DTSTAMP:20241029T011047Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nHIGH REEPER\nHigh Reeper is a heavy metal band from Del
  aware/Philadelphia. Shortly after forming in 2016 they were signed to Heav
@@ -796,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:The Bret Tobias Set
 DTSTART:20241201T010000Z
 DTEND:20241201T030000Z
-DTSTAMP:20241028T011217Z
+DTSTAMP:20241029T011048Z
 DESCRIPTION:\n\nTHE BRET TOBIAS SET \nBret cut his teeth co-fronting the 
  Bigger Lovers\, a Philly guitar pop group that swung for the fences in the
   aughts. Dude re-emerged in 2023 with a set of flinty\, sharply observed n
@@ -825,7 +805,7 @@ BEGIN:VEVENT
 SUMMARY:Gender Ordeal
 DTSTART:20241204T010000Z
 DTEND:20241204T030000Z
-DTSTAMP:20241028T011218Z
+DTSTAMP:20241029T011048Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nThe Gender Reveal Podcast Presents\nGENDER ORDEAL\nThre
  e transsexual friends/morons present a night of comedy and games. Imagine 
@@ -842,7 +822,7 @@ BEGIN:VEVENT
 SUMMARY:Uniform + Pharmakon
 DTSTART:20241205T010000Z
 DTEND:20241205T030000Z
-DTSTAMP:20241028T011219Z
+DTSTAMP:20241029T011049Z
 DESCRIPTION:\nAll events are 21+ valid ID required for entry\n7 PM – Doo
  rs8 PM – Show\nUNIFORM\nSince their inception over a decade ago\, Unifor
  m has pushed its work in all kinds of directions\, unafraid of dismantling
@@ -857,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:Christopher Owens
 DTSTART:20241206T020000Z
 DTEND:20241206T040000Z
-DTSTAMP:20241028T011220Z
+DTSTAMP:20241029T011050Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nCHRISTOPHER OWENS\nChristopher Owens – the celebrate
  d singer-songwriter and former frontman of beloved indie rock band Girls 
@@ -870,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:A Black Celebration – 9 Year Anniversary Depeche Mode Party!
 DTSTART:20241207T020000Z
 DTEND:20241207T040000Z
-DTSTAMP:20241028T011221Z
+DTSTAMP:20241029T011051Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n9PM Doors\
  nA BLACK CELEBRATION – PHILLY’S FAVORITE DEPECHE MODE DANCE PARTY!\n\n
  \n\n\n\n\n\n\n\n\n\n\nCelebrating 9 years of ABC.\nDJ Baby Berlin + Speci
@@ -902,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:BASIC: Chris Forsyth\, Douglas McCombs\, Mikel Patrick Avery
 DTSTART:20241208T020000Z
 DTEND:20241208T040000Z
-DTSTAMP:20241028T011223Z
+DTSTAMP:20241029T011052Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nBASIC: Chris Forsyth\, Douglas McCombs\, Mikel Patrick 
  Avery \nBASIC\, a mind-meld between Chris Forsyth\, his frequent running 
@@ -926,7 +906,7 @@ BEGIN:VEVENT
 SUMMARY:Bar Dust
 DTSTART:20241220T020000Z
 DTEND:20241220T040000Z
-DTSTAMP:20241028T011224Z
+DTSTAMP:20241029T011052Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nBAR DUST\nBar Dust is the premier Philadelphia Pogues t
  ribute band featuring members of local acts including The Menzingers\, Mod
@@ -951,7 +931,7 @@ BEGIN:VEVENT
 SUMMARY:Work Drugs – Holiday Spectacle
 DTSTART:20241222T020000Z
 DTEND:20241222T040000Z
-DTSTAMP:20241028T011225Z
+DTSTAMP:20241029T011053Z
 DESCRIPTION:\n\n*All events are 21+ valid ID required for entry*\n8 PM –
   Doors9 PM – Show\n \nWXPN Welcomes\nWORK DRUGS\nWork Drugs specialize 
  in cocktails-compatible indie pop inspired by the soft rock era of artists
@@ -988,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:Friends Of Jerry
 DTSTART:20250101T010000Z
 DTEND:20250101T030000Z
-DTSTAMP:20241028T011226Z
+DTSTAMP:20241029T011054Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFRIENDS OF JERRY\nFriends of Jerry is a Grateful Dead c
  over band that sounds very little like the Grateful Dead. Drawing from pun
@@ -1011,7 +991,7 @@ BEGIN:VEVENT
 SUMMARY:Geordie Greep
 DTSTART:20250117T020000Z
 DTEND:20250117T040000Z
-DTSTAMP:20241028T011227Z
+DTSTAMP:20241029T011055Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nGEORDIE GREEP\nIs The New Sound a tonic for these times
  ? Let’s ask Geordie Greep. “Music can be so much more than learning 
@@ -1038,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:Geordie Greep
 DTSTART:20250118T020000Z
 DTEND:20250118T040000Z
-DTSTAMP:20241028T011228Z
+DTSTAMP:20241029T011055Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nGEORDIE GREEP\nIs The New Sound a tonic for these times
  ? Let’s ask Geordie Greep. “Music can be so much more than learning 
@@ -1065,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:Jordana
 DTSTART:20250125T020000Z
 DTEND:20250125T040000Z
-DTSTAMP:20241028T011230Z
+DTSTAMP:20241029T011056Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nJORDANA\nWho is Jordana Nye? And what is her signature 
  sound? It depends on when you ask.The 24-year-old\, Maryland-raised songwr
@@ -1105,10 +1085,48 @@ DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
 LOCATION:Johnny Brenda’s
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Third Annual Abortion Access Benefit Series
+DTSTART:20250126T010000Z
+DTEND:20250126T030000Z
+DTSTAMP:20241029T011057Z
+DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
+ oors8 PM – Show\nGround Control Touring Presents\nTHIRD ANNUAL ABORTION 
+ ACCESS BENEFIT SERIES\nControl Top / Dark Thoughts / Mopar Stars\nDJs\, Au
+ ctions\, Special Guests\, + More Artists TBA…\nGround Control Touring is
+  thrilled to announce they’re teaming up for the third year with NOISE F
+ OR NOW\, a non-profit specializing in reproductive justice\, to take actio
+ n and bring awareness with its third annual Abortion Access Benefit Series
+ . The series has expanded to take over EIGHT cities\, coinciding on Saturd
+ ay\, January 25th\, 2025 – Los Angeles at Lodge Room\, New York City at 
+ Bowery Ballroom\, Chicago at Sleeping Village\, Atlanta at The Masquerade 
+ (Purgatory)\, Philadelphia at Johnny Brenda’s\, Austin at Hotel Vegas\, 
+ DC at Songbyrd\, and Raleigh at Kings. Since its inception in 2023\, the A
+ bortion Access Benefit Series has raised over $110\,000 via eight complete
+ ly sold out nationwide events\, with performances by nearly 100 artists an
+ d silent auction bundles provided by dozens of community sponsors and loca
+ l businesses.Each benefit show will feature a special night of music and f
+ estivities in support of abortion funds\, community\, and bodily autonomy.
+  100% of proceeds will go to NOISE FOR NOW who will then allocate the fund
+ s raised to local independent abortion clinics and abortion funds in each 
+ region.More about NOISE FOR NOW: NOISE FOR NOW is a national initiative th
+ at enables artists and entertainers to connect with and financially suppor
+ t grassroots organizations that work in the field of Reproductive Justice\
+ , including abortion access. Reproductive health care services\, including
+  access to legal abortion\, are under attack. By organizing benefit events
+  and campaigns\, NOISE FOR NOW provides opportunities for artists and ente
+ rtainers to use their talent to raise money and send a clear message that 
+ Reproductive Rights are human rights. Since their inaugural benefit concer
+ t in 2017\, NOISE FOR NOW has worked with over 450 artists and entertainer
+ s to raise $1.36M for 54 partner organizations. In 2023\, NOISE FOR NOW es
+ tablished a record label and has released 3 benefit compilations\, 2 of wh
+ ich are streaming on all digital platforms. \n
+LOCATION:Johnny Brenda’s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jessica Lea Mayfield
 DTSTART:20250129T010000Z
 DTEND:20250129T030000Z
-DTSTAMP:20241028T011231Z
+DTSTAMP:20241029T011058Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nJESSICA LEA MAYFIELD\nJessica Lea Mayfield is singer so
  ngwriter hailing from rural Ohio\, she’s been active since age 15 as a s
@@ -1124,7 +1142,7 @@ BEGIN:VEVENT
 SUMMARY:Great Grandpa
 DTSTART:20250131T010000Z
 DTEND:20250131T030000Z
-DTSTAMP:20241028T011232Z
+DTSTAMP:20241029T011058Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGREAT GRANDPA\nIn the fall of 2020\, Great Grandpa – 
  the close-knit group of Al Menne\, Dylan Hanwright\, Cam LaFlam\, and Pat 
@@ -1155,7 +1173,7 @@ BEGIN:VEVENT
 SUMMARY:The Bul Bey
 DTSTART:20250201T010000Z
 DTEND:20250201T030000Z
-DTSTAMP:20241028T011233Z
+DTSTAMP:20241029T011058Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM DO
  ORS\n9PM SHOW\n \nTHE BUL BEY\nThe Bul Bey\, a Philly native turned globa
  l citizen\, crafts authentic tales of working-class life with a unique ble
@@ -1178,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:Ollie Wride
 DTSTART:20250222T020000Z
 DTEND:20250222T040000Z
-DTSTAMP:20241028T011234Z
+DTSTAMP:20241029T011059Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nOLLIE WRIDE\nBritish Singer/Songwriter Ollie Wride (FM-
  84) returns to the stage announcing his biggest tour yet in support of his
@@ -1198,7 +1216,7 @@ BEGIN:VEVENT
 SUMMARY:The Bevis Frond
 DTSTART:20250302T020000Z
 DTEND:20250302T040000Z
-DTSTAMP:20241028T011234Z
+DTSTAMP:20241029T011100Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE BEVIS FROND\nIf there is any artist who could be co
  nsidered as having followed a tangential path from Hendrix to Big Star to 
@@ -1221,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:Andrew Belle
 DTSTART:20250307T020000Z
 DTEND:20250307T040000Z
-DTSTAMP:20241028T011236Z
+DTSTAMP:20241029T011101Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nANDREW BELLE\nBlack Bear LIVE (Acoustic) \nAndrew Bell
  e writes songs by feel. The composition first – lyrics and melody eventu
@@ -1260,7 +1278,7 @@ BEGIN:VEVENT
 SUMMARY:Warmduscher
 DTSTART:20250309T020000Z
 DTEND:20250309T040000Z
-DTSTAMP:20241028T011237Z
+DTSTAMP:20241029T011101Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nWARMDUSCHER\nWhen most bands get round to releasing alb
  um number live their sound\, weighed down by expectation or having resorte
@@ -1282,7 +1300,7 @@ BEGIN:VEVENT
 SUMMARY:Esther Rose & Twain
 DTSTART:20250323T010000Z
 DTEND:20250323T030000Z
-DTSTAMP:20241028T011238Z
+DTSTAMP:20241029T011103Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nESTHER ROSE\nEverything clicks on Safe to Run\, the fou
  rth album from singer\, songwriter and perpetual searcher Esther Rose. It
@@ -1325,7 +1343,7 @@ BEGIN:VEVENT
 SUMMARY:Orions Belte
 DTSTART:20250324T000000Z
 DTEND:20250324T020000Z
-DTSTAMP:20241028T011239Z
+DTSTAMP:20241029T011104Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nORIONS BELTE\nThere are some places and moments that ti
  e people together forever\, whether it be a place\, a song or something yo
@@ -1353,7 +1371,7 @@ BEGIN:VEVENT
 SUMMARY:Shigeto Presents: Cherry Blossom Baby
 DTSTART:20250327T000000Z
 DTEND:20250327T020000Z
-DTSTAMP:20241028T011240Z
+DTSTAMP:20241029T011104Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nSHIGETO PRESENTS: CHERRY BLOSSOM BABY\n\nCherry Blossom
   Baby\, Shigeto’s first full-length statement since 2017\, sprouts out f
@@ -1373,7 +1391,7 @@ BEGIN:VEVENT
 SUMMARY:Nanocluster (Immersion | SUSS)
 DTSTART:20250402T000000Z
 DTEND:20250402T020000Z
-DTSTAMP:20241028T011242Z
+DTSTAMP:20241029T011105Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nNANOCLUSTER (IMMERSION | SUSS)\nIn celebration of the r
  elease of Nanocluster Vol.3\, Immersion (Colin Newman & Malka Spigel) in c
@@ -1386,7 +1404,7 @@ BEGIN:VEVENT
 SUMMARY:Mercury Rev
 DTSTART:20250417T000000Z
 DTEND:20250417T020000Z
-DTSTAMP:20241028T011242Z
+DTSTAMP:20241029T011106Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nMERCURY REV\nSince forming in 1989 in Buffalo\, New Yor
  k\, Mercury Rev has made a career of boldly exploring the fringes of artis
@@ -1416,7 +1434,7 @@ BEGIN:VEVENT
 SUMMARY:Matthew Logan Vasquez
 DTSTART:20250525T010000Z
 DTEND:20250525T030000Z
-DTSTAMP:20241028T011243Z
+DTSTAMP:20241029T011107Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nMATTHEW LOGAN VASQUEZ\nMatthew Logan Vasquez – Best-k
  nown as the co-founder and frontman for shape shifting heartland indie roc
@@ -1435,7 +1453,7 @@ BEGIN:VEVENT
 SUMMARY:Gyedu-Blay Ambolley
 DTSTART:20250630T000000Z
 DTEND:20250630T020000Z
-DTSTAMP:20241028T011244Z
+DTSTAMP:20241029T011107Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGYEDU-BLAY AMBOLLEYGyedu-Blay Ambolley is a musical lum
  inary hailing from Ghana\, West Africa\, with a staggering 29 albums under
@@ -1478,7 +1496,7 @@ BEGIN:VEVENT
 SUMMARY:Little Wings
 DTSTART:20250724T000000Z
 DTEND:20250724T020000Z
-DTSTAMP:20241028T011246Z
+DTSTAMP:20241029T011108Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nLITTLE WINGS\nKyle Field is a visual artist and the son
  gwriter behind the 25-years-running group Little Wings. Over the course of
