@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Cory Wong featuring Mark Lettieri: with special guest Couch
-DTSTART:20241109T010000Z
-DTEND:20241109T030000Z
-DTSTAMP:20241108T010850Z
-DESCRIPTION:Info: https://themetphilly.com/event/cory-wong/\n\nDoors at 7:
- 00 pm\nShow starts at 8:00 pm\n\n\nCory Wong is a Grammy Nominated guitari
- st\, producer\, variety show host\, and podcast host. In addition to his s
- kyrocketing solo career\, he is also a member of Vulfpeck & Fearless Flyer
- s.\nQuickly gaining momentum on the internet\, Cory wasted no time taking 
- the show on the road. He and his band have been performing to sold out cro
- wds around the world on some of the most iconic stages.\nCory’s passion 
- for music and collaboration expands farther than writing and performing so
- ngs. The internet knows Cory Wong for his fun content creation\, marketing
-  campaigns\, and partnerships with top brands like Apple\, where he recent
- ly launched his own Producer Pack. In early 2024\, Cory was asked to write
-  the theme song for the newest CBS late night tv show\, called After Midni
- ght. He also recently appeared on the theme song for Spy X Family Season 2
- \, which charted at #1 in Japan. Wong has positioned himself at the forefr
- ont of product partnerships with signature products in stores worldwide. Y
- ou can purchase his Signature Fender Stratocaster\, Compressor pedal\, Ove
- rdrive pedal\, Digital Plugin\, Guitar Pickups\, or download his Apple Pro
- ducer Pack right now.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Last Waltz: LIFE IS A CARNIVAL: LAST WALTZ TOUR '24
 DTSTART:20241110T010000Z
 DTEND:20241110T030000Z
-DTSTAMP:20241108T010850Z
+DTSTAMP:20241109T010642Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-last-waltz-2/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nLineup: 
  Ryan Bingham\, Jamey Johnson\, plus Mike Campbell and Benmont Tench of The
@@ -40,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Chelsea Handler
 DTSTART:20241111T000000Z
 DTEND:20241111T020000Z
-DTSTAMP:20241108T010850Z
+DTSTAMP:20241109T010642Z
 DESCRIPTION:Info: https://themetphilly.com/event/chelsea-cutler-2/\n\nDoor
  s at 5:30 pm\nShow starts at 7:00 pm\n\n\nThis event will be a phone-free 
  experience. Use of phones\, smart watches and accessories\, will not be pe
@@ -58,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Sturgill Simpson: Why Not? Tour 2024
 DTSTART:20241113T010000Z
 DTEND:20241113T030000Z
-DTSTAMP:20241108T010851Z
+DTSTAMP:20241109T010642Z
 DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-sturgill-
  simpson/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nRespected\, belo
  ved and fiercely independent\, Sturgill Simpson is set to make his highly 
@@ -89,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Sturgill Simpson: Why Not? Tour 2024
 DTSTART:20241114T010000Z
 DTEND:20241114T030000Z
-DTSTAMP:20241108T010851Z
+DTSTAMP:20241109T010642Z
 DESCRIPTION:Info: https://themetphilly.com/event/sturgill-simpson/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nRespected\, beloved and fiercely
   independent\, Sturgill Simpson is set to make his highly anticipated retu
@@ -120,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Russo’s Almost Dead
 DTSTART:20241116T010000Z
 DTEND:20241116T030000Z
-DTSTAMP:20241108T010852Z
+DTSTAMP:20241109T010642Z
 DESCRIPTION:Info: https://themetphilly.com/event/joe-russos-almost-dead-5/
  \n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30 PM\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -129,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Sarah Silverman: Postmortem Tour
 DTSTART:20241122T010000Z
 DTEND:20241122T030000Z
-DTSTAMP:20241108T010852Z
+DTSTAMP:20241109T010643Z
 DESCRIPTION:Info: https://themetphilly.com/event/sarah-silverman/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nThis event will be a phone-free e
  xperience. Use of cellphones\, smart watches\, smart accessories\, cameras
@@ -149,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Brett Eldredge: GLOW: Welcome to the Family Tour
 DTSTART:20241202T010000Z
 DTEND:20241202T030000Z
-DTSTAMP:20241108T010852Z
+DTSTAMP:20241109T010643Z
 DESCRIPTION:Info: https://themetphilly.com/event/brett-eldredge-2/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nSupport:
   Stacey Ryan\n
@@ -159,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241205T003000Z
 DTEND:20241205T023000Z
-DTSTAMP:20241108T010852Z
+DTSTAMP:20241109T010643Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart/\n\nDoors at 6
  :00 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE: T
  his event will be a phone-free experience. Use of phones\, smart watches a
@@ -215,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241206T003000Z
 DTEND:20241206T023000Z
-DTSTAMP:20241108T010853Z
+DTSTAMP:20241109T010643Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart-2/\n\nDoors at
   6:00 pm\nShow starts at 7:30 pm\n\n\n\nOnsale to General Public\nStarts F
  ri\, Aug 9 @ 10:00 am EDT\n\n_____________________________________________
@@ -273,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241207T003000Z
 DTEND:20241207T023000Z
-DTSTAMP:20241108T010853Z
+DTSTAMP:20241109T010644Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart-3/\n\nDoors at
   6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE:
   This event will be a phone-free experience. Use of phones\, smart watche
@@ -329,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241208T003000Z
 DTEND:20241208T023000Z
-DTSTAMP:20241108T010854Z
+DTSTAMP:20241109T010644Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart-4/\n\nDoors at
   6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE:
   This event will be a phone-free experience. Use of phones\, smart watche
@@ -385,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241213T003000Z
 DTEND:20241213T023000Z
-DTSTAMP:20241108T010854Z
+DTSTAMP:20241109T010644Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-2/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nJim Gaffig
  an is a seven-time Grammy nominated comedian\, actor\, writer\, producer
@@ -442,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241214T000000Z
 DTEND:20241214T020000Z
-DTSTAMP:20241108T010854Z
+DTSTAMP:20241109T010644Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-3/\n\nDoors 
  at 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nJim Gaffig
  an is a seven-time Grammy nominated comedian\, actor\, writer\, producer
@@ -499,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241214T220000Z
 DTEND:20241215T000000Z
-DTSTAMP:20241108T010855Z
+DTSTAMP:20241109T010645Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-5/\n\nDoors 
  at 4:00 pm\nShow starts at 5:00 pm\n\n\nDoors open at 4:00p.m.\nJim Gaffig
  an is a seven-time Grammy nominated comedian\, actor\, writer\, producer
@@ -556,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241215T010000Z
 DTEND:20241215T030000Z
-DTSTAMP:20241108T010855Z
+DTSTAMP:20241109T010645Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-4/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00pm\nJim Gaffigan
   is a seven-time Grammy nominated comedian\, actor\, writer\, producer\,
@@ -613,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241220T003000Z
 DTEND:20241220T023000Z
-DTSTAMP:20241108T010856Z
+DTSTAMP:20241109T010645Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-20/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -622,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241221T003000Z
 DTEND:20241221T023000Z
-DTSTAMP:20241108T010856Z
+DTSTAMP:20241109T010645Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-19/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -631,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241221T180000Z
 DTEND:20241221T200000Z
-DTSTAMP:20241108T010856Z
+DTSTAMP:20241109T010645Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-18/\n\nDoors at 12:00 pm\nShow starts at 1:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -640,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241221T210000Z
 DTEND:20241221T230000Z
-DTSTAMP:20241108T010857Z
+DTSTAMP:20241109T010645Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-17/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -649,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241222T003000Z
 DTEND:20241222T023000Z
-DTSTAMP:20241108T010857Z
+DTSTAMP:20241109T010646Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-16/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -658,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241222T230000Z
 DTEND:20241223T010000Z
-DTSTAMP:20241108T010857Z
+DTSTAMP:20241109T010646Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-14/\n\nDoors at 5:00 pm\nShow starts at 6:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -667,7 +642,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241222T200000Z
 DTEND:20241222T220000Z
-DTSTAMP:20241108T010858Z
+DTSTAMP:20241109T010646Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-15/\n\nDoors at 2:00 pm\nShow starts at 3:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -676,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241223T210000Z
 DTEND:20241223T230000Z
-DTSTAMP:20241108T010858Z
+DTSTAMP:20241109T010646Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-13/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -685,7 +660,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241224T003000Z
 DTEND:20241224T023000Z
-DTSTAMP:20241108T010859Z
+DTSTAMP:20241109T010646Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-12/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -694,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241224T170000Z
 DTEND:20241224T190000Z
-DTSTAMP:20241108T010859Z
+DTSTAMP:20241109T010646Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-11/\n\nDoors at 11:00 am\nShow starts at 12:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -703,7 +678,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241224T200000Z
 DTEND:20241224T220000Z
-DTSTAMP:20241108T010900Z
+DTSTAMP:20241109T010647Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-10/\n\nDoors at 2:00 pm\nShow starts at 3:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -712,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241227T003000Z
 DTEND:20241227T023000Z
-DTSTAMP:20241108T010900Z
+DTSTAMP:20241109T010647Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-8/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -721,7 +696,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241226T210000Z
 DTEND:20241226T230000Z
-DTSTAMP:20241108T010900Z
+DTSTAMP:20241109T010647Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-9/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -730,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241228T003000Z
 DTEND:20241228T023000Z
-DTSTAMP:20241108T010901Z
+DTSTAMP:20241109T010647Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-6/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -739,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241227T210000Z
 DTEND:20241227T230000Z
-DTSTAMP:20241108T010902Z
+DTSTAMP:20241109T010648Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-7/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -748,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241229T003000Z
 DTEND:20241229T023000Z
-DTSTAMP:20241108T010902Z
+DTSTAMP:20241109T010648Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-3/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -757,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241228T210000Z
 DTEND:20241228T230000Z
-DTSTAMP:20241108T010903Z
+DTSTAMP:20241109T010648Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-4/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -766,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241228T180000Z
 DTEND:20241228T200000Z
-DTSTAMP:20241108T010903Z
+DTSTAMP:20241109T010648Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-5/\n\nDoors at 12:00 pm\nShow starts at 1:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -775,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241229T230000Z
 DTEND:20241230T010000Z
-DTSTAMP:20241108T010903Z
+DTSTAMP:20241109T010648Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil/\n\nDoors at 5:00 pm\nShow starts at 6:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -784,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241229T200000Z
 DTEND:20241229T220000Z
-DTSTAMP:20241108T010904Z
+DTSTAMP:20241109T010649Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-2/\n\nDoors at 2:00 pm\nShow starts at 3:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -793,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Andrew Santino: Freeze Peach Tour
 DTSTART:20250125T003000Z
 DTEND:20250125T023000Z
-DTSTAMP:20241108T010904Z
+DTSTAMP:20241109T010649Z
 DESCRIPTION:Info: https://themetphilly.com/event/andrew-santino/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nAndrew stars in FX’s most watche
  d comedy series\, DAVE along side LIL’ DICKY. Santino starred in the SHO
@@ -823,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:David Gray: Past & Present Tour
 DTSTART:20250126T010000Z
 DTEND:20250126T030000Z
-DTSTAMP:20241108T010905Z
+DTSTAMP:20241109T010649Z
 DESCRIPTION:Info: https://themetphilly.com/event/david-gray-3/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nThrough days
   like empty fields after the harvest / This ache where the heart is / Like
@@ -894,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Dancing With The Stars
 DTSTART:20250127T010000Z
 DTEND:20250127T030000Z
-DTSTAMP:20241108T010905Z
+DTSTAMP:20241109T010649Z
 DESCRIPTION:Info: https://themetphilly.com/event/dancing-with-the-stars/\n
  \nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nStraight from Hollywood\, 
  See Dancing with the Stars\, Live!\nSee the glitz\, glam and breathtaking 
@@ -911,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:Hippo Campus: WXPN Welcomes
 DTSTART:20250202T010000Z
 DTEND:20250202T030000Z
-DTSTAMP:20241108T010905Z
+DTSTAMP:20241109T010650Z
 DESCRIPTION:Info: https://themetphilly.com/event/hippo-campus/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nHippo Campus FLOOD Tour\nwith suppor
  t PETEY\nDoors open at 7:00 p.m.\n
@@ -921,7 +896,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening With Dream Theater: 40th Anniversary Tour
 DTSTART:20250208T003000Z
 DTEND:20250208T023000Z
-DTSTAMP:20241108T010906Z
+DTSTAMP:20241109T010650Z
 DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-dream-the
  ater/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -930,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:Jorja Smith: falling or flying Tour
 DTSTART:20250309T010000Z
 DTEND:20250309T030000Z
-DTSTAMP:20241108T010906Z
+DTSTAMP:20241109T010650Z
 DESCRIPTION:Info: https://themetphilly.com/event/jorja-smith/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 p.m.\nAt 25-years-
  old\, British singer-songwriter Jorja Smith has already spent close to a d
@@ -967,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:Kathy Griffin: My Life On The PTSD-List
 DTSTART:20250316T000000Z
 DTEND:20250316T020000Z
-DTSTAMP:20241108T010906Z
+DTSTAMP:20241109T010650Z
 DESCRIPTION:Info: https://themetphilly.com/event/kathy-griffin/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nKathy Griff
  in is a two-time Emmy and Grammy Award winning comedian\, television star\
@@ -992,7 +967,7 @@ BEGIN:VEVENT
 SUMMARY:Ha*Ash: HAASHVILLE TOUR 2024
 DTSTART:20250329T000000Z
 DTEND:20250329T020000Z
-DTSTAMP:20241108T010907Z
+DTSTAMP:20241109T010651Z
 DESCRIPTION:Info: https://themetphilly.com/event/haash/\n\nDoors at 7:00 p
  m\nShow starts at 8:00 pm\n\n\nHa*Ash at The Met Philadelphia has been 
  rescheduled for Friday\, March 28\, 2025. All previously purchased tickets
@@ -1003,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:Snow Patrol: North American Tour
 DTSTART:20250413T000000Z
 DTEND:20250413T020000Z
-DTSTAMP:20241108T010907Z
+DTSTAMP:20241109T010651Z
 DESCRIPTION:Info: https://themetphilly.com/event/snow-patrol/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\n \n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1012,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:Bright Eyes: WXPN Welcomes
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
-DTSTAMP:20241108T010907Z
+DTSTAMP:20241109T010651Z
 DESCRIPTION:Info: https://themetphilly.com/event/bright-eyes-2/\n\nDoors a
  t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30pm\nFive Dice\, A
  ll Threes is a record of uncommon intensity and tenderness\, communal exor
@@ -1126,7 +1101,7 @@ BEGIN:VEVENT
 SUMMARY:Jeff Arcuri: Whole Wide World Tour
 DTSTART:20250424T230000Z
 DTEND:20250425T010000Z
-DTSTAMP:20241108T010908Z
+DTSTAMP:20241109T010651Z
 DESCRIPTION:Info: https://themetphilly.com/event/jeff-arcuri/\n\nDoors at 
  6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nThe Chicago T
  ribune calls Jeff Arcuri “a joke machine\,” but he’s not! He’s a p
@@ -1140,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:Nick Cave & The Bad Seeds: WXPN Welcomes
 DTSTART:20250427T000000Z
 DTEND:20250427T020000Z
-DTSTAMP:20241108T010908Z
+DTSTAMP:20241109T010652Z
 DESCRIPTION:Info: https://themetphilly.com/event/nick-cave-the-bad-seeds/\
  n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1149,7 +1124,7 @@ BEGIN:VEVENT
 SUMMARY:Max Richter
 DTSTART:20250504T040000Z
 DTEND:20250504T060000Z
-DTSTAMP:20241108T010908Z
+DTSTAMP:20241109T010652Z
 DESCRIPTION:Info: https://themetphilly.com/event/max-richter/\n\nDoors at 
  \nShow starts at \n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1158,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:The Driver Era: Obsession Tour
 DTSTART:20250612T000000Z
 DTEND:20250612T020000Z
-DTSTAMP:20241108T010909Z
+DTSTAMP:20241109T010652Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-driver-era-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1167,7 +1142,7 @@ BEGIN:VEVENT
 SUMMARY:Sarah Millican: Late Bloomer Tour 2025
 DTSTART:20250619T000000Z
 DTEND:20250619T020000Z
-DTSTAMP:20241108T010909Z
+DTSTAMP:20241109T010652Z
 DESCRIPTION:Info: https://themetphilly.com/event/sarah-millican/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\n \n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1176,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:James Blunt
 DTSTART:20250621T000000Z
 DTEND:20250621T020000Z
-DTSTAMP:20241108T010910Z
+DTSTAMP:20241109T010652Z
 DESCRIPTION:Info: https://themetphilly.com/event/james-blunt/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nAt the end of 2021\, James Blunt rele
  ased a greatest hits album. “Or as I like to call it — The Greatest H
