@@ -1,40 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:An Evening with Sturgill Simpson: Why Not? Tour 2024
-DTSTART:20241113T010000Z
-DTEND:20241113T030000Z
-DTSTAMP:20241112T010808Z
-DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-sturgill-
- simpson/\n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nRespected\, belo
- ved and fiercely independent\, Sturgill Simpson is set to make his highly 
- anticipated return to music this year with the release of the forthcoming 
- full-length album\, Passage Du Desir\, under a new name\, Johnny Blue Skie
- s. The eight-song album was produced by Johnny Blue Skies and David Fergus
- on and recorded at Clement House Recording Studio in Nashville\, TN and Ab
- bey Road Studios in London\, England. Simpson and his band Kevin Black (ba
- ss)\, Robbie Crowell (keys)\, Laur Joamets (guitar) and Miles Miller (drum
- s)—will also make their long-awaited return to the road this fall with t
- he “Why Not? Tour.” Simpson’s first full tour in over four years\, t
- he extensive headline run includes stops at L.A.’s The Greek Theatre\, W
- ashington State’s The Gorge Amphitheatre\, Lexington’s Rupp Arena\, Ch
- icago’s Salt Shed (two nights)\, Queens’ Forest Hills Stadium and Nash
- ville’s Bridgestone Arena among many more. Simpson will also headline Ou
- tside Lands and Austin City Limits Music Festival.\nSince his debut\, Simp
- son has released five full-length studio albums—2013’s High Top Mounta
- in\, 2014’s Metamodern Sounds in Country Music\, 2016’s A Sailor’s G
- uide to Earth\, 2019’s Sound & Fury and 2021’s The Ballad of Dood and 
- Juanita—along with the 2020 projects\, Cuttin’ Grass Vol. 1 and Vol. 2
- .\nThroughout his singular career\, Simpson has relentlessly pushed agains
- t expectations\, earning widespread acclaim and countless accolades includ
- ing a Grammy Award in 2017 for Best Country Album and six Grammy nominatio
- ns across four genres: country\, rock\, bluegrass and americana.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An Evening with Sturgill Simpson: Why Not? Tour 2024
 DTSTART:20241114T010000Z
 DTEND:20241114T030000Z
-DTSTAMP:20241112T010808Z
+DTSTAMP:20241113T010927Z
 DESCRIPTION:Info: https://themetphilly.com/event/sturgill-simpson/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nRespected\, beloved and fiercely
   independent\, Sturgill Simpson is set to make his highly anticipated retu
@@ -65,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Russo’s Almost Dead
 DTSTART:20241116T010000Z
 DTEND:20241116T030000Z
-DTSTAMP:20241112T010808Z
+DTSTAMP:20241113T010927Z
 DESCRIPTION:Info: https://themetphilly.com/event/joe-russos-almost-dead-5/
  \n\nDoors at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30 PM\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -74,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Sarah Silverman: Postmortem Tour
 DTSTART:20241122T010000Z
 DTEND:20241122T030000Z
-DTSTAMP:20241112T010809Z
+DTSTAMP:20241113T010927Z
 DESCRIPTION:Info: https://themetphilly.com/event/sarah-silverman/\n\nDoors
   at 7:00 pm\nShow starts at 8:00 pm\n\n\nThis event will be a phone-free e
  xperience. Use of cellphones\, smart watches\, smart accessories\, cameras
@@ -94,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Brett Eldredge: GLOW: Welcome to the Family Tour
 DTSTART:20241202T010000Z
 DTEND:20241202T030000Z
-DTSTAMP:20241112T010809Z
+DTSTAMP:20241113T010927Z
 DESCRIPTION:Info: https://themetphilly.com/event/brett-eldredge-2/\n\nDoor
  s at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nSupport:
   Stacey Ryan\n
@@ -104,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241205T003000Z
 DTEND:20241205T023000Z
-DTSTAMP:20241112T010809Z
+DTSTAMP:20241113T010927Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart/\n\nDoors at 6
  :00 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:00p.m.\nPLEASE NOTE: T
  his event will be a phone-free experience. Use of phones\, smart watches a
@@ -160,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241206T003000Z
 DTEND:20241206T023000Z
-DTSTAMP:20241112T010810Z
+DTSTAMP:20241113T010927Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart-2/\n\nDoors at
   6:00 pm\nShow starts at 7:30 pm\n\n\n\nOnsale to General Public\nStarts F
  ri\, Aug 9 @ 10:00 am EDT\n\n_____________________________________________
@@ -218,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241207T003000Z
 DTEND:20241207T023000Z
-DTSTAMP:20241112T010810Z
+DTSTAMP:20241113T010928Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart-3/\n\nDoors at
   6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE:
   This event will be a phone-free experience. Use of phones\, smart watche
@@ -274,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Kevin Hart: Acting My Age
 DTSTART:20241208T003000Z
 DTEND:20241208T023000Z
-DTSTAMP:20241112T010811Z
+DTSTAMP:20241113T010928Z
 DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart-4/\n\nDoors at
   6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nPLEASE NOTE:
   This event will be a phone-free experience. Use of phones\, smart watche
@@ -327,10 +296,66 @@ DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart-4/\n\nDoors at
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kevin Hart: Acting My Age
+DTSTART:20241209T000000Z
+DTEND:20241209T020000Z
+DTSTAMP:20241113T010928Z
+DESCRIPTION:Info: https://themetphilly.com/event/kevin-hart-5/\n\nDoors at
+  6:00 pm\nShow starts at 7:00 pm\n\n\nPLEASE NOTE: This event will be a p
+ hone-free experience. Use of phones\, smart watches and accessories\, will
+  not be permitted in the performance space. Upon arrival at the venue\, al
+ l phones\, smart watches and accessories will be secured in individual Yon
+ dr pouches that will be opened at the end of the event. Guests maintain po
+ ssession of their devices at all times\, and can access them throughout th
+ e event only in designated Phone Use Areas within the venue. All devices w
+ ill be re-secured in Yondr pouches before returning to the performance spa
+ ce. Anyone seen using a device (phone\, smart watch or accessories) during
+  the performance will be escorted out of the venue.\n_____________________
+ _____________________________________________\nEmmy & Grammy nominated Kev
+ in Hart was born and raised in Philadelphia\, Pennsylvania where he launch
+ ed his career as a comedian during an amateur night at a local comedy club
+ . Over the years Hart has become Hollywood’s box office powerhouse\, ope
+ ning eleven films at number one at the box office and grossing more than i
+ n $4.23 billion global revenue. This year\, Kevin received the Kennedy Cen
+ ter’s annual Mark Twain Prize for American Comedy\, he was the 25th reci
+ pient and the youngest honoree to date.\nHart has also become a successful
+  Entrepreneur\; he is Chairman of Hartbeat\; a global\, multi-platform med
+ ia company creating entertainment at the intersection of comedy and cultur
+ e with a mission to keep the world laughing together. The next generation 
+ media company unites Hartbeat Productions’ best-in-class TV & film produ
+ ction capabilities with Laugh Out Loud’s expansive distribution network\
+ , along with its marketing\, sales\, experiential\, branded content\, digi
+ tal and social capabilities. Hart is also the Founder of HartBeat Ventures
+ . Together\, these companies play an integral role part in building Hart
+ ’s eco-system for extraordinary growth and creativity.\nHart continues t
+ o develop\, star\, and produce feature films\, television\, and podcasts v
+ ia Hartbeat for his various partners which include Netflix\, Peacock\, Sir
+ ius XM and Audible. Later in 2024 Hart is staring and Executive Producer o
+ f Peacock’s drama series Fight Night.\nHart is currently touring nationa
+ lly with his ninth standup special “Acting My Age”. Hart’s last spec
+ ial “Reality Check” was named the #1 Comedy Tour of 2022 by Billboard\
+ , and in 2023 Billboard named Hart the Hight Grossing Comedian of the year
+ . In 2020 Hart released his seventh hour long stand-up special\, “Zero F
+ u**ks Given\,” which quickly became Netflix’s biggest stand-up special
+  of 2020 and earned him a Grammy nomination for “Best Comedy Album”. H
+ art also earned Emmy nominations for “Die Hart\,” & the sequel Die Har
+ t 2: Die Harter – both for “Outstanding Actor in a Short Form Comedy o
+ r Drama Series” along with an Emmy nomination for his Docu-series\, “D
+ on’t F**k This Up”. Kevin is a New York Times Best Selling author twic
+ e over and his first Audible original\, “The Decision\,” was nominated
+  for an Audie award for “Best Original Audiobook in 2021.”\nKevin is a
+  founding partner in three companies: the premium tequila brand Gran Coram
+ ino\, and plant based quick serve restaurant Hart House\, and VitaHustle t
+ he nutritional wellness brand. Kevin’s brand partnerships include Sam’
+ s Club\, \, Fabletics Men\, Chase J.P Morgan\, Draft Kings\, Hydrow\, Nutr
+ aBolt\, and Therabody.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241213T003000Z
 DTEND:20241213T023000Z
-DTSTAMP:20241112T010811Z
+DTSTAMP:20241113T010928Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-2/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30p.m.\nJim Gaffig
  an is a seven-time Grammy nominated comedian\, actor\, writer\, producer
@@ -387,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241214T000000Z
 DTEND:20241214T020000Z
-DTSTAMP:20241112T010812Z
+DTSTAMP:20241113T010928Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-3/\n\nDoors 
  at 6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nJim Gaffig
  an is a seven-time Grammy nominated comedian\, actor\, writer\, producer
@@ -442,66 +467,9 @@ LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jim Gaffigan: Barely Alive Tour
-DTSTART:20241214T220000Z
-DTEND:20241215T000000Z
-DTSTAMP:20241112T010812Z
-DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-5/\n\nDoors 
- at 4:00 pm\nShow starts at 5:00 pm\n\n\nDoors open at 4:00p.m.\nJim Gaffig
- an is a seven-time Grammy nominated comedian\, actor\, writer\, producer
- \, two-time New York Times best-selling author\, three-time Emmy winni
- ng top touring performer\, and multi-platinum-selling recording artist. He
-  is known around the world for his unique brand of humor\, which largely r
- evolves around his observations on life.\nGaffigan is a top ten comedian a
- ccording to Forbes’ most recent comedy list and top ten earning comedian
-  in Pollstar. He released his 10th comedy special\, Dark Pale\, last yea
- r on Amazon Prime Video\, an unprecedented achievement for the comedian/ac
- tor.  Dark Pale was met with critical fanfare with The New York Times c
- alling it\, ‘his best yet.” Last fall\, Gaffigan co-headlined with Jer
- ry Seinfeld for a sold-out multi-city arena tour.\nIn 2021 Gaffigan releas
- ed his 9th special\, Comedy Monster\, on Netflix which was nominated fo
- r a Grammy Award.  He was also recently awarded for being the first comed
- ian to reach one billion streams on Pandora.\nGaffigan can currently be se
- en as the lead in the well-reviewed Sci-Fi dramedy\, Linoleum\, which was
-  named one of Vulture.com’s best movies of 2023. He also starred as Mr. 
- Smee in Disney’s Peter Pan and Wendy\, opposite Jude Law and Yara Shahi
- di. He will soon co-star Jerry Seinfeld\, Melissa McCarthy\, James Marsden
- \, and Hugh Grant in Netflix’s Unfrosted\, and co-stars in Susie Sear
- ches which premiered at TIFF and in theaters last year. Also premiering r
- ecently\, Gaffigan joined the cast of HBO Max’s Full Circle\, a limite
- d series from Steven Soderbergh and Ed Solomon which follows an investigat
- ion into a botched kidnapping\, connecting multiple characters and culture
- s in present day NY.\nOn the silver screen\, his many credits include Thr
- ee Kings\, Super Troopers 1 & 2\, and Chappaquiddick. 2019 was Gaffigan
- ’s biggest year in film to date with an astonishing eight films releasin
- g\, three which premiered at the Sundance Film Festival including Troop 
- Zero with Viola Davis and Alison Janney\, Them That Follow and Light F
- rom Light – with many festival goers and press calling Gaffigan the “
- King of Sundance.”   Gaffigan was also recently heard in Disney/Pixar
- ’s highly anticipated animated film\, Luca\, opposite Jacob Tremblay a
- nd Maya Rudolph.\nGaffigan had two films recently in which he debuted as t
- he lead. The comedic film Being Frank\, and American Dreamer\, a dark th
- riller which features him as a ride share app worker who moonlights as a p
- rivate driver for a drug dealer.\nGaffigan can also currently be seen oppo
- site Ethan Hawke in IFC Films Tesla\, as well as opposite Josh Hartnett 
- in Saban Films’ Most Wanted.\nIn addition to two seasons of the critica
- lly acclaimed semi-autobiographical The Jim Gaffigan Show\, which he wrot
- e and produced with his wife Jeannie\, Gaffigan has guest starred on many 
- television comedies and dramas\, ranging from Portlandia and Bob’s Bu
- rgers to the HBO cult hits Flight of the Concords to dramatic roles in
-  Law & Order.\nGaffigan regularly does humorous commentaries on CBS Sund
- ay Morning for which he has won 3 Emmys.  In 2018 Jim served as master o
- f ceremony at The Al Smith Memorial dinner.  In 2015\, Gaffigan had the 
- great honor of performing for Pope Francis and over 1 million festival att
- endees at the Festival of Families in Philadelphia.\nGaffigan and his wi
- fe currently live in Manhattan with their five loud and expensive children
- .\nFor more info on the tour\, go to: jimgaffigan.com/tour-dates.\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jim Gaffigan: Barely Alive Tour
 DTSTART:20241215T010000Z
 DTEND:20241215T030000Z
-DTSTAMP:20241112T010812Z
+DTSTAMP:20241113T010928Z
 DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-4/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00pm\nJim Gaffigan
   is a seven-time Grammy nominated comedian\, actor\, writer\, producer\,
@@ -555,10 +523,67 @@ DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-4/\n\nDoors
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jim Gaffigan: Barely Alive Tour
+DTSTART:20241214T220000Z
+DTEND:20241215T000000Z
+DTSTAMP:20241113T010929Z
+DESCRIPTION:Info: https://themetphilly.com/event/jim-gaffigan-5/\n\nDoors 
+ at 4:00 pm\nShow starts at 5:00 pm\n\n\nDoors open at 4:00p.m.\nJim Gaffig
+ an is a seven-time Grammy nominated comedian\, actor\, writer\, producer
+ \, two-time New York Times best-selling author\, three-time Emmy winni
+ ng top touring performer\, and multi-platinum-selling recording artist. He
+  is known around the world for his unique brand of humor\, which largely r
+ evolves around his observations on life.\nGaffigan is a top ten comedian a
+ ccording to Forbes’ most recent comedy list and top ten earning comedian
+  in Pollstar. He released his 10th comedy special\, Dark Pale\, last yea
+ r on Amazon Prime Video\, an unprecedented achievement for the comedian/ac
+ tor.  Dark Pale was met with critical fanfare with The New York Times c
+ alling it\, ‘his best yet.” Last fall\, Gaffigan co-headlined with Jer
+ ry Seinfeld for a sold-out multi-city arena tour.\nIn 2021 Gaffigan releas
+ ed his 9th special\, Comedy Monster\, on Netflix which was nominated fo
+ r a Grammy Award.  He was also recently awarded for being the first comed
+ ian to reach one billion streams on Pandora.\nGaffigan can currently be se
+ en as the lead in the well-reviewed Sci-Fi dramedy\, Linoleum\, which was
+  named one of Vulture.com’s best movies of 2023. He also starred as Mr. 
+ Smee in Disney’s Peter Pan and Wendy\, opposite Jude Law and Yara Shahi
+ di. He will soon co-star Jerry Seinfeld\, Melissa McCarthy\, James Marsden
+ \, and Hugh Grant in Netflix’s Unfrosted\, and co-stars in Susie Sear
+ ches which premiered at TIFF and in theaters last year. Also premiering r
+ ecently\, Gaffigan joined the cast of HBO Max’s Full Circle\, a limite
+ d series from Steven Soderbergh and Ed Solomon which follows an investigat
+ ion into a botched kidnapping\, connecting multiple characters and culture
+ s in present day NY.\nOn the silver screen\, his many credits include Thr
+ ee Kings\, Super Troopers 1 & 2\, and Chappaquiddick. 2019 was Gaffigan
+ ’s biggest year in film to date with an astonishing eight films releasin
+ g\, three which premiered at the Sundance Film Festival including Troop 
+ Zero with Viola Davis and Alison Janney\, Them That Follow and Light F
+ rom Light – with many festival goers and press calling Gaffigan the “
+ King of Sundance.”   Gaffigan was also recently heard in Disney/Pixar
+ ’s highly anticipated animated film\, Luca\, opposite Jacob Tremblay a
+ nd Maya Rudolph.\nGaffigan had two films recently in which he debuted as t
+ he lead. The comedic film Being Frank\, and American Dreamer\, a dark th
+ riller which features him as a ride share app worker who moonlights as a p
+ rivate driver for a drug dealer.\nGaffigan can also currently be seen oppo
+ site Ethan Hawke in IFC Films Tesla\, as well as opposite Josh Hartnett 
+ in Saban Films’ Most Wanted.\nIn addition to two seasons of the critica
+ lly acclaimed semi-autobiographical The Jim Gaffigan Show\, which he wrot
+ e and produced with his wife Jeannie\, Gaffigan has guest starred on many 
+ television comedies and dramas\, ranging from Portlandia and Bob’s Bu
+ rgers to the HBO cult hits Flight of the Concords to dramatic roles in
+  Law & Order.\nGaffigan regularly does humorous commentaries on CBS Sund
+ ay Morning for which he has won 3 Emmys.  In 2018 Jim served as master o
+ f ceremony at The Al Smith Memorial dinner.  In 2015\, Gaffigan had the 
+ great honor of performing for Pope Francis and over 1 million festival att
+ endees at the Festival of Families in Philadelphia.\nGaffigan and his wi
+ fe currently live in Manhattan with their five loud and expensive children
+ .\nFor more info on the tour\, go to: jimgaffigan.com/tour-dates.\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241220T003000Z
 DTEND:20241220T023000Z
-DTSTAMP:20241112T010813Z
+DTSTAMP:20241113T010929Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-20/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -567,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241221T003000Z
 DTEND:20241221T023000Z
-DTSTAMP:20241112T010813Z
+DTSTAMP:20241113T010929Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-19/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -576,52 +601,52 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241222T003000Z
 DTEND:20241222T023000Z
-DTSTAMP:20241112T010813Z
+DTSTAMP:20241113T010929Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-16/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
-DTSTART:20241221T180000Z
-DTEND:20241221T200000Z
-DTSTAMP:20241112T010814Z
-DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
- cirque-du-soleil-18/\n\nDoors at 12:00 pm\nShow starts at 1:00 pm\n\n\n
-LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241221T210000Z
 DTEND:20241221T230000Z
-DTSTAMP:20241112T010814Z
+DTSTAMP:20241113T010930Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-17/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
-DTSTART:20241222T200000Z
-DTEND:20241222T220000Z
-DTSTAMP:20241112T010814Z
+DTSTART:20241221T180000Z
+DTEND:20241221T200000Z
+DTSTAMP:20241113T010930Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
- cirque-du-soleil-15/\n\nDoors at 2:00 pm\nShow starts at 3:00 pm\n\n\n
+ cirque-du-soleil-18/\n\nDoors at 12:00 pm\nShow starts at 1:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241222T230000Z
 DTEND:20241223T010000Z
-DTSTAMP:20241112T010815Z
+DTSTAMP:20241113T010930Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-14/\n\nDoors at 5:00 pm\nShow starts at 6:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
+DTSTART:20241222T200000Z
+DTEND:20241222T220000Z
+DTSTAMP:20241113T010930Z
+DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
+ cirque-du-soleil-15/\n\nDoors at 2:00 pm\nShow starts at 3:00 pm\n\n\n
+LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241224T003000Z
 DTEND:20241224T023000Z
-DTSTAMP:20241112T010815Z
+DTSTAMP:20241113T010930Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-12/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -630,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241223T210000Z
 DTEND:20241223T230000Z
-DTSTAMP:20241112T010815Z
+DTSTAMP:20241113T010930Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-13/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -639,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241224T200000Z
 DTEND:20241224T220000Z
-DTSTAMP:20241112T010816Z
+DTSTAMP:20241113T010931Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-10/\n\nDoors at 2:00 pm\nShow starts at 3:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -648,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241224T170000Z
 DTEND:20241224T190000Z
-DTSTAMP:20241112T010816Z
+DTSTAMP:20241113T010931Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-11/\n\nDoors at 11:00 am\nShow starts at 12:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -657,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241226T210000Z
 DTEND:20241226T230000Z
-DTSTAMP:20241112T010817Z
+DTSTAMP:20241113T010931Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-9/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -666,7 +691,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241227T003000Z
 DTEND:20241227T023000Z
-DTSTAMP:20241112T010818Z
+DTSTAMP:20241113T010931Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-8/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -675,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241227T210000Z
 DTEND:20241227T230000Z
-DTSTAMP:20241112T010818Z
+DTSTAMP:20241113T010931Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-7/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -684,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241228T003000Z
 DTEND:20241228T023000Z
-DTSTAMP:20241112T010819Z
+DTSTAMP:20241113T010932Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-6/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -693,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241228T180000Z
 DTEND:20241228T200000Z
-DTSTAMP:20241112T010819Z
+DTSTAMP:20241113T010932Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-5/\n\nDoors at 12:00 pm\nShow starts at 1:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -702,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241228T210000Z
 DTEND:20241228T230000Z
-DTSTAMP:20241112T010820Z
+DTSTAMP:20241113T010932Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-4/\n\nDoors at 3:00 pm\nShow starts at 4:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -711,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241229T003000Z
 DTEND:20241229T023000Z
-DTSTAMP:20241112T010820Z
+DTSTAMP:20241113T010932Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-3/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -720,7 +745,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241229T230000Z
 DTEND:20241230T010000Z
-DTSTAMP:20241112T010821Z
+DTSTAMP:20241113T010932Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil/\n\nDoors at 5:00 pm\nShow starts at 6:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -729,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:‘Twas the Night Before… by Cirque du Soleil
 DTSTART:20241229T200000Z
 DTEND:20241229T220000Z
-DTSTAMP:20241112T010821Z
+DTSTAMP:20241113T010932Z
 DESCRIPTION:Info: https://themetphilly.com/event/twas-the-night-before-by-
  cirque-du-soleil-2/\n\nDoors at 2:00 pm\nShow starts at 3:00 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -738,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:Andrew Santino: Freeze Peach Tour
 DTSTART:20250125T003000Z
 DTEND:20250125T023000Z
-DTSTAMP:20241112T010821Z
+DTSTAMP:20241113T010932Z
 DESCRIPTION:Info: https://themetphilly.com/event/andrew-santino/\n\nDoors 
  at 6:30 pm\nShow starts at 7:30 pm\n\n\nAndrew stars in FX’s most watche
  d comedy series\, DAVE along side LIL’ DICKY. Santino starred in the SHO
@@ -768,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:David Gray: Past & Present Tour
 DTSTART:20250126T010000Z
 DTEND:20250126T030000Z
-DTSTAMP:20241112T010822Z
+DTSTAMP:20241113T010933Z
 DESCRIPTION:Info: https://themetphilly.com/event/david-gray-3/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nThrough days
   like empty fields after the harvest / This ache where the heart is / Like
@@ -839,7 +864,7 @@ BEGIN:VEVENT
 SUMMARY:Dancing With The Stars
 DTSTART:20250127T010000Z
 DTEND:20250127T030000Z
-DTSTAMP:20241112T010822Z
+DTSTAMP:20241113T010933Z
 DESCRIPTION:Info: https://themetphilly.com/event/dancing-with-the-stars/\n
  \nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nStraight from Hollywood\, 
  See Dancing with the Stars\, Live!\nSee the glitz\, glam and breathtaking 
@@ -856,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:Hippo Campus: WXPN Welcomes
 DTSTART:20250202T010000Z
 DTEND:20250202T030000Z
-DTSTAMP:20241112T010822Z
+DTSTAMP:20241113T010933Z
 DESCRIPTION:Info: https://themetphilly.com/event/hippo-campus/\n\nDoors at
   7:00 pm\nShow starts at 8:00 pm\n\n\nHippo Campus FLOOD Tour\nwith suppor
  t PETEY\nDoors open at 7:00 p.m.\n
@@ -866,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening With Dream Theater: 40th Anniversary Tour
 DTSTART:20250208T003000Z
 DTEND:20250208T023000Z
-DTSTAMP:20241112T010823Z
+DTSTAMP:20241113T010933Z
 DESCRIPTION:Info: https://themetphilly.com/event/an-evening-with-dream-the
  ater/\n\nDoors at 6:30 pm\nShow starts at 7:30 pm\n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -875,7 +900,7 @@ BEGIN:VEVENT
 SUMMARY:Jorja Smith: falling or flying Tour
 DTSTART:20250309T010000Z
 DTEND:20250309T030000Z
-DTSTAMP:20241112T010823Z
+DTSTAMP:20241113T010933Z
 DESCRIPTION:Info: https://themetphilly.com/event/jorja-smith/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 p.m.\nAt 25-years-
  old\, British singer-songwriter Jorja Smith has already spent close to a d
@@ -912,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:Kathy Griffin: My Life On The PTSD-List
 DTSTART:20250316T000000Z
 DTEND:20250316T020000Z
-DTSTAMP:20241112T010824Z
+DTSTAMP:20241113T010934Z
 DESCRIPTION:Info: https://themetphilly.com/event/kathy-griffin/\n\nDoors a
  t 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\nKathy Griff
  in is a two-time Emmy and Grammy Award winning comedian\, television star\
@@ -937,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:Ha*Ash: HAASHVILLE TOUR 2024
 DTSTART:20250329T000000Z
 DTEND:20250329T020000Z
-DTSTAMP:20241112T010824Z
+DTSTAMP:20241113T010934Z
 DESCRIPTION:Info: https://themetphilly.com/event/haash/\n\nDoors at 7:00 p
  m\nShow starts at 8:00 pm\n\n\nHa*Ash at The Met Philadelphia has been 
  rescheduled for Friday\, March 28\, 2025. All previously purchased tickets
@@ -948,7 +973,7 @@ BEGIN:VEVENT
 SUMMARY:Snow Patrol: North American Tour
 DTSTART:20250413T000000Z
 DTEND:20250413T020000Z
-DTSTAMP:20241112T010824Z
+DTSTAMP:20241113T010934Z
 DESCRIPTION:Info: https://themetphilly.com/event/snow-patrol/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\n \n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -957,121 +982,121 @@ BEGIN:VEVENT
 SUMMARY:Bright Eyes: WXPN Welcomes
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
-DTSTAMP:20241112T010825Z
+DTSTAMP:20241113T010934Z
 DESCRIPTION:Info: https://themetphilly.com/event/bright-eyes-2/\n\nDoors a
- t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30pm\nFive Dice\, A
- ll Threes is a record of uncommon intensity and tenderness\, communal exor
- cism and personal excavation. These are\, of course\, qualities that fans 
- have come to expect from Bright Eyes\, nearly three decades into their car
- eer. The tight-knit band of Conor Oberst\, Mike Mogis\, and Nate Walcott t
- ends to operate in distinct sweeping movements: each unique in its sound a
- nd story but unified by a sense of ambition and ever-growing emotional sta
- kes. Even with this rich history behind them\, these new songs exude a vis
- ceral thrill like nothing they have attempted before. Oberst has always su
- ng in a voice that conveys a sense of life-or-death gravity. At times thro
- ughout Five Dice\, All Threes\, you may feel worried for him\; other times
- \, he may seem like the only one with the clarity to get us out of this me
- ss. \nOn the self-produced Five Dice\, All Threes\, Bright Eyes embrace t
- he elusive quality that has made them so enduring and influential across g
- enerations and genres\, bringing their homespun sound from an Omaha bedroo
- m to devoted audiences around the world. In Oberst’s songwriting lies a 
- promise that our loneliest thoughts and feelings can take on grander shape
- s when passed between friends\, blasted through speakers\, or shouted amon
- g crowds. This time around\, the band invites such like-minded voices onto
-  the record with them\, with notable guest appearances from Cat Power (“
- All Threes”)\, The National’s Matt Berninger (“The Time I Have Left
- ”)\, and Alex Orange Drink\, the frontman of the New York punk band The 
- So So Glos\, who co-wrote several songs and shares a climactic verse in th
- e surging “Rainbow Overpass.”\nDespite this range of collaborators\, F
- ive Dice\, All Threes is as confessional and unguarded as Oberst has sound
- ed in years. Throughout these timelessly constructed yet unabashedly moder
- n songs\, he earns his place among a rare class of songwriters who have gr
- own more fearless and boundless with age. In the scenic “Bas Jan Ader”
- —which takes its title from the 20th century Dutch performance artist wh
- ose final act found him sailing into the Atlantic Ocean\, never to return
- —his writing traces the course of a bad memory smoothing out to invite t
- he onset of nostalgia. “I never thought I’d see 45\,” he sings to a 
- lapping\, chiming melody. “How is it that I’m still alive?” For an a
- rtist who has explored unflinching questions of mortality since his teen y
- ears\, the writing on Five Dive\, All Threes conveys a new sense of urgenc
- y—and empathy\, too. \n“For whatever reason\, I was born with a brain
-  that’s preoccupied with that kind of thing\,” Oberst says of his life
- long penchant for dark subject matter. “When I was young\, there was a p
- erformative aspect to it\, which got reflected back at me. Now I’m at a 
- point where I don’t care what the reaction is going to be. Before it was
-  a little out of my hands—I didn’t know how to write if it wasn’t sp
- ecific to my actual life. Now I do it by choice.”\nThroughout these refl
- ections on the American landscape\, Oberst shuttles us from Los Angeles to
-  New York: two cities he has called home and the locations for his recent 
- series of rapturously received\, career-spanning solo residencies. Along t
- he course of his journey\, he takes shots at tech billionaires and the ris
- e of artificial intelligence\; he offers heartfelt wisdom and slips into c
- lipped\, surrealist imagery that earns its place among namechecked literar
- y heroes like Vladimir Nabokov and Mark Twain. \nFor every striking turn 
- in his lyrics\, the band knows just how to complement him. On one level\, 
- Five Dice\, All Threes may be the most fun album in the Bright Eyes catalo
- g\, filled with singalong hooks and buzzing performances. “I think it re
- visits the spirit of our older records\,” Walcott says. “There is a re
- al quality of chaos and ecstatic urgency in the performances.” And yet\,
-  sitting alongside these adrenalized rockers that sound beamed in directly
-  from the garage\, you will find contemplative\, psychedelic material like
-  the heartbreaking “Tiny Suicides” and “All Threes\,” a song whose
-  jazzy piano solo and free-associative lyrics feel totally unprecedented i
- n the Bright Eyes catalog.\nThis vivid\, cathartic music arrives four year
- s after the band’s 2020 comeback album Down in the Weeds\, Where the Wor
- ld Once Was. That record’s zoomed-out lyrics and meticulous studio atmos
- phere resonated during the peak of COVID lockdown and led to Bright Eyes
- ’ long-awaited return to the road in summer 2021. By this point\, they w
- ere also deep into their Companions project\, in which the band reissued t
- heir back catalog via new label Dead Oceans along with newly recorded rein
- terpretations of material throughout their songbook. \nIn the aftermath o
- f these exhaustive endeavors\, the band felt grateful to be back together 
- and somewhat uncertain about their future. It wasn’t until Oberst invite
- d Alex Orange Drink to stay with him in Los Angeles in winter 2023 when a 
- group of new songs started forming. At first\, these back-and-forth sessio
- ns on Oberst’s porch were just for fun. Recalling his early days of coll
- aboration and scrappy home-recording\, the pair sought to keep each other 
- entertained and inspired\, with little thought as to where the material wo
- uld take them. But after completing gems like the anthemic\, self-lacerati
- ng “Bells & Whistles” and the punky duet of “Rainbow Overpass\,” i
- t became clear that Oberst was tapping into new territory.\nWhen they hit 
- the studio with Oberst’s longtime bandmates—the multi-instrumentalist 
- and producer Mike Mogis\, the keyboardist and arranger Nate Walcott—they
-  opted for a fast-paced approach that drew inspiration from formative infl
- uences like The Replacements and Frank Black. They sought textures that bu
- rst from the mix like gnarly splashes of paint on a blank canvas\; they op
- ted for first takes and spontaneous decisions. Referring to 2005’s stark
- ly produced landmark\, I’m Wide Awake\, It’s Morning\, Mogis laughs\, 
- “It took us 20 years to make another record that sounds like a band play
- ing live.” But where those songs exposed the raw beauty of the group’s
-  folksier side\, Five Dice\, All Threes thrashes and squirms and resists c
- lassification. In the brilliant expanse of “El Capitan\,” they blend a
-  galloping rhythm you might find in a Johnny Cash standard with a swell of
-  funereal horns\, shouted vocals\, and lyrics that read like a sobering fa
- rewell between twin souls. “So they’re burning you an effigy\,” Ober
- st sings. “Well\, that happens to me all the time!”\nAs per usual\, th
- e music comes loaded with subtext that invites deep listening—the signat
- ure touch of a band who has always honored the album as its own exalted wo
- rk of art. In the background of these songs\, you can piece together a sto
- ry about love and fate and identity\, stitched together from samples of th
- e 1954 Frank Sinatra film Suddenly\, a layered orchestra of people sobbing
- \, and a game of dice that borders on cosmic and lends the album its frami
- ng device and winking title: In the game of threes\, the titular move woul
- d indicate a perfect roll. Perfection\, however\, means something differen
- t in the world of Bright Eyes\, where our flaws are what grants us authori
- ty and finding meaning is only possible if we bear witness to the dark\, w
- inding journey to get there. On Five Dice\, All Threes\, Bright Eyes embra
- ce these beliefs with music that feels thrillingly alive\, as if we were a
- ll in the room with them\, shouting along and gaining the strength to move
-  forward together. It doesn’t just sound like classic Bright Eyes. It so
- unds like their future\, too.\n
+ t 6:30 pm\nShow starts at 7:30 pm\n\n\nDoors open at 6:30pm\nwith support:
+  Cursive\nFive Dice\, All Threes is a record of uncommon intensity and ten
+ derness\, communal exorcism and personal excavation. These are\, of course
+ \, qualities that fans have come to expect from Bright Eyes\, nearly three
+  decades into their career. The tight-knit band of Conor Oberst\, Mike Mog
+ is\, and Nate Walcott tends to operate in distinct sweeping movements: eac
+ h unique in its sound and story but unified by a sense of ambition and eve
+ r-growing emotional stakes. Even with this rich history behind them\, thes
+ e new songs exude a visceral thrill like nothing they have attempted befor
+ e. Oberst has always sung in a voice that conveys a sense of life-or-death
+  gravity. At times throughout Five Dice\, All Threes\, you may feel worrie
+ d for him\; other times\, he may seem like the only one with the clarity t
+ o get us out of this mess. \nOn the self-produced Five Dice\, All Threes\
+ , Bright Eyes embrace the elusive quality that has made them so enduring a
+ nd influential across generations and genres\, bringing their homespun sou
+ nd from an Omaha bedroom to devoted audiences around the world. In Oberst
+ ’s songwriting lies a promise that our loneliest thoughts and feelings c
+ an take on grander shapes when passed between friends\, blasted through sp
+ eakers\, or shouted among crowds. This time around\, the band invites such
+  like-minded voices onto the record with them\, with notable guest appeara
+ nces from Cat Power (“All Threes”)\, The National’s Matt Berninger (
+ “The Time I Have Left”)\, and Alex Orange Drink\, the frontman of the 
+ New York punk band The So So Glos\, who co-wrote several songs and shares 
+ a climactic verse in the surging “Rainbow Overpass.”\nDespite this ran
+ ge of collaborators\, Five Dice\, All Threes is as confessional and unguar
+ ded as Oberst has sounded in years. Throughout these timelessly constructe
+ d yet unabashedly modern songs\, he earns his place among a rare class of 
+ songwriters who have grown more fearless and boundless with age. In the sc
+ enic “Bas Jan Ader”—which takes its title from the 20th century Dutc
+ h performance artist whose final act found him sailing into the Atlantic O
+ cean\, never to return—his writing traces the course of a bad memory smo
+ othing out to invite the onset of nostalgia. “I never thought I’d see 
+ 45\,” he sings to a lapping\, chiming melody. “How is it that I’m st
+ ill alive?” For an artist who has explored unflinching questions of mort
+ ality since his teen years\, the writing on Five Dive\, All Threes conveys
+  a new sense of urgency—and empathy\, too. \n“For whatever reason\, I
+  was born with a brain that’s preoccupied with that kind of thing\,” O
+ berst says of his lifelong penchant for dark subject matter. “When I was
+  young\, there was a performative aspect to it\, which got reflected back 
+ at me. Now I’m at a point where I don’t care what the reaction is goin
+ g to be. Before it was a little out of my hands—I didn’t know how to w
+ rite if it wasn’t specific to my actual life. Now I do it by choice.”\
+ nThroughout these reflections on the American landscape\, Oberst shuttles 
+ us from Los Angeles to New York: two cities he has called home and the loc
+ ations for his recent series of rapturously received\, career-spanning sol
+ o residencies. Along the course of his journey\, he takes shots at tech bi
+ llionaires and the rise of artificial intelligence\; he offers heartfelt w
+ isdom and slips into clipped\, surrealist imagery that earns its place amo
+ ng namechecked literary heroes like Vladimir Nabokov and Mark Twain. \nFo
+ r every striking turn in his lyrics\, the band knows just how to complemen
+ t him. On one level\, Five Dice\, All Threes may be the most fun album in 
+ the Bright Eyes catalog\, filled with singalong hooks and buzzing performa
+ nces. “I think it revisits the spirit of our older records\,” Walcott 
+ says. “There is a real quality of chaos and ecstatic urgency in the perf
+ ormances.” And yet\, sitting alongside these adrenalized rockers that so
+ und beamed in directly from the garage\, you will find contemplative\, psy
+ chedelic material like the heartbreaking “Tiny Suicides” and “All Th
+ rees\,” a song whose jazzy piano solo and free-associative lyrics feel t
+ otally unprecedented in the Bright Eyes catalog.\nThis vivid\, cathartic m
+ usic arrives four years after the band’s 2020 comeback album Down in the
+  Weeds\, Where the World Once Was. That record’s zoomed-out lyrics and m
+ eticulous studio atmosphere resonated during the peak of COVID lockdown an
+ d led to Bright Eyes’ long-awaited return to the road in summer 2021. By
+  this point\, they were also deep into their Companions project\, in which
+  the band reissued their back catalog via new label Dead Oceans along with
+  newly recorded reinterpretations of material throughout their songbook. 
+ \nIn the aftermath of these exhaustive endeavors\, the band felt grateful 
+ to be back together and somewhat uncertain about their future. It wasn’t
+  until Oberst invited Alex Orange Drink to stay with him in Los Angeles in
+  winter 2023 when a group of new songs started forming. At first\, these b
+ ack-and-forth sessions on Oberst’s porch were just for fun. Recalling hi
+ s early days of collaboration and scrappy home-recording\, the pair sought
+  to keep each other entertained and inspired\, with little thought as to w
+ here the material would take them. But after completing gems like the anth
+ emic\, self-lacerating “Bells & Whistles” and the punky duet of “Rai
+ nbow Overpass\,” it became clear that Oberst was tapping into new territ
+ ory.\nWhen they hit the studio with Oberst’s longtime bandmates—the mu
+ lti-instrumentalist and producer Mike Mogis\, the keyboardist and arranger
+  Nate Walcott—they opted for a fast-paced approach that drew inspiration
+  from formative influences like The Replacements and Frank Black. They sou
+ ght textures that burst from the mix like gnarly splashes of paint on a bl
+ ank canvas\; they opted for first takes and spontaneous decisions. Referri
+ ng to 2005’s starkly produced landmark\, I’m Wide Awake\, It’s Morni
+ ng\, Mogis laughs\, “It took us 20 years to make another record that sou
+ nds like a band playing live.” But where those songs exposed the raw bea
+ uty of the group’s folksier side\, Five Dice\, All Threes thrashes and s
+ quirms and resists classification. In the brilliant expanse of “El Capit
+ an\,” they blend a galloping rhythm you might find in a Johnny Cash stan
+ dard with a swell of funereal horns\, shouted vocals\, and lyrics that rea
+ d like a sobering farewell between twin souls. “So they’re burning you
+  an effigy\,” Oberst sings. “Well\, that happens to me all the time!
+ ”\nAs per usual\, the music comes loaded with subtext that invites deep 
+ listening—the signature touch of a band who has always honored the album
+  as its own exalted work of art. In the background of these songs\, you ca
+ n piece together a story about love and fate and identity\, stitched toget
+ her from samples of the 1954 Frank Sinatra film Suddenly\, a layered orche
+ stra of people sobbing\, and a game of dice that borders on cosmic and len
+ ds the album its framing device and winking title: In the game of threes\,
+  the titular move would indicate a perfect roll. Perfection\, however\, me
+ ans something different in the world of Bright Eyes\, where our flaws are 
+ what grants us authority and finding meaning is only possible if we bear w
+ itness to the dark\, winding journey to get there. On Five Dice\, All Thre
+ es\, Bright Eyes embrace these beliefs with music that feels thrillingly a
+ live\, as if we were all in the room with them\, shouting along and gainin
+ g the strength to move forward together. It doesn’t just sound like clas
+ sic Bright Eyes. It sounds like their future\, too.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeff Arcuri: Whole Wide World Tour
 DTSTART:20250424T230000Z
 DTEND:20250425T010000Z
-DTSTAMP:20241112T010825Z
+DTSTAMP:20241113T010935Z
 DESCRIPTION:Info: https://themetphilly.com/event/jeff-arcuri/\n\nDoors at 
  6:00 pm\nShow starts at 7:00 pm\n\n\nDoors open at 6:00p.m.\nThe Chicago T
  ribune calls Jeff Arcuri “a joke machine\,” but he’s not! He’s a p
@@ -1085,7 +1110,7 @@ BEGIN:VEVENT
 SUMMARY:Nick Cave & The Bad Seeds: WXPN Welcomes
 DTSTART:20250427T000000Z
 DTEND:20250427T020000Z
-DTSTAMP:20241112T010826Z
+DTSTAMP:20241113T010935Z
 DESCRIPTION:Info: https://themetphilly.com/event/nick-cave-the-bad-seeds/\
  n\nDoors at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00 p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1094,7 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:Max Richter
 DTSTART:20250504T040000Z
 DTEND:20250504T060000Z
-DTSTAMP:20241112T010826Z
+DTSTAMP:20241113T010935Z
 DESCRIPTION:Info: https://themetphilly.com/event/max-richter/\n\nDoors at 
  \nShow starts at \n\n\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1103,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:The Driver Era: Obsession Tour
 DTSTART:20250612T000000Z
 DTEND:20250612T020000Z
-DTSTAMP:20241112T010826Z
+DTSTAMP:20241113T010935Z
 DESCRIPTION:Info: https://themetphilly.com/event/the-driver-era-2/\n\nDoor
  s at 6:30 pm\nShow starts at 8:00 pm\n\n\nDoors open at 6:30p.m.\n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1112,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:Sarah Millican: Late Bloomer Tour 2025
 DTSTART:20250619T000000Z
 DTEND:20250619T020000Z
-DTSTAMP:20241112T010827Z
+DTSTAMP:20241113T010936Z
 DESCRIPTION:Info: https://themetphilly.com/event/sarah-millican/\n\nDoors 
  at 7:00 pm\nShow starts at 8:00 pm\n\n\nDoors open at 7:00p.m.\n \n
 LOCATION:The Met\, 858 N Broad St\, Philadelphia\, PA 19130
@@ -1121,7 +1146,7 @@ BEGIN:VEVENT
 SUMMARY:James Blunt
 DTSTART:20250621T000000Z
 DTEND:20250621T020000Z
-DTSTAMP:20241112T010827Z
+DTSTAMP:20241113T010936Z
 DESCRIPTION:Info: https://themetphilly.com/event/james-blunt/\n\nDoors at 
  7:00 pm\nShow starts at 8:00 pm\n\n\nAt the end of 2021\, James Blunt rele
  ased a greatest hits album. “Or as I like to call it — The Greatest H
