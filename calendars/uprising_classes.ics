@@ -1,18 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Becca Curry
-DTSTART:20241118T120000Z
-DTEND:20241118T130000Z
-DTSTAMP:20241126T042822Z
-DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Becca Curry\n\nTime: 11/18/24 at 7:00 AM
-LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vinyasa Flow - Rising Flow with Becca Curry
 DTSTART:20241125T120000Z
 DTEND:20241125T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Becca Curry\n\nTime: 11/25/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -21,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Becca Curry
 DTSTART:20241202T120000Z
 DTEND:20241202T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Becca Curry\n\nTime: 12/02/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -30,25 +21,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Becca Curry
 DTSTART:20241209T120000Z
 DTEND:20241209T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Becca Curry\n\nTime: 12/09/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow - Rising Flow with Sophie De Lancie
-DTSTART:20241118T140000Z
-DTEND:20241118T151500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow - Rising Flow with Becca Curry
+DTSTART:20241216T120000Z
+DTEND:20241216T130000Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Sophie De Lancie\n\nTime: 11/18/24 at 9:00 AM
+ : Becca Curry\n\nTime: 12/16/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Sophie De Lancie
 DTSTART:20241125T140000Z
 DTEND:20241125T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sophie De Lancie\n\nTime: 11/25/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -57,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Sophie De Lancie
 DTSTART:20241202T140000Z
 DTEND:20241202T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sophie De Lancie\n\nTime: 12/02/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -66,25 +57,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Sophie De Lancie
 DTSTART:20241209T140000Z
 DTEND:20241209T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sophie De Lancie\n\nTime: 12/09/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow with Bally Radatti
-DTSTART:20241118T230000Z
-DTEND:20241119T001500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow - Rising Flow with Sophie De Lancie
+DTSTART:20241216T140000Z
+DTEND:20241216T151500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Bally Radatti\n\nTime: 11/18/24 at 6:00 PM
+ : Sophie De Lancie\n\nTime: 12/16/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Bally Radatti
 DTSTART:20241125T230000Z
 DTEND:20241126T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Bally Radatti\n\nTime: 11/25/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -93,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Bally Radatti
 DTSTART:20241202T230000Z
 DTEND:20241203T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Bally Radatti\n\nTime: 12/02/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -102,25 +93,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Bally Radatti
 DTSTART:20241209T230000Z
 DTEND:20241210T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Bally Radatti\n\nTime: 12/09/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yin Yoga with Cori Shirk
-DTSTART:20241118T230000Z
-DTEND:20241119T001500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow with Bally Radatti
+DTSTART:20241216T230000Z
+DTEND:20241217T001500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Cori Shirk\n\nTime: 11/18/24 at 6:00 PM
+ : Bally Radatti\n\nTime: 12/16/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yin Yoga with Cori Shirk
 DTSTART:20241125T230000Z
 DTEND:20241126T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Cori Shirk\n\nTime: 11/25/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -129,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Yin Yoga with Cori Shirk
 DTSTART:20241202T230000Z
 DTEND:20241203T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Cori Shirk\n\nTime: 12/02/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -138,25 +129,25 @@ BEGIN:VEVENT
 SUMMARY:Yin Yoga with Cori Shirk
 DTSTART:20241209T230000Z
 DTEND:20241210T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Cori Shirk\n\nTime: 12/09/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow - Rising Flow with Christine Bradley
-DTSTART:20241119T120000Z
-DTEND:20241119T130000Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Yin Yoga with Cori Shirk
+DTSTART:20241216T230000Z
+DTEND:20241217T001500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Christine Bradley\n\nTime: 11/19/24 at 7:00 AM
+ : Cori Shirk\n\nTime: 12/16/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Christine Bradley
 DTSTART:20241126T120000Z
 DTEND:20241126T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Christine Bradley\n\nTime: 11/26/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -165,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Christine Bradley
 DTSTART:20241203T120000Z
 DTEND:20241203T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Christine Bradley\n\nTime: 12/03/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -174,25 +165,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Christine Bradley
 DTSTART:20241210T120000Z
 DTEND:20241210T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Christine Bradley\n\nTime: 12/10/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yin Yoga with Felicia Graham-Comisar
-DTSTART:20241119T143000Z
-DTEND:20241119T154500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow - Rising Flow with Christine Bradley
+DTSTART:20241217T120000Z
+DTEND:20241217T130000Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Felicia Graham-Comisar\n\nTime: 11/19/24 at 9:30 AM
+ : Christine Bradley\n\nTime: 12/17/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yin Yoga with Felicia Graham-Comisar
 DTSTART:20241126T143000Z
 DTEND:20241126T154500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Felicia Graham-Comisar\n\nTime: 11/26/24 at 9:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -201,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Yin Yoga with Felicia Graham-Comisar
 DTSTART:20241203T143000Z
 DTEND:20241203T154500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Felicia Graham-Comisar\n\nTime: 12/03/24 at 9:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -210,25 +201,25 @@ BEGIN:VEVENT
 SUMMARY:Yin Yoga with Felicia Graham-Comisar
 DTSTART:20241210T143000Z
 DTEND:20241210T154500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Felicia Graham-Comisar\n\nTime: 12/10/24 at 9:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Restorative Yoga with Felicia Graham-Comisar
-DTSTART:20241119T160000Z
-DTEND:20241119T170000Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Yin Yoga with Felicia Graham-Comisar
+DTSTART:20241217T143000Z
+DTEND:20241217T154500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Felicia Graham-Comisar\n\nTime: 11/19/24 at 11:00 AM
+ : Felicia Graham-Comisar\n\nTime: 12/17/24 at 9:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restorative Yoga with Felicia Graham-Comisar
 DTSTART:20241126T160000Z
 DTEND:20241126T170000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Felicia Graham-Comisar\n\nTime: 11/26/24 at 11:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -237,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Restorative Yoga with Felicia Graham-Comisar
 DTSTART:20241203T160000Z
 DTEND:20241203T170000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Felicia Graham-Comisar\n\nTime: 12/03/24 at 11:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -246,25 +237,25 @@ BEGIN:VEVENT
 SUMMARY:Restorative Yoga with Felicia Graham-Comisar
 DTSTART:20241210T160000Z
 DTEND:20241210T170000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Felicia Graham-Comisar\n\nTime: 12/10/24 at 11:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow with Sophie De Lancie
-DTSTART:20241119T230000Z
-DTEND:20241120T001500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Restorative Yoga with Felicia Graham-Comisar
+DTSTART:20241217T160000Z
+DTEND:20241217T170000Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Sophie De Lancie\n\nTime: 11/19/24 at 6:00 PM
+ : Felicia Graham-Comisar\n\nTime: 12/17/24 at 11:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Sophie De Lancie
 DTSTART:20241126T230000Z
 DTEND:20241127T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sophie De Lancie\n\nTime: 11/26/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -273,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Sophie De Lancie
 DTSTART:20241203T230000Z
 DTEND:20241204T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sophie De Lancie\n\nTime: 12/03/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -282,25 +273,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Sophie De Lancie
 DTSTART:20241210T230000Z
 DTEND:20241211T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sophie De Lancie\n\nTime: 12/10/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foundational Flow with Sam Leonetti
-DTSTART:20241120T003000Z
-DTEND:20241120T013000Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow with Sophie De Lancie
+DTSTART:20241217T230000Z
+DTEND:20241218T001500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Sam Leonetti\n\nTime: 11/19/24 at 7:30 PM
+ : Sophie De Lancie\n\nTime: 12/17/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foundational Flow with Sam Leonetti
 DTSTART:20241127T003000Z
 DTEND:20241127T013000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sam Leonetti\n\nTime: 11/26/24 at 7:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -309,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Foundational Flow with Sam Leonetti
 DTSTART:20241204T003000Z
 DTEND:20241204T013000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sam Leonetti\n\nTime: 12/03/24 at 7:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -318,25 +309,25 @@ BEGIN:VEVENT
 SUMMARY:Foundational Flow with Sam Leonetti
 DTSTART:20241211T003000Z
 DTEND:20241211T013000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sam Leonetti\n\nTime: 12/10/24 at 7:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow - Rising Flow with Jenny Borgwardt
-DTSTART:20241120T120000Z
-DTEND:20241120T130000Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Foundational Flow with Sam Leonetti
+DTSTART:20241218T003000Z
+DTEND:20241218T013000Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Jenny Borgwardt\n\nTime: 11/20/24 at 7:00 AM
+ : Sam Leonetti\n\nTime: 12/17/24 at 7:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Jenny Borgwardt
 DTSTART:20241127T120000Z
 DTEND:20241127T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jenny Borgwardt\n\nTime: 11/27/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -345,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Jenny Borgwardt
 DTSTART:20241204T120000Z
 DTEND:20241204T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jenny Borgwardt\n\nTime: 12/04/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -354,25 +345,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Jenny Borgwardt
 DTSTART:20241211T120000Z
 DTEND:20241211T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jenny Borgwardt\n\nTime: 12/11/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow - Vigorous Flow with Chelsea Pedano
-DTSTART:20241120T230000Z
-DTEND:20241121T001500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow - Rising Flow with Jenny Borgwardt
+DTSTART:20241218T120000Z
+DTEND:20241218T130000Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Chelsea Pedano\n\nTime: 11/20/24 at 6:00 PM
+ : Jenny Borgwardt\n\nTime: 12/18/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Vigorous Flow with Chelsea Pedano
 DTSTART:20241127T230000Z
 DTEND:20241128T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Chelsea Pedano\n\nTime: 11/27/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -381,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Vigorous Flow with Chelsea Pedano
 DTSTART:20241204T230000Z
 DTEND:20241205T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Chelsea Pedano\n\nTime: 12/04/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -390,25 +381,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Vigorous Flow with Chelsea Pedano
 DTSTART:20241211T230000Z
 DTEND:20241212T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Chelsea Pedano\n\nTime: 12/11/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow with Emma Scott
-DTSTART:20241120T233000Z
-DTEND:20241121T004500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow - Vigorous Flow with Chelsea Pedano
+DTSTART:20241218T230000Z
+DTEND:20241219T001500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Emma Scott\n\nTime: 11/20/24 at 6:30 PM
+ : Chelsea Pedano\n\nTime: 12/18/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Emma Scott
 DTSTART:20241127T233000Z
 DTEND:20241128T004500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Emma Scott\n\nTime: 11/27/24 at 6:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -417,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Emma Scott
 DTSTART:20241204T233000Z
 DTEND:20241205T004500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Emma Scott\n\nTime: 12/04/24 at 6:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -426,25 +417,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Emma Scott
 DTSTART:20241211T233000Z
 DTEND:20241212T004500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Emma Scott\n\nTime: 12/11/24 at 6:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gentle Flow with Achola Simkins
-DTSTART:20241121T143000Z
-DTEND:20241121T154500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow with Emma Scott
+DTSTART:20241218T233000Z
+DTEND:20241219T004500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Achola Simkins\n\nTime: 11/21/24 at 9:30 AM
+ : Emma Scott\n\nTime: 12/18/24 at 6:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gentle Flow with Achola Simkins
 DTSTART:20241128T143000Z
 DTEND:20241128T154500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 11/28/24 at 9:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -453,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Gentle Flow with Achola Simkins
 DTSTART:20241205T143000Z
 DTEND:20241205T154500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/05/24 at 9:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -462,25 +453,25 @@ BEGIN:VEVENT
 SUMMARY:Gentle Flow with Achola Simkins
 DTSTART:20241212T143000Z
 DTEND:20241212T154500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/12/24 at 9:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow with Maggie Ludwig
-DTSTART:20241121T170000Z
-DTEND:20241121T180000Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Gentle Flow with Achola Simkins
+DTSTART:20241219T143000Z
+DTEND:20241219T154500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Maggie Ludwig\n\nTime: 11/21/24 at 12:00 PM
+ : Achola Simkins\n\nTime: 12/19/24 at 9:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Maggie Ludwig
 DTSTART:20241128T170000Z
 DTEND:20241128T180000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Maggie Ludwig\n\nTime: 11/28/24 at 12:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -489,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Maggie Ludwig
 DTSTART:20241205T170000Z
 DTEND:20241205T180000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Maggie Ludwig\n\nTime: 12/05/24 at 12:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -498,25 +489,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Maggie Ludwig
 DTSTART:20241212T170000Z
 DTEND:20241212T180000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Maggie Ludwig\n\nTime: 12/12/24 at 12:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow with Jenny Borgwardt (substitute)
-DTSTART:20241121T230000Z
-DTEND:20241122T001500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow with Maggie Ludwig
+DTSTART:20241219T170000Z
+DTEND:20241219T180000Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Jenny Borgwardt (substitute)\n\nTime: 11/21/24 at 6:00 PM
+ : Maggie Ludwig\n\nTime: 12/19/24 at 12:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Jenny Borgwardt (substitute)
 DTSTART:20241128T230000Z
 DTEND:20241129T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jenny Borgwardt (substitute)\n\nTime: 11/28/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -525,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Jenny Borgwardt (substitute)
 DTSTART:20241205T230000Z
 DTEND:20241206T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jenny Borgwardt (substitute)\n\nTime: 12/05/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -534,25 +525,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Jenny Borgwardt (substitute)
 DTSTART:20241212T230000Z
 DTEND:20241213T001500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jenny Borgwardt (substitute)\n\nTime: 12/12/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gentle Flow with Elizabeth Barnes (substitute)
-DTSTART:20241122T003000Z
-DTEND:20241122T013000Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow with Jenny Borgwardt (substitute)
+DTSTART:20241219T230000Z
+DTEND:20241220T001500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Elizabeth Barnes (substitute)\n\nTime: 11/21/24 at 7:30 PM
+ : Jenny Borgwardt (substitute)\n\nTime: 12/19/24 at 6:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gentle Flow with Elizabeth Barnes (substitute)
 DTSTART:20241129T003000Z
 DTEND:20241129T013000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Elizabeth Barnes (substitute)\n\nTime: 11/28/24 at 7:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -561,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:Gentle Flow with Elizabeth Barnes (substitute)
 DTSTART:20241206T003000Z
 DTEND:20241206T013000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Elizabeth Barnes (substitute)\n\nTime: 12/05/24 at 7:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -570,25 +561,25 @@ BEGIN:VEVENT
 SUMMARY:Gentle Flow with Elizabeth Barnes (substitute)
 DTSTART:20241213T003000Z
 DTEND:20241213T013000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Elizabeth Barnes (substitute)\n\nTime: 12/12/24 at 7:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow - Rising Flow with Brandi Goldsborough
-DTSTART:20241122T120000Z
-DTEND:20241122T130000Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Gentle Flow with Elizabeth Barnes (substitute)
+DTSTART:20241220T003000Z
+DTEND:20241220T013000Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Brandi Goldsborough\n\nTime: 11/22/24 at 7:00 AM
+ : Elizabeth Barnes (substitute)\n\nTime: 12/19/24 at 7:30 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Brandi Goldsborough
 DTSTART:20241129T120000Z
 DTEND:20241129T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Brandi Goldsborough\n\nTime: 11/29/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -597,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Brandi Goldsborough
 DTSTART:20241206T120000Z
 DTEND:20241206T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Brandi Goldsborough\n\nTime: 12/06/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -606,25 +597,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Brandi Goldsborough
 DTSTART:20241213T120000Z
 DTEND:20241213T130000Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Brandi Goldsborough\n\nTime: 12/13/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow - Rising Flow with Kristen Bashore
-DTSTART:20241122T140000Z
-DTEND:20241122T151500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow - Rising Flow with Brandi Goldsborough
+DTSTART:20241220T120000Z
+DTEND:20241220T130000Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Kristen Bashore\n\nTime: 11/22/24 at 9:00 AM
+ : Brandi Goldsborough\n\nTime: 12/20/24 at 7:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Kristen Bashore
 DTSTART:20241129T140000Z
 DTEND:20241129T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Kristen Bashore\n\nTime: 11/29/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -633,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Kristen Bashore
 DTSTART:20241206T140000Z
 DTEND:20241206T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Kristen Bashore\n\nTime: 12/06/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -642,25 +633,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Rising Flow with Kristen Bashore
 DTSTART:20241213T140000Z
 DTEND:20241213T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Kristen Bashore\n\nTime: 12/13/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yin Yoga with Jaime Berkowitz (substitute)
-DTSTART:20241122T210000Z
-DTEND:20241122T221500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow - Rising Flow with Kristen Bashore
+DTSTART:20241220T140000Z
+DTEND:20241220T151500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Jaime Berkowitz (substitute)\n\nTime: 11/22/24 at 4:00 PM
+ : Kristen Bashore\n\nTime: 12/20/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yin Yoga with Jaime Berkowitz (substitute)
 DTSTART:20241129T210000Z
 DTEND:20241129T221500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jaime Berkowitz (substitute)\n\nTime: 11/29/24 at 4:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -669,7 +660,7 @@ BEGIN:VEVENT
 SUMMARY:Yin Yoga with Jaime Berkowitz (substitute)
 DTSTART:20241206T210000Z
 DTEND:20241206T221500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jaime Berkowitz (substitute)\n\nTime: 12/06/24 at 4:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -678,25 +669,25 @@ BEGIN:VEVENT
 SUMMARY:Yin Yoga with Jaime Berkowitz (substitute)
 DTSTART:20241213T210000Z
 DTEND:20241213T221500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jaime Berkowitz (substitute)\n\nTime: 12/13/24 at 4:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow with Achola Simkins
-DTSTART:20241123T140000Z
-DTEND:20241123T151500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Yin Yoga with Jaime Berkowitz (substitute)
+DTSTART:20241220T210000Z
+DTEND:20241220T221500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Achola Simkins\n\nTime: 11/23/24 at 9:00 AM
+ : Jaime Berkowitz (substitute)\n\nTime: 12/20/24 at 4:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Achola Simkins
 DTSTART:20241130T140000Z
 DTEND:20241130T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 11/30/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -705,7 +696,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Achola Simkins
 DTSTART:20241207T140000Z
 DTEND:20241207T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/07/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -714,25 +705,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow with Achola Simkins
 DTSTART:20241214T140000Z
 DTEND:20241214T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/14/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Peak Flow with Emma Scott
-DTSTART:20241123T140000Z
-DTEND:20241123T151500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow with Achola Simkins
+DTSTART:20241221T140000Z
+DTEND:20241221T151500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Emma Scott\n\nTime: 11/23/24 at 9:00 AM
+ : Achola Simkins\n\nTime: 12/21/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peak Flow with Emma Scott
 DTSTART:20241130T140000Z
 DTEND:20241130T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Emma Scott\n\nTime: 11/30/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -741,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Flow with Emma Scott
 DTSTART:20241207T140000Z
 DTEND:20241207T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Emma Scott\n\nTime: 12/07/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -750,25 +741,25 @@ BEGIN:VEVENT
 SUMMARY:Peak Flow with Emma Scott
 DTSTART:20241214T140000Z
 DTEND:20241214T151500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Emma Scott\n\nTime: 12/14/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Foundational Flow with Achola Simkins
-DTSTART:20241123T160000Z
-DTEND:20241123T171500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Peak Flow with Emma Scott
+DTSTART:20241221T140000Z
+DTEND:20241221T151500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Achola Simkins\n\nTime: 11/23/24 at 11:00 AM
+ : Emma Scott\n\nTime: 12/21/24 at 9:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foundational Flow with Achola Simkins
 DTSTART:20241130T160000Z
 DTEND:20241130T171500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 11/30/24 at 11:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -777,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Foundational Flow with Achola Simkins
 DTSTART:20241207T160000Z
 DTEND:20241207T171500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/07/24 at 11:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -786,25 +777,25 @@ BEGIN:VEVENT
 SUMMARY:Foundational Flow with Achola Simkins
 DTSTART:20241214T160000Z
 DTEND:20241214T171500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/14/24 at 11:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vinyasa Flow - Come As You Are with Sarah Wuchinich
-DTSTART:20241124T153000Z
-DTEND:20241124T164500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Foundational Flow with Achola Simkins
+DTSTART:20241221T160000Z
+DTEND:20241221T171500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Sarah Wuchinich\n\nTime: 11/24/24 at 10:30 AM
+ : Achola Simkins\n\nTime: 12/21/24 at 11:00 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Come As You Are with Sarah Wuchinich
 DTSTART:20241201T153000Z
 DTEND:20241201T164500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sarah Wuchinich\n\nTime: 12/01/24 at 10:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -813,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Come As You Are with Sarah Wuchinich
 DTSTART:20241208T153000Z
 DTEND:20241208T164500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sarah Wuchinich\n\nTime: 12/08/24 at 10:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -822,25 +813,25 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Flow - Come As You Are with Sarah Wuchinich
 DTSTART:20241215T153000Z
 DTEND:20241215T164500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Sarah Wuchinich\n\nTime: 12/15/24 at 10:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yin - Yin and Restorative with Jaime Berkowitz
-DTSTART:20241124T180000Z
-DTEND:20241124T191500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Vinyasa Flow - Come As You Are with Sarah Wuchinich
+DTSTART:20241222T153000Z
+DTEND:20241222T164500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Jaime Berkowitz\n\nTime: 11/24/24 at 1:00 PM
+ : Sarah Wuchinich\n\nTime: 12/22/24 at 10:30 AM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yin - Yin and Restorative with Jaime Berkowitz
 DTSTART:20241201T180000Z
 DTEND:20241201T191500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jaime Berkowitz\n\nTime: 12/01/24 at 1:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -849,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:Yin - Yin and Restorative with Jaime Berkowitz
 DTSTART:20241208T180000Z
 DTEND:20241208T191500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jaime Berkowitz\n\nTime: 12/08/24 at 1:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -858,25 +849,25 @@ BEGIN:VEVENT
 SUMMARY:Yin - Yin and Restorative with Jaime Berkowitz
 DTSTART:20241215T180000Z
 DTEND:20241215T191500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Jaime Berkowitz\n\nTime: 12/15/24 at 1:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gentle Flow with Achola Simkins
-DTSTART:20241124T210000Z
-DTEND:20241124T221500Z
-DTSTAMP:20241126T042822Z
+SUMMARY:Yin - Yin and Restorative with Jaime Berkowitz
+DTSTART:20241222T180000Z
+DTEND:20241222T191500Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
- : Achola Simkins\n\nTime: 11/24/24 at 4:00 PM
+ : Jaime Berkowitz\n\nTime: 12/22/24 at 1:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gentle Flow with Achola Simkins
 DTSTART:20241201T210000Z
 DTEND:20241201T221500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/01/24 at 4:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -885,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:Gentle Flow with Achola Simkins
 DTSTART:20241208T210000Z
 DTEND:20241208T221500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/08/24 at 4:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
@@ -894,9 +885,18 @@ BEGIN:VEVENT
 SUMMARY:Gentle Flow with Achola Simkins
 DTSTART:20241215T210000Z
 DTEND:20241215T221500Z
-DTSTAMP:20241126T042822Z
+DTSTAMP:20241203T042915Z
 DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
  : Achola Simkins\n\nTime: 12/15/24 at 4:00 PM
+LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Flow with Achola Simkins
+DTSTART:20241222T210000Z
+DTEND:20241222T221500Z
+DTSTAMP:20241203T042915Z
+DESCRIPTION:Registration link: https://www.uprisingacm.com/yoga\n\nTeacher
+ : Achola Simkins\n\nTime: 12/22/24 at 4:00 PM
 LOCATION:Uprising ACM\, 1839 E Passyunk Ave\, Philadelphia\, PA 19148
 END:VEVENT
 END:VCALENDAR
