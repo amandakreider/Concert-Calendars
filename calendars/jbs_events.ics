@@ -1,30 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:mb + mp (Tape Release)
-DTSTART:20260124T010000Z
-DTEND:20260124T030000Z
-DTSTAMP:20250124T010727Z
-DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n7 PM 
- – Doors\n8 PM – Show\n \nMB + MP\nmb + mp is a Philly-based ambient e
- xperimental guitar & modular synth duo of Mary Beth Ray & Manna Pourrezaei
- . Their generative soundscapes process the Doom & Gloom of our (re)soundin
- g times through the union of guitar & synthesizers.\n \nSOPORUS\nSoporus 
- is the musical duo of Matthew Stone and William Stichter\, childhood frien
- ds who have played in bands together for nearly 30 years. Formed in 2003 t
- o explore their shared interest in ambient music and honed after-hours whi
- le playing together in instrumental rock group Saxon Shore\, Soporus combi
- nes shifting drone with shimmering glacial melody that builds into dense l
- ayers of enveloping sound. Stone and Stichter craft songs primarily on gui
- tar and bass\, using careful techniques that often obscure their origins\,
-  and add accents of keyboard\, electronics\, and field recordings.\n \nEV
- A KILLINGER\n \n
-LOCATION:Johnny Brenda’s
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jordana
-DTSTART:20250125T020000Z
-DTEND:20250125T040000Z
-DTSTAMP:20250124T010727Z
+DTSTART:20260125T020000Z
+DTEND:20260125T040000Z
+DTSTAMP:20250125T010357Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nJORDANA\nWho is Jordana Nye? And what is her signature 
  sound? It depends on when you ask.The 24-year-old\, Maryland-raised songwr
@@ -67,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Third Annual Abortion Access Benefit Series
 DTSTART:20250126T010000Z
 DTEND:20250126T030000Z
-DTSTAMP:20250124T010730Z
+DTSTAMP:20250125T010358Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGround Control Touring Presents\nTHIRD ANNUAL ABORTION 
  ACCESS BENEFIT SERIES\nControl Top\, Dark Thoughts\, Mopar Stars\, Nina 
@@ -106,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Jessica Lea Mayfield
 DTSTART:20250129T010000Z
 DTEND:20250129T030000Z
-DTSTAMP:20250124T010733Z
+DTSTAMP:20250125T010359Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nJESSICA LEA MAYFIELD\nJessica Lea Mayfield is a boundar
  y-pushing artist known for blending raw emotion with captivating soundscap
@@ -140,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Great Grandpa
 DTSTART:20250131T010000Z
 DTEND:20250131T030000Z
-DTSTAMP:20250124T010735Z
+DTSTAMP:20250125T010401Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nGREAT GRANDPA\nIn the fall of 2020\, Great Grandpa – 
  the close-knit group of Al Menne\, Dylan Hanwright\, Cam LaFlam\, and Pat 
@@ -171,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:The Bul Bey
 DTSTART:20250201T010000Z
 DTEND:20250201T030000Z
-DTSTAMP:20250124T010737Z
+DTSTAMP:20250125T010402Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n \n8PM DO
  ORS\n9PM SHOW\n \nTHE BUL BEY\nThe Bul Bey\, a Philly native turned globa
  l citizen\, crafts authentic tales of working-class life with a unique ble
@@ -194,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Baby’s First Rodeo
 DTSTART:20250202T010000Z
 DTEND:20250202T030000Z
-DTSTAMP:20250124T010738Z
+DTSTAMP:20250125T010403Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nBABY’S FIRST RODEO\nQUEER COUNTRY NIGHT!\nHosted by S
  am Rise & Brittany Ann Tranbaugh \nFEATURING – MY GAY BANJO & FIST CITY\
@@ -205,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Flatwaves & Silent Mass
 DTSTART:20250203T010000Z
 DTEND:20250203T030000Z
-DTSTAMP:20250124T010740Z
+DTSTAMP:20250125T010404Z
 DESCRIPTION:\n\n*All events are 21+ valid ID required for entry*\n \n7 PM
   – Doors\n8 PM – Show\n\n \nFLATWAVES \nFlatwaves is a Philadelphia-
  based four-piece garagegaze band on Abandon Everything Records\, playing a
@@ -231,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Dylan LeBlanc & David Ramirez
 DTSTART:20250206T010000Z
 DTEND:20250206T030000Z
-DTSTAMP:20250124T010742Z
+DTSTAMP:20250125T010406Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nDYLAN LEBLANC\nDylan LeBlanc is a singer-songwriter and
   multi-instrumentalist who often finds himself flirting with the edge — 
@@ -254,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Put It Down
 DTSTART:20250207T010000Z
 DTEND:20250207T030000Z
-DTSTAMP:20250124T010744Z
+DTSTAMP:20250125T010407Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7:30 PM 
  – Doors8:00 PM – Show\nPUT IT DOWN – a comedy showcase \nThis month\
  , Johnny Brenda’s brings you a disorienting multimedia collage of the ab
@@ -266,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:A Black Celebration – Goth Prom – Vampire Winter Formal!
 DTSTART:20250208T020000Z
 DTEND:20250208T040000Z
-DTSTAMP:20250124T010746Z
+DTSTAMP:20250125T010408Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n9PM Doors\
  n \nA BLACK CELEBRATION – Goth Prom – Vampire Winter Formal!\n\nA Bla
  ck Celebration – Philly’s Favorite Depeche Mode Party is happy to pres
@@ -297,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Matt Pond PA
 DTSTART:20250209T010000Z
 DTEND:20250209T030000Z
-DTSTAMP:20250124T010748Z
+DTSTAMP:20250125T010409Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nMATT POND PA\nMatt Pond’s very name evokes the natura
  l world in which his songs are so often set\, with their evocative lyrics 
@@ -343,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Tobin Sprout with Bevel Web (ex-GBV) & The Moles
 DTSTART:20250214T020000Z
 DTEND:20250214T040000Z
-DTSTAMP:20250124T010750Z
+DTSTAMP:20250125T010409Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTOBIN SPROUT WITH BEVEL WEB (EX-GUIDED BY VOICES)\nArti
  st\, illustrator\, writer and lo-fi innovator\, Tobin Sprout was the super
@@ -364,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:Mariposas Galacticas – Valentine’s Day Dance Party
 DTSTART:20250215T020000Z
 DTEND:20250215T040000Z
-DTSTAMP:20250124T010751Z
+DTSTAMP:20250125T010411Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nMARIPOSAS GALACTICAS\nMariposas Galácticas is an elect
  rifying eight-piece band based in Philadelphia\, blending the vibrant rhyt
@@ -384,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Nazir Ebo & Kingsley Ibeneche
 DTSTART:20250217T010000Z
 DTEND:20250217T030000Z
-DTSTAMP:20250124T010753Z
+DTSTAMP:20250125T010412Z
 DESCRIPTION:\n\n*All events are 21+ valid ID required for entry*\n7 PM –
   Doors8 PM – Show\nNAZIR EBO\nKINGSLEY IBENECHE\n\n
 LOCATION:Johnny Brenda’s
@@ -393,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Bay Faction
 DTSTART:20250220T010000Z
 DTEND:20250220T030000Z
-DTSTAMP:20250124T010755Z
+DTSTAMP:20250125T010413Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nBAY FACTION\nTHANKS FOR WAITING TOUR 2025\nBorne out of
   an online message board\, Bay Faction emerged in the Boston DIY scene in 
@@ -418,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Dreamcrusher
 DTSTART:20250221T010000Z
 DTEND:20250221T030000Z
-DTSTAMP:20250124T010757Z
+DTSTAMP:20250125T010414Z
 DESCRIPTION:\n\n\n*All events are 21+ valid ID required for entry*\n \n7 
  PM – Doors\n8 PM – Show\n \n\nDREAMCRUSHER\nDreamcrusher is a New Yor
  k City-based musician and artist\, who describes the project as ‘nihilis
@@ -463,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Ollie Wride
 DTSTART:20250222T020000Z
 DTEND:20250222T040000Z
-DTSTAMP:20250124T010759Z
+DTSTAMP:20250125T010416Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nOLLIE WRIDE\nBritish Singer/Songwriter Ollie Wride (FM-
  84) returns to the stage announcing his biggest tour yet in support of his
@@ -483,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Chioke
 DTSTART:20250223T020000Z
 DTEND:20250223T040000Z
-DTSTAMP:20250124T010801Z
+DTSTAMP:20250125T010417Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nCHIOKE\nChioke is one of music’s most magnetic new vo
  ices\, blending sultry\, cinematic vocals into a raw\, ethereal sound. Kno
@@ -519,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:KulfiGirls (Record Release)
 DTSTART:20250224T000000Z
 DTEND:20250224T020000Z
-DTSTAMP:20250124T010803Z
+DTSTAMP:20250125T010418Z
 DESCRIPTION:\n* All events are 21+ valid ID required for entry *\n \n7PM 
  Show\n8PM Doors\n \nKULFIGIRLS\nKulfiGirls are a Philly-based rock band f
  ronted by lead vocalist Abi Natesh who uses the South Indian Saraswati vee
@@ -555,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Humilitarian (Record Release)
 DTSTART:20250228T010000Z
 DTEND:20250228T030000Z
-DTSTAMP:20250124T010804Z
+DTSTAMP:20250125T010419Z
 DESCRIPTION:\n\n*All events are 21+ valid ID required for entry*\n7 PM –
   Doors8 PM – Show\nHUMILITARIAN\nGROCER\nELEPHANT JAKE\n\n
 LOCATION:Johnny Brenda’s
@@ -564,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:The Bevis Frond
 DTSTART:20250302T020000Z
 DTEND:20250302T040000Z
-DTSTAMP:20250124T010806Z
+DTSTAMP:20250125T010419Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE BEVIS FROND\nIf there is any artist who could be co
  nsidered as having followed a tangential path from Hendrix to Big Star to 
@@ -596,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:Adrian Younge
 DTSTART:20250303T010000Z
 DTEND:20250303T030000Z
-DTSTAMP:20250124T010808Z
+DTSTAMP:20250125T010420Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nADRIAN YOUNGE\nAdrian Younge is a self-taught multi-ins
  trumentalist\, composer\, and orchestrator who has produced for entertainm
@@ -607,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:West Philadelphia Orchestra – Mardi Gras Celebration
 DTSTART:20250305T010000Z
 DTEND:20250305T030000Z
-DTSTAMP:20250124T010809Z
+DTSTAMP:20250125T010422Z
 DESCRIPTION:\n\n*All events are 21+ valid ID required for entry*\n7 PM –
   Doors8 PM – Show\nWEST PHILLY ORCHESTRA\nTHE RED HOT RAMBLERS\n\n
 LOCATION:Johnny Brenda’s
@@ -616,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:Coroner
 DTSTART:20250306T010000Z
 DTEND:20250306T030000Z
-DTSTAMP:20250124T010810Z
+DTSTAMP:20250125T010423Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nVIP ticket includes meet & greet and photo/autograph se
  ssion before the show.\nCORONER\nPlayful\, yet full of raw power\; delicat
@@ -636,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:Andrew Belle
 DTSTART:20250307T020000Z
 DTEND:20250307T040000Z
-DTSTAMP:20250124T010812Z
+DTSTAMP:20250125T010424Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nANDREW BELLE\nBlack Bear LIVE (Acoustic) \nAndrew Bell
  e writes songs by feel. The composition first – lyrics and melody eventu
@@ -675,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Warmduscher
 DTSTART:20250309T020000Z
 DTEND:20250309T040000Z
-DTSTAMP:20250124T010813Z
+DTSTAMP:20250125T010425Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nWARMDUSCHER\nWhen most bands get round to releasing alb
  um number live their sound\, weighed down by expectation or having resorte
@@ -703,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:Moros
 DTSTART:20250310T000000Z
 DTEND:20250310T020000Z
-DTSTAMP:20250124T010815Z
+DTSTAMP:20250125T010427Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nMOROS\nhttps://moros-666.bandcamp.com/\nCOFFIN DUST\nht
  tps://coffindust.bandcamp.com/music\nCAGED\nhttps://cageddoom.bandcamp.com
@@ -714,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:Donovan Woods
 DTSTART:20250311T000000Z
 DTEND:20250311T020000Z
-DTSTAMP:20250124T010816Z
+DTSTAMP:20250125T010428Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nDONOVAN WOODS\nSince he released his first album a deca
  de ago\, singer-songwriter Donovan Woods’ blend of folk\, country and po
@@ -741,7 +720,7 @@ BEGIN:VEVENT
 SUMMARY:One Liner Madness
 DTSTART:20250315T010000Z
 DTEND:20250315T030000Z
-DTSTAMP:20250124T010817Z
+DTSTAMP:20250125T010429Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nONE LINER MADNESS\nONE LINER MADNESS is a Time Out Crit
  ics’ Pick show that travels the country to find the best joke writer in 
@@ -761,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Riki
 DTSTART:20250320T000000Z
 DTEND:20250320T020000Z
-DTSTAMP:20250124T010817Z
+DTSTAMP:20250125T010430Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\n \nRIKI\nRiki is the Los Angeles based dark synth-pop 
  outfit commandeered by the mysterious Niff Nawor\, a visual artist and mus
@@ -779,7 +758,7 @@ BEGIN:VEVENT
 SUMMARY:Your Neighbors
 DTSTART:20250321T010000Z
 DTEND:20250321T030000Z
-DTSTAMP:20250124T010819Z
+DTSTAMP:20250125T010431Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nYOUR NEIGHBORS\nYour Neighbors is headed by an insecure
  \, low rent\, drunken has-been with high expectations and a damning sense 
@@ -810,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Bar Dust – 3rd Annual Saint Patrick’s Day Celebration
 DTSTART:20250322T010000Z
 DTEND:20250322T030000Z
-DTSTAMP:20250124T010820Z
+DTSTAMP:20250125T010432Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\n3rd Annual Saint Patrick’s Day Celebration\nBAR DUST\
  n\n\n\nBar Dust is Philadelphia’s premier Pogues cover band\, featuring 
@@ -839,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:Esther Rose & Twain
 DTSTART:20250323T010000Z
 DTEND:20250323T030000Z
-DTSTAMP:20250124T010822Z
+DTSTAMP:20250125T010434Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nESTHER ROSE\nEverything clicks on Safe to Run\, the fou
  rth album from singer\, songwriter and perpetual searcher Esther Rose. It
@@ -882,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:Orions Belte
 DTSTART:20250324T000000Z
 DTEND:20250324T020000Z
-DTSTAMP:20250124T010823Z
+DTSTAMP:20250125T010435Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nORIONS BELTE\nThere are some places and moments that ti
  e people together forever\, whether it be a place\, a song or something yo
@@ -910,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:Shigeto Presents: Cherry Blossom Baby
 DTSTART:20250327T000000Z
 DTEND:20250327T020000Z
-DTSTAMP:20250124T010825Z
+DTSTAMP:20250125T010436Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nSHIGETO PRESENTS: CHERRY BLOSSOM BABY\n\nCherry Blossom
   Baby\, Shigeto’s first full-length statement since 2017\, sprouts out f
@@ -930,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:Castle Rat
 DTSTART:20250330T010000Z
 DTEND:20250330T030000Z
-DTSTAMP:20250124T010826Z
+DTSTAMP:20250125T010437Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nCASTLE RAT\nCastle Rat is a fantasy doom metal band hai
  ling from NYC led by The Rat Queen on guitar and vocals. On her mission to
@@ -946,7 +925,7 @@ BEGIN:VEVENT
 SUMMARY:Freak Slug
 DTSTART:20250331T000000Z
 DTEND:20250331T020000Z
-DTSTAMP:20250124T010827Z
+DTSTAMP:20250125T010438Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFREAK SLUG\nA visual artist and painter as well as an u
  nconventional\, self-taught songwriter and musician\, everything that fuel
@@ -977,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:Nanocluster (Immersion | SUSS)
 DTSTART:20250402T000000Z
 DTEND:20250402T020000Z
-DTSTAMP:20250124T010829Z
+DTSTAMP:20250125T010439Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nNANOCLUSTER (IMMERSION | SUSS)\nIn celebration of the r
  elease of Nanocluster Vol.3\, Immersion (Colin Newman & Malka Spigel) in c
@@ -990,7 +969,7 @@ BEGIN:VEVENT
 SUMMARY:Fust & Lindsay Reamer
 DTSTART:20250403T000000Z
 DTEND:20250403T020000Z
-DTSTAMP:20250124T010830Z
+DTSTAMP:20250125T010440Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFUST\nFust — the Durham\, North Carolina-based band 
  — announce their new album\, Big Ugly\, out March 7th via Dear Life Reco
@@ -1007,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:FACS
 DTSTART:20250409T000000Z
 DTEND:20250409T020000Z
-DTSTAMP:20250124T010831Z
+DTSTAMP:20250125T010441Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nFACS\nChicago trio FACS never stop pushing forward\; th
  ey’ve honed and refined their stark\, minimal scrape and clatter for fou
@@ -1052,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:Naked Giants
 DTSTART:20250411T010000Z
 DTEND:20250411T030000Z
-DTSTAMP:20250124T010833Z
+DTSTAMP:20250125T010443Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8PM – Do
  ors9PM – Show\n \nNAKED GIANTS\nWhen Naked Giants formed in 2014\, the 
  Seattle trio—vocalist/guitarist Grant Mullen\, bassist/vocalist Gianni A
@@ -1108,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:Pity Party (Girls Club)
 DTSTART:20250412T010000Z
 DTEND:20250412T030000Z
-DTSTAMP:20250124T010834Z
+DTSTAMP:20250125T010444Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nPITY PARTY (GIRLS CLUB)\n
 LOCATION:Johnny Brenda’s
@@ -1117,7 +1096,7 @@ BEGIN:VEVENT
 SUMMARY:Mercury Rev
 DTSTART:20250417T000000Z
 DTEND:20250417T020000Z
-DTSTAMP:20250124T010835Z
+DTSTAMP:20250125T010445Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nMERCURY REV\nSince forming in 1989 in Buffalo\, New Yor
  k\, Mercury Rev has made a career of boldly exploring the fringes of artis
@@ -1147,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:The Bright Light Social Hour
 DTSTART:20250418T010000Z
 DTEND:20250418T030000Z
-DTSTAMP:20250124T010836Z
+DTSTAMP:20250125T010446Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHE BRIGHT LIGHT SOCIAL HOUR\nAustin psych-rippers The 
  Bright Light Social Hour have made a triumphant return with their delectab
@@ -1176,7 +1155,7 @@ BEGIN:VEVENT
 SUMMARY:Korine
 DTSTART:20250419T010000Z
 DTEND:20250419T030000Z
-DTSTAMP:20250124T010838Z
+DTSTAMP:20250125T010448Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nKORINE\nKorine is a Philadelphia based ‘dark pop’ d
  uo consisting of members Morgy Ramone and Trey Frye. The pair blend new wa
@@ -1191,7 +1170,7 @@ BEGIN:VEVENT
 SUMMARY:Circuit des Yeux
 DTSTART:20250421T000000Z
 DTEND:20250421T020000Z
-DTSTAMP:20250124T010839Z
+DTSTAMP:20250125T010449Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nCIRCUIT DES YEUX\nHaley Fohr is a vocalist\, composer a
  nd singer-songwriter based in Chicago\, Illinois. Her musical endeavors fo
@@ -1224,7 +1203,7 @@ BEGIN:VEVENT
 SUMMARY:Sir Woman
 DTSTART:20250507T000000Z
 DTEND:20250507T020000Z
-DTSTAMP:20250124T010841Z
+DTSTAMP:20250125T010450Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nSIR WOMAN\nAlbum Release Tour 69\nTo say that Sir Woman
   has taken the crowded Austin music scene by storm this past year\, would 
@@ -1245,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:Matthew Logan Vasquez
 DTSTART:20250525T010000Z
 DTEND:20250525T030000Z
-DTSTAMP:20250124T010842Z
+DTSTAMP:20250125T010451Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nMATTHEW LOGAN VASQUEZ\nMatthew Logan Vasquez – Best-k
  nown as the co-founder and frontman for shape shifting heartland indie roc
@@ -1264,7 +1243,7 @@ BEGIN:VEVENT
 SUMMARY:Cornelia Murr
 DTSTART:20250609T000000Z
 DTEND:20250609T020000Z
-DTSTAMP:20250124T010844Z
+DTSTAMP:20250125T010452Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nCORNELIA MURR\nCornelia’s Murr’s newest album began
   with a question: What do I want? The answer is everything\, and it’s ne
@@ -1281,7 +1260,7 @@ BEGIN:VEVENT
 SUMMARY:This Will Destroy You
 DTSTART:20250622T010000Z
 DTEND:20250622T030000Z
-DTSTAMP:20250124T010845Z
+DTSTAMP:20250125T010453Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nTHIS WILL DESTROY YOU\nTHIS WILL DESTROY YOU has been o
  ne of the most influential instrumental rock bands since the early 2000’
@@ -1299,7 +1278,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Is Dead: Gyedu-Blay Ambolley
 DTSTART:20250630T000000Z
 DTEND:20250630T020000Z
-DTSTAMP:20250124T010846Z
+DTSTAMP:20250125T010455Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nArtDontSleep Presents \nJazz Is Dead: GYEDU-BLAY AMBOLL
  EYGyedu-Blay Ambolley is a musical luminary hailing from Ghana\, West Afri
@@ -1342,7 +1321,7 @@ BEGIN:VEVENT
 SUMMARY:Samantha Crain
 DTSTART:20250717T000000Z
 DTEND:20250717T020000Z
-DTSTAMP:20250124T010848Z
+DTSTAMP:20250125T010456Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nSAMANTHA CRAIN\nSamantha Crain is a Choctaw-American si
  nger\, songwriter\, film composer\, and producer from Oklahoma. A two-time
@@ -1362,7 +1341,7 @@ BEGIN:VEVENT
 SUMMARY:Little Wings
 DTSTART:20250724T000000Z
 DTEND:20250724T020000Z
-DTSTAMP:20250124T010849Z
+DTSTAMP:20250125T010457Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n7 PM – D
  oors8 PM – Show\nLITTLE WINGS\nKyle Field is a visual artist and the son
  gwriter behind the 25-years-running group Little Wings. Over the course of
@@ -1382,7 +1361,7 @@ BEGIN:VEVENT
 SUMMARY:Qual
 DTSTART:20250927T010000Z
 DTEND:20250927T030000Z
-DTSTAMP:20250124T010850Z
+DTSTAMP:20250125T010458Z
 DESCRIPTION:\n*All events are 21+ valid ID required for entry*\n8 PM – D
  oors9 PM – Show\nQUAL (UK – Lebanon Hanover)\nQUAL means trial\, torme
  nt\, and agony. This perfectly describes the darkness in the music of Will
