@@ -3,7 +3,7 @@
 1,Great Grandpa,01/30/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/great-grandpa/johnny-brendas/philadelphia-pennsylvania/
 2,The Bul Bey,01/31/25 at 8pm,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/the-bul-bey/johnny-brendas/philadelphia-pennsylvania/
 3,Baby’s First Rodeo,02/01/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/babys-first-rodeo-2/johnny-brendas/philadelphia-pennsylvania/
-4,Flatwaves & Silent Mass,02/02/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/flatwaves-silent-mass/johnny-brendas/philadelphia-pennsylvania/
+4,Flatwaves & Silent Mass,02/02/25 at 7:30 PM,7:30pm,Johnny Brenda’s,https://johnnybrendas.com/event/flatwaves-silent-mass/johnny-brendas/philadelphia-pennsylvania/
 5,Dylan LeBlanc & David Ramirez,02/05/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/dylan-leblanc-david-ramirez/johnny-brendas/philadelphia-pennsylvania/
 6,Put It Down,02/06/25 at 8:00 PM,7:30pm,Johnny Brenda’s,https://johnnybrendas.com/event/put-it-down-7/johnny-brendas/philadelphia-pennsylvania/
 7,A Black Celebration – Goth Prom – Vampire Winter Formal!,02/07/25 at 9pm,9pm,Johnny Brenda’s,https://johnnybrendas.com/event/a-black-celebration-goth-prom-vampire-winter-formal/johnny-brendas/philadelphia-pennsylvania/
@@ -39,15 +39,18 @@
 37,FACS,04/08/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/facs/johnny-brendas/philadelphia-pennsylvania/
 38,Naked Giants,04/10/25 at 9PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/naked-giants/johnny-brendas/philadelphia-pennsylvania/
 39,Pity Party (Girls Club),04/11/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/pity-party-girls-club/johnny-brendas/philadelphia-pennsylvania/
-40,Mercury Rev,04/16/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/mercury-rev/johnny-brendas/philadelphia-pennsylvania/
-41,The Bright Light Social Hour,04/17/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/the-bright-light-social-hour/johnny-brendas/philadelphia-pennsylvania/
-42,Korine,04/18/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/korine-2/johnny-brendas/philadelphia-pennsylvania/
-43,Circuit des Yeux,04/20/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/circuit-des-yeux/johnny-brendas/philadelphia-pennsylvania/
-44,Sir Woman,05/06/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/sir-woman/johnny-brendas/philadelphia-pennsylvania/
-45,Matthew Logan Vasquez,05/24/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/matthew-logan-vasquez-3/johnny-brendas/philadelphia-pennsylvania/
-46,Cornelia Murr,06/08/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/cornelia-murr/johnny-brendas/philadelphia-pennsylvania/
-47,This Will Destroy You,06/21/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/this-will-destroy-you/johnny-brendas/philadelphia-pennsylvania/
-48,Jazz Is Dead: Gyedu-Blay Ambolley,06/29/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/jazz-is-dead-gyedu-blay-ambolley/johnny-brendas/philadelphia-pennsylvania/
-49,Samantha Crain,07/16/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/samantha-crain/johnny-brendas/philadelphia-pennsylvania/
-50,Little Wings,07/23/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/little-wings/johnny-brendas/philadelphia-pennsylvania/
-51,Qual,09/26/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/qual/johnny-brendas/philadelphia-pennsylvania/
+40,BabyJake,04/14/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/babyjake-2/johnny-brendas/philadelphia-pennsylvania/
+41,Mercury Rev,04/16/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/mercury-rev/johnny-brendas/philadelphia-pennsylvania/
+42,The Bright Light Social Hour,04/17/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/the-bright-light-social-hour/johnny-brendas/philadelphia-pennsylvania/
+43,Korine,04/18/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/korine-2/johnny-brendas/philadelphia-pennsylvania/
+44,Circuit des Yeux,04/20/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/circuit-des-yeux/johnny-brendas/philadelphia-pennsylvania/
+45,Sir Woman,05/06/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/sir-woman/johnny-brendas/philadelphia-pennsylvania/
+46,Sunday (1994): The Debut Tour,05/09/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/sunday-1994-the-debut-tour/johnny-brendas/philadelphia-pennsylvania/
+47,Sunflower Bean,05/16/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/sunflower-bean/johnny-brendas/philadelphia-pennsylvania/
+48,Matthew Logan Vasquez,05/24/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/matthew-logan-vasquez-3/johnny-brendas/philadelphia-pennsylvania/
+49,Cornelia Murr,06/08/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/cornelia-murr/johnny-brendas/philadelphia-pennsylvania/
+50,This Will Destroy You,06/21/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/this-will-destroy-you/johnny-brendas/philadelphia-pennsylvania/
+51,Jazz Is Dead: Gyedu-Blay Ambolley,06/29/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/jazz-is-dead-gyedu-blay-ambolley/johnny-brendas/philadelphia-pennsylvania/
+52,Samantha Crain,07/16/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/samantha-crain/johnny-brendas/philadelphia-pennsylvania/
+53,Little Wings,07/23/25 at 8 PM,7pm,Johnny Brenda’s,https://johnnybrendas.com/event/little-wings/johnny-brendas/philadelphia-pennsylvania/
+54,Qual,09/26/25 at 9 PM,8pm,Johnny Brenda’s,https://johnnybrendas.com/event/qual/johnny-brendas/philadelphia-pennsylvania/
