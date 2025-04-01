@@ -3,4 +3,4 @@ icalendar==5.0.12
 pandas==2.2.1
 python_dateutil==2.9.0.post0
 pytz==2024.1
-Requests==2.31.0
+Requests==2.32.2
